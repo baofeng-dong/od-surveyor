@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.meyersj.mobilesurveyor.app">
-
-
+    
     <uses-permission android:name="android.permission.INTERNET"/>
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
@@ -23,7 +22,7 @@
             android:windowSoftInputMode="stateHidden|adjustResize"
             android:screenOrientation="portrait">
             <intent-filter >
-                <!--action android:name="android.intent.action.MAIN" /-->
+                <action android:name="android.intent.action.MAIN" />
                 <action android:name="com.meyersj.mobilesurveyor.app.LOGIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
@@ -84,8 +83,8 @@
             android:screenOrientation="portrait">
 
             <intent-filter >
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
+                <!--action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" /-->
                 <action android:name="com.meyersj.mobilesurveyor.app.SURVEY" />
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
