@@ -25,6 +25,7 @@ dependencies {
     compile 'me.dm7.barcodescanner:zxing:1.0'
 	compile 'com.googlecode.json-simple:json-simple:1.1'
     compile 'joda-time:joda-time:2.3'
+    compile 'net.sf.opencsv:opencsv:2.3'
 
     compile ('com.mapbox.mapboxsdk:mapbox-android-sdk:0.4.0@aar'){
         transitive=true
