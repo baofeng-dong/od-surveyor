@@ -166,12 +166,18 @@ public class Utils {
         return sharedPref.getString(Cons.MAP_RTES, routesStr).split(",");
     }
 
-
     public static void closeKeypad(Activity activity) {
         InputMethodManager inputManager = (InputMethodManager)
                 activity.getSystemService(Context.INPUT_METHOD_SERVICE);
         inputManager.hideSoftInputFromWindow(activity.getCurrentFocus().getWindowToken(),
                 InputMethodManager.HIDE_NOT_ALWAYS);
+    }
+
+    public static boolean hasSingleDirection(String inRoute) {
+        for(String route: Cons.SINGLE_DIRECTION) {
+            if (route.equals(inRoute)) return true;
+        }
+        return false;
     }
 
     public static Paint defaultRoutePaint(Context context) {

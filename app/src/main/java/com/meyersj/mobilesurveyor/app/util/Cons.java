@@ -48,7 +48,7 @@ public class Cons {
     public static final String MAP_RTES = "map_rtes";
     public static final String ODK_LAT = "lat";
     public static final String ODK_LNG = "lng";
-
+    public static final String ROUTE_DIRECTIONS_CSV = "route_directions.csv";
 
     // keys for survey valyes for ODK
     public static final String PURPOSE_ODK = "purpose";
@@ -64,7 +64,7 @@ public class Cons {
     public static final String BOARD_ID_ODK = "board_id";
     public static final String ALIGHT_ID_ODK = "alight_id";
     public static final String TRANSFER_ODK = "transfer";
-
+    public static final String[] SINGLE_DIRECTION = {"194", "195", "291"};
     public static final int MAX_TRANSFERS = 5;
     public static final Double PADDING = 0.01;
 }

@@ -19,13 +19,10 @@ import android.widget.Switch;
 
 import com.meyersj.mobilesurveyor.app.R;
 import com.meyersj.mobilesurveyor.app.util.Cons;
+import com.meyersj.mobilesurveyor.app.util.DataLoader;
 import com.meyersj.mobilesurveyor.app.util.Utils;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 
@@ -38,28 +35,30 @@ public class SetLineActivity extends Activity {
 
     private Context context;
     private Spinner line, dir;
-    private String line_code;
-    private String dir_code;
-    private String user_id;
+    private String routeID;
+    private String dirID;
+    private String userID;
     private Boolean offMode = false;
-    private String url;
     private Button record;
     private Button logout;
     private Switch modeSwitch;
-
-    private Map<String, String> map = new HashMap<String, String>();
+    private Map<String, String> routeLookup;
+    private Map<String, String[]> dirLookup;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        context = getApplicationContext();
-        readIDs();
-
         super.onCreate(savedInstanceState);
+        context = getApplicationContext();
         setContentView(R.layout.activity_set_line);
 
+        routeLookup = DataLoader.getRoutesLookup(this);
+        dirLookup = DataLoader.getDirLookup(this);
+        List<String> routes = DataLoader.getRoutes(getApplicationContext());
         line = (Spinner)findViewById(R.id.line_spinner);
         dir = (Spinner)findViewById(R.id.dir_spinner);
-        line.setAdapter(ArrayAdapter.createFromResource(this, R.array.lines, R.layout.spinner));
+
+        ArrayAdapter<String> routeAdapter = new ArrayAdapter<String>(this, R.layout.spinner, routes);
+        line.setAdapter(routeAdapter);
         record = (Button) findViewById(R.id.record);
         logout = (Button) findViewById(R.id.logout);
         modeSwitch = (Switch) findViewById(R.id.offSwitch);
@@ -71,30 +70,30 @@ public class SetLineActivity extends Activity {
             @Override
             public void onItemSelected(AdapterView<?> parent,
                                        View view, int pos, long id) {
-                String selected_line = line.getItemAtPosition(pos).toString();
-                Log.d(TAG, selected_line);
-                String modified_line = stripSelection(selected_line);
-                line_code = map.get(modified_line);
 
-                Boolean ifTrain = false;
-                for (String train: Utils.getMapRoutes(context)) {
-                    if (train.equals(line_code)) {
-                        Log.d(TAG, "we have a train, launch map instead of scanner");
-                        ifTrain = true;
+
+                String selectedRouteString = line.getItemAtPosition(pos).toString();
+                Log.d(TAG, selectedRouteString);
+                routeID = routeLookup.get(selectedRouteString);
+                Log.d(TAG, routeID);
+                Boolean isMapRoute = false;
+
+                for (String route: Utils.getMapRoutes(context)) {
+                    if (route.equals(routeID)) {
+                        isMapRoute = true;
                     }
                 }
 
-                if (ifTrain) {
+                if (isMapRoute) {
                     modeSwitch.setVisibility(View.INVISIBLE);
                 }
                 else {
                     modeSwitch.setVisibility(View.VISIBLE);
                 }
 
-                Log.d(TAG, "line_code: " + line_code);
-                int resId = SetLineActivity.this.getResources().getIdentifier(modified_line, "array", SetLineActivity.this.getPackageName());
-                dir.setAdapter(ArrayAdapter.createFromResource(SetLineActivity.this, resId, R.layout.spinner));
-
+                String[] directions = dirLookup.get(routeID);
+                ArrayAdapter<String> dirAdapter = new ArrayAdapter<String>(context, R.layout.spinner, directions);
+                dir.setAdapter(dirAdapter);
             }
 
             @Override
@@ -108,12 +107,11 @@ public class SetLineActivity extends Activity {
             @Override
             public void onItemSelected(AdapterView<?> parent,
                                        View view, int pos, long id) {
-                String selected_dir = dir.getItemAtPosition(pos).toString();
-
-                Log.d(TAG, selected_dir);
-                String modified_dir = stripSelection(selected_dir);
-                dir_code = map.get(modified_dir + line_code);
-                Log.d(TAG, "dir_code: " + dir_code);
+                dirID = String.valueOf(pos);
+                String selectedDirString = dir.getItemAtPosition(pos).toString();
+                //dirID = dirLookup.get(routeID)[pos];
+                Log.d(TAG, selectedDirString);
+                Log.d(TAG, "dirID: " + dirID);
             }
 
             @Override
@@ -129,9 +127,9 @@ public class SetLineActivity extends Activity {
             public void onClick(View v) {
                 Intent intent;
 
-                Log.d(TAG, "line_code for intent:" + line_code + ":end");
+                Log.d(TAG, "routeID for intent:" + routeID + ":end");
 
-                if (ifTrain(line_code)) {
+                if (ifMapRoute(routeID)) {
                     intent = new Intent(ONOFFMAP);
                     Log.d(TAG, "start map for selection");
                 }
@@ -140,11 +138,11 @@ public class SetLineActivity extends Activity {
                     Log.d(TAG, "start barcode scanner");
                 }
 
-                intent.putExtra(Cons.USER_ID, user_id);
+                intent.putExtra(Cons.USER_ID, userID);
                 intent.putExtra(Cons.OFF_MODE, offMode);
-                Log.d(TAG, "user: " + user_id);
-                intent.putExtra(Cons.LINE, line_code);
-                intent.putExtra(Cons.DIR, dir_code);
+                Log.d(TAG, "user: " + userID);
+                intent.putExtra(Cons.LINE, routeID);
+                intent.putExtra(Cons.DIR, dirID);
                 startActivity(intent);
             }
         });
@@ -191,16 +189,16 @@ public class SetLineActivity extends Activity {
     }
 
 
-    protected Boolean ifTrain(String line) {
-        Boolean ifTrain = false;
+    protected Boolean ifMapRoute(String route) {
+        Boolean ifMapRoute = false;
 
         for(String x : Utils.getMapRoutes(context)){
-            if(x.equals(line)) {
-                ifTrain = true;
+            if(x.equals(route)) {
+                ifMapRoute = true;
                 break;
             }
         }
-        return ifTrain;
+        return ifMapRoute;
     }
 
     @Override
@@ -223,8 +221,7 @@ public class SetLineActivity extends Activity {
     }
 
     @Override
-    public boolean onKeyDown(int keyCode, KeyEvent event)
-    {
+    public boolean onKeyDown(int keyCode, KeyEvent event) {
         if ((keyCode == KeyEvent.KEYCODE_BACK))
         {
             logout.performClick();
@@ -234,43 +231,14 @@ public class SetLineActivity extends Activity {
         return super.onKeyDown(keyCode, event);
     }
 
-    protected String stripSelection(String in) {
-        String newSelec = in.replaceAll("[^A-Za-z]", "");
-        return newSelec;
-    }
-
-
     protected void getExtras() {
         Bundle extras = getIntent().getExtras();
 
         if (extras != null) {
             if(extras.containsKey(Cons.USER_ID)) {
-                user_id = extras.getString(Cons.USER_ID);
+                userID = extras.getString(Cons.USER_ID);
                 Log.d(TAG, extras.getString(Cons.USER_ID));
             }
         }
     }
-
-    //read Line IDs and route description from text file
-    //used to build spinner for selecting route and direction
-    protected void readIDs() {
-        InputStream fileStream = getResources().openRawResource(R.raw.line_ids);
-
-        try {
-            //readIDs();
-            BufferedReader reader = new BufferedReader(new InputStreamReader(fileStream));
-            String line;
-            while ((line = reader.readLine()) != null) {
-                String[] parts = line.split(" ");
-                //Log.d(TAG, line);
-                if(parts.length == 2) {
-                    map.put(parts[0], parts[1]);
-                }
-            }
-        } catch (IOException e) {
-            Log.d(TAG, "error opening lines_id.txt");
-            e.printStackTrace();
-        }
-    }
-
 }
