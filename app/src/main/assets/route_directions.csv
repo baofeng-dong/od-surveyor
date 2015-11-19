@@ -1,0 +1,177 @@
+rte,rte_desc,dir,dir_desc
+90,MAX Red Line,0,To Portland International Airport
+90,MAX Red Line,1,To Beaverton Transit Center
+100,MAX Blue Line,0,To Gresham
+100,MAX Blue Line,1,To Hillsboro
+190,MAX Yellow Line,0,To Expo Center
+190,MAX Yellow Line,1,To Portland City Center
+200,MAX Green Line,0,To Clackamas Town Center
+200,MAX Green Line,1,To Portland City Center/PSU
+290,MAX Orange Line,0,To Portland City Center
+290,MAX Orange Line,1,To Milwaukie
+193,NS - Portland Streetcar,0,To NW 23rd and Marshall
+193,NS - Portland Streetcar,1,To South Waterfront
+194,A Loop - Portland Streetcar,0,Clockwise
+195,B Loop - Portland Streetcar,0,Counter-clockwise
+1,1 - Vermont,0,To Vermont & Shattuck and Maplewood
+1,1 - Vermont,1,To Portland City Center
+4,4 - Division/Fessenden,0,To Gresham Transit Center
+4,4 - Division/Fessenden,1,To St Johns
+6,6 - Martin Luther King Jr Blvd,0,To Jantzen Beach
+6,6 - Martin Luther King Jr Blvd,1,To Portland City Center
+8,8 - Jackson Park/NE 15th,0,To Marquam Hill
+8,8 - Jackson Park/NE 15th,1,To Dekum & M L King Jr Blvd
+9,9 - Powell Blvd,0,To Powell & 98th or Gresham Transit Center
+9,9 - Powell Blvd,1,To Portland
+10,10 - Harold St,0,To Foster & 94th
+10,10 - Harold St,1,To Portland City Center
+11,11 - Rivergate/Marine Dr,0,To Vancouver Way & Middlefield
+11,11 - Rivergate/Marine Dr,1,To St Johns
+12,12 - Barbur/Sandy Blvd,0,To Tigard Transit Center
+12,12 - Barbur/Sandy Blvd,1,To Parkrose/Sumner Transit Center
+14,14 - Hawthorne,0,To Foster & 94th
+14,14 - Hawthorne,1,To Portland City Center
+15,15 - Belmont/NW 23rd,0,"To City Ctr, Montgomery Pk, Thurman or Yeon & 44th"
+15,15 - Belmont/NW 23rd,1,To Gateway Transit Center
+16,16 - Front Ave/St Helens Rd,0,To St Johns and Sauvie Island
+16,16 - Front Ave/St Helens Rd,1,To Portland
+17,17 - Holgate/Broadway,0,To Holgate & 134th
+17,17 - Holgate/Broadway,1,To Saratoga & 27th
+18,18 - Hillside,0,To Hillside and Providence Park
+19,19 - Woodstock/Glisan,0,To Mt. Scott & 112th
+19,19 - Woodstock/Glisan,1,To Gateway Transit Center
+20,20 - Burnside/Stark,0,To 23rd & Burnside or Beaverton Transit Center
+20,20 - Burnside/Stark,1,To Gresham Transit Center
+21,21 - Sandy Blvd/223rd,0,To Parkrose/Sumner Transit Center
+21,21 - Sandy Blvd/223rd,1,To Gresham Transit Center
+22,22 - Parkrose,0,To Parkrose
+22,22 - Parkrose,1,To Gateway Transit Center
+23,23 - San Rafael,0,To Sandy & 148th
+23,23 - San Rafael,1,To Gateway Transit Center
+24,24 - Fremont,0,To Emanuel Hospital
+24,24 - Fremont,1,To Gateway Transit Center
+25,25 - Glisan/Rockwood,0,To Gateway Transit Center
+25,25 - Glisan/Rockwood,1,To Rockwood
+29,29 - Lake/Webster Rd,0,To Clackamas Town Center
+29,29 - Lake/Webster Rd,1,To Milwaukie
+30,30 - Estacada,0,To Estacada
+30,30 - Estacada,1,To Clackamas Town Center
+32,32 - Oatfield,0,To Clackamas CC
+32,32 - Oatfield,1,To Oregon City Transit Center or Milwaukie
+33,33 - McLoughlin/King Rd,0,To Oregon City TC and Clackamas Community College
+33,33 - McLoughlin/King Rd,1,To Milwaukie or Clackamas Town Center
+34,34 - Linwood/River Rd,0,To Oregon City Transit Center
+34,34 - Linwood/River Rd,1,To Clackamas Town Center
+35,35 - Macadam/Greeley,0,To Oregon City Transit Center
+35,35 - Macadam/Greeley,1,To University of Portland
+36,36 - South Shore,0,To Tualatin Park & Ride
+36,36 - South Shore,1,To Lake Oswego Transit Center or Portland
+37,37 - Lake Grove,0,To Tualatin Park & Ride
+37,37 - Lake Grove,1,To Lake Oswego Transit Center
+38,38 - Boones Ferry Rd,0,To Tualatin Park & Ride
+38,38 - Boones Ferry Rd,1,To Portland City Center
+39,39 - Lewis & Clark,0,To  Lewis & Clark College
+39,39 - Lewis & Clark,1,To Hillsdale
+43,43 - Taylors Ferry Rd,0,To  Washington Square Transit Center
+43,43 - Taylors Ferry Rd,1,To Portland
+44,44 - Capitol Hwy/Mocks Crest,0,To PCC Sylvania
+44,44 - Capitol Hwy/Mocks Crest,1,To St Johns
+45,45 - Garden Home,0,To Tigard Transit Center
+45,45 - Garden Home,1,To Portland City Center
+46,46 - North Hillsboro,0,To Hillsboro Main Library
+46,46 - North Hillsboro,1,To Hillsboro Transit Center
+47,47 - Baseline/Evergreen,0,To Hillsboro Transit Center
+47,47 - Baseline/Evergreen,1,To PCC Rock Creek
+48,48 - Cornell,0,To Hillsboro Transit Center
+48,48 - Cornell,1,To Sunset Transit Center
+50,50 - Cedar Mill,0,Evening Loop
+50,50 - Cedar Mill,1,Morning Loop
+51,51 - Vista,0,To Council Crest or Dosch & Hamilton
+51,51 - Vista,1,To Portland City Center
+52,52 - Farmington/185th,0,To PCC Rock Creek
+52,52 - Farmington/185th,1,To Beaverton Transit Center
+53,53 - Arctic/Allen,0,Evening Loop
+53,53 - Arctic/Allen,1,Morning Loop
+54,54 - Beaverton-Hillsdale Hwy,0,To Beaverton Transit Center
+54,54 - Beaverton-Hillsdale Hwy,1,To Portland City Center
+55,55 - Hamilton,0,To Raleigh Hills
+55,55 - Hamilton,1,To Portland City Center
+56,56 - Scholls Ferry Rd,0,To Washington Square Transit Center
+56,56 - Scholls Ferry Rd,1,To Portland City Center
+57,57 - TV Hwy/Forest Grove,0,To Forest Grove
+57,57 - TV Hwy/Forest Grove,1,To Beaverton Transit Center
+58,58 - Canyon Rd,0,To Beaverton Transit Center
+58,58 - Canyon Rd,1,To Portland City Center
+59,59 - Walker/Park Way,0,To Willow Creek/SW 185th Ave Transit Center
+59,59 - Walker/Park Way,1,To Sunset Transit Center
+61,61 - Marquam Hill/Beaverton,0,To Beaverton Transit Center
+61,61 - Marquam Hill/Beaverton,1,To Marquam Hill
+62,62 - Murray Blvd,0,To Washington Square Transit Center
+62,62 - Murray Blvd,1,To Sunset Transit Center
+63,63 - Washington Park/Arlington Hts,0,To Washington Park
+63,63 - Washington Park/Arlington Hts,1,To Providence Park
+64,64 - Marquam Hill/Tigard,0,To Tigard Transit Center
+64,64 - Marquam Hill/Tigard,1,To Marquam Hill
+65,65 - Marquam Hill/Barbur Blvd,0,To Taylors Ferry & Terwilliger
+65,65 - Marquam Hill/Barbur Blvd,1,To Marquam Hill
+66,66 - Marquam Hill/Hollywood,0,To Hollywood Transit Center
+66,66 - Marquam Hill/Hollywood,1,To Marquam Hill
+67,67 - Bethany/158th,0,To PCC Rock Creek
+67,67 - Bethany/158th,1,To Merlo Rd/158th Ave
+68,68 - Marquam Hill/Collins Circle,0,To Collins Circle at 18th & Jefferson
+68,68 - Marquam Hill/Collins Circle,1,To PSU & Marquam Hill
+70,70 - 12th/NE 33rd Ave,0,To 33rd & Sunderland
+70,70 - 12th/NE 33rd Ave,1,To Milwaukie
+71,71 - 60th Ave/122nd Ave,0,To Clackamas Town Center
+71,71 - 60th Ave/122nd Ave,1,To Foster & 94th
+72,72 - Killingsworth/82nd Ave,0,To Swan Island
+72,72 - Killingsworth/82nd Ave,1,To Clackamas Town Center
+75,75 - Cesar Chavez/Lombard,0,To St. Johns
+75,75 - Cesar Chavez/Lombard,1,To Milwaukie
+76,76 - Beaverton/Tualatin,0,To Tualatin
+76,76 - Beaverton/Tualatin,1,To Beaverton Transit Center
+77,77 - Broadway/Halsey,0,To Troutdale
+77,77 - Broadway/Halsey,1,To Montgomery Park
+78,78 - Beaverton/Lake Oswego,0,To Lake Oswego Transit Center
+78,78 - Beaverton/Lake Oswego,1,To Beaverton Transit Center
+79,79 - Clackamas/Oregon City,0,To Oregon City TC
+79,79 - Clackamas/Oregon City,1,To Clackamas Town Center
+80,80 - Kane/Troutdale Rd,0,To Troutdale
+80,80 - Kane/Troutdale Rd,1,To Gresham Transit Center
+81,81 - Kane/257th,0,To Troutdale
+81,81 - Kane/257th,1,To Gresham Transit Center
+83,83 - Washington Park Loop,0,To Providence Park
+83,83 - Washington Park Loop,1,To Washington Park/Oregon Zoo
+84,84 - Powell Valley/Orient Dr,0,Evening Loop
+84,84 - Powell Valley/Orient Dr,1,Morning Loop
+85,85 - Swan Island,0,To Swan Island
+85,85 - Swan Island,1,To Rose Quarter Transit Center
+87,87 - Airport Way/181st,0,To Gresham Transit Center
+87,87 - Airport Way/181st,1,To Gateway Transit Center
+88,88 - Hart/198th,0,To Willow Creek/SW 185th Ave Transit Center
+88,88 - Hart/198th,1,To Beaverton Transit Center
+92,92 - South Beaverton Express,0,To Murrayhill
+92,92 - South Beaverton Express,1,To Portland City Center
+93,93 - Tigard/Sherwood,0,To Sherwood
+93,93 - Tigard/Sherwood,1,To Tigard Transit Center
+94,94 - Pacific Hwy/Sherwood,0,To Sherwood
+94,94 - Pacific Hwy/Sherwood,1,To Tigard and Portland
+96,96 - Tualatin/I-5,0,To Commerce Circle
+96,96 - Tualatin/I-5,1,To Portland City Center
+99,99 - Macadam/McLoughlin,0,To Clackamas Community College via Sellwood
+99,99 - Macadam/McLoughlin,1,To Portland City Center via Sellwood
+152,152 - Milwaukie,0,To Clackamas Town Center
+152,152 - Milwaukie,1,To Milwaukie
+154,154 - Willamette/Clackamas Heights,0,To Willamette
+154,154 - Willamette/Clackamas Heights,1,To Clackamas Heights
+155,155 - Sunnyside,0,To 157th
+155,155 - Sunnyside,1,To Clackamas Town Center
+156,156 - Mather Rd,0,To 147th & Oregon Trail
+156,156 - Mather Rd,1,To Clackamas Town Center
+179,179 - Webster/Oatfield,0,To Oatfield & 82nd Dr
+179,179 - Webster/Oatfield,1,To 82nd Dr & Hwy 212/224
+203,WES Commuter Rail,0,To Wilsonville
+203,WES Commuter Rail,1,To Beaverton
+208,Portland Aerial Tram,0,To South Waterfront
+208,Portland Aerial Tram,1,To Marquam Hill
+291,Orange Night Bus,0,To Milwaukie
