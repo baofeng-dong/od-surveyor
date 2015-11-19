@@ -8,6 +8,7 @@ import com.mapbox.mapboxsdk.overlay.ItemizedIconOverlay;
 import com.mapbox.mapboxsdk.overlay.Marker;
 import com.meyersj.mobilesurveyor.app.R;
 import com.meyersj.mobilesurveyor.app.util.Cons;
+import com.meyersj.mobilesurveyor.app.util.Utils;
 
 
 public class SelectedStops {
@@ -151,7 +152,9 @@ public class SelectedStops {
         }
     }
 
-    public boolean validateStopSequence() {
+    public boolean validateStopSequence(String route, boolean reversed) {
+        if (reversed) return true;
+        if (Utils.hasSingleDirection(route)) return true;
         Stop onStop = (Stop) board;
         Stop offStop = (Stop) alight;
         if ( onStop.compareSeq(offStop) < 0) {
@@ -169,5 +172,4 @@ public class SelectedStops {
     public Marker getAlight() {
         return alight;
     }
-
 }

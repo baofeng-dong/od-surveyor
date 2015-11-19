@@ -294,8 +294,7 @@ public class OnOffMapActivity extends ActionBarActivity {
 
                 if (listView == onSeqListView) {
                     selectedStops.saveSequenceMarker(Cons.BOARD, stop);
-                }
-                else {
+                } else {
                     selectedStops.saveSequenceMarker(Cons.ALIGHT, stop);
                 }
             }
@@ -362,7 +361,8 @@ public class OnOffMapActivity extends ActionBarActivity {
             }
 
             @Override
-            public void onNothingSelected(AdapterView<?> adapterView) {}
+            public void onNothingSelected(AdapterView<?> adapterView) {
+            }
 
         });
 
@@ -424,7 +424,7 @@ public class OnOffMapActivity extends ActionBarActivity {
             public void onClick(View view) {
                 if (selectedStops.validateSelection()) {
                     //verify correct locations
-                    if (selectedStops.validateStopSequence() || (isOnReversed || isOffReversed) ) {
+                    if (selectedStops.validateStopSequence(line, isOnReversed || isOffReversed)) {
                         verifyAndSubmitLocationsPOST(submitCount);
                     }
                     else {
@@ -448,8 +448,7 @@ public class OnOffMapActivity extends ActionBarActivity {
                     //verifyAndSubmitLocationsODK();
                     String onStop = selectedStops.getBoard().getDescription();
                     String offStop = selectedStops.getAlight().getDescription();
-
-                    if (selectedStops.validateStopSequence() || (isOnReversed || isOffReversed) ) {
+                    if (selectedStops.validateStopSequence(line, isOnReversed || isOffReversed)) {
                         exitWithStopIDs(onStop, offStop);
                     }
                     else {
