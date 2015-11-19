@@ -1,91 +1,1920 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 400, "stop_id": 5239, "stop_name": "SW Sheridan & 4th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681380121626461, 45.505047060633487 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 450, "stop_id": 142, "stop_name": "SW Arthur & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.678996716807504, 45.50363023050339 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4100, "stop_id": 3715, "stop_name": "N Main & NE 2nd", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.430911260291793, 45.498861045491836 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2250, "stop_id": 4504, "stop_name": "10800 Block SE Powell", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.551291199081959, 45.496238914749171 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3650, "stop_id": 4507, "stop_name": "2900 Block W Powell", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.462638374001585, 45.493676608436822 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 650, "stop_id": 4537, "stop_name": "SE Powell & Milwaukie", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.654469262008817, 45.501090418507196 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2100, "stop_id": 4542, "stop_name": "SE Powell & Powell Garage Dr", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.562907337622462, 45.496656599738756 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3850, "stop_id": 4552, "stop_name": "W Powell & SW Towle", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.446549032122107, 45.496991289159297 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4050, "stop_id": 4557, "stop_name": "W Powell & SW Walters", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.433950229063385, 45.497182209283316 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2150, "stop_id": 4562, "stop_name": "SE Powell & 102nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.557972347908787, 45.495719563771651 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2200, "stop_id": 4564, "stop_name": "SE Powell & 104th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.554959871856667, 45.495952536384564 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2300, "stop_id": 4567, "stop_name": "SE Powell & 112th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.547254515354325, 45.496518764276253 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2350, "stop_id": 4568, "stop_name": "SE Powell & 116th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.5437633129863, 45.496803339349832 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2450, "stop_id": 4573, "stop_name": "SE Powell & 122nd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.537012242431445, 45.497007795521185 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2550, "stop_id": 4580, "stop_name": "SE Powell & 130th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.530101591898429, 45.497307134273086 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2600, "stop_id": 4582, "stop_name": "SE Powell & 132nd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.527405426853008, 45.497418939726117 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2650, "stop_id": 4584, "stop_name": "SE Powell & 134th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.525348990426906, 45.497488663579823 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2750, "stop_id": 4588, "stop_name": "SE Powell & 138th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.520838923892526, 45.498233575314899 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2850, "stop_id": 4593, "stop_name": "SE Powell & 143rd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.516970880847936, 45.498927951770249 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2900, "stop_id": 4596, "stop_name": "SE Powell & 145th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.513231474797365, 45.498669154979858 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3000, "stop_id": 4599, "stop_name": "SE Powell & 151st", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.50668583161297, 45.49694646083578 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3050, "stop_id": 4600, "stop_name": "SE Powell & 154th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.504669086530697, 45.496426370222025 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3100, "stop_id": 4602, "stop_name": "SE Powell & 157th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.502468671792329, 45.49589971087881 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3150, "stop_id": 4606, "stop_name": "SE Powell & 160th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.498635343280299, 45.49510833508252 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3200, "stop_id": 4608, "stop_name": "SE Powell & 164th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.495147481892971, 45.494401089017387 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3300, "stop_id": 4612, "stop_name": "SE Powell & 168th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.48953417981123, 45.493229073838307 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3400, "stop_id": 4615, "stop_name": "SE Powell & 174th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.483873668580898, 45.492084759556818 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3600, "stop_id": 4620, "stop_name": "W Powell & Powell Loop", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.467099439548264, 45.490957452135639 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 800, "stop_id": 4627, "stop_name": "SE Powell & 26th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.63977952183798, 45.497846582905211 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 900, "stop_id": 4641, "stop_name": "SE Powell & 31st", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.633577634055513, 45.496884437999036 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 950, "stop_id": 4644, "stop_name": "SE Powell & 33rd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.631638721347016, 45.496707460335031 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1000, "stop_id": 4647, "stop_name": "SE Powell & 34th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.628953484513133, 45.496759950549432 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1100, "stop_id": 4651, "stop_name": "SE Powell & Cesar Chavez Blvd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.622217067065364, 45.497228733998092 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1150, "stop_id": 4656, "stop_name": "SE Powell & 42nd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.619022562440847, 45.497457031053926 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1200, "stop_id": 4662, "stop_name": "SE Powell & 47th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.613978495974834, 45.497445579850414 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1250, "stop_id": 4666, "stop_name": "SE Powell & 50th\/Foster", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.610640108368074, 45.497383871920633 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1400, "stop_id": 4675, "stop_name": "SE Powell & 60th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.601550740075254, 45.497359065047227 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1500, "stop_id": 4679, "stop_name": "SE Powell & 65th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.59622884199969, 45.497351553128709 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1550, "stop_id": 4680, "stop_name": "SE Powell & 67th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.594358876198214, 45.497334018166462 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1600, "stop_id": 4682, "stop_name": "SE Powell & 69th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.591895824583503, 45.497333503934868 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1650, "stop_id": 4686, "stop_name": "SE Powell & 72nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.589260240576095, 45.497314606537074 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1750, "stop_id": 4691, "stop_name": "SE Powell & 79th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.581513748893869, 45.497292767113613 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1800, "stop_id": 4693, "stop_name": "SE Powell & 82nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578244080674821, 45.497298011755063 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1900, "stop_id": 4704, "stop_name": "SE Powell & 90th Pl", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.570754388137956, 45.497291868794768 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1950, "stop_id": 4707, "stop_name": "SE Powell & 92nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.568030834092653, 45.497287867522736 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 550, "stop_id": 4964, "stop_name": "Ross Island Bridge", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675234891437171, 45.500273645608054 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1350, "stop_id": 11920, "stop_name": "SE Powell & 57th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.604774990637395, 45.497384854884743 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1450, "stop_id": 11921, "stop_name": "SE Powell & 62nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.59903600509449, 45.49738069317997 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 250, "stop_id": 7594, "stop_name": "SW 5th & Columbia", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680112874770629, 45.514297170558827 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 150, "stop_id": 7636, "stop_name": "SW 5th & Stark", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.676483710418395, 45.520945470216212 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 200, "stop_id": 7640, "stop_name": "SW 5th & Taylor", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.678292392319804, 45.517603222303045 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2400, "stop_id": 4571, "stop_name": "SE Powell & 119th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.540768964674839, 45.496894809069346 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4350, "stop_id": 10858, "stop_name": "Gresham Transit Center", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.426589886285498, 45.502869939593758 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3450, "stop_id": 8812, "stop_name": "4700 Block W Powell", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.480317571103114, 45.491309710241936 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2700, "stop_id": 4585, "stop_name": "SE Powell & 136th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.523659861777347, 45.497736776814108 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 700, "stop_id": 4622, "stop_name": "SE Powell & 21st", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.644224957555593, 45.499143500971655 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1300, "stop_id": 4667, "stop_name": "SE Powell & 52nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.608552027891434, 45.497371998156154 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 600, "stop_id": 4701, "stop_name": "SE Powell & 9th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.657193839879653, 45.501429672534968 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3800, "stop_id": 4513, "stop_name": "W Powell & NW Bella Vista", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.450981143666766, 45.496981738723598 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2500, "stop_id": 11742, "stop_name": "SE Powell & 125th Pl", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.533792315172121, 45.497130929202122 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 500, "stop_id": 1929, "stop_name": "SW Naito Parkway & Hooker", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.67802793937841, 45.502193185196511 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3550, "stop_id": 4522, "stop_name": "W Powell & SW Duniway", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.4734704027574, 45.489612371089343 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2800, "stop_id": 4592, "stop_name": "SE Powell & 141st", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.518521503833483, 45.49864967705787 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1700, "stop_id": 11922, "stop_name": "SE Powell & 75th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.585473498466015, 45.497337454476892 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3950, "stop_id": 12866, "stop_name": "W Powell & NW Wilson", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.441134356940211, 45.497000232104419 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4000, "stop_id": 12867, "stop_name": "W Powell & SW Eastman Parkway", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.437775545823627, 45.49701942763506 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 750, "stop_id": 4625, "stop_name": "SE Powell & 24th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.641870735213885, 45.498446876191991 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 350, "stop_id": 7588, "stop_name": "SW 5th & Broadway", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.683850353690943, 45.507083209641934 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3700, "stop_id": 8742, "stop_name": "2700 Block W Powell", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.460081820448508, 45.495224640001602 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3900, "stop_id": 4555, "stop_name": "W Powell & SW Wallula", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.444027828624655, 45.497016826369354 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 300, "stop_id": 7602, "stop_name": "SW 5th & Harrison", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681923155500982, 45.510938675136593 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 100, "stop_id": 9301, "stop_name": "NW 5th & Davis", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675552025421126, 45.524704992815877 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1050, "stop_id": 4648, "stop_name": "SE Powell & 36th Pl", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.625609689373135, 45.496979890514744 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3750, "stop_id": 4515, "stop_name": "W Powell & SW Birdsdale", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.455223291578676, 45.496936497511989 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3350, "stop_id": 4534, "stop_name": "SE Powell & Meadowland Center", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.486983733322688, 45.492657759651955 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4200, "stop_id": 3683, "stop_name": "N Main & NE 10th", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.430914962514734, 45.50338036032187 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3500, "stop_id": 4618, "stop_name": "W Powell & SW Highland", "jurisdic": "Gresham", "zipcode": "97080", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.475992696730671, 45.490391939966202 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2950, "stop_id": 4598, "stop_name": "SE Powell & 148th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.510119646082586, 45.49779697010527 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 3250, "stop_id": 4610, "stop_name": "SE Powell & Naegeli", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.492020732029829, 45.493735150572689 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 1850, "stop_id": 4699, "stop_name": "SE Powell & 86th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.573735615392025, 45.497306919676475 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4300, "stop_id": 13506, "stop_name": "Gresham Transit Center", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.42772042672506, 45.502842852335498 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 4150, "stop_id": 3725, "stop_name": "N Main & NE 5th", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.430898021523433, 45.500870676763711 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 2000, "stop_id": 13542, "stop_name": "SE Powell & Powell Garage Dr", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.563554088534588, 45.496869492656408 ] } },
-{ "type": "Feature", "properties": { "rte": 9, "dir": 0, "rte_desc": "9-Powell Blvd", "dir_desc": "To Powell & 98th or Gresham Transit Center", "type": "BUS", "stop_seq": 850, "stop_id": 12951, "stop_name": "SE Powell & 28th Pl", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.636153475300063, 45.497381638910227 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67555202542113,
+                    45.52470499281588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 9301,
+                "stop_name": "NW 5th & Davis",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68013152290851,
+                    45.5077938153603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 3397,
+                "stop_name": "300 Block SW Lincoln",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67083117938792,
+                    45.50278852641785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13732,
+                "stop_name": "South Waterfront/SW Moody",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66229084049223,
+                    45.50649251675053
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13772,
+                "stop_name": "OMSI/SE Water",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65812415569906,
+                    45.50481465205184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13778,
+                "stop_name": "SE Division Pl & 8th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65436018465854,
+                    45.50258639064106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13791,
+                "stop_name": "SE Milwaukie & Gideon",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65328324948825,
+                    45.50080931904613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13792,
+                "stop_name": "SE Powell & 12th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5892602405761,
+                    45.497314606537074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4686,
+                "stop_name": "SE Powell & 72nd",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58547349846602,
+                    45.49733745447689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11922,
+                "stop_name": "SE Powell & 75th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58151374889387,
+                    45.49729276711361
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4691,
+                "stop_name": "SE Powell & 79th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57824408067482,
+                    45.49729801175506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4693,
+                "stop_name": "SE Powell & 82nd",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57372119434737,
+                    45.49728591716826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4699,
+                "stop_name": "SE Powell & 86th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57075438813796,
+                    45.49729186879477
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4704,
+                "stop_name": "SE Powell & 90th Pl",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56803083409265,
+                    45.497287867522736
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4707,
+                "stop_name": "SE Powell & 92nd",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56290733762246,
+                    45.496656599738756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4542,
+                "stop_name": "SE Powell & Powell Garage Dr",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55797234790879,
+                    45.49571956377165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4562,
+                "stop_name": "SE Powell & 102nd",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55495987185667,
+                    45.495952536384564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4564,
+                "stop_name": "SE Powell & 104th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55129119908196,
+                    45.49623891474917
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4504,
+                "stop_name": "10800 Block SE Powell",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54725451535433,
+                    45.49651876427625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4567,
+                "stop_name": "SE Powell & 112th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5437633129863,
+                    45.49680333934983
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4568,
+                "stop_name": "SE Powell & 116th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54076896467484,
+                    45.496894809069346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4571,
+                "stop_name": "SE Powell & 119th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53701224243144,
+                    45.497007795521185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4573,
+                "stop_name": "SE Powell & 122nd",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53379231517212,
+                    45.49713092920212
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11742,
+                "stop_name": "SE Powell & 125th Pl",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53010159189843,
+                    45.497307134273086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4580,
+                "stop_name": "SE Powell & 130th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52740542685301,
+                    45.49741893972612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4582,
+                "stop_name": "SE Powell & 132nd",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5253489904269,
+                    45.49748866357982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4584,
+                "stop_name": "SE Powell & 134th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52365986177735,
+                    45.49773677681411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4585,
+                "stop_name": "SE Powell & 136th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52083892389253,
+                    45.4982335753149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4588,
+                "stop_name": "SE Powell & 138th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51852150383348,
+                    45.49864967705787
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4592,
+                "stop_name": "SE Powell & 141st",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51697088084794,
+                    45.49892795177025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4593,
+                "stop_name": "SE Powell & 143rd",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51323147479737,
+                    45.49866915497986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4596,
+                "stop_name": "SE Powell & 145th",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51011964608259,
+                    45.49779697010527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4598,
+                "stop_name": "SE Powell & 148th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50668583161297,
+                    45.49694646083578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4599,
+                "stop_name": "SE Powell & 151st",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5046690865307,
+                    45.496426370222025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4600,
+                "stop_name": "SE Powell & 154th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50246867179233,
+                    45.49589971087881
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4602,
+                "stop_name": "SE Powell & 157th",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4986353432803,
+                    45.49510833508252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4606,
+                "stop_name": "SE Powell & 160th",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49523125282786,
+                    45.4943982619791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4608,
+                "stop_name": "SE Powell & 164th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49202073202983,
+                    45.49373515057269
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4610,
+                "stop_name": "SE Powell & Naegeli",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48953417981123,
+                    45.49322907383831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4612,
+                "stop_name": "SE Powell & 168th",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48698373332269,
+                    45.492657759651955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4534,
+                "stop_name": "SE Powell & Meadowland Center",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4838736685809,
+                    45.49208475955682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4615,
+                "stop_name": "SE Powell & 174th",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48031757110311,
+                    45.491309710241936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 8812,
+                "stop_name": "4700 Block W Powell",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47342053489822,
+                    45.48963654792963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4522,
+                "stop_name": "W Powell & SW Duniway",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46709943954826,
+                    45.49095745213564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4620,
+                "stop_name": "W Powell & Powell Loop",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46263837400159,
+                    45.49367660843682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4507,
+                "stop_name": "2900 Block W Powell",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46008182044851,
+                    45.4952246400016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 8742,
+                "stop_name": "2700 Block W Powell",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45522329157868,
+                    45.49693649751199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4515,
+                "stop_name": "W Powell & SW Birdsdale",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45098114366677,
+                    45.4969817387236
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4513,
+                "stop_name": "W Powell & NW Bella Vista",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4465490321221,
+                    45.4969912891593
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4552,
+                "stop_name": "W Powell & SW Towle",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44402782862466,
+                    45.497016826369354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4555,
+                "stop_name": "W Powell & SW Wallula",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44113435694021,
+                    45.49700023210442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12866,
+                "stop_name": "W Powell & NW Wilson",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43777554582363,
+                    45.49701942763506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12867,
+                "stop_name": "W Powell & SW Eastman Parkway",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43395022906338,
+                    45.49718220928332
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4557,
+                "stop_name": "W Powell & SW Walters",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4309112602918,
+                    45.498861045491836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 3715,
+                "stop_name": "N Main & NE 2nd",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43089802152343,
+                    45.50087067676371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 3725,
+                "stop_name": "N Main & NE 5th",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43091496251473,
+                    45.50338036032187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 3683,
+                "stop_name": "N Main & NE 10th",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6764837104184,
+                    45.52094547021621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7636,
+                "stop_name": "SW 5th & Stark",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6782923923198,
+                    45.517603222303045
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7640,
+                "stop_name": "SW 5th & Taylor",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68011287477063,
+                    45.51429717055883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7594,
+                "stop_name": "SW 5th & Columbia",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68192315550098,
+                    45.51093867513659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 7602,
+                "stop_name": "SW 5th & Harrison",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47599269673067,
+                    45.4903919399662
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4618,
+                "stop_name": "W Powell & SW Highland",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97080"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6442249575556,
+                    45.499143500971655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4622,
+                "stop_name": "SE Powell & 21st",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64187073521389,
+                    45.49844687619199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4625,
+                "stop_name": "SE Powell & 24th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63977952183798,
+                    45.49784658290521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4627,
+                "stop_name": "SE Powell & 26th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63615347530006,
+                    45.49738163891023
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 12951,
+                "stop_name": "SE Powell & 28th Pl",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63357763405551,
+                    45.496884437999036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4641,
+                "stop_name": "SE Powell & 31st",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63163872134702,
+                    45.49670746033503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4644,
+                "stop_name": "SE Powell & 33rd",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62895348451313,
+                    45.49675995054943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4647,
+                "stop_name": "SE Powell & 34th",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62560968937314,
+                    45.496979890514744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4648,
+                "stop_name": "SE Powell & 36th Pl",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62221706706536,
+                    45.49722873399809
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4651,
+                "stop_name": "SE Powell & Cesar Chavez Blvd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61902256244085,
+                    45.497457031053926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4656,
+                "stop_name": "SE Powell & 42nd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61397849597483,
+                    45.497445579850414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4662,
+                "stop_name": "SE Powell & 47th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61064010836807,
+                    45.49738387192063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4666,
+                "stop_name": "SE Powell & 50th/Foster",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60855202789143,
+                    45.497371998156154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4667,
+                "stop_name": "SE Powell & 52nd",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6047749906374,
+                    45.49738485488474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11920,
+                "stop_name": "SE Powell & 57th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60155074007525,
+                    45.49735906504723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4675,
+                "stop_name": "SE Powell & 60th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59903600509449,
+                    45.49738069317997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 11921,
+                "stop_name": "SE Powell & 62nd",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59622884199969,
+                    45.49735155312871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4679,
+                "stop_name": "SE Powell & 65th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59435887619821,
+                    45.49733401816646
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4680,
+                "stop_name": "SE Powell & 67th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5918958245835,
+                    45.49733350393487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 4682,
+                "stop_name": "SE Powell & 69th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42772042672506,
+                    45.5028428523355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13506,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56355408853459,
+                    45.49686949265641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 13542,
+                "stop_name": "SE Powell & Powell Garage Dr",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4265898862855,
+                    45.50286993959376
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Powell & 98th or Gresham Transit Center",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 9,
+                "rte_desc": "9-Powell Blvd",
+                "stop_id": 10858,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

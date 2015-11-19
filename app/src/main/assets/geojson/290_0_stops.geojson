@@ -1,0 +1,241 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63513367044997,
+                    45.430684404663346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13720,
+                "stop_name": "SE Park Ave MAX Station",
+                "stop_seq": 50,
+                "type": "MAX",
+                "zipcode": "97222"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63977502886358,
+                    45.44151620899216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Milwaukie",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13721,
+                "stop_name": "Milwaukie/Main St MAX Station",
+                "stop_seq": 100,
+                "type": "MAX",
+                "zipcode": "00000"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63779410291863,
+                    45.46294813772588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13722,
+                "stop_name": "SE Tacoma/Johnson Creek MAX Station",
+                "stop_seq": 150,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6399778510849,
+                    45.474917894403276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13723,
+                "stop_name": "SE Bybee Blvd MAX Station",
+                "stop_seq": 200,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64843086233066,
+                    45.491169940516855
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13724,
+                "stop_name": "SE 17th Ave & Holgate Blvd MAX Station",
+                "stop_seq": 250,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64812255820827,
+                    45.49818165868808
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13725,
+                "stop_name": "SE 17th Ave & Rhine St MAX Station",
+                "stop_seq": 300,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65364389735991,
+                    45.503092310772175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13726,
+                "stop_name": "Clinton St/SE 12th Ave MAX Station",
+                "stop_seq": 350,
+                "type": "MAX",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66325686275621,
+                    45.50655115146084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13727,
+                "stop_name": "OMSI/SE Water MAX Station",
+                "stop_seq": 400,
+                "type": "MAX",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6718975421992,
+                    45.50261554498556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13728,
+                "stop_name": "South Waterfront/SW Moody MAX Station",
+                "stop_seq": 450,
+                "type": "MAX",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68085719280579,
+                    45.50795826110954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Portland City Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 290,
+                "rte_desc": "MAX Orange Line",
+                "stop_id": 13729,
+                "stop_name": "Lincoln St/SW 3rd Ave MAX Station",
+                "stop_seq": 500,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

@@ -1,30 +1,540 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1000, "stop_id": 868, "stop_name": "SW Campus Dr & OHSU Garage F", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684302586911969, 45.498186562258532 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 900, "stop_id": 871, "stop_name": "SW Campus Dr & Loading Dock 5", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.685140799067938, 45.498877205177884 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 500, "stop_id": 143, "stop_name": "SW Arthur & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678421387269282, 45.50382030828424 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 420, "stop_id": 4623, "stop_name": "SE Powell & 21st", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.644496389411771, 45.499397094100544 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 400, "stop_id": 4628, "stop_name": "SE Powell & 26th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.639370201837465, 45.498016871439106 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 700, "stop_id": 5975, "stop_name": "US Veterans Hospital", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683270680560838, 45.497058333643132 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 882, "stop_id": 5027, "stop_name": "SW Sam Jackson Pk & Campus Dr", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684265451057172, 45.500298423399727 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 866, "stop_id": 5028, "stop_name": "SW Sam Jackson Pk & OHSU", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.685535452629395, 45.499336025348434 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 850, "stop_id": 5032, "stop_name": "SW Sam Jackson Pk & US Veterans", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.687161151997074, 45.49904224530831 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 600, "stop_id": 11010, "stop_name": "SW Terwilliger & Campus", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682732956285562, 45.499253111067027 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 950, "stop_id": 10176, "stop_name": "700 SW Campus Dr at Doernbecher", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.685901020573965, 45.497876895369593 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 200, "stop_id": 7438, "stop_name": "SE Cesar Chavez Blvd & Belmont", "jurisdic": "Portland", "zipcode": "97214", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.623051363265091, 45.516639005602627 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 150, "stop_id": 7441, "stop_name": "NE Cesar Chavez Blvd & E Burnside", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.623116159631692, 45.523707431278325 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 300, "stop_id": 7446, "stop_name": "SE Cesar Chavez Blvd & Division", "jurisdic": "Portland", "zipcode": "97214", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.622742473496146, 45.504943068234013 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 250, "stop_id": 7460, "stop_name": "SE Cesar Chavez Blvd & Hawthorne", "jurisdic": "Portland", "zipcode": "97214", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.622963861560578, 45.512184758677321 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 350, "stop_id": 7476, "stop_name": "SE Cesar Chavez Blvd & Powell", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.622720599209885, 45.497541953560074 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 50, "stop_id": 10871, "stop_name": "Hollywood Transit Center", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.62057449929631, 45.533336490693721 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 650, "stop_id": 8455, "stop_name": "SW US Veterans Rd & Bldg #16", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682219978027689, 45.49642214627815 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 800, "stop_id": 9488, "stop_name": "3505 SW US Veterans Rd", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.688156139540936, 45.497355205030104 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1050, "stop_id": 870, "stop_name": "SW Campus Dr & Terwilliger", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682572023043434, 45.499108334121381 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 100, "stop_id": 7452, "stop_name": "NE Cesar Chavez Blvd & Glisan", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.623555513451791, 45.526428597994112 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 450, "stop_id": 4538, "stop_name": "SE Powell & Milwaukie", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.654695073998624, 45.501404363353785 ] } },
-{ "type": "Feature", "properties": { "rte": 66, "dir": 1, "rte_desc": "66-Marquam Hill\/Hollywood", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 750, "stop_id": 10612, "stop_name": "3515 SW US Veterans Rd", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.685616596610785, 45.496853603023744 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62355551345179,
+                    45.52642859799411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7452,
+                "stop_name": "NE Cesar Chavez Blvd & Glisan",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62311615963169,
+                    45.523707431278325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7441,
+                "stop_name": "NE Cesar Chavez Blvd & E Burnside",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62296386156058,
+                    45.51218475867732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7460,
+                "stop_name": "SE Cesar Chavez Blvd & Hawthorne",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62274247349615,
+                    45.50494306823401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7446,
+                "stop_name": "SE Cesar Chavez Blvd & Division",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64449638941177,
+                    45.499397094100544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 4623,
+                "stop_name": "SE Powell & 21st",
+                "stop_seq": 420,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67842138726928,
+                    45.50382030828424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 143,
+                "stop_name": "SW Arthur & 1st",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63937020183747,
+                    45.498016871439106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 4628,
+                "stop_name": "SE Powell & 26th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62057449929631,
+                    45.53333649069372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 10871,
+                "stop_name": "Hollywood Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62305136326509,
+                    45.51663900560263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7438,
+                "stop_name": "SE Cesar Chavez Blvd & Belmont",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65469507399862,
+                    45.501404363353785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 4538,
+                "stop_name": "SE Powell & Milwaukie",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68561659661079,
+                    45.496853603023744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 10612,
+                "stop_name": "3515 SW US Veterans Rd",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68514079906794,
+                    45.498877205177884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68590102057397,
+                    45.49787689536959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68430258691197,
+                    45.49818656225853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68273295628556,
+                    45.49925311106703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 11010,
+                "stop_name": "SW Terwilliger & Campus",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68221997802769,
+                    45.49642214627815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68327068056084,
+                    45.49705833364313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68815613954094,
+                    45.497355205030104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 9488,
+                "stop_name": "3505 SW US Veterans Rd",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68716115199707,
+                    45.49904224530831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62272059920988,
+                    45.497541953560074
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 7476,
+                "stop_name": "SE Cesar Chavez Blvd & Powell",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6855354526294,
+                    45.499336025348434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "stop_seq": 866,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68426545105717,
+                    45.50029842339973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "stop_seq": 882,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68257202304343,
+                    45.49910833412138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 66,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

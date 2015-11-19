@@ -1,37 +1,701 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1100, "stop_id": 10076, "stop_name": "NW Kaiser & Snowlily Dr", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.834850835470448, 45.562543813095786 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1200, "stop_id": 10078, "stop_name": "15500 Block NW Springville", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.837286380968109, 45.566102161004494 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1250, "stop_id": 10079, "stop_name": "NW Springville & Oats Terrace", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.841939290972761, 45.565276798468716 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1350, "stop_id": 10081, "stop_name": "NW Springville & Joss", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.848043292066421, 45.56420685719138 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1400, "stop_id": 10082, "stop_name": "NW Springville & Samuel Drive", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.85203488166502, 45.563080769397175 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1450, "stop_id": 10083, "stop_name": "NW Springville & 173rd", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.855854719644469, 45.56301279445406 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 650, "stop_id": 10086, "stop_name": "NW Bethany & Oak Hills Dr", "jurisdic": "Washington Co.", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.84036181658486, 45.538326411128409 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 700, "stop_id": 10087, "stop_name": "NW Bethany & Telshire Terrace", "jurisdic": "Washington Co.", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.840230510358779, 45.540574453886464 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 750, "stop_id": 10088, "stop_name": "NW Bethany & Ridgetop Lane", "jurisdic": "Washington Co.", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.840189267013059, 45.542310865597372 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 850, "stop_id": 10090, "stop_name": "NW Bethany & Saint Andrews", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.836729235703402, 45.547126770624182 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 900, "stop_id": 10091, "stop_name": "NW Bethany & Mitchell", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.836707653760357, 45.550525234245448 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 950, "stop_id": 10092, "stop_name": "4700 Block NW Bethany", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.836628455545764, 45.55356594394317 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1050, "stop_id": 10094, "stop_name": "NW Bethany & Kaiser Rd", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.834343472188166, 45.559704977109007 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1500, "stop_id": 10165, "stop_name": "NW Springville & PCC Drive", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.859212831111989, 45.563116508040508 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 200, "stop_id": 8232, "stop_name": "SW 158th & W Baseline", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839356078342462, 45.512387561868657 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 350, "stop_id": 8233, "stop_name": "NW 158th & Schendel", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839456290488783, 45.520247623475079 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 450, "stop_id": 6828, "stop_name": "NW 158th & Greenbrier Pkwy", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839389524291889, 45.526012794447851 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 150, "stop_id": 6830, "stop_name": "SW 158th & Jay", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839960785772732, 45.509580438864703 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 300, "stop_id": 6832, "stop_name": "SW 158th & Walker", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839477043265759, 45.516937010618115 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 800, "stop_id": 10089, "stop_name": "NW Bethany & West Union", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.838212177852583, 45.544633286511115 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1300, "stop_id": 10080, "stop_name": "NW Springville & Sickle Terrace", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.845023902409267, 45.56485119446355 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 100, "stop_id": 8234, "stop_name": "SW 158th & Jenkins", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.84061561348598, 45.507266341298923 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 400, "stop_id": 8475, "stop_name": "NW 158th & Blueridge", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839386924252878, 45.52431643210096 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1550, "stop_id": 4429, "stop_name": "PCC Rock Creek Main Stop", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.859458190248318, 45.565560551875642 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1150, "stop_id": 10077, "stop_name": "NW Kaiser & Two Ponds Dr", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.835597632460022, 45.565138123079166 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 550, "stop_id": 10085, "stop_name": "NW Bethany & Bronson", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.840767981908371, 45.534484527807059 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 1000, "stop_id": 10093, "stop_name": "NW Bethany & Laidlaw", "jurisdic": "Washington Co.", "zipcode": "97229", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.836656239685396, 45.555670508257997 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 50, "stop_id": 12899, "stop_name": "Merlo Rd\/SW 158th MAX Stn Turnaround", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.842061241092168, 45.505323792481988 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 250, "stop_id": 13202, "stop_name": "SW 158th & Greystone Ct", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.839376557716534, 45.514785787063204 ] } },
-{ "type": "Feature", "properties": { "rte": 67, "dir": 0, "rte_desc": "67-Bethany\/158th", "dir_desc": "To PCC Rock Creek", "type": "BUS", "stop_seq": 500, "stop_id": 10084, "stop_name": "NW Bethany & Cornell", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.84263164419248, 45.530269430817732 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84076798190837,
+                    45.53448452780706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10085,
+                "stop_name": "NW Bethany & Bronson",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84061561348598,
+                    45.50726634129892
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8234,
+                "stop_name": "SW 158th & Jenkins",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83935607834246,
+                    45.51238756186866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8232,
+                "stop_name": "SW 158th & W Baseline",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83938692425288,
+                    45.52431643210096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8475,
+                "stop_name": "NW 158th & Blueridge",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84036181658486,
+                    45.53832641112841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10086,
+                "stop_name": "NW Bethany & Oak Hills Dr",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83821217785258,
+                    45.544633286511115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10089,
+                "stop_name": "NW Bethany & West Union",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83670765376036,
+                    45.55052523424545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10091,
+                "stop_name": "NW Bethany & Mitchell",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8366562396854,
+                    45.555670508258
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10093,
+                "stop_name": "NW Bethany & Laidlaw",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84571298314869,
+                    45.56481861872628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10080,
+                "stop_name": "NW Springville & Sickle Terrace",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85203488166502,
+                    45.563080769397175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10082,
+                "stop_name": "NW Springville & Samuel Drive",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85585471964447,
+                    45.56301279445406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10083,
+                "stop_name": "NW Springville & 173rd",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83996078576887,
+                    45.5095804388656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 6830,
+                "stop_name": "SW 158th & Jay",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83938952429189,
+                    45.52601279444785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 6828,
+                "stop_name": "NW 158th & Greenbrier Pkwy",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84023051035878,
+                    45.540574453886464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10087,
+                "stop_name": "NW Bethany & Telshire Terrace",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8367292357034,
+                    45.54712677062418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10090,
+                "stop_name": "NW Bethany & Saint Andrews",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83662845554576,
+                    45.55356594394317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10092,
+                "stop_name": "4700 Block NW Bethany",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84240091803366,
+                    45.56529346167414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10079,
+                "stop_name": "NW Springville & 160th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84804329206642,
+                    45.56420685719138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10081,
+                "stop_name": "NW Springville & Joss",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85921283111199,
+                    45.56311650804051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10165,
+                "stop_name": "NW Springville & PCC Drive",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83945629048878,
+                    45.52024762347508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 8233,
+                "stop_name": "NW 158th & Schendel",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83434347218817,
+                    45.55970497710901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10094,
+                "stop_name": "NW Bethany & Kaiser Rd",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84263164419248,
+                    45.53026943081773
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10084,
+                "stop_name": "NW Bethany & Cornell",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83559763246002,
+                    45.565138123079166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10077,
+                "stop_name": "NW Kaiser & Two Ponds Dr",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85945819024832,
+                    45.56556055187564
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 4429,
+                "stop_name": "PCC Rock Creek Main Stop",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83485083547045,
+                    45.562543813095786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10076,
+                "stop_name": "NW Kaiser & Snowlily Dr",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83937655771653,
+                    45.514785787063204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 13202,
+                "stop_name": "SW 158th & Greystone Ct",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84018926701306,
+                    45.54231086559737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10088,
+                "stop_name": "NW Bethany & Ridgetop Lane",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83947704326576,
+                    45.516937010618115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 6832,
+                "stop_name": "SW 158th & Walker",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84206124109217,
+                    45.50532379248199
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 12899,
+                "stop_name": "Merlo Rd/SW 158th MAX Stn Turnaround",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83728638096811,
+                    45.566102161004494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To PCC Rock Creek",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 67,
+                "rte_desc": "67-Bethany/158th",
+                "stop_id": 10078,
+                "stop_name": "15500 Block NW Springville",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97229"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

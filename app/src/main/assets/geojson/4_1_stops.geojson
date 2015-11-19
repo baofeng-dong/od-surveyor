@@ -1,161 +1,3507 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3700, "stop_id": 1376, "stop_name": "SE Division & 12th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.65419546555583, 45.504912563575651 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1700, "stop_id": 1381, "stop_name": "SE Division & 122nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.538379902586115, 45.50421640859436 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1650, "stop_id": 1382, "stop_name": "SE Division & 124th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.535477275588235, 45.504184187476902 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1600, "stop_id": 1387, "stop_name": "SE Division & 130th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.530622214652354, 45.504187714390184 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1400, "stop_id": 1396, "stop_name": "SE Division & 142nd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.516750006361548, 45.504234883073593 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1250, "stop_id": 1407, "stop_name": "SE Division & 152nd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.506916194869248, 45.504384422752011 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1200, "stop_id": 1408, "stop_name": "SE Division & 156th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.502446998608562, 45.504518670344879 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1100, "stop_id": 1416, "stop_name": "SE Division & 162nd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.495980457319348, 45.504677768975682 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3600, "stop_id": 1420, "stop_name": "SE Division & 17th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.648480686073555, 45.504874352897005 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 800, "stop_id": 1428, "stop_name": "SE Division & 182nd", "jurisdic": "Gresham", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.476065025945616, 45.50468026168987 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3450, "stop_id": 1442, "stop_name": "SE Division & 26th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.639911990868683, 45.504859324059474 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3400, "stop_id": 1444, "stop_name": "SE Division & 28th Pl", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.636553476949373, 45.504851576685162 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3300, "stop_id": 1450, "stop_name": "SE Division & 32nd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.632480126694333, 45.504854523754872 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3250, "stop_id": 1452, "stop_name": "SE Division & 34th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.629464480897141, 45.504859703088378 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3050, "stop_id": 1461, "stop_name": "SE Division & 41st", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.620185840349976, 45.504828100327686 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2950, "stop_id": 1466, "stop_name": "SE Division & 45th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.616003094699991, 45.505334643338507 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2900, "stop_id": 1468, "stop_name": "SE Division & 48th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.613080128665928, 45.505357625266903 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7500, "stop_id": 1698, "stop_name": "N Fessenden & Allegheny", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.743940866863412, 45.595631759746659 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7400, "stop_id": 1704, "stop_name": "N Fessenden & Burr", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.738156667133765, 45.594261048341309 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7550, "stop_id": 1715, "stop_name": "N Fessenden & Richmond", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.746821888686867, 45.596303229876554 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7450, "stop_id": 1718, "stop_name": "N Fessenden & Tioga", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.741032351501417, 45.594941229092655 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7150, "stop_id": 1721, "stop_name": "N Fessenden & Van Houten", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.723014286515948, 45.59128956443184 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5250, "stop_id": 3955, "stop_name": "N Mississippi & Beech", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675461896259847, 45.549493774204748 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5300, "stop_id": 3958, "stop_name": "N Mississippi & Failing", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675456925201573, 45.550727701475232 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5350, "stop_id": 3966, "stop_name": "N Mississippi & Mason", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.67544599873203, 45.553689835065448 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5200, "stop_id": 1843, "stop_name": "N Fremont & Albina", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674786654890525, 45.547889324875541 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6750, "stop_id": 1045, "stop_name": "N Chautauqua & Washburne", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.706898164988672, 45.58582794547123 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7850, "stop_id": 1059, "stop_name": "N Syracuse & Baltimore", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.757779683459262, 45.590521490930335 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4650, "stop_id": 1097, "stop_name": "Rose Quarter Transit Center", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.665645856340021, 45.530668919653642 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6900, "stop_id": 45, "stop_name": "N Alaska & University Park", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.710216944840269, 45.587885127734296 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5500, "stop_id": 73, "stop_name": "N Albina & Alberta", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674933711296205, 45.558895746962627 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5900, "stop_id": 78, "stop_name": "N Albina & Bryant", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674750109344828, 45.573295998640923 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5850, "stop_id": 82, "stop_name": "N Albina & Dekum", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674777526983007, 45.5716747543674 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3950, "stop_id": 3633, "stop_name": "SE Madison & Grand", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.660599917737102, 45.513008505863752 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 50, "stop_id": 2253, "stop_name": "Gresham Transit Center", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.42648582749149, 45.502594202632466 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5750, "stop_id": 84, "stop_name": "N Albina & Holman", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.67478864201064, 45.568704826463126 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5800, "stop_id": 91, "stop_name": "N Albina & Rosa Parks Way", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674801469516026, 45.570360909701641 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6000, "stop_id": 93, "stop_name": "N Albina & Lombard St", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674692871934084, 45.576868994605761 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5550, "stop_id": 94, "stop_name": "N Albina & Sumner", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.67490702966191, 45.560343398479034 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6300, "stop_id": 3221, "stop_name": "N Kilpatrick & Denver", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.687297892660709, 45.582446711876557 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7800, "stop_id": 5371, "stop_name": "N St Louis & Ivanhoe", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.758769115535387, 45.592376624277264 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7650, "stop_id": 5374, "stop_name": "N St Louis & Seneca", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.751542352003014, 45.595983058090489 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7700, "stop_id": 5375, "stop_name": "N St Louis & Smith", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.753491404189987, 45.595022717489847 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6400, "stop_id": 2315, "stop_name": "N Halleck & Delaware", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.69228761770357, 45.582690537232409 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6450, "stop_id": 2317, "stop_name": "N Halleck & Peninsular", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.696987887268747, 45.582771840880916 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2800, "stop_id": 1472, "stop_name": "SE Division & 52nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.608807215853375, 45.505382365392755 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2700, "stop_id": 1478, "stop_name": "SE Division & 60th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.602138840197298, 45.505414024830706 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2600, "stop_id": 1481, "stop_name": "SE Division & 64th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.597351517710649, 45.50544698927758 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2500, "stop_id": 1487, "stop_name": "SE Division & 71st", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.589664031652319, 45.505452370427037 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2400, "stop_id": 1490, "stop_name": "SE Division & 76th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.58514344981387, 45.505462921275594 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3750, "stop_id": 1496, "stop_name": "SE Division & 8th", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.658136997510809, 45.506105492261703 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2300, "stop_id": 1499, "stop_name": "SE Division & 82nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579073142579048, 45.505033982356217 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2250, "stop_id": 1501, "stop_name": "SE Division & 85th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.575569007876695, 45.504714062201394 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2150, "stop_id": 1506, "stop_name": "SE Division & 92nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.56916486455377, 45.504611729229694 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6200, "stop_id": 1300, "stop_name": "N Denver & Terry", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.686763577948582, 45.57943500196464 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1550, "stop_id": 1309, "stop_name": "13100 Block SE Division", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.527628006920267, 45.504149882709555 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1000, "stop_id": 1310, "stop_name": "16900 Block SE Division", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.488946534465796, 45.504699163313262 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2550, "stop_id": 1313, "stop_name": "SE Division & 68th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.594037998707336, 45.505457268879091 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 300, "stop_id": 1316, "stop_name": "NW Division & Civic Dr", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.441847644770377, 45.504631129344446 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 550, "stop_id": 1318, "stop_name": "NW Division & Battaglia", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.457435256261917, 45.504550249589627 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 650, "stop_id": 1326, "stop_name": "19200 Block SE Division", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.465296723613449, 45.504580682005354 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 200, "stop_id": 1332, "stop_name": "NW Division & Eastman Parkway", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.435257057559753, 45.504575016845457 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 600, "stop_id": 1334, "stop_name": "NW Division & Eastwood", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.462212293328719, 45.504580919055265 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 150, "stop_id": 1342, "stop_name": "NW Division & Miller", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.432620370871902, 45.504556952630224 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 450, "stop_id": 1347, "stop_name": "NW Division & Riverview", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.452662727336829, 45.504543941171384 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1050, "stop_id": 1350, "stop_name": "SE Division & 165th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.492903514929878, 45.504682284767256 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 350, "stop_id": 1358, "stop_name": "NW Division & Wallula", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.445424980932557, 45.504640305041711 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1950, "stop_id": 1364, "stop_name": "SE Division & 106th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.553692445426734, 45.50434390216374 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6950, "stop_id": 5862, "stop_name": "N Trenton & Alaska", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.711875097079385, 45.588697939497372 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4450, "stop_id": 1612, "stop_name": "NW Everett & 2nd", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.672585529106996, 45.525212629501617 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 8050, "stop_id": 4818, "stop_name": "N Richmond & Syracuse", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.751883842378035, 45.587888752718243 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6100, "stop_id": 3507, "stop_name": "N Lombard Transit Center", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682701115922157, 45.577231803561851 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7950, "stop_id": 3508, "stop_name": "N Lombard & John", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.753053659655365, 45.58956899628032 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6050, "stop_id": 3521, "stop_name": "N Lombard & Mississippi", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.676182213007252, 45.577286897559233 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1900, "stop_id": 1367, "stop_name": "SE Division & 110th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.550103709412213, 45.504324719358195 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1850, "stop_id": 1369, "stop_name": "SE Division & 112th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.547783712682076, 45.504305692699823 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1750, "stop_id": 1374, "stop_name": "SE Division & 119th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.540769735986714, 45.504236834537004 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2000, "stop_id": 1362, "stop_name": "SE Division & 104th Dr", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.556113224778102, 45.504377425186796 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7350, "stop_id": 1713, "stop_name": "N Fessenden & Midway", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.735243611466032, 45.593575066913878 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3000, "stop_id": 9265, "stop_name": "SE Division & 42nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.618933248877667, 45.50525082190763 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5950, "stop_id": 80, "stop_name": "N Albina & Buffalo", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674734080053355, 45.575057287235616 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4175, "stop_id": 7797, "stop_name": "SW 6th & Stark", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677521428266672, 45.520930667478041 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3900, "stop_id": 7856, "stop_name": "SE 7th & Clay", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.658591414384972, 45.511749263157554 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3800, "stop_id": 7858, "stop_name": "SE 7th & Grant", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.658627913339799, 45.50757319065859 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3850, "stop_id": 7860, "stop_name": "SE 7th & Harrison", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.658614019035738, 45.508946013297681 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6800, "stop_id": 1047, "stop_name": "N Chautauqua & Alaska", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.70529767319519, 45.587705947936158 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5450, "stop_id": 76, "stop_name": "N Albina & Blandena", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674857699380382, 45.557138932319063 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4750, "stop_id": 6357, "stop_name": "N Williams & NE Broadway", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.666637522469415, 45.535808563690559 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4050, "stop_id": 11956, "stop_name": "SW Main & 2nd", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675566425846696, 45.515262459758851 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5050, "stop_id": 6359, "stop_name": "N Williams & NE Cook", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.66659743608372, 45.546635714850858 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4950, "stop_id": 6362, "stop_name": "N Williams & NE Graham", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.666570713023077, 45.542732753802973 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4800, "stop_id": 6370, "stop_name": "N Williams & NE Tillamook", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.666627379082698, 45.537970089411488 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6550, "stop_id": 6373, "stop_name": "N Willis & Bayard", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.700326006316516, 45.58408506772507 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6600, "stop_id": 6378, "stop_name": "N Willis & Wabash", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.702761827892459, 45.584070983782283 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6650, "stop_id": 6387, "stop_name": "N Willis & Washburne", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.705597565781432, 45.584071261055783 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5150, "stop_id": 10650, "stop_name": "N Fremont & Kerby", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.672059685341139, 45.548323076188261 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 250, "stop_id": 10714, "stop_name": "NW Division & Norman", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.437775089036748, 45.504612830461291 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7300, "stop_id": 1708, "stop_name": "N Fessenden & Columbia Way", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.732056544057272, 45.592753269989522 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4250, "stop_id": 7751, "stop_name": "SW 6th & W Burnside", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.676415011005574, 45.522880235484507 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6850, "stop_id": 43, "stop_name": "N Alaska & Chautauqua Pl", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.707733566805729, 45.587877039991845 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3350, "stop_id": 1448, "stop_name": "SE Division & 30th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.634521458331818, 45.50484036407164 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2100, "stop_id": 1508, "stop_name": "SE Division & 98th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.562702359882309, 45.504485538935491 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4325, "stop_id": 8886, "stop_name": "NW Everett & 5th", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675621922750523, 45.525182448494625 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4100, "stop_id": 7800, "stop_name": "SW 6th & Taylor", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679315551360943, 45.517604401611315 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5700, "stop_id": 71, "stop_name": "N Albina & Ainsworth", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674811817189493, 45.566631168642402 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5600, "stop_id": 88, "stop_name": "N Albina & Killingsworth", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674873995967289, 45.562956462050913 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2750, "stop_id": 1476, "stop_name": "SE Division & 58th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.604093301986552, 45.505405868028717 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2450, "stop_id": 1488, "stop_name": "SE Division & 74th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.586842460740115, 45.505450714377147 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2200, "stop_id": 1502, "stop_name": "SE Division & 89th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.572168556578035, 45.504652812544272 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 400, "stop_id": 9425, "stop_name": "NW Division & Angeline", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.449082072298069, 45.504578892223321 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6250, "stop_id": 1303, "stop_name": "N Denver & Watts", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.686774020905361, 45.581184508103497 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2050, "stop_id": 1360, "stop_name": "SE Division & 101st", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.559425869685171, 45.504427882623418 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2650, "stop_id": 9248, "stop_name": "SE Division & 61st", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.600075050018162, 45.505425638332035 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7900, "stop_id": 3465, "stop_name": "N Lombard & Burlington", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.754739741784007, 45.590112547864123 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6150, "stop_id": 3485, "stop_name": "N Lombard & Denver", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.686582366180559, 45.577202282184338 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1800, "stop_id": 1371, "stop_name": "SE Division & 115th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.545046596368977, 45.504283518317457 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1350, "stop_id": 1399, "stop_name": "SE Division & 145th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.513746965585213, 45.504285889100004 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3100, "stop_id": 1459, "stop_name": "SE Division & Cesar Chavez Blvd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.622065218405552, 45.504845290516123 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7100, "stop_id": 1719, "stop_name": "N Fessenden & Portsmouth", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.720873127416667, 45.59127377468635 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7200, "stop_id": 1700, "stop_name": "N Fessenden & Berkeley", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.725757761149268, 45.591315210301659 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7250, "stop_id": 1723, "stop_name": "N Fessenden & Wall", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.728080947822448, 45.591743300810343 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1450, "stop_id": 1392, "stop_name": "SE Division & 139th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.521241511613439, 45.504204280625288 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6700, "stop_id": 10611, "stop_name": "N Willis & Chautauqua", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.707659232981058, 45.584104848054054 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1300, "stop_id": 9263, "stop_name": "SE Division & 148th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.511151033076302, 45.504333747719372 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5000, "stop_id": 6364, "stop_name": "N Williams & NE Morris", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.66655454203638, 45.544449160807162 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6500, "stop_id": 6384, "stop_name": "N Willis & Peninsular", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.69764263988985, 45.584061392813361 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7050, "stop_id": 12725, "stop_name": "N Fessenden & Haven", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.717752547557836, 45.591237243576678 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7000, "stop_id": 12727, "stop_name": "N Trenton & Newman", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.715479875408477, 45.588706861242372 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 950, "stop_id": 1423, "stop_name": "SE Division & 174th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.483887226670205, 45.504705733649089 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4900, "stop_id": 6354, "stop_name": "N Williams & NE Russell", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.66658651074485, 45.541357712993147 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4850, "stop_id": 6369, "stop_name": "N Williams & NE Thompson", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.666605655567622, 45.539217867425371 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4125, "stop_id": 7634, "stop_name": "SW 5th & Salmon", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.678651079993472, 45.516939812254023 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 850, "stop_id": 10638, "stop_name": "SE Division & 179th", "jurisdic": "Gresham", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.479207241011622, 45.504696225518586 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7750, "stop_id": 5372, "stop_name": "N St Louis & Kellogg", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.756739128739483, 45.593433167020294 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 7600, "stop_id": 13479, "stop_name": "N Fessenden & Iris Way", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.749011019705137, 45.596770213586922 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4700, "stop_id": 9547, "stop_name": "N Williams & Wheeler", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.666623668445297, 45.533552838450504 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5650, "stop_id": 86, "stop_name": "N Albina & Jessup", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674877639604688, 45.56401136933431 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2125, "stop_id": 13298, "stop_name": "SE Division & SE Division St MAX Station", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.56741973088549, 45.504578519669941 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3500, "stop_id": 13741, "stop_name": "SE Division & 23rd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.642793287764093, 45.50485294974311 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 500, "stop_id": 13312, "stop_name": "NW Division & Wonderview", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.453782350779875, 45.504550274649944 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3550, "stop_id": 1341, "stop_name": "SE Division & Ladd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.64575743666397, 45.50487454717647 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 8000, "stop_id": 3474, "stop_name": "N Lombard & Charleston", "jurisdic": "Portland", "zipcode": "97203", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.751705667244636, 45.589171100367658 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 100, "stop_id": 10602, "stop_name": "300 Block NE Division", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.427277910786657, 45.504983605337003 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 4000, "stop_id": 2642, "stop_name": "Hawthorne Bridge", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.66618415534144, 45.51302146331124 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1500, "stop_id": 1390, "stop_name": "SE Division & 135th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.524563411723065, 45.504171722580971 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 900, "stop_id": 1425, "stop_name": "SE Division & 176th Pl", "jurisdic": "Gresham", "zipcode": "97236", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.481645865449337, 45.504690416149046 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 700, "stop_id": 1434, "stop_name": "SE Division & 190th", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.468355115272558, 45.504617714138561 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 3150, "stop_id": 1457, "stop_name": "SE Division & 37th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.625590818942115, 45.504838526571952 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2850, "stop_id": 1470, "stop_name": "SE Division & 50th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.610676532293382, 45.505359287728595 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2350, "stop_id": 1492, "stop_name": "SE Division & 77th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.583353618984134, 45.505462923431054 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 6350, "stop_id": 3218, "stop_name": "N Kilpatrick & Brandon", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.688869939875744, 45.582458519692821 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5400, "stop_id": 3976, "stop_name": "N Mississippi & Skidmore", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675423151479151, 45.554842093648993 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 750, "stop_id": 1430, "stop_name": "SE Division & 185th", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.472285024231411, 45.504646850765837 ] } },
-{ "type": "Feature", "properties": { "rte": 4, "dir": 1, "rte_desc": "4-Division\/Fessenden", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 5100, "stop_id": 1841, "stop_name": "N Fremont & Gantenbein", "jurisdic": "Portland", "zipcode": "97227", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.668908616776051, 45.548311440770469 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75673912873948,
+                    45.593433167020294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5372,
+                "stop_name": "N St Louis & Kellogg",
+                "stop_seq": 7750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75876911553539,
+                    45.592376624277264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5371,
+                "stop_name": "N St Louis & Ivanhoe",
+                "stop_seq": 7800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75777968345926,
+                    45.590521490930335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1059,
+                "stop_name": "N Syracuse & Baltimore",
+                "stop_seq": 7850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75473974178401,
+                    45.59011254786412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3465,
+                "stop_name": "N Lombard & Burlington",
+                "stop_seq": 7900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75306525555227,
+                    45.589590375713826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3508,
+                "stop_name": "N Lombard & John",
+                "stop_seq": 7950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75171778616858,
+                    45.58915645880283
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3474,
+                "stop_name": "N Lombard & Charleston",
+                "stop_seq": 8000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75188384237804,
+                    45.58788875271824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 4818,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 8050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42648582749149,
+                    45.502594202632466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2253,
+                "stop_name": "Gresham Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42727791078666,
+                    45.504983605337
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10602,
+                "stop_name": "300 Block NE Division",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4326203708719,
+                    45.504556952630224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1342,
+                "stop_name": "NW Division & Miller",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43525705755975,
+                    45.50457501684546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1332,
+                "stop_name": "NW Division & Eastman Parkway",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43777508903675,
+                    45.50461283046129
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10714,
+                "stop_name": "NW Division & Norman",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44184764477038,
+                    45.504631129344446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1316,
+                "stop_name": "NW Division & Civic Dr",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44542498093256,
+                    45.50464030504171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1358,
+                "stop_name": "NW Division & Wallula",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44908207229807,
+                    45.50457889222332
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9425,
+                "stop_name": "NW Division & Angeline",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45266272733683,
+                    45.504543941171384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1347,
+                "stop_name": "NW Division & Riverview",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45743525626192,
+                    45.50455024958963
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1318,
+                "stop_name": "NW Division & Battaglia",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46221229332872,
+                    45.504580919055265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1334,
+                "stop_name": "NW Division & Eastwood",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46529672361345,
+                    45.504580682005354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1326,
+                "stop_name": "19200 Block SE Division",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.46835511527256,
+                    45.50461771413856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1434,
+                "stop_name": "SE Division & 190th",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47228502423141,
+                    45.50464685076584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1430,
+                "stop_name": "SE Division & 185th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47606502594562,
+                    45.50468026168987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1428,
+                "stop_name": "SE Division & 182nd",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47920724101162,
+                    45.504696225518586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10638,
+                "stop_name": "SE Division & 179th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48164586544934,
+                    45.504690416149046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1425,
+                "stop_name": "SE Division & 176th Pl",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4838872266702,
+                    45.50470573364909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1423,
+                "stop_name": "SE Division & 174th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.4889465344658,
+                    45.50469916331326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1310,
+                "stop_name": "16900 Block SE Division",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49290351492988,
+                    45.504682284767256
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1350,
+                "stop_name": "SE Division & 165th",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49598045731935,
+                    45.50467776897568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1416,
+                "stop_name": "SE Division & 162nd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50244699860856,
+                    45.50451867034488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1408,
+                "stop_name": "SE Division & 156th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50691619486925,
+                    45.50438442275201
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1407,
+                "stop_name": "SE Division & 152nd",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5111510330763,
+                    45.50433374771937
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9263,
+                "stop_name": "SE Division & 148th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51374696558521,
+                    45.504285889100004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1399,
+                "stop_name": "SE Division & 145th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.51675000636155,
+                    45.50423488307359
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1396,
+                "stop_name": "SE Division & 142nd",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52124151161344,
+                    45.50420428062529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1392,
+                "stop_name": "SE Division & 139th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52456341172307,
+                    45.50417172258097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1390,
+                "stop_name": "SE Division & 135th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52762800692027,
+                    45.504149882709555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1309,
+                "stop_name": "13100 Block SE Division",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53062221465235,
+                    45.504187714390184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1387,
+                "stop_name": "SE Division & 130th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53547727558824,
+                    45.5041841874769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1382,
+                "stop_name": "SE Division & 124th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53837990258612,
+                    45.50421640859436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1381,
+                "stop_name": "SE Division & 122nd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54076973598671,
+                    45.504236834537004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1374,
+                "stop_name": "SE Division & 119th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54504659636898,
+                    45.50428351831746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1371,
+                "stop_name": "SE Division & 115th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54778371268208,
+                    45.50430569269982
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1369,
+                "stop_name": "SE Division & 112th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55010370941221,
+                    45.504324719358195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1367,
+                "stop_name": "SE Division & 110th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55369244542673,
+                    45.50434390216374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1364,
+                "stop_name": "SE Division & 106th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5561132247781,
+                    45.504377425186796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1362,
+                "stop_name": "SE Division & 104th Dr",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55942586968517,
+                    45.50442788262342
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1360,
+                "stop_name": "SE Division & 101st",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56916486455377,
+                    45.504611729229694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1506,
+                "stop_name": "SE Division & 92nd",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57216855657803,
+                    45.50465281254427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1502,
+                "stop_name": "SE Division & 89th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5755690078767,
+                    45.504714062201394
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1501,
+                "stop_name": "SE Division & 85th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57907314257905,
+                    45.50503398235622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1499,
+                "stop_name": "SE Division & 82nd",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58335361898413,
+                    45.505462923431054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1492,
+                "stop_name": "SE Division & 77th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58514344981387,
+                    45.505462921275594
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1490,
+                "stop_name": "SE Division & 76th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58684246074012,
+                    45.50545071437715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1488,
+                "stop_name": "SE Division & 74th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58966403165232,
+                    45.50545237042704
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1487,
+                "stop_name": "SE Division & 71st",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59403799870734,
+                    45.50545726887909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1313,
+                "stop_name": "SE Division & 68th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59735151771065,
+                    45.50544698927758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1481,
+                "stop_name": "SE Division & 64th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60007505001816,
+                    45.505425638332035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9248,
+                "stop_name": "SE Division & 61st",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6021388401973,
+                    45.505414024830706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1478,
+                "stop_name": "SE Division & 60th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60409330198655,
+                    45.50540586802872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1476,
+                "stop_name": "SE Division & 58th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60880721585337,
+                    45.505382365392755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1472,
+                "stop_name": "SE Division & 52nd",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61067653229338,
+                    45.505359287728595
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1470,
+                "stop_name": "SE Division & 50th",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61308012866593,
+                    45.5053576252669
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1468,
+                "stop_name": "SE Division & 48th",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61600309469999,
+                    45.50533464333851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1466,
+                "stop_name": "SE Division & 45th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62018584034998,
+                    45.504828100327686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1461,
+                "stop_name": "SE Division & 41st",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63991199086868,
+                    45.504859324059474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1442,
+                "stop_name": "SE Division & 26th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64575743666397,
+                    45.50487454717647
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1341,
+                "stop_name": "SE Division & Ladd",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64850023338579,
+                    45.50487535911473
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1420,
+                "stop_name": "SE Division & 17th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65419546555583,
+                    45.50491256357565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1376,
+                "stop_name": "SE Division & 12th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65813699751081,
+                    45.5061054922617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1496,
+                "stop_name": "SE Division & 8th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65862536024495,
+                    45.507506018826966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7858,
+                "stop_name": "SE 7th & Grant",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65860326005098,
+                    45.50890677528876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7860,
+                "stop_name": "SE 7th & Harrison",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65859141438497,
+                    45.511749263157554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7856,
+                "stop_name": "SE 7th & Clay",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6605999177371,
+                    45.51300850586375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3633,
+                "stop_name": "SE Madison & Grand",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66618415534144,
+                    45.51302146331124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2642,
+                "stop_name": "Hawthorne Bridge",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6755664258467,
+                    45.51526245975885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 11956,
+                "stop_name": "SW Main & 2nd",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.672585529107,
+                    45.52521262950162
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1612,
+                "stop_name": "NW Everett & 2nd",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66564585634002,
+                    45.53066891965364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1097,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6666236684453,
+                    45.533552838450504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9547,
+                "stop_name": "N Williams & Wheeler",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66663752246941,
+                    45.53580856369056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6357,
+                "stop_name": "N Williams & NE Broadway",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66661464528933,
+                    45.53825018165953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6370,
+                "stop_name": "N Williams & NE Tillamook",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66658651074485,
+                    45.54135771299315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6354,
+                "stop_name": "N Williams & NE Russell",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66657071302308,
+                    45.54273275380297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6362,
+                "stop_name": "N Williams & NE Graham",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66655454203638,
+                    45.54444916080716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6364,
+                "stop_name": "N Williams & NE Morris",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6666065649511,
+                    45.54697712624407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6359,
+                "stop_name": "N Williams & NE Cook",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66890861677605,
+                    45.54831144077047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1841,
+                "stop_name": "N Fremont & Gantenbein",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67205968534114,
+                    45.54832307618826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10650,
+                "stop_name": "N Fremont & Kerby",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67478665489053,
+                    45.54788932487554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1843,
+                "stop_name": "N Fremont & Albina",
+                "stop_seq": 5200,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67546189625985,
+                    45.54949377420475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3955,
+                "stop_name": "N Mississippi & Beech",
+                "stop_seq": 5250,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67545692520157,
+                    45.55072770147523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3958,
+                "stop_name": "N Mississippi & Failing",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67544599873203,
+                    45.55368983506545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3966,
+                "stop_name": "N Mississippi & Mason",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67542315147915,
+                    45.55484209364899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3976,
+                "stop_name": "N Mississippi & Skidmore",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67485769938038,
+                    45.55713893231906
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 76,
+                "stop_name": "N Albina & Blandena",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6749337112962,
+                    45.55889574696263
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 73,
+                "stop_name": "N Albina & Alberta",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67490702966191,
+                    45.560343398479034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 94,
+                "stop_name": "N Albina & Sumner",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67487399596729,
+                    45.56295646205091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 88,
+                "stop_name": "N Albina & Killingsworth",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6748118171895,
+                    45.5666311686424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 71,
+                "stop_name": "N Albina & Ainsworth",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67478864201064,
+                    45.568704826463126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 84,
+                "stop_name": "N Albina & Holman",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67480146951603,
+                    45.57036090970164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 91,
+                "stop_name": "N Albina & Rosa Parks Way",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67477752698301,
+                    45.5716747543674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 82,
+                "stop_name": "N Albina & Dekum",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67475010934483,
+                    45.57329599864092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 78,
+                "stop_name": "N Albina & Bryant",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67473408005336,
+                    45.575057287235616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 80,
+                "stop_name": "N Albina & Buffalo",
+                "stop_seq": 5950,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67469287193408,
+                    45.57686899460576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 93,
+                "stop_name": "N Albina & Lombard St",
+                "stop_seq": 6000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67618221300725,
+                    45.57728689755923
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3521,
+                "stop_name": "N Lombard & Mississippi",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68270111592216,
+                    45.57723180356185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3507,
+                "stop_name": "N Lombard Transit Center",
+                "stop_seq": 6100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68658236618056,
+                    45.57720228218434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3485,
+                "stop_name": "N Lombard & Denver",
+                "stop_seq": 6150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68676357794858,
+                    45.57943500196464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1300,
+                "stop_name": "N Denver & Terry",
+                "stop_seq": 6200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68677402090536,
+                    45.5811845081035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1303,
+                "stop_name": "N Denver & Watts",
+                "stop_seq": 6250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69228761770357,
+                    45.58269053723241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2315,
+                "stop_name": "N Halleck & Delaware",
+                "stop_seq": 6400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69698788726875,
+                    45.582771840880916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 2317,
+                "stop_name": "N Halleck & Peninsular",
+                "stop_seq": 6450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69764263988985,
+                    45.58406139281336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6384,
+                "stop_name": "N Willis & Peninsular",
+                "stop_seq": 6500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70032600631652,
+                    45.58408506772507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6373,
+                "stop_name": "N Willis & Bayard",
+                "stop_seq": 6550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70276182789246,
+                    45.58407098378228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6378,
+                "stop_name": "N Willis & Wabash",
+                "stop_seq": 6600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70559756578143,
+                    45.58407126105578
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 6387,
+                "stop_name": "N Willis & Washburne",
+                "stop_seq": 6650,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70765923298106,
+                    45.584104848054054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 10611,
+                "stop_name": "N Willis & Chautauqua",
+                "stop_seq": 6700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70689816498867,
+                    45.58582794547123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1045,
+                "stop_name": "N Chautauqua & Washburne",
+                "stop_seq": 6750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70529767319519,
+                    45.58770594793616
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1047,
+                "stop_name": "N Chautauqua & Alaska",
+                "stop_seq": 6800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70773356680573,
+                    45.587877039991845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 43,
+                "stop_name": "N Alaska & Chautauqua Pl",
+                "stop_seq": 6850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71021694484027,
+                    45.587885127734296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 45,
+                "stop_name": "N Alaska & University Park",
+                "stop_seq": 6900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71187509707939,
+                    45.58869793949737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5862,
+                "stop_name": "N Trenton & Alaska",
+                "stop_seq": 6950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71547987540848,
+                    45.58870686124237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 12727,
+                "stop_name": "N Trenton & Newman",
+                "stop_seq": 7000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71775254755784,
+                    45.59123724357668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 12725,
+                "stop_name": "N Fessenden & Haven",
+                "stop_seq": 7050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72087312741667,
+                    45.59127377468635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1719,
+                "stop_name": "N Fessenden & Portsmouth",
+                "stop_seq": 7100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72301428651595,
+                    45.59128956443184
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1721,
+                "stop_name": "N Fessenden & Van Houten",
+                "stop_seq": 7150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72575776114927,
+                    45.59131521030166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1700,
+                "stop_name": "N Fessenden & Berkeley",
+                "stop_seq": 7200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72808094782245,
+                    45.59174330081034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1723,
+                "stop_name": "N Fessenden & Wall",
+                "stop_seq": 7250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73205654405727,
+                    45.59275326998952
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1708,
+                "stop_name": "N Fessenden & Columbia Way",
+                "stop_seq": 7300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73524361146603,
+                    45.59357506691388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1713,
+                "stop_name": "N Fessenden & Midway",
+                "stop_seq": 7350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73815666713377,
+                    45.59426104834131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1704,
+                "stop_name": "N Fessenden & Burr",
+                "stop_seq": 7400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74103235150142,
+                    45.594941229092655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1718,
+                "stop_name": "N Fessenden & Tioga",
+                "stop_seq": 7450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74394086686341,
+                    45.59563175974666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1698,
+                "stop_name": "N Fessenden & Allegheny",
+                "stop_seq": 7500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74682188868687,
+                    45.596303229876554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1715,
+                "stop_name": "N Fessenden & Richmond",
+                "stop_seq": 7550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75154235200301,
+                    45.59598305809049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5374,
+                "stop_name": "N St Louis & Seneca",
+                "stop_seq": 7650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75349140418999,
+                    45.59502271748985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 5375,
+                "stop_name": "N St Louis & Smith",
+                "stop_seq": 7700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67641501100557,
+                    45.52288023548451
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7751,
+                "stop_name": "SW 6th & W Burnside",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67931555136094,
+                    45.517604401611315
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7800,
+                "stop_name": "SW 6th & Taylor",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67752142826667,
+                    45.52093066747804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7797,
+                "stop_name": "SW 6th & Stark",
+                "stop_seq": 4175,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67562192275052,
+                    45.525182448494625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 8886,
+                "stop_name": "NW Everett & 5th",
+                "stop_seq": 4325,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74901101970514,
+                    45.59677021358692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13479,
+                "stop_name": "N Fessenden & Iris Way",
+                "stop_seq": 7600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61893324887767,
+                    45.50525082190763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 9265,
+                "stop_name": "SE Division & 42nd",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67865107999347,
+                    45.51693981225402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 7634,
+                "stop_name": "SW 5th & Salmon",
+                "stop_seq": 4125,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62206521840555,
+                    45.50484529051612
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1459,
+                "stop_name": "SE Division & Cesar Chavez Blvd",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62946448089714,
+                    45.50485970308838
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1452,
+                "stop_name": "SE Division & 34th",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63248012669433,
+                    45.50485452375487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1450,
+                "stop_name": "SE Division & 32nd",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63452145833182,
+                    45.50484036407164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1448,
+                "stop_name": "SE Division & 30th",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63655347694937,
+                    45.50485157668516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1444,
+                "stop_name": "SE Division & 28th Pl",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56741973088549,
+                    45.50457851966994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13298,
+                "stop_name": "SE Division & SE Division St MAX Station",
+                "stop_seq": 2125,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56270235988231,
+                    45.50448553893549
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1508,
+                "stop_name": "SE Division & 98th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45378235077987,
+                    45.504550274649944
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13312,
+                "stop_name": "NW Division & Wonderview",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62559081894211,
+                    45.50483852657195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 1457,
+                "stop_name": "SE Division & 37th",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68886993987574,
+                    45.58245851969282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3218,
+                "stop_name": "N Kilpatrick & Brandon",
+                "stop_seq": 6350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68729789266071,
+                    45.58244671187656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 3221,
+                "stop_name": "N Kilpatrick & Denver",
+                "stop_seq": 6300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64279328776409,
+                    45.50485294974311
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 4,
+                "rte_desc": "4-Division/Fessenden",
+                "stop_id": 13741,
+                "stop_name": "SE Division & 23rd",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

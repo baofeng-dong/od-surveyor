@@ -1,120 +1,2610 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1900, "stop_id": 46, "stop_name": "NE Alberta & M L King", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.661063506120911, 45.559061485588536 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2050, "stop_id": 48, "stop_name": "NE Alberta & 11th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.65469814315702, 45.559052211249224 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2100, "stop_id": 50, "stop_name": "NE Alberta & 13th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.652745230357084, 45.559045870904676 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2200, "stop_id": 54, "stop_name": "NE Alberta & 18th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.646899262747908, 45.559041393725209 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2400, "stop_id": 63, "stop_name": "NE Alberta & 27th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.637997318293472, 45.559003645795869 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2000, "stop_id": 69, "stop_name": "NE Alberta & 9th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.656696719208185, 45.559064454078658 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 850, "stop_id": 2195, "stop_name": "N Greeley & Going Overpass", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.692307923054642, 45.555588671703788 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 950, "stop_id": 2201, "stop_name": "N Greeley & Humboldt", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.693533066191051, 45.558733359922115 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1000, "stop_id": 2226, "stop_name": "N Greeley & Sumner", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.694555828589984, 45.560366445644753 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3280, "stop_id": 1243, "stop_name": "Cully & Killingsworth", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.59377518654199, 45.563024302913512 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 700, "stop_id": 115, "stop_name": "N Anchor & Channel", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.703932340765363, 45.556745196024082 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1800, "stop_id": 5927, "stop_name": "NE M L King & Killingsworth", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.661571169529083, 45.562345792186903 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3575, "stop_id": 8889, "stop_name": "NE 82nd & Webster", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578650924559795, 45.559871922794542 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3300, "stop_id": 10600, "stop_name": "NE Killingsworth & Cully", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.594824371116403, 45.562631387994124 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5275, "stop_id": 8237, "stop_name": "SE 82nd & Boise", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578911522363839, 45.492165591840561 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 800, "stop_id": 9399, "stop_name": "N Going & Port Center Way", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.698512215729792, 45.55596383582769 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1050, "stop_id": 9403, "stop_name": "N Killingsworth & Greeley", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.695026844642683, 45.562679040378875 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2300, "stop_id": 11471, "stop_name": "NE Alberta & 21st", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.643983065250552, 45.559032929333185 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1450, "stop_id": 3153, "stop_name": "N Killingsworth & Albina", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675126376867823, 45.562641049190368 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2900, "stop_id": 3144, "stop_name": "4500 Block NE Killingsworth", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.615882935269127, 45.56269662331529 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3150, "stop_id": 3145, "stop_name": "5700 Block NE Killingsworth", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.603711406890994, 45.562652454120567 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3200, "stop_id": 3146, "stop_name": "NE Killingsworth & 60th", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.600962159938817, 45.562679029950118 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1550, "stop_id": 3156, "stop_name": "N Killingsworth & Commercial", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.6713569177697, 45.562656033925805 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1100, "stop_id": 3160, "stop_name": "N Killingsworth & Delaware", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.692703361886302, 45.5626903332832 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1200, "stop_id": 3162, "stop_name": "N Killingsworth & Denver", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.687675461303414, 45.562629157418691 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1750, "stop_id": 3165, "stop_name": "NE Killingsworth & Garfield", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.663227026172109, 45.562683951295014 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1300, "stop_id": 3169, "stop_name": "N Killingsworth & Interstate", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681679600231149, 45.562592682040133 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1400, "stop_id": 3173, "stop_name": "N Killingsworth & Michigan", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677149200866424, 45.562634387047922 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1600, "stop_id": 3183, "stop_name": "N Killingsworth & Vancouver", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.668882907565362, 45.562648991860819 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3550, "stop_id": 3185, "stop_name": "8100 Block NE Killingsworth", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579615192236957, 45.562544719541272 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2650, "stop_id": 3191, "stop_name": "NE Killingsworth & 33rd", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.630332025756175, 45.562658899516691 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2700, "stop_id": 3193, "stop_name": "NE Killingsworth & 35th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.628785256347541, 45.562669930698753 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2750, "stop_id": 3195, "stop_name": "NE Killingsworth & 36th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.626742148353983, 45.562694478762644 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2850, "stop_id": 3199, "stop_name": "NE Killingsworth & 42nd", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.619908630754779, 45.562711065503315 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2950, "stop_id": 3202, "stop_name": "NE Killingsworth & 49th", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.611646055537619, 45.562673327258445 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6100, "stop_id": 7996, "stop_name": "SE 82nd & Lindy", "jurisdic": "Clackamas Co.", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579206209715522, 45.458502003407816 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2450, "stop_id": 11722, "stop_name": "NE Alberta & 30th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.634960991727425, 45.558995833647678 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6400, "stop_id": 7921, "stop_name": "SE 82nd & Boyer Drive", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579068460076002, 45.444219805085815 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4600, "stop_id": 7929, "stop_name": "SE 82nd & Alder", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579114866671162, 45.517790611400507 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4500, "stop_id": 7931, "stop_name": "SE 82nd & Ash", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579181017714433, 45.520881649364519 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4300, "stop_id": 7932, "stop_name": "NE 82nd & Pacific", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579166429647842, 45.529034120026466 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3750, "stop_id": 7934, "stop_name": "NE 82nd & Beech", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578822051681726, 45.549734296099039 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4450, "stop_id": 7937, "stop_name": "NE 82nd & E Burnside", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579200804078368, 45.522920719884418 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6450, "stop_id": 7942, "stop_name": "SE 82nd & Causey", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579108658063845, 45.441552353548609 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6025, "stop_id": 7945, "stop_name": "SE 82nd & Clatsop", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579159395314491, 45.461642136683409 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6050, "stop_id": 7952, "stop_name": "SE 82nd & Cornwell", "jurisdic": "Clackamas Co.", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579196069266203, 45.460024827088333 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4400, "stop_id": 7956, "stop_name": "NE 82nd & Davis", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579187037429449, 45.524704315644215 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5700, "stop_id": 7961, "stop_name": "SE 82nd & Duke", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579189051369937, 45.476015046418851 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5850, "stop_id": 7963, "stop_name": "SE 82nd & Flavel", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579163625648974, 45.468870751420489 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3800, "stop_id": 7966, "stop_name": "NE 82nd & Fremont", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578862196502385, 45.548346199939743 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 750, "stop_id": 8681, "stop_name": "N Channel Ave & Ports O Call", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.702286369899426, 45.556373814447966 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6300, "stop_id": 7969, "stop_name": "SE 82nd & Glencoe", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579133996810498, 45.449226006771596 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4350, "stop_id": 7973, "stop_name": "NE 82nd & Glisan", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579179815660467, 45.526762823094238 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4250, "stop_id": 7978, "stop_name": "NE 82nd & Hassalo", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579151241158314, 45.530994457225596 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4800, "stop_id": 7980, "stop_name": "SE 82nd & Hawthorne", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578826692347874, 45.51244865440276 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5300, "stop_id": 7986, "stop_name": "SE 82nd & Holgate", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578969183692095, 45.490480427131395 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5900, "stop_id": 7994, "stop_name": "SE 82nd & Lambert", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579172464315604, 45.467020800797499 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4200, "stop_id": 8000, "stop_name": "NE 82nd & 82nd Ave MAX Stn\/I-84", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579190653511404, 45.533493020060526 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3950, "stop_id": 8002, "stop_name": "NE 82nd & Madison HS", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578977993419343, 45.542326514203808 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4750, "stop_id": 8004, "stop_name": "SE 82nd & Main", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578882545543792, 45.513668261160845 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5450, "stop_id": 8009, "stop_name": "SE 82nd & Mitchell", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.57907593609616, 45.48491679673166 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5800, "stop_id": 8013, "stop_name": "SE 82nd & Ogden", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579173436836257, 45.471083910860187 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5150, "stop_id": 8024, "stop_name": "SE 82nd & Powell", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.57887571840115, 45.497110051477826 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3650, "stop_id": 8025, "stop_name": "NE 82nd & Prescott", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578740170771397, 45.554997276087327 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5550, "stop_id": 8028, "stop_name": "SE 82nd & Ramona", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579099322717383, 45.481063845334567 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5400, "stop_id": 8030, "stop_name": "SE 82nd & Raymond", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579004043618539, 45.486678474188025 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4000, "stop_id": 8034, "stop_name": "NE 82nd & Russell", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579012506427958, 45.540846051656288 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4150, "stop_id": 8043, "stop_name": "NE 82nd & Schuyler", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579095124727019, 45.535889188005562 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3900, "stop_id": 8045, "stop_name": "NE 82nd & Siskiyou", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578926591586608, 45.544691578176007 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4550, "stop_id": 8048, "stop_name": "SE 82nd & Stark", "jurisdic": "Portland", "zipcode": "97215", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579218399260867, 45.519294127443771 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5100, "stop_id": 8053, "stop_name": "SE 82nd & Tibbetts", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578833161888909, 45.500180687972666 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4100, "stop_id": 8056, "stop_name": "NE 82nd & Tillamook", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579074956689411, 45.53740243352653 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5600, "stop_id": 8060, "stop_name": "SE 82nd & Woodstock", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579123114470832, 45.479685279475447 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5050, "stop_id": 8062, "stop_name": "SE 82nd & Woodward", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578823075263003, 45.501174565830866 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3600, "stop_id": 8064, "stop_name": "NE 82nd & Wygant", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578700380890922, 45.558299802275712 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4650, "stop_id": 8066, "stop_name": "SE 82nd & Yamhill", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579003352094503, 45.515936183303538 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6250, "stop_id": 8016, "stop_name": "SE 82nd & Otty", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579185018248197, 45.451013673123619 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3100, "stop_id": 3208, "stop_name": "NE Killingsworth & 55th", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.605909278777261, 45.562658936966841 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2550, "stop_id": 7329, "stop_name": "NE 30th & Killingsworth", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.634779851342302, 45.562623039374479 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1150, "stop_id": 3179, "stop_name": "N Killingsworth & Gay Ave", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.690132187462993, 45.562677298100581 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4900, "stop_id": 7923, "stop_name": "2200 Block SE 82nd", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578794058006622, 45.507167256483712 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5000, "stop_id": 7948, "stop_name": "SE 82nd & Clinton", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578801868559353, 45.503550381168523 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4950, "stop_id": 7958, "stop_name": "SE 82nd & Division", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578794515413406, 45.505068609554847 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6350, "stop_id": 7990, "stop_name": "SE 82nd & King", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579070785900569, 45.446588179559598 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5350, "stop_id": 8041, "stop_name": "SE 82nd & Schiller", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578956226302139, 45.488081478987333 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4850, "stop_id": 8008, "stop_name": "SE 82nd & Mill", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578803269826707, 45.509805379028109 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2525, "stop_id": 7327, "stop_name": "NE 30th & Emerson", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.63479899085705, 45.561414854727261 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6150, "stop_id": 7988, "stop_name": "SE 82nd & Johnson Creek", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579268789536243, 45.456409012986498 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1950, "stop_id": 11478, "stop_name": "NE Alberta & 7th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.658734331635074, 45.559053137571773 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6200, "stop_id": 8018, "stop_name": "SE 82nd & Overland", "jurisdic": "Clackamas Co.", "zipcode": "97222", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579302851501836, 45.454393883935879 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1250, "stop_id": 3158, "stop_name": "N Killingsworth & Concord", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.685023273520031, 45.562638847050209 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 1500, "stop_id": 3171, "stop_name": "N Killingsworth & Kerby", "jurisdic": "Portland", "zipcode": "97217", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.673145789382829, 45.562648704430892 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3500, "stop_id": 3186, "stop_name": "7600 Block NE Killingsworth", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.582864748554897, 45.562543581861881 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2800, "stop_id": 3198, "stop_name": "NE Killingsworth & Cesar Chavez Blvd", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.623566232960187, 45.562704196872417 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2600, "stop_id": 3190, "stop_name": "NE Killingsworth & 32nd", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.632886150363731, 45.562651546236793 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3000, "stop_id": 3204, "stop_name": "NE Killingsworth & 52nd", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.609223019855222, 45.562658723413634 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3400, "stop_id": 3211, "stop_name": "NE Killingsworth & 72nd", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.588125955318603, 45.562543594511681 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3250, "stop_id": 3148, "stop_name": "NE Killingsworth & 64th", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.597211648956247, 45.562630639555763 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3850, "stop_id": 7992, "stop_name": "NE 82nd & Klickitat", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.57889326489186, 45.546423365615283 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3265, "stop_id": 10601, "stop_name": "NE Killingsworth & Cully", "jurisdic": "Portland", "zipcode": "97218", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.593859330937448, 45.56279689267577 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5215, "stop_id": 13707, "stop_name": "SE 82nd & Center", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578889273710558, 45.49362445049286 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2500, "stop_id": 7330, "stop_name": "NE 30th & Sumner", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.634790068838768, 45.560169983647853 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5950, "stop_id": 7954, "stop_name": "SE 82nd & Crystal Springs", "jurisdic": "Portland", "zipcode": "97206", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579167784750823, 45.464196614012835 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5650, "stop_id": 8058, "stop_name": "SE 82nd & Tolman", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579173780033415, 45.477735978053516 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6600, "stop_id": 13247, "stop_name": "Clackamas Town Center TC", "jurisdic": "Clackamas Co.", "zipcode": "97086", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.56813401888509, 45.435555074164469 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6675, "stop_id": 13248, "stop_name": "Clackamas Town Center Transit Center", "jurisdic": "Clackamas Co.", "zipcode": "97086", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.568707452947379, 45.435669419483048 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2150, "stop_id": 52, "stop_name": "NE Alberta & 15th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.64987700683875, 45.559035391436339 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5500, "stop_id": 7965, "stop_name": "SE 82nd & Insley", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579097148493815, 45.483622270576234 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 6550, "stop_id": 12921, "stop_name": "Clackamas Town Center Mall", "jurisdic": "Clackamas Co.", "zipcode": "97086", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.57331242700954, 45.437310329219926 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 3700, "stop_id": 8038, "stop_name": "NE 82nd & Sandy", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578801869562554, 45.552700433790399 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 2350, "stop_id": 60, "stop_name": "NE Alberta & 24th", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.641042344304253, 45.559009087269764 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 4050, "stop_id": 8035, "stop_name": "NE 82nd & Thompson", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579043057619373, 45.538840548867938 ] } },
-{ "type": "Feature", "properties": { "rte": 72, "dir": 1, "rte_desc": "72-Killingsworth\/82nd Ave", "dir_desc": "To Clackamas Town Center", "type": "BUS", "stop_seq": 5750, "stop_id": 7950, "stop_name": "SE 82nd & Cooper", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.579189370257126, 45.473722264881758 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70393234076536,
+                    45.55674519602408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 115,
+                "stop_name": "N Anchor & Channel",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70228636989943,
+                    45.556373814447966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8681,
+                "stop_name": "N Channel Ave & Ports O Call",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69230792305464,
+                    45.55558867170379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 2195,
+                "stop_name": "N Greeley & Going Overpass",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69353306619105,
+                    45.558733359922115
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 2201,
+                "stop_name": "N Greeley & Humboldt",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69013218746299,
+                    45.56267729810058
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3179,
+                "stop_name": "N Killingsworth & Gay Ave",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68767546130341,
+                    45.56262915741869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3162,
+                "stop_name": "N Killingsworth & Denver",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68167960023115,
+                    45.56259268204013
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3169,
+                "stop_name": "N Killingsworth & Interstate",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6713569177697,
+                    45.562656033925805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3156,
+                "stop_name": "N Killingsworth & Commercial",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66888290756536,
+                    45.56264899186082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3183,
+                "stop_name": "N Killingsworth & Vancouver",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66157116952908,
+                    45.5623457921869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 5927,
+                "stop_name": "NE M L King & Killingsworth",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65469814315702,
+                    45.559052211249224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 48,
+                "stop_name": "NE Alberta & 11th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63799731829347,
+                    45.55900364579587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 63,
+                "stop_name": "NE Alberta & 27th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63479899085705,
+                    45.56141485472726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7327,
+                "stop_name": "NE 30th & Emerson",
+                "stop_seq": 2525,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6347798513423,
+                    45.56262303937448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7329,
+                "stop_name": "NE 30th & Killingsworth",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63288615036373,
+                    45.56265154623679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3190,
+                "stop_name": "NE Killingsworth & 32nd",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63033202575618,
+                    45.56265889951669
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3191,
+                "stop_name": "NE Killingsworth & 33rd",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62878525634754,
+                    45.56266993069875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3193,
+                "stop_name": "NE Killingsworth & 35th",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61995490454346,
+                    45.56269512266487
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3199,
+                "stop_name": "NE Killingsworth & 42nd",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61588293526913,
+                    45.56269662331529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3144,
+                "stop_name": "4500 Block NE Killingsworth",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61164605553762,
+                    45.562673327258445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3202,
+                "stop_name": "NE Killingsworth & 49th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60922301985522,
+                    45.562658723413634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3204,
+                "stop_name": "NE Killingsworth & 52nd",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60590927877726,
+                    45.56265893696684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3208,
+                "stop_name": "NE Killingsworth & 55th",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.603711406891,
+                    45.56265245412057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3145,
+                "stop_name": "5700 Block NE Killingsworth",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59721164895625,
+                    45.56263063955576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3148,
+                "stop_name": "NE Killingsworth & 64th",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5881259553186,
+                    45.56254359451168
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3211,
+                "stop_name": "NE Killingsworth & 72nd",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5828647485549,
+                    45.56254358186188
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3186,
+                "stop_name": "7600 Block NE Killingsworth",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57961519223696,
+                    45.56254471954127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3185,
+                "stop_name": "8100 Block NE Killingsworth",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5786509245598,
+                    45.55987192279454
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8889,
+                "stop_name": "NE 82nd & Webster",
+                "stop_seq": 3575,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57870038089092,
+                    45.55829980227571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8064,
+                "stop_name": "NE 82nd & Wygant",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5787401707714,
+                    45.55499727608733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8025,
+                "stop_name": "NE 82nd & Prescott",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57880186956255,
+                    45.5527004337904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8038,
+                "stop_name": "NE 82nd & Sandy",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57882205168173,
+                    45.54973429609904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7934,
+                "stop_name": "NE 82nd & Beech",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57897799341934,
+                    45.54232651420381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8002,
+                "stop_name": "NE 82nd & Madison HS",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57901250642796,
+                    45.54084605165629
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8034,
+                "stop_name": "NE 82nd & Russell",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57907495668941,
+                    45.53740243352653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8056,
+                "stop_name": "NE 82nd & Tillamook",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57909512472702,
+                    45.53588918800556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8043,
+                "stop_name": "NE 82nd & Schuyler",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57915124115831,
+                    45.530994457225596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7978,
+                "stop_name": "NE 82nd & Hassalo",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57917981566047,
+                    45.52676282309424
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7973,
+                "stop_name": "NE 82nd & Glisan",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57918703742945,
+                    45.524704315644215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7956,
+                "stop_name": "NE 82nd & Davis",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57918101771443,
+                    45.52088164936452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7931,
+                "stop_name": "SE 82nd & Ash",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57882669234787,
+                    45.51244865440276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7980,
+                "stop_name": "SE 82nd & Hawthorne",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5787945154134,
+                    45.50506860955485
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7958,
+                "stop_name": "SE 82nd & Division",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57880186855935,
+                    45.50355038116852
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7948,
+                "stop_name": "SE 82nd & Clinton",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57883316188891,
+                    45.500180687972666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8053,
+                "stop_name": "SE 82nd & Tibbetts",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57891152236384,
+                    45.49216559184056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8237,
+                "stop_name": "SE 82nd & Boise",
+                "stop_seq": 5275,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57895622630214,
+                    45.48808147898733
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8041,
+                "stop_name": "SE 82nd & Schiller",
+                "stop_seq": 5350,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57909714849382,
+                    45.483622270576234
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7965,
+                "stop_name": "SE 82nd & Insley",
+                "stop_seq": 5500,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57912311447083,
+                    45.47968527947545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8060,
+                "stop_name": "SE 82nd & Woodstock",
+                "stop_seq": 5600,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57917343683626,
+                    45.47108391086019
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8013,
+                "stop_name": "SE 82nd & Ogden",
+                "stop_seq": 5800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5791724643156,
+                    45.4670208007975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7994,
+                "stop_name": "SE 82nd & Lambert",
+                "stop_seq": 5900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57915939531449,
+                    45.46164213668341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7945,
+                "stop_name": "SE 82nd & Clatsop",
+                "stop_seq": 6025,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57926878953624,
+                    45.4564090129865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7988,
+                "stop_name": "SE 82nd & Johnson Creek",
+                "stop_seq": 6150,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5791339968105,
+                    45.449226006771596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7969,
+                "stop_name": "SE 82nd & Glencoe",
+                "stop_seq": 6300,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.579068460076,
+                    45.444219805085815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7921,
+                "stop_name": "SE 82nd & Boyer Drive",
+                "stop_seq": 6400,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57910865806384,
+                    45.44155235354861
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7942,
+                "stop_name": "SE 82nd & Causey",
+                "stop_seq": 6450,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5948243711164,
+                    45.562631387994124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 10600,
+                "stop_name": "NE Killingsworth & Cully",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63480008936891,
+                    45.56017031202873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7330,
+                "stop_name": "NE 30th & Sumner",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57886219650239,
+                    45.54834619993974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7966,
+                "stop_name": "NE 82nd & Fremont",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57892659158661,
+                    45.54469157817601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8045,
+                "stop_name": "NE 82nd & Siskiyou",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57904305761937,
+                    45.53884054886794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8035,
+                "stop_name": "NE 82nd & Thompson",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5791906535114,
+                    45.533493020060526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8000,
+                "stop_name": "NE 82nd & 82nd Ave MAX Stn/I-84",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57916642964784,
+                    45.529034120026466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7932,
+                "stop_name": "NE 82nd & Pacific",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57920080407837,
+                    45.52292071988442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7937,
+                "stop_name": "NE 82nd & E Burnside",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57911486667116,
+                    45.51779061140051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7929,
+                "stop_name": "SE 82nd & Alder",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57888254554379,
+                    45.513668261160845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8004,
+                "stop_name": "SE 82nd & Main",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57879405800662,
+                    45.50716725648371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7923,
+                "stop_name": "2200 Block SE 82nd",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.578823075263,
+                    45.501174565830866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8062,
+                "stop_name": "SE 82nd & Woodward",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57887571840115,
+                    45.497110051477826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8024,
+                "stop_name": "SE 82nd & Powell",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5789691836921,
+                    45.490480427131395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7986,
+                "stop_name": "SE 82nd & Holgate",
+                "stop_seq": 5300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57907593609616,
+                    45.48491679673166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8009,
+                "stop_name": "SE 82nd & Mitchell",
+                "stop_seq": 5450,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57909932271738,
+                    45.48106384533457
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8028,
+                "stop_name": "SE 82nd & Ramona",
+                "stop_seq": 5550,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57918905136994,
+                    45.47601504641885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7961,
+                "stop_name": "SE 82nd & Duke",
+                "stop_seq": 5700,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57916362564897,
+                    45.46887075142049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7963,
+                "stop_name": "SE 82nd & Flavel",
+                "stop_seq": 5850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57916778475082,
+                    45.464196614012835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7954,
+                "stop_name": "SE 82nd & Crystal Springs",
+                "stop_seq": 5950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57920620971552,
+                    45.458502003407816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7996,
+                "stop_name": "SE 82nd & Lindy",
+                "stop_seq": 6100,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5791850182482,
+                    45.45101367312362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8016,
+                "stop_name": "SE 82nd & Otty",
+                "stop_seq": 6250,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57907078590057,
+                    45.4465881795596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7990,
+                "stop_name": "SE 82nd & King",
+                "stop_seq": 6350,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69851221572979,
+                    45.55596383582769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 9399,
+                "stop_name": "N Going & Port Center Way",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69455582858998,
+                    45.56036644564475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 2226,
+                "stop_name": "N Greeley & Sumner",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6927033618863,
+                    45.5626903332832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3160,
+                "stop_name": "N Killingsworth & Delaware",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68502327352003,
+                    45.56263884705021
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3158,
+                "stop_name": "N Killingsworth & Concord",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67714920086642,
+                    45.56263438704792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3173,
+                "stop_name": "N Killingsworth & Michigan",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67314578938283,
+                    45.56264870443089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3171,
+                "stop_name": "N Killingsworth & Kerby",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66322702617211,
+                    45.562683951295014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3165,
+                "stop_name": "NE Killingsworth & Garfield",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65274523035708,
+                    45.559045870904676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 50,
+                "stop_name": "NE Alberta & 13th",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64689926274791,
+                    45.55904139372521
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 54,
+                "stop_name": "NE Alberta & 18th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64104234430425,
+                    45.559009087269764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 60,
+                "stop_name": "NE Alberta & 24th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5790033520945,
+                    45.51593618330354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8066,
+                "stop_name": "SE 82nd & Yamhill",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57917378003341,
+                    45.477735978053516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8058,
+                "stop_name": "SE 82nd & Tolman",
+                "stop_seq": 5650,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5791960692662,
+                    45.46002482708833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7952,
+                "stop_name": "SE 82nd & Cornwell",
+                "stop_seq": 6050,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64398306525055,
+                    45.559032929333185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 11471,
+                "stop_name": "NE Alberta & 21st",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65873433163507,
+                    45.55905313757177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 11478,
+                "stop_name": "NE Alberta & 7th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69502684464268,
+                    45.562679040378875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 9403,
+                "stop_name": "N Killingsworth & Greeley",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66106350612091,
+                    45.559061485588536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 46,
+                "stop_name": "NE Alberta & M L King",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57889326489186,
+                    45.54642336561528
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7992,
+                "stop_name": "NE 82nd & Klickitat",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57900404361854,
+                    45.486678474188025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8030,
+                "stop_name": "SE 82nd & Raymond",
+                "stop_seq": 5400,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57930285150184,
+                    45.45439388393588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8018,
+                "stop_name": "SE 82nd & Overland",
+                "stop_seq": 6200,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67512637686782,
+                    45.56264104919037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3153,
+                "stop_name": "N Killingsworth & Albina",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57331242700954,
+                    45.437310329219926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 12921,
+                "stop_name": "Clackamas Town Center Mall",
+                "stop_seq": 6550,
+                "type": "BUS",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57921839926087,
+                    45.51929412744377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8048,
+                "stop_name": "SE 82nd & Stark",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97215"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65666970862402,
+                    45.55906667548248
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 69,
+                "stop_name": "NE Alberta & 9th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60096215993882,
+                    45.56267902995012
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3146,
+                "stop_name": "NE Killingsworth & 60th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59385933093745,
+                    45.56279689267577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 10601,
+                "stop_name": "NE Killingsworth & Cully",
+                "stop_seq": 3265,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59377518654199,
+                    45.56302430291351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 1243,
+                "stop_name": "NE Cully & Killingsworth",
+                "stop_seq": 3280,
+                "type": "BUS",
+                "zipcode": "97218"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62674214835398,
+                    45.562694478762644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3195,
+                "stop_name": "NE Killingsworth & 36th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57880326982671,
+                    45.50980537902811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 8008,
+                "stop_name": "SE 82nd & Mill",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64987700683875,
+                    45.55903539143634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 52,
+                "stop_name": "NE Alberta & 15th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63496099172743,
+                    45.55899583364768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 11722,
+                "stop_name": "NE Alberta & 30th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62356623296019,
+                    45.56270419687242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 3198,
+                "stop_name": "NE Killingsworth & Cesar Chavez Blvd",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57918937025713,
+                    45.47372226488176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 7950,
+                "stop_name": "SE 82nd & Cooper",
+                "stop_seq": 5750,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56870745294738,
+                    45.43566941948305
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 13248,
+                "stop_name": "Clackamas Town Center Transit Center",
+                "stop_seq": 6675,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57888927371056,
+                    45.49362445049286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 13707,
+                "stop_name": "SE 82nd & Center",
+                "stop_seq": 5215,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56813401888509,
+                    45.43555507416447
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Clackamas Town Center",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 72,
+                "rte_desc": "72-Killingsworth/82nd Ave",
+                "stop_id": 13247,
+                "stop_name": "Clackamas Town Center TC",
+                "stop_seq": 6600,
+                "type": "BUS",
+                "zipcode": "97015"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

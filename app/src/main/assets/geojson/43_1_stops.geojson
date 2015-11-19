@@ -1,83 +1,1759 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2100, "stop_id": 2804, "stop_name": "SW Huber & Capitol Hwy", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.721124992361268, 45.452303374316365 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3550, "stop_id": 4102, "stop_name": "SW Nebraska & Corbett", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676770182581322, 45.477340317340008 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4050, "stop_id": 1128, "stop_name": "SW Corbett & Bancroft", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676135328672245, 45.492249979791396 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3800, "stop_id": 1129, "stop_name": "SW Corbett & Boundary St", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676703702516633, 45.484872105005891 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3600, "stop_id": 1130, "stop_name": "SW Corbett & Carolina", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676786450053356, 45.478622393867774 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3750, "stop_id": 1135, "stop_name": "SW Corbett & Flower", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676754337672861, 45.482415196586544 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4200, "stop_id": 1136, "stop_name": "SW Corbett & Gaines", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.67585700668397, 45.496441965177141 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4300, "stop_id": 1139, "stop_name": "SW Corbett & Gibbs", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675756265524541, 45.49928592897934 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4000, "stop_id": 1141, "stop_name": "SW Corbett & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676151187263017, 45.490763366642284 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4150, "stop_id": 1144, "stop_name": "SW Corbett & Lowell", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676074668118758, 45.493755873095118 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3850, "stop_id": 1146, "stop_name": "SW Corbett & Mitchell", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676682829188735, 45.486016280503257 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3900, "stop_id": 1152, "stop_name": "SW Corbett & Richardson", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.67667703039757, 45.487108105913293 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 300, "stop_id": 2282, "stop_name": "SW Hall & Greenburg", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.773643331628264, 45.453017068445895 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 550, "stop_id": 2299, "stop_name": "SW Hall & Washington", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.765567089458258, 45.450367559674774 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 450, "stop_id": 2308, "stop_name": "SW Hall & 88th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.76762510408507, 45.451096281448955 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 400, "stop_id": 2312, "stop_name": "SW Hall & 91st", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.770245950580673, 45.451913060618345 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 5000, "stop_id": 3398, "stop_name": "SW Lincoln & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679723088467199, 45.508033876057162 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2750, "stop_id": 5688, "stop_name": "SW Taylors Ferry & Marigold", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.691478657193343, 45.46051350860872 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2650, "stop_id": 5690, "stop_name": "1400 Block SW Taylors Ferry", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.693792389703518, 45.458263198797809 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2500, "stop_id": 5691, "stop_name": "2200 Block SW Taylors Ferry", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.699959183860443, 45.45820285316934 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3200, "stop_id": 5701, "stop_name": "SW Taylors Ferry & Fulton Park Blvd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.672798175668646, 45.468034350373586 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3150, "stop_id": 5703, "stop_name": "SW Taylors Ferry & Riverview", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.673403761672517, 45.466422016883271 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3000, "stop_id": 5706, "stop_name": "SW Taylors Ferry & Terwilliger", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.685142116942941, 45.462949304914297 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2900, "stop_id": 5707, "stop_name": "SW Taylors Ferry & 10th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.688760806829634, 45.463315569499976 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2850, "stop_id": 5710, "stop_name": "SW Taylors Ferry & 11th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.69007173340087, 45.462770180775685 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2700, "stop_id": 5712, "stop_name": "SW Taylors Ferry & Taylors Ferry Ct", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.692242297564505, 45.459724870065003 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2600, "stop_id": 5714, "stop_name": "SW Taylors Ferry & 17th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.695336895158619, 45.458600547783618 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2550, "stop_id": 5716, "stop_name": "SW Taylors Ferry & 19th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.697225436089511, 45.458517119251596 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2450, "stop_id": 5721, "stop_name": "SW Taylors Ferry & 26th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70337187451338, 45.458051541777948 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2350, "stop_id": 5725, "stop_name": "SW Taylors Ferry & 30th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.707790462032619, 45.457482381581663 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1850, "stop_id": 5729, "stop_name": "SW Taylors Ferry & 48th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.72640599435239, 45.454668581951026 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1600, "stop_id": 5739, "stop_name": "SW Taylors Ferry & 57th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.735843942988552, 45.45477483528731 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1550, "stop_id": 5741, "stop_name": "SW Taylors Ferry & 60th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.738142059555969, 45.454793170520908 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1450, "stop_id": 5745, "stop_name": "SW Taylors Ferry & 65th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.743385554438333, 45.454832431103824 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1350, "stop_id": 5748, "stop_name": "SW Taylors Ferry & 69th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.747010059171018, 45.454861377242167 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1250, "stop_id": 5752, "stop_name": "SW Taylors Ferry & 74th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.752557246992723, 45.454192999939103 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 650, "stop_id": 3439, "stop_name": "SW Locust & Hall", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.764902126265767, 45.446523980718602 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 750, "stop_id": 3440, "stop_name": "SW Locust & 80th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.759138924667468, 45.446558238908693 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 700, "stop_id": 3442, "stop_name": "SW Locust & 82nd", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.761677792641152, 45.446554770907724 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3500, "stop_id": 6057, "stop_name": "SW Virginia & Nebraska", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.673785844229641, 45.477173552379426 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3250, "stop_id": 6061, "stop_name": "SW Virginia & Taylors Ferry", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.672657865881988, 45.470349764298305 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3450, "stop_id": 6063, "stop_name": "SW Virginia & Vermont", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.673797546993754, 45.475742520865673 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 50, "stop_id": 9220, "stop_name": "Washington Square Transit Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.778779929852888, 45.452299236931466 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 150, "stop_id": 9221, "stop_name": "SW Palmblad & Hall Blvd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.776277399976152, 45.453694683676062 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1950, "stop_id": 9320, "stop_name": "SW Taylors Ferry & Capitol Hwy", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.720041105519229, 45.454578187196475 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 900, "stop_id": 7911, "stop_name": "SW 80th & Elmwood", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.758937946849613, 45.450336111104626 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1050, "stop_id": 7905, "stop_name": "SW 80th & Birch", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.758899833708355, 45.453858272743972 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1100, "stop_id": 7915, "stop_name": "SW 80th & Taylors Ferry", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.75891817158643, 45.45476653621445 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4350, "stop_id": 6489, "stop_name": "SW 1st & Woods", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678615514433901, 45.500926207365112 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2800, "stop_id": 5699, "stop_name": "SW Taylors Ferry & Dolph", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.690917078670111, 45.462061950808575 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1900, "stop_id": 5727, "stop_name": "SW Taylors Ferry & 46th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.724342432357318, 45.454675950200375 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1700, "stop_id": 5735, "stop_name": "SW Taylors Ferry & 53rd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.731553580398483, 45.454681026042181 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1500, "stop_id": 5742, "stop_name": "SW Taylors Ferry & 62nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.740501499748589, 45.454817604342296 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1650, "stop_id": 5737, "stop_name": "SW Taylors Ferry & 55th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.733080625205162, 45.454736813050296 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4450, "stop_id": 6475, "stop_name": "SW 1st & Arthur", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678581404384659, 45.503566818042508 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 5150, "stop_id": 10491, "stop_name": "SW 5th & Hall", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.68228619677673, 45.510277176094831 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1150, "stop_id": 5695, "stop_name": "SW Taylors Ferry & 78th Pl", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756372808811648, 45.454911690398617 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2400, "stop_id": 5723, "stop_name": "SW Taylors Ferry & 28th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70576995417133, 45.457892029069086 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1750, "stop_id": 5733, "stop_name": "SW Taylors Ferry & 52nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.729792588133833, 45.45470369198177 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1400, "stop_id": 5746, "stop_name": "SW Taylors Ferry & 66th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.744849804562946, 45.454846119768348 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1000, "stop_id": 7907, "stop_name": "SW 80th & Cedarcrest", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.758920013941008, 45.452572988028706 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3350, "stop_id": 6059, "stop_name": "SW Virginia & Nevada", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.673732701817272, 45.472902009242993 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2200, "stop_id": 2806, "stop_name": "SW Huber & 35th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712984341021524, 45.451857491453794 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1200, "stop_id": 8388, "stop_name": "SW Taylors Ferry & 75th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.754537406076651, 45.454798953385904 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 1300, "stop_id": 5694, "stop_name": "7100 Block SW Taylors Ferry", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.749887267253357, 45.45394690374328 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4550, "stop_id": 6472, "stop_name": "2200 Block SW 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678536781364713, 45.506687104294414 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 5100, "stop_id": 12763, "stop_name": "SW 4th & Hall", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.681292276008151, 45.509575667525304 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 800, "stop_id": 7913, "stop_name": "SW 80th & Landau", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.758924276873373, 45.447515048649031 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2250, "stop_id": 7427, "stop_name": "SW 35th & Ridge Dr", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712736192133846, 45.453222147662032 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4250, "stop_id": 1133, "stop_name": "SW Corbett & Curry", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675810417019548, 45.497874930978924 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 4400, "stop_id": 6481, "stop_name": "SW 1st & Hooker", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678604020356261, 45.502192107906815 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3700, "stop_id": 1149, "stop_name": "SW Corbett & Pendleton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676776039371873, 45.481090122624181 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 600, "stop_id": 13581, "stop_name": "9900 Block SW Hall", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.765609249388092, 45.447800458426819 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 2300, "stop_id": 7420, "stop_name": "SW 35th & Indian Hills Apts", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.711568586120336, 45.455159579306361 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3050, "stop_id": 5717, "stop_name": "SW Taylors Ferry & 2nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679611617080951, 45.464040431020202 ] } },
-{ "type": "Feature", "properties": { "rte": 43, "dir": 1, "rte_desc": "43-Taylors Ferry Rd", "dir_desc": "To Portland", "type": "BUS", "stop_seq": 3950, "stop_id": 1154, "stop_name": "SW Corbett & Seymour", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676166190875975, 45.489482348509199 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71156858612034,
+                    45.45515957930636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7420,
+                "stop_name": "SW 35th & Indian Hills Apts",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70576995417133,
+                    45.457892029069086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5723,
+                "stop_name": "SW Taylors Ferry & 28th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70337187451338,
+                    45.45805154177795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5721,
+                "stop_name": "SW Taylors Ferry & 26th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69533689515862,
+                    45.45860054778362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5714,
+                "stop_name": "SW Taylors Ferry & 17th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69091707867011,
+                    45.462061950808575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5699,
+                "stop_name": "SW Taylors Ferry & Dolph",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69007173340087,
+                    45.462770180775685
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5710,
+                "stop_name": "SW Taylors Ferry & 11th",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68514211694294,
+                    45.4629493049143
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5706,
+                "stop_name": "SW Taylors Ferry & Terwilliger",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67677018258132,
+                    45.47734031734001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 4102,
+                "stop_name": "SW Nebraska & Corbett",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67677603937187,
+                    45.48109012262418
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1149,
+                "stop_name": "SW Corbett & Pendleton",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67675433767286,
+                    45.482415196586544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1135,
+                "stop_name": "SW Corbett & Flower",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67670370251663,
+                    45.48487210500589
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1129,
+                "stop_name": "SW Corbett & Boundary St",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67668282918874,
+                    45.48601628050326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1146,
+                "stop_name": "SW Corbett & Mitchell",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67616619087597,
+                    45.4894823485092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1154,
+                "stop_name": "SW Corbett & Seymour",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67615118726302,
+                    45.490763366642284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1141,
+                "stop_name": "SW Corbett & Hamilton",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67585700668397,
+                    45.49644196517714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1136,
+                "stop_name": "SW Corbett & Gaines",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67581041701955,
+                    45.497874930978924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1133,
+                "stop_name": "SW Corbett & Curry",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67575626552454,
+                    45.49928592897934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1139,
+                "stop_name": "SW Corbett & Gibbs",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6786155144339,
+                    45.50092620736511
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6489,
+                "stop_name": "SW 1st & Woods",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67860402035626,
+                    45.502192107906815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6481,
+                "stop_name": "SW 1st & Hooker",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67858140438466,
+                    45.50356681804251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6475,
+                "stop_name": "SW 1st & Arthur",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67853678136471,
+                    45.506687104294414
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 6472,
+                "stop_name": "2200 Block SW 1st",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77024595058067,
+                    45.451913060618345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2312,
+                "stop_name": "SW Hall & 91st",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76762510408507,
+                    45.451096281448955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2308,
+                "stop_name": "SW Hall & 88th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75913892466747,
+                    45.44655823890869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3440,
+                "stop_name": "SW Locust & 80th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75893794684961,
+                    45.450336111104626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7911,
+                "stop_name": "SW 80th & Elmwood",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75889983370836,
+                    45.45385827274397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7905,
+                "stop_name": "SW 80th & Birch",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75637280881165,
+                    45.45491169039862
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5695,
+                "stop_name": "SW Taylors Ferry & 78th Pl",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74701005917102,
+                    45.45486137724217
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5748,
+                "stop_name": "SW Taylors Ferry & 69th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74338555443833,
+                    45.454832431103824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5745,
+                "stop_name": "SW Taylors Ferry & 65th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73814205955597,
+                    45.45479317052091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5741,
+                "stop_name": "SW Taylors Ferry & 60th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73585733476853,
+                    45.45476840088941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5739,
+                "stop_name": "SW Taylors Ferry & 57th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72640599435239,
+                    45.454668581951026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5729,
+                "stop_name": "SW Taylors Ferry & 48th",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72004110551923,
+                    45.454578187196475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 9320,
+                "stop_name": "SW Taylors Ferry & Capitol Hwy",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72979258813383,
+                    45.45470369198177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5733,
+                "stop_name": "SW Taylors Ferry & 52nd",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77364333162826,
+                    45.453017068445895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2282,
+                "stop_name": "SW Hall & Greenburg",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76167779264115,
+                    45.446554770907724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3442,
+                "stop_name": "SW Locust & 82nd",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75891817158643,
+                    45.45476653621445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7915,
+                "stop_name": "SW 80th & Taylors Ferry",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75255724699272,
+                    45.4541929999391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5752,
+                "stop_name": "SW Taylors Ferry & 74th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74484980456295,
+                    45.45484611976835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5746,
+                "stop_name": "SW Taylors Ferry & 66th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74050149974859,
+                    45.454817604342296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5742,
+                "stop_name": "SW Taylors Ferry & 62nd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73308062520516,
+                    45.454736813050296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5737,
+                "stop_name": "SW Taylors Ferry & 55th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76490212626577,
+                    45.4465239807186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3439,
+                "stop_name": "SW Locust & Hall",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74988726725336,
+                    45.45394690374328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5694,
+                "stop_name": "7100 Block SW Taylors Ferry",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73155358039848,
+                    45.45468102604218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5735,
+                "stop_name": "SW Taylors Ferry & 53rd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71298434102152,
+                    45.451857491453794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2806,
+                "stop_name": "SW Huber & 35th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6922422975645,
+                    45.459724870065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5712,
+                "stop_name": "SW Taylors Ferry & Taylors Ferry Ct",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67340376167252,
+                    45.46642201688327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5703,
+                "stop_name": "SW Taylors Ferry & Riverview",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67667703039757,
+                    45.48710810591329
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1152,
+                "stop_name": "SW Corbett & Richardson",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69722543608951,
+                    45.458517119251596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5716,
+                "stop_name": "SW Taylors Ferry & 19th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72434243235732,
+                    45.454675950200375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5727,
+                "stop_name": "SW Taylors Ferry & 46th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69147865719334,
+                    45.46051350860872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5688,
+                "stop_name": "SW Taylors Ferry & Marigold",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72112499236127,
+                    45.452303374316365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2804,
+                "stop_name": "SW Huber & Capitol Hwy",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70779046203262,
+                    45.45748238158166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5725,
+                "stop_name": "SW Taylors Ferry & 30th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69995918386044,
+                    45.45820285316934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5691,
+                "stop_name": "2200 Block SW Taylors Ferry",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69379238970352,
+                    45.45826319879781
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5690,
+                "stop_name": "1400 Block SW Taylors Ferry",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68876080682963,
+                    45.463315569499976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5707,
+                "stop_name": "SW Taylors Ferry & 10th",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67961161708095,
+                    45.4640404310202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5717,
+                "stop_name": "SW Taylors Ferry & 2nd",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67279817566865,
+                    45.468034350373586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 5701,
+                "stop_name": "SW Taylors Ferry & Fulton Park Blvd",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67678645005336,
+                    45.478622393867774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1130,
+                "stop_name": "SW Corbett & Carolina",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77627739997615,
+                    45.45369468367606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 9221,
+                "stop_name": "SW Palmblad & Hall Blvd",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77878491499585,
+                    45.45228987755117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 9220,
+                "stop_name": "Washington Square Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75892001394101,
+                    45.452572988028706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7907,
+                "stop_name": "SW 80th & Cedarcrest",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67613532867225,
+                    45.492249979791396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1128,
+                "stop_name": "SW Corbett & Bancroft",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75453740607665,
+                    45.454798953385904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 8388,
+                "stop_name": "SW Taylors Ferry & 75th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75892427687337,
+                    45.44751504864903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7913,
+                "stop_name": "SW 80th & Landau",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71273619213385,
+                    45.45322214766203
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 7427,
+                "stop_name": "SW 35th & Ridge Dr",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76556708945826,
+                    45.450367559674774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 2299,
+                "stop_name": "SW Hall & Washington",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6797230884672,
+                    45.50803387605716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3398,
+                "stop_name": "SW Lincoln & 1st",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76560924938809,
+                    45.44780045842682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 13581,
+                "stop_name": "9900 Block SW Hall",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67607466811876,
+                    45.49375587309512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 1144,
+                "stop_name": "SW Corbett & Lowell",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68129227600815,
+                    45.509575667525304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 12763,
+                "stop_name": "SW 4th & Hall",
+                "stop_seq": 5100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68228619677673,
+                    45.51027717609483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 10491,
+                "stop_name": "SW 5th & Hall",
+                "stop_seq": 5150,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71549285718665,
+                    45.45187703289037
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 13794,
+                "stop_name": "3700 Block SW Huber",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67134912774223,
+                    45.47287696608962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3622,
+                "stop_name": "SW Macadam & Nevada",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67157689607441,
+                    45.47517839149744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 3608,
+                "stop_name": "SW Macadam & Florida",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67371770399502,
+                    45.477329628581536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 43,
+                "rte_desc": "43-Taylors Ferry Rd",
+                "stop_id": 11820,
+                "stop_name": "SW Nebraska & Virginia",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

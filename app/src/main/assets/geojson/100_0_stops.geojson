@@ -1,53 +1,1092 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 2200, "stop_id": 9821, "stop_name": "Beaverton TC MAX Station", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.801200432592765, 45.491701042124681 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 1900, "stop_id": 9822, "stop_name": "Beaverton Creek MAX Station", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.832785421462049, 45.500253701293161 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 2100, "stop_id": 9824, "stop_name": "Beaverton Central MAX Station", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.806766165675953, 45.490501100470205 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 1800, "stop_id": 9828, "stop_name": "Merlo Rd\/SW 158th Ave MAX Station", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.841871858469773, 45.505062796819686 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 1400, "stop_id": 9831, "stop_name": "Willow Creek\/SW 185th Ave TC MAX Station", "jurisdic": "Hillsboro", "zipcode": "97006", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.869873935393059, 45.517122750139144 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 1200, "stop_id": 9834, "stop_name": "Quatama\/NW 205th Ave MAX Station", "jurisdic": "Hillsboro", "zipcode": "97006", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.888511242132395, 45.523081920967293 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 800, "stop_id": 9838, "stop_name": "Fair Complex\/Hillsboro Airport MAX Stn", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.945808295614611, 45.527041468464624 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 650, "stop_id": 9841, "stop_name": "Washington\/SE 12th Ave MAX Station", "jurisdic": "Hillsboro", "zipcode": "97123", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.969152056175858, 45.521108012260925 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 450, "stop_id": 9846, "stop_name": "Hillsboro Central\/SE 3rd TC MAX Station", "jurisdic": "Hillsboro", "zipcode": "97123", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.984925946335352, 45.521357276412886 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 50, "stop_id": 9848, "stop_name": "Hatfield Government Center MAX Station", "jurisdic": "Hillsboro", "zipcode": "97123", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.991022247599261, 45.52220367077976 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 2900, "stop_id": 10118, "stop_name": "Goose Hollow\/SW Jefferson St MAX Station", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.693543600133964, 45.517989372920468 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 2800, "stop_id": 10120, "stop_name": "Washington Park MAX Station", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.716339834887179, 45.51065714951401 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3600, "stop_id": 8335, "stop_name": "Mall\/SW 4th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677087944687997, 45.517945904921973 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3700, "stop_id": 8336, "stop_name": "Yamhill District MAX Station", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674171902782405, 45.517156354628959 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4000, "stop_id": 8339, "stop_name": "Old Town\/Chinatown MAX Station", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.671353185511663, 45.525183329044111 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4050, "stop_id": 8340, "stop_name": "Rose Quarter TC MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.664916641786647, 45.530060460750306 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4200, "stop_id": 8341, "stop_name": "Convention Center MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.661907990670528, 45.530055571036456 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4650, "stop_id": 8344, "stop_name": "Hollywood\/NE 42nd Ave TC MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.620708267361678, 45.532775468543207 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4850, "stop_id": 8346, "stop_name": "NE 82nd Ave MAX Station", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.577794357858153, 45.533223747009707 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 5000, "stop_id": 8347, "stop_name": "Gateway\/NE 99th Ave TC MAX Station", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.563577524517029, 45.530272127442544 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 5650, "stop_id": 8348, "stop_name": "E 102nd Ave MAX Station", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.557313657632449, 45.522583105275146 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 5850, "stop_id": 8350, "stop_name": "E 148th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97233", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.50968703994819, 45.52223924328392 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6050, "stop_id": 8352, "stop_name": "E 172nd Ave MAX Station", "jurisdic": "Gresham", "zipcode": "97233", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.485172754401518, 45.522050878664793 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6150, "stop_id": 8353, "stop_name": "E 181st Ave MAX Station", "jurisdic": "Gresham", "zipcode": "97233", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.47614269465538, 45.521934573110443 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6350, "stop_id": 8355, "stop_name": "Ruby Junction\/E 197th Ave MAX Station", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.459174475018159, 45.51557904955957 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6500, "stop_id": 8356, "stop_name": "Gresham City Hall MAX Station", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.435826336787969, 45.505689766780307 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6550, "stop_id": 8357, "stop_name": "Gresham Central TC MAX Station", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.42664340580005, 45.502475263456176 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6700, "stop_id": 8359, "stop_name": "Cleveland Ave MAX Station", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.418449724912875, 45.501772334264267 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 2500, "stop_id": 9969, "stop_name": "Sunset TC MAX Station", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.780756760908375, 45.510102645143832 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3100, "stop_id": 9758, "stop_name": "Providence Park MAX Station", "jurisdic": "Portland", "zipcode": "97205", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.689886439716901, 45.521321483521497 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3800, "stop_id": 8337, "stop_name": "Oak\/ SW 1st Ave MAX Station", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.672146424043774, 45.520284170221963 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 5950, "stop_id": 8351, "stop_name": "E 162nd Ave MAX Station", "jurisdic": "Gresham", "zipcode": "97233", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.495488352210458, 45.522117905975321 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3400, "stop_id": 8333, "stop_name": "Library\/SW 9th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97205", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681620407497917, 45.519163883388444 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3850, "stop_id": 8338, "stop_name": "Skidmore Fountain MAX Station", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.671256311833034, 45.523095468633905 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4350, "stop_id": 8343, "stop_name": "Lloyd Center\/NE 11th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.653638381776418, 45.530070757047064 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 5750, "stop_id": 8349, "stop_name": "E 122nd Ave MAX Station", "jurisdic": "Portland", "zipcode": "97233", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.536783661695253, 45.522457019757304 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6250, "stop_id": 8354, "stop_name": "Rockwood\/E 188th Ave MAX Station", "jurisdic": "Gresham", "zipcode": "97233", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.470536523010026, 45.520397604509284 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3000, "stop_id": 9759, "stop_name": "Kings Hill\/SW Salmon St MAX Station", "jurisdic": "Portland", "zipcode": "97205", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.691005353560712, 45.52059246103186 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 2000, "stop_id": 9826, "stop_name": "Millikan Way MAX Station", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.82123815815801, 45.495107304301385 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 1550, "stop_id": 9830, "stop_name": "Elmonica\/SW 170th Ave MAX Station", "jurisdic": "Beaverton", "zipcode": "97006", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.851193099349487, 45.509782507815636 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 1050, "stop_id": 9835, "stop_name": "Orenco\/NW 231st Ave MAX Station", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.915467142897768, 45.53026278177326 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 900, "stop_id": 9839, "stop_name": "Hawthorn Farm MAX Station", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.930380448954821, 45.53001777590174 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 600, "stop_id": 9843, "stop_name": "Tuality Hospital\/SE 8th Ave MAX Station", "jurisdic": "Hillsboro", "zipcode": "97123", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.978016884942548, 45.521288091188708 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 3500, "stop_id": 8334, "stop_name": "Pioneer Square South MAX Station", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679145330683028, 45.518499283545609 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 6475, "stop_id": 13450, "stop_name": "Civic Drive MAX Station", "jurisdic": "Gresham", "zipcode": "97030", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.441301600871782, 45.507974089679166 ] } },
-{ "type": "Feature", "properties": { "rte": 100, "dir": 0, "rte_desc": "MAX Blue Line", "dir_desc": "To Gresham", "type": "MAX", "stop_seq": 4700, "stop_id": 8345, "stop_name": "NE 60th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.602703268874606, 45.528766822299858 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98492594633535,
+                    45.521357276412886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9846,
+                "stop_name": "Hillsboro Central/SE 3rd TC MAX Station",
+                "stop_seq": 450,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.97801688494255,
+                    45.52128809118871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9843,
+                "stop_name": "Tuality Hospital/SE 8th Ave MAX Station",
+                "stop_seq": 600,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96915205617586,
+                    45.521108012260925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9841,
+                "stop_name": "Washington/SE 12th Ave MAX Station",
+                "stop_seq": 650,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.94580829561461,
+                    45.527041468464624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9838,
+                "stop_name": "Fair Complex/Hillsboro Airport MAX Stn",
+                "stop_seq": 800,
+                "type": "MAX",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.93038044895482,
+                    45.53001777590174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9839,
+                "stop_name": "Hawthorn Farm MAX Station",
+                "stop_seq": 900,
+                "type": "MAX",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.91546714289777,
+                    45.53026278177326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9835,
+                "stop_name": "Orenco/NW 231st Ave MAX Station",
+                "stop_seq": 1050,
+                "type": "MAX",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.8885112421324,
+                    45.52308192096729
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9834,
+                "stop_name": "Quatama/NW 205th Ave MAX Station",
+                "stop_seq": 1200,
+                "type": "MAX",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.85119309934949,
+                    45.509782507815636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9830,
+                "stop_name": "Elmonica/SW 170th Ave MAX Station",
+                "stop_seq": 1550,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.84187185846977,
+                    45.505062796819686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9828,
+                "stop_name": "Merlo Rd/SW 158th Ave MAX Station",
+                "stop_seq": 1800,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.82123815815801,
+                    45.495107304301385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9826,
+                "stop_name": "Millikan Way MAX Station",
+                "stop_seq": 2000,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80676616567595,
+                    45.490501100470205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9824,
+                "stop_name": "Beaverton Central MAX Station",
+                "stop_seq": 2100,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80120043259276,
+                    45.49170104212468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9821,
+                "stop_name": "Beaverton TC MAX Station",
+                "stop_seq": 2200,
+                "type": "MAX",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78075676090837,
+                    45.51010264514383
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9969,
+                "stop_name": "Sunset TC MAX Station",
+                "stop_seq": 2500,
+                "type": "MAX",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71633983488718,
+                    45.51065714951401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 10120,
+                "stop_name": "Washington Park MAX Station",
+                "stop_seq": 2800,
+                "type": "MAX",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69354360013396,
+                    45.51798937292047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 10118,
+                "stop_name": "Goose Hollow/SW Jefferson St MAX Station",
+                "stop_seq": 2900,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6898864397169,
+                    45.5213214835215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9758,
+                "stop_name": "Providence Park MAX Station",
+                "stop_seq": 3100,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68162040749792,
+                    45.519163883388444
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8333,
+                "stop_name": "Library/SW 9th Ave MAX Station",
+                "stop_seq": 3400,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.677087944688,
+                    45.51794590492197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8335,
+                "stop_name": "Mall/SW 4th Ave MAX Station",
+                "stop_seq": 3600,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6741719027824,
+                    45.51715635462896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8336,
+                "stop_name": "Yamhill District MAX Station",
+                "stop_seq": 3700,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67214642404377,
+                    45.52028417022196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8337,
+                "stop_name": "Oak/ SW 1st Ave MAX Station",
+                "stop_seq": 3800,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67125631183303,
+                    45.523095468633905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8338,
+                "stop_name": "Skidmore Fountain MAX Station",
+                "stop_seq": 3850,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66491664178665,
+                    45.530060460750306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8340,
+                "stop_name": "Rose Quarter TC MAX Station",
+                "stop_seq": 4050,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66190799067053,
+                    45.530055571036456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8341,
+                "stop_name": "Convention Center MAX Station",
+                "stop_seq": 4200,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65363838177642,
+                    45.53007075704706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8343,
+                "stop_name": "Lloyd Center/NE 11th Ave MAX Station",
+                "stop_seq": 4350,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62070826736168,
+                    45.53277546854321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8344,
+                "stop_name": "Hollywood/NE 42nd Ave TC MAX Station",
+                "stop_seq": 4650,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6027032688746,
+                    45.52876682229986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8345,
+                "stop_name": "NE 60th Ave MAX Station",
+                "stop_seq": 4700,
+                "type": "MAX",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57779435785815,
+                    45.53322374700971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8346,
+                "stop_name": "NE 82nd Ave MAX Station",
+                "stop_seq": 4850,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56357752451703,
+                    45.530272127442544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8347,
+                "stop_name": "Gateway/NE 99th Ave TC MAX Station",
+                "stop_seq": 5000,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55731365763245,
+                    45.522583105275146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8348,
+                "stop_name": "E 102nd Ave MAX Station",
+                "stop_seq": 5650,
+                "type": "MAX",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53678366169525,
+                    45.522457019757304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8349,
+                "stop_name": "E 122nd Ave MAX Station",
+                "stop_seq": 5750,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.50968703994819,
+                    45.52223924328392
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8350,
+                "stop_name": "E 148th Ave MAX Station",
+                "stop_seq": 5850,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.49548835221046,
+                    45.52211790597532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8351,
+                "stop_name": "E 162nd Ave MAX Station",
+                "stop_seq": 5950,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.48517275440152,
+                    45.52205087866479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8352,
+                "stop_name": "E 172nd Ave MAX Station",
+                "stop_seq": 6050,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47614269465538,
+                    45.52193457311044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8353,
+                "stop_name": "E 181st Ave MAX Station",
+                "stop_seq": 6150,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.47053652301003,
+                    45.520397604509284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8354,
+                "stop_name": "Rockwood/E 188th Ave MAX Station",
+                "stop_seq": 6250,
+                "type": "MAX",
+                "zipcode": "97233"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.45917447501816,
+                    45.51557904955957
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8355,
+                "stop_name": "Ruby Junction/E 197th Ave MAX Station",
+                "stop_seq": 6350,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.43582633678797,
+                    45.50568976678031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8356,
+                "stop_name": "Gresham City Hall MAX Station",
+                "stop_seq": 6500,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.42664340580005,
+                    45.502475263456176
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8357,
+                "stop_name": "Gresham Central TC MAX Station",
+                "stop_seq": 6550,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.41844972491288,
+                    45.50177233426427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8359,
+                "stop_name": "Cleveland Ave MAX Station",
+                "stop_seq": 6700,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.86987393539306,
+                    45.517122750139144
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9831,
+                "stop_name": "Willow Creek/SW 185th Ave TC MAX Station",
+                "stop_seq": 1400,
+                "type": "MAX",
+                "zipcode": "97006"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.83278542146205,
+                    45.50025370129316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Beaverton",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9822,
+                "stop_name": "Beaverton Creek MAX Station",
+                "stop_seq": 1900,
+                "type": "MAX",
+                "zipcode": "97003"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69100535356071,
+                    45.52059246103186
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9759,
+                "stop_name": "Kings Hill/SW Salmon St MAX Station",
+                "stop_seq": 3000,
+                "type": "MAX",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67914533068303,
+                    45.51849928354561
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8334,
+                "stop_name": "Pioneer Square South MAX Station",
+                "stop_seq": 3500,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67135318551166,
+                    45.52518332904411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8339,
+                "stop_name": "Old Town/Chinatown MAX Station",
+                "stop_seq": 4000,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65774000112242,
+                    45.53005866313299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 8342,
+                "stop_name": "NE 7th Ave MAX Station",
+                "stop_seq": 4250,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99102224759926,
+                    45.52220367077976
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Hillsboro",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 9848,
+                "stop_name": "Hatfield Government Center MAX Station",
+                "stop_seq": 50,
+                "type": "MAX",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.44130160087178,
+                    45.507974089679166
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Gresham",
+                "frequent": "True",
+                "jurisdic": "Gresham",
+                "rte": 100,
+                "rte_desc": "MAX Blue Line",
+                "stop_id": 13450,
+                "stop_name": "Civic Drive MAX Station",
+                "stop_seq": 6475,
+                "type": "MAX",
+                "zipcode": "97030"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

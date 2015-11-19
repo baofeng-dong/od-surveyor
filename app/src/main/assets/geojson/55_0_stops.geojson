@@ -1,60 +1,1230 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2700, "stop_id": 5172, "stop_name": "SW Scholls Ferry & Dogwood Lane", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748746079223537, 45.486377567197543 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1950, "stop_id": 2479, "stop_name": "SW Hamilton & 41st", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.719436275712141, 45.490737684985291 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2000, "stop_id": 2481, "stop_name": "SW Hamilton & 45th", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.723355790312851, 45.490754627612958 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2050, "stop_id": 2483, "stop_name": "SW Hamilton & 47th Dr", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.725760916969506, 45.490776704538931 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2250, "stop_id": 2487, "stop_name": "SW Hamilton & 54th Pl", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.732841783365586, 45.490801817623272 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 700, "stop_id": 1927, "stop_name": "SW Naito Parkway & Harrison", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.67695576613643, 45.509707544515308 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2550, "stop_id": 5195, "stop_name": "SW Scholls Ferry & Seymour", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.745545675805673, 45.48971215862133 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2750, "stop_id": 332, "stop_name": "7400 Block SW Beaverton-Hillsdale", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.753440456022517, 45.486162635206654 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1700, "stop_id": 1519, "stop_name": "SW Dosch & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.71028096253977, 45.490476529911795 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1100, "stop_id": 5552, "stop_name": "1500 Block SW Sunset Blvd", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.694176294061151, 45.479613352136546 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1250, "stop_id": 5553, "stop_name": "SW Sunset Blvd & Boundary", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.697769041656031, 45.484599220703721 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1650, "stop_id": 5556, "stop_name": "SW Sunset Blvd & Dosch", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.710233879925539, 45.4887928424412 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1350, "stop_id": 5564, "stop_name": "SW Sunset Blvd & Richardson", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.700749747799961, 45.486775122216208 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1150, "stop_id": 5567, "stop_name": "SW Sunset Blvd & 18th Dr", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.69643309539093, 45.481935243081068 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1400, "stop_id": 5568, "stop_name": "SW Sunset Blvd & 19th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.702822290880036, 45.488439596152929 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1450, "stop_id": 5571, "stop_name": "SW Sunset Blvd & 26th Dr", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.703710626606806, 45.488778328996219 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1500, "stop_id": 5572, "stop_name": "SW Sunset Blvd & 27th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.705267212183514, 45.488745414910198 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1550, "stop_id": 5574, "stop_name": "SW Sunset Blvd & 29th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.706353561415455, 45.488753911987054 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2175, "stop_id": 13587, "stop_name": "SW Hamilton & 52nd", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.730633887544442, 45.490797359499247 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 950, "stop_id": 155, "stop_name": "4900 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682756766798278, 45.487059214323075 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 900, "stop_id": 173, "stop_name": "SW Barbur & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678565727132423, 45.491037216311163 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2300, "stop_id": 2461, "stop_name": "SW Hamilton & 55th Pl", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.73443539007188, 45.490812027665427 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2450, "stop_id": 2463, "stop_name": "SW Hamilton & Semler Way", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.740589199202986, 45.490869714594879 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1800, "stop_id": 2469, "stop_name": "SW Hamilton & Hamilton Ct", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.71346031153351, 45.490670815063069 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2100, "stop_id": 2471, "stop_name": "SW Hamilton & Shattuck", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.728751701897338, 45.490828955765664 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1750, "stop_id": 2473, "stop_name": "SW Hamilton & 34th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712124967129128, 45.4906522863416 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1000, "stop_id": 957, "stop_name": "SW Capitol & Terwilliger", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.687336599271632, 45.480276157838638 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 800, "stop_id": 8770, "stop_name": "SW Naito Parkway & Sheridan", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677673217475729, 45.5060967819458 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 300, "stop_id": 9044, "stop_name": "SW Columbia & 10th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684818118841747, 45.515326262005885 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 3300, "stop_id": 9760, "stop_name": "SW Apple Way & Laurelwood", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.761133569769669, 45.485202179397724 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2850, "stop_id": 9761, "stop_name": "SW 78th & Westmoor", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756657884041587, 45.488423028643844 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2900, "stop_id": 9762, "stop_name": "SW 78th & Brentwood", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.757477047020089, 45.490899169270321 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 3150, "stop_id": 9765, "stop_name": "8500 Block SW Apple Way", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.764844283815734, 45.485120975384206 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 200, "stop_id": 1111, "stop_name": "SW Columbia & 12th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686847741841504, 45.51587110348251 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1300, "stop_id": 5562, "stop_name": "SW Sunset Blvd & Mitchell", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.699360875160266, 45.485906340025153 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 3050, "stop_id": 9544, "stop_name": "SW Laurelwood & Laurel", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760907522588283, 45.489080920106055 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2600, "stop_id": 5198, "stop_name": "6800 Block SW Scholls Ferry", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.746316193695094, 45.488483486846093 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1850, "stop_id": 2475, "stop_name": "SW Hamilton & 36th Pl", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.714486621725996, 45.490700512360831 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1900, "stop_id": 2478, "stop_name": "SW Hamilton & 39th Dr", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.716686870549893, 45.490701029180713 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2500, "stop_id": 2470, "stop_name": "SW Hamilton & Scholls Ferry", "jurisdic": "Portland", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.744454793315853, 45.49090672705573 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1600, "stop_id": 5575, "stop_name": "SW Sunset Blvd & 31st Dr", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.708401409794078, 45.488762359861816 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2330, "stop_id": 12466, "stop_name": "5700 Block SW Hamilton", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.735652395544221, 45.490820763045356 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2650, "stop_id": 5199, "stop_name": "4400 Block SW Scholls Ferry", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.746984465852364, 45.487558363385823 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 3200, "stop_id": 10448, "stop_name": "8300 Block SW Apple Way", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.762978134614642, 45.48434572341155 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 1050, "stop_id": 955, "stop_name": "SW Capitol & Sunset", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.693219302072464, 45.478896111218745 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 400, "stop_id": 1108, "stop_name": "SW Columbia & Park Ave", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683247522889332, 45.514918924833509 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 3100, "stop_id": 9764, "stop_name": "SW Laurelwood & Beaverton-Hillsdale Hwy", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760987401787688, 45.486438751618174 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2360, "stop_id": 9634, "stop_name": "SW Hamilton & 58th", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.737068386606424, 45.49083495565791 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 3000, "stop_id": 9763, "stop_name": "SW Brentwood & Laurelwood", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760709933565437, 45.491109216698149 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 2800, "stop_id": 385, "stop_name": "SW Beaverton-Hillsdale & 78th", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756776862578477, 45.486260060377433 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 100, "stop_id": 12792, "stop_name": "SW Columbia & 16th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.690692289013555, 45.516922761632728 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 500, "stop_id": 12793, "stop_name": "SW Columbia between 6th & 5th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.680654562710444, 45.514213567944957 ] } },
-{ "type": "Feature", "properties": { "rte": 55, "dir": 0, "rte_desc": "55-Hamilton", "dir_desc": "To Raleigh Hills", "type": "BUS", "stop_seq": 600, "stop_id": 12795, "stop_name": "SW Columbia & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676402363354583, 45.513088397849138 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69643309539093,
+                    45.48193524308107
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5567,
+                "stop_name": "SW Sunset Blvd & 18th Dr",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69936087516027,
+                    45.48590634002515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5562,
+                "stop_name": "SW Sunset Blvd & Mitchell",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70074974779996,
+                    45.48677512221621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5564,
+                "stop_name": "SW Sunset Blvd & Richardson",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70635356141545,
+                    45.488753911987054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5574,
+                "stop_name": "SW Sunset Blvd & 29th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71028096253977,
+                    45.490476529911795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 1519,
+                "stop_name": "SW Dosch & Hamilton",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71346031153351,
+                    45.49067081506307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2469,
+                "stop_name": "SW Hamilton & Hamilton Ct",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.714486621726,
+                    45.49070051236083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2475,
+                "stop_name": "SW Hamilton & 36th Pl",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71943627571214,
+                    45.49073768498529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2479,
+                "stop_name": "SW Hamilton & 41st",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72335579031285,
+                    45.49075462761296
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2481,
+                "stop_name": "SW Hamilton & 45th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72875170189734,
+                    45.490828955765664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2471,
+                "stop_name": "SW Hamilton & Shattuck",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73284178336559,
+                    45.49080181762327
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2487,
+                "stop_name": "SW Hamilton & 54th Pl",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74058919920299,
+                    45.49086971459488
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2463,
+                "stop_name": "SW Hamilton & Semler Way",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74554567580567,
+                    45.48971215862133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5195,
+                "stop_name": "SW Scholls Ferry & Seymour",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74698446585236,
+                    45.48755836338582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5199,
+                "stop_name": "4400 Block SW Scholls Ferry",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75677686257848,
+                    45.48626006037743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 385,
+                "stop_name": "SW Beaverton-Hillsdale & 78th",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75747704702009,
+                    45.49089916927032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9762,
+                "stop_name": "SW 78th & Brentwood",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76070993356544,
+                    45.49110921669815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9763,
+                "stop_name": "SW Brentwood & Laurelwood",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76484428381573,
+                    45.485120975384206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9765,
+                "stop_name": "8500 Block SW Apple Way",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76113356976967,
+                    45.485202179397724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9760,
+                "stop_name": "SW Apple Way & Laurelwood",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68275676679828,
+                    45.487059214323075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69321930207246,
+                    45.478896111218745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 955,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7037106266068,
+                    45.48877832899622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5571,
+                "stop_name": "SW Sunset Blvd & 26th Dr",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76098740178769,
+                    45.486438751618174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9764,
+                "stop_name": "SW Laurelwood & Beaverton-Hillsdale Hwy",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75344045602252,
+                    45.486162635206654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 332,
+                "stop_name": "7400 Block SW Beaverton-Hillsdale",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75665788404159,
+                    45.488423028643844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9761,
+                "stop_name": "SW 78th & Westmoor",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76090752258828,
+                    45.489080920106055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9544,
+                "stop_name": "SW Laurelwood & Laurel",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76297813461464,
+                    45.48434572341155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 10448,
+                "stop_name": "8300 Block SW Apple Way",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68733659927163,
+                    45.48027615783864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 957,
+                "stop_name": "SW Capitol & Terwilliger",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69417629406115,
+                    45.479613352136546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5552,
+                "stop_name": "1500 Block SW Sunset Blvd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69776904165603,
+                    45.48459922070372
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5553,
+                "stop_name": "SW Sunset Blvd & Boundary",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70282229088004,
+                    45.48843959615293
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5568,
+                "stop_name": "SW Sunset Blvd & 19th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71023387992554,
+                    45.4887928424412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5556,
+                "stop_name": "SW Sunset Blvd & Dosch",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71212496712913,
+                    45.4906522863416
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2473,
+                "stop_name": "SW Hamilton & 34th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71668687054989,
+                    45.49070102918071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2478,
+                "stop_name": "SW Hamilton & 39th Dr",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7257609169695,
+                    45.49077670453893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2483,
+                "stop_name": "SW Hamilton & 47th Dr",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73706838660642,
+                    45.49083495565791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9634,
+                "stop_name": "SW Hamilton & 58th",
+                "stop_seq": 2360,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74445479331585,
+                    45.49090672705573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2470,
+                "stop_name": "SW Hamilton & Scholls Ferry",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7463161936951,
+                    45.48848348684609
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5198,
+                "stop_name": "6800 Block SW Scholls Ferry",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70526721218351,
+                    45.4887454149102
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5572,
+                "stop_name": "SW Sunset Blvd & 27th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69069228901355,
+                    45.51692276163273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 12792,
+                "stop_name": "SW Columbia & 16th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6868477418415,
+                    45.51587110348251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 1111,
+                "stop_name": "SW Columbia & 12th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68481811884175,
+                    45.515326262005885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68324752288933,
+                    45.51491892483351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68065456271044,
+                    45.51421356794496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 12793,
+                "stop_name": "SW Columbia between 6th & 5th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67640236335458,
+                    45.51308839784914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 12795,
+                "stop_name": "SW Columbia & 1st",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67695576613643,
+                    45.50970754451531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 1927,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67767321747573,
+                    45.5060967819458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 8770,
+                "stop_name": "SW Naito Parkway & Sheridan",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73443539007188,
+                    45.49081202766543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 2461,
+                "stop_name": "SW Hamilton & 55th Pl",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67856572713242,
+                    45.49103721631116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74874607922354,
+                    45.48637756719754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5172,
+                "stop_name": "SW Scholls Ferry & Dogwood Lane",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70840140979408,
+                    45.488762359861816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 5575,
+                "stop_name": "SW Sunset Blvd & 31st Dr",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73565239554422,
+                    45.490820763045356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 12466,
+                "stop_name": "5700 Block SW Hamilton",
+                "stop_seq": 2330,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73063388754444,
+                    45.49079735949925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Raleigh Hills",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 55,
+                "rte_desc": "55-Hamilton",
+                "stop_id": 13587,
+                "stop_name": "SW Hamilton & 52nd",
+                "stop_seq": 2175,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

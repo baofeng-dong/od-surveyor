@@ -1,51 +1,1023 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1300, "stop_id": 327, "stop_name": "3600 Block SW Beaverton-Hillsdale", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.71482062804975, 45.483850975929016 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1750, "stop_id": 329, "stop_name": "6100 Block SW Beaverton-Hillsdale", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.740340228400783, 45.487186680712135 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1850, "stop_id": 330, "stop_name": "6700 Block SW Beaverton-Hillsdale", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.745900235465001, 45.48699782822375 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1975, "stop_id": 332, "stop_name": "7400 Block SW Beaverton-Hillsdale", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.753440456022517, 45.486162635206654 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1200, "stop_id": 340, "stop_name": "SW Beaverton-Hillsdale & Dosch", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.707506699049233, 45.481628566875102 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2100, "stop_id": 346, "stop_name": "SW Beaverton-Hillsdale & Laurelwood", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760715894038796, 45.486304832466438 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2150, "stop_id": 349, "stop_name": "SW Beaverton-Hillsdale & Poplar Ln", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.763874735985382, 45.486368904127467 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1950, "stop_id": 350, "stop_name": "SW Beaverton-Hillsdale & Oleson", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.747940108256302, 45.486467982787097 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1600, "stop_id": 352, "stop_name": "SW Beaverton-Hillsdale & Shattuck", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.731977458443808, 45.487183651623617 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2500, "stop_id": 355, "stop_name": "SW Beaverton-Hillsdale & Western", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.782529384421906, 45.486630074106209 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2450, "stop_id": 358, "stop_name": "SW Beaverton-Hillsdale & 101st", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.780600905635595, 45.48662691632682 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2600, "stop_id": 361, "stop_name": "SW Beaverton-Hillsdale & 110th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.790002568936799, 45.486633305386867 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1000, "stop_id": 363, "stop_name": "SW Beaverton-Hillsdale & 18th Dr", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.697421087798801, 45.478208148705569 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1150, "stop_id": 366, "stop_name": "2600 Block SW Beaverton-Hillsdale", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.704166473976287, 45.480453026801577 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1350, "stop_id": 372, "stop_name": "SW Beaverton-Hillsdale & 39th Dr", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.716451177062069, 45.484584374304227 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1400, "stop_id": 374, "stop_name": "SW Beaverton-Hillsdale & 42nd", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.720100192723933, 45.485596196166654 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1650, "stop_id": 380, "stop_name": "SW Beaverton-Hillsdale & 56th", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.735327750762366, 45.487134406184367 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1700, "stop_id": 381, "stop_name": "SW Beaverton-Hillsdale & 59th", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.737680756345355, 45.487172720392756 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2400, "stop_id": 389, "stop_name": "SW Beaverton-Hillsdale & 99th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.778265707466829, 45.48661910266209 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 600, "stop_id": 2580, "stop_name": "SW Harrison & 4th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681094789422602, 45.510523655329649 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 850, "stop_id": 155, "stop_name": "4900 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682756766798278, 45.487059214323075 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 800, "stop_id": 173, "stop_name": "SW Barbur & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.678565727132423, 45.491037216311163 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 900, "stop_id": 957, "stop_name": "SW Capitol & Terwilliger", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.687336599271632, 45.480276157838638 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 300, "stop_id": 7586, "stop_name": "SW 5th & Alder", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677207040327829, 45.519601923194422 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 400, "stop_id": 7614, "stop_name": "SW 5th & Main", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679015938271917, 45.516269401533002 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 775, "stop_id": 8770, "stop_name": "SW Naito Parkway & Sheridan", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677673217475729, 45.5060967819458 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1800, "stop_id": 384, "stop_name": "SW Beaverton-Hillsdale & 65th", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.74395043101174, 45.487217142842539 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2650, "stop_id": 341, "stop_name": "SW Beaverton-Hillsdale & Griffith", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.796751089009007, 45.486620630616343 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2200, "stop_id": 356, "stop_name": "SW Beaverton-Hillsdale & White Pine Ln", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.767981851497638, 45.486449170188983 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1250, "stop_id": 370, "stop_name": "SW Beaverton-Hillsdale & 35th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.71265714940408, 45.48289666505228 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2250, "stop_id": 387, "stop_name": "SW Beaverton-Hillsdale & 91st", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.771423246117607, 45.486517248696309 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1550, "stop_id": 378, "stop_name": "SW Beaverton-Hillsdale & 50th", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.728428264694344, 45.487106795300733 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2700, "stop_id": 9979, "stop_name": "Beaverton Transit Center", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.801330206064478, 45.491001767429388 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 950, "stop_id": 955, "stop_name": "SW Capitol & Sunset", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.693219302072464, 45.478896111218745 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2675, "stop_id": 12944, "stop_name": "SW Lombard & Broadway", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.800724791466308, 45.487818285470063 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 500, "stop_id": 13167, "stop_name": "SW 5th & Clay", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680499376920068, 45.513597185325679 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 100, "stop_id": 13170, "stop_name": "SW Broadway & W Burnside", "jurisdic": "Portland", "zipcode": "97205", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677231578924676, 45.522897413959747 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 200, "stop_id": 13171, "stop_name": "W Burnside & SW 5th", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675582247239333, 45.522970053343229 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2350, "stop_id": 343, "stop_name": "SW Beaverton-Hillsdale & Jamieson", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.774370772210119, 45.486565584261307 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2550, "stop_id": 359, "stop_name": "SW Beaverton- Hillsdale & 107th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.786467791647226, 45.486633929070265 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1100, "stop_id": 365, "stop_name": "SW Beaverton-Hillsdale & 25th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.702265541293997, 45.480087670818854 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 1450, "stop_id": 376, "stop_name": "SW Beaverton-Hillsdale & 45th", "jurisdic": "Portland", "zipcode": "97221", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.723022525139001, 45.485871706067826 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 2050, "stop_id": 385, "stop_name": "SW Beaverton-Hillsdale & 78th", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756776862578477, 45.486260060377433 ] } },
-{ "type": "Feature", "properties": { "rte": 54, "dir": 0, "rte_desc": "54-Beaverton-Hillsdale Hwy", "dir_desc": "To Beaverton Transit Center", "type": "BUS", "stop_seq": 700, "stop_id": 2566, "stop_name": "200 Block SW Harrison", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679031674897701, 45.509981575504654 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67767321747573,
+                    45.5060967819458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 8770,
+                "stop_name": "SW Naito Parkway & Sheridan",
+                "stop_seq": 775,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67856572713242,
+                    45.49103721631116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68733659927163,
+                    45.48027615783864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 957,
+                "stop_name": "SW Capitol & Terwilliger",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6974210877988,
+                    45.47820814870557
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 363,
+                "stop_name": "SW Beaverton-Hillsdale & 18th Dr",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71482062804975,
+                    45.483850975929016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 327,
+                "stop_name": "3600 Block SW Beaverton-Hillsdale",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.723022525139,
+                    45.485871706067826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 376,
+                "stop_name": "SW Beaverton-Hillsdale & 45th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74034022840078,
+                    45.487186680712135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 329,
+                "stop_name": "6100 Block SW Beaverton-Hillsdale",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.745900235465,
+                    45.48699782822375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Washington Co.",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 330,
+                "stop_name": "6700 Block SW Beaverton-Hillsdale",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7479401082563,
+                    45.4864679827871
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 350,
+                "stop_name": "SW Beaverton-Hillsdale & Oleson",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75677686257848,
+                    45.48626006037743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 385,
+                "stop_name": "SW Beaverton-Hillsdale & 78th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76387473598538,
+                    45.48636890412747
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 349,
+                "stop_name": "SW Beaverton-Hillsdale & Poplar Ln",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77437077221012,
+                    45.48656558426131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 343,
+                "stop_name": "SW Beaverton-Hillsdale & Jamieson",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7806009056356,
+                    45.48662691632682
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 358,
+                "stop_name": "SW Beaverton-Hillsdale & 101st",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78646779164723,
+                    45.486633929070265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 359,
+                "stop_name": "SW Beaverton- Hillsdale & 107th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7900025689368,
+                    45.48663330538687
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 361,
+                "stop_name": "SW Beaverton-Hillsdale & 110th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72010019272393,
+                    45.485596196166654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 374,
+                "stop_name": "SW Beaverton-Hillsdale & 42nd",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68275676679828,
+                    45.487059214323075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69321930207246,
+                    45.478896111218745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 955,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71645117706207,
+                    45.48458437430423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 372,
+                "stop_name": "SW Beaverton-Hillsdale & 39th Dr",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72842826469434,
+                    45.48710679530073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 378,
+                "stop_name": "SW Beaverton-Hillsdale & 50th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73768075634536,
+                    45.487172720392756
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 381,
+                "stop_name": "SW Beaverton-Hillsdale & 59th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74395043101174,
+                    45.48721714284254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Washington Co.",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 384,
+                "stop_name": "SW Beaverton-Hillsdale & 65th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7607158940388,
+                    45.48630483246644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 346,
+                "stop_name": "SW Beaverton-Hillsdale & Laurelwood",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76798185149764,
+                    45.48644917018898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 356,
+                "stop_name": "SW Beaverton-Hillsdale & White Pine Ln",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77826570746683,
+                    45.48661910266209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 389,
+                "stop_name": "SW Beaverton-Hillsdale & 99th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70416647397629,
+                    45.48045302680158
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 366,
+                "stop_name": "2600 Block SW Beaverton-Hillsdale",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73532775076237,
+                    45.48713440618437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 380,
+                "stop_name": "SW Beaverton-Hillsdale & 56th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7714232461176,
+                    45.48651724869631
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 387,
+                "stop_name": "SW Beaverton-Hillsdale & 91st",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80133020606448,
+                    45.49100176742939
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 9979,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71265714940408,
+                    45.48289666505228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 370,
+                "stop_name": "SW Beaverton-Hillsdale & 35th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75344045602252,
+                    45.486162635206654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 332,
+                "stop_name": "7400 Block SW Beaverton-Hillsdale",
+                "stop_seq": 1975,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.796751089009,
+                    45.48662063061634
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 341,
+                "stop_name": "SW Beaverton-Hillsdale & Griffith",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80072479146631,
+                    45.48781828547006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 12944,
+                "stop_name": "SW Lombard & Broadway",
+                "stop_seq": 2675,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73197745844381,
+                    45.48718365162362
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 352,
+                "stop_name": "SW Beaverton-Hillsdale & Shattuck",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.702265541294,
+                    45.480087670818854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 365,
+                "stop_name": "SW Beaverton-Hillsdale & 25th",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70750669904923,
+                    45.4816285668751
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 340,
+                "stop_name": "SW Beaverton-Hillsdale & Dosch",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7825293844219,
+                    45.48663007410621
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 355,
+                "stop_name": "SW Beaverton-Hillsdale & Western",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67723157892468,
+                    45.52289741395975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 13170,
+                "stop_name": "SW Broadway & W Burnside",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67558224723933,
+                    45.52297005334323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 13171,
+                "stop_name": "W Burnside & SW 5th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67720704032783,
+                    45.51960192319442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 7586,
+                "stop_name": "SW 5th & Alder",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67901593827192,
+                    45.516269401533
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 7614,
+                "stop_name": "SW 5th & Main",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68049937692007,
+                    45.51359718532568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 13167,
+                "stop_name": "SW 5th & Clay",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6810947894226,
+                    45.51052365532965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 2580,
+                "stop_name": "SW Harrison & 4th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6790316748977,
+                    45.50998157550465
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 54,
+                "rte_desc": "54-Beaverton-Hillsdale Hwy",
+                "stop_id": 2566,
+                "stop_name": "200 Block SW Harrison",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

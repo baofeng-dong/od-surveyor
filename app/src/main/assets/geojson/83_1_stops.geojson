@@ -1,0 +1,287 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69012324120067,
+                    45.521934674202534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 9122,
+                "stop_name": "SW 18th & Morrison",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69043311158514,
+                    45.5219014778531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 6911,
+                "stop_name": "SW 18th & Morrison",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6913987627992,
+                    45.520380923811345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 9553,
+                "stop_name": "SW 18th & Salmon",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69394768484197,
+                    45.520736527792344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 5018,
+                "stop_name": "SW Salmon & 20th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69663963546084,
+                    45.52135154035091
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4340,
+                "stop_name": "SW Park Pl & St Clair",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69895602311946,
+                    45.52136072453109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4343,
+                "stop_name": "SW Park Pl & Green",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70061340908163,
+                    45.52136678465575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4346,
+                "stop_name": "SW Park Pl & Lewis & Clark",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70463441538939,
+                    45.52167567874149
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4351,
+                "stop_name": "SW Rose Garden Way & Wright",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7062011857783,
+                    45.518438653819324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 11151,
+                "stop_name": "SW Rose Garden Blvd & Sherwood",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70979062251395,
+                    45.514212841090796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 13253,
+                "stop_name": "SW Kingston & Archery Range",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71691106261328,
+                    45.512410873451024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 3277,
+                "stop_name": "SW Knight & Kingston",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71730745273018,
+                    45.510474141000664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Washington Park/Oregon Zoo",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 10299,
+                "stop_name": "MAX Station/Oregon Zoo",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

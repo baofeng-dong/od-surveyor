@@ -1,73 +1,1529 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2900, "stop_id": 6175, "stop_name": "SW Eliander & One Embassy Centre", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.780345097383801, 45.454726882354755 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1900, "stop_id": 2811, "stop_name": "8000 Block SW Hunziker", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.758755604308959, 45.427973567855759 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2000, "stop_id": 2816, "stop_name": "SW Hunziker & Knoll", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.763477714430167, 45.429791627844551 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1750, "stop_id": 2817, "stop_name": "SW Hunziker & 72nd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.752181263052606, 45.425763143802456 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2775, "stop_id": 13589, "stop_name": "SW Summit Dr & Palmblad", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.775994989131874, 45.451506899350377 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 150, "stop_id": 4, "stop_name": "A Ave & 10th St", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675152487814742, 45.420706781000078 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2250, "stop_id": 2232, "stop_name": "SW Greenburg & Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.768136235385327, 45.433962275627579 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2300, "stop_id": 2238, "stop_name": "SW Greenburg & 90th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.769603148299751, 45.434944738123129 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2400, "stop_id": 2239, "stop_name": "SW Greenburg & 92nd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.772422165657687, 45.436377222536727 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2550, "stop_id": 2245, "stop_name": "SW Greenburg & 98th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.777956239891481, 45.437641302626524 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3800, "stop_id": 2260, "stop_name": "5500 Block SW Hall", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.805445530785519, 45.479777163701037 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3650, "stop_id": 2261, "stop_name": "6200 Block SW Hall", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.805322910802388, 45.474952721348167 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3350, "stop_id": 2262, "stop_name": "7800 Block SW Hall", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.801429022981736, 45.463353423786046 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3700, "stop_id": 2267, "stop_name": "SW Hall & Allen", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.805344206388128, 45.476294057261228 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 250, "stop_id": 1219, "stop_name": "700 Block Country Club", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683215914446436, 45.423080706037318 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 300, "stop_id": 1223, "stop_name": "Country Club & Knaus Rd", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.688845925514343, 45.423184842245121 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 500, "stop_id": 1226, "stop_name": "Country Club & Hazel Road", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.702544855055308, 45.425162882566021 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 350, "stop_id": 1227, "stop_name": "Country Club & Redwood", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.692890892737907, 45.423201925499555 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 400, "stop_id": 1231, "stop_name": "Country Club & Uplands", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.695308246834017, 45.423295856884245 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 450, "stop_id": 1233, "stop_name": "Country Club & Wembley Park", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.697651868192168, 45.423848878211977 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 4050, "stop_id": 2271, "stop_name": "SW Hall & Broadway", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.803818028327058, 45.487408484750148 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3500, "stop_id": 2278, "stop_name": "SW Hall & Denney", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.803927727779481, 45.469679371835163 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3250, "stop_id": 2284, "stop_name": "SW Hall & Greenway", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.797117410636488, 45.461666889234699 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3100, "stop_id": 2295, "stop_name": "SW Hall & Scholls Ferry", "jurisdic": "Beaverton", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.782139756684117, 45.456841660478666 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3550, "stop_id": 2297, "stop_name": "SW Hall & Sussex", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.804700249517978, 45.471485420999322 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3750, "stop_id": 2300, "stop_name": "SW Hall & 13th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.805526343729809, 45.477621805732156 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 4000, "stop_id": 2302, "stop_name": "SW Hall & 2nd", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.804213249373532, 45.485682530712992 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3900, "stop_id": 2305, "stop_name": "SW Hall & 5th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.804675582959774, 45.483255244625745 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 50, "stop_id": 3363, "stop_name": "Lake Oswego Transit Center", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.668009253735818, 45.42004412900279 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1250, "stop_id": 3388, "stop_name": "12000 Block SW Lesser", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.741204139487976, 45.438347670183958 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1300, "stop_id": 3389, "stop_name": "SW Lesser & Haines", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.741191637657721, 45.436982460293393 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2151, "stop_id": 5846, "stop_name": "Tigard Transit Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.769340392167507, 45.430064807973821 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2750, "stop_id": 8835, "stop_name": "SW Greenburg & Lehman", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.775117118636416, 45.449007729266235 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3450, "stop_id": 2285, "stop_name": "SW Hall & Hart", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.803637543933064, 45.467214468734205 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 775, "stop_id": 10305, "stop_name": "Kerr & Touchstone", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.714738679621149, 45.428129552078587 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 900, "stop_id": 3126, "stop_name": "50 Block Kerr Parkway", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.719357338249168, 45.434206538689686 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 800, "stop_id": 3129, "stop_name": "Kerr & Independence", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.716110667327115, 45.428830508957091 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 850, "stop_id": 3132, "stop_name": "Kerr & Jefferson Pkwy", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.718247580020204, 45.431171166098778 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 700, "stop_id": 3133, "stop_name": "Kerr & McNary", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70719241724268, 45.428520482281101 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1500, "stop_id": 7846, "stop_name": "SW 68th & Clinton", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.746870192226098, 45.434413405212275 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1550, "stop_id": 7848, "stop_name": "SW 68th & Franklin", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.746911080959052, 45.430407801374514 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 4100, "stop_id": 9982, "stop_name": "Beaverton Transit Center", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.801623061139466, 45.491048666312203 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2800, "stop_id": 9650, "stop_name": "Washington Square Transit Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.778801775410159, 45.452696544443015 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2650, "stop_id": 2230, "stop_name": "SW Greenburg & Cascade", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.778890586862872, 45.441522065806396 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2600, "stop_id": 2234, "stop_name": "SW Greenburg & North Dakota", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.779331477690533, 45.438968889035365 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3400, "stop_id": 2277, "stop_name": "SW Hall & Cresmoor", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.803089084140808, 45.464211515397167 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 200, "stop_id": 1221, "stop_name": "Country Club & Iron Mtn", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.67918110229617, 45.423080727733449 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2201, "stop_id": 3655, "stop_name": "SW Main & Scoffins", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.768528479931987, 45.432162436013215 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 550, "stop_id": 1229, "stop_name": "Country Club & Sundeleaf", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.704815296003432, 45.425239045169278 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3300, "stop_id": 2291, "stop_name": "SW Hall & Ridgecrest", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.798956473028738, 45.462215812565248 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1150, "stop_id": 3392, "stop_name": "SW Lesser & 60th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.738869808876402, 45.440338355452319 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 25, "stop_id": 9545, "stop_name": "Lake Oswego Transit Center", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.668105490190911, 45.421060215704422 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 100, "stop_id": 7, "stop_name": "A Ave & 8th St", "jurisdic": "Lake Oswego", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.672680472596213, 45.420414305263563 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1800, "stop_id": 2810, "stop_name": "7500 Block SW Hunziker", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.75500782462116, 45.427030944482816 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 750, "stop_id": 3135, "stop_name": "Kerr & Tanglewood", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712317501097246, 45.428364300725185 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2700, "stop_id": 12403, "stop_name": "SW Greenburg & Washington Square Rd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.77614897242259, 45.446134265885739 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2050, "stop_id": 1122, "stop_name": "SW Commercial & Hall", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.766447661627851, 45.428659601505764 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3200, "stop_id": 2275, "stop_name": "SW Hall & Creekside", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.793525400375614, 45.46066451129974 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 650, "stop_id": 3138, "stop_name": "Kerr & The Grotto", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.707134732304638, 45.426323852971656 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 3125, "stop_id": 13481, "stop_name": "8300 Block SW Hall", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.787817016773218, 45.459125995505886 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 600, "stop_id": 1220, "stop_name": "Country Club & Boones Ferry Rd", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.707606521510485, 45.424530369668346 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 2450, "stop_id": 2242, "stop_name": "SW Greenburg & 95th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.7743496407452, 45.436963878217625 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1000, "stop_id": 4431, "stop_name": "PCC Sylvania Main Stop", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.730176730101746, 45.437959011090989 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1125, "stop_id": 12959, "stop_name": "PCC Lower Drive (G St) & H St", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.733741227714106, 45.441398305461796 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1650, "stop_id": 13736, "stop_name": "SW Beveland & 69th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748151968605299, 45.429572450472875 ] } },
-{ "type": "Feature", "properties": { "rte": 78, "dir": 1, "rte_desc": "78-Beaverton\/Lake Oswego", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1400, "stop_id": 13210, "stop_name": "SW 68th & Atlanta", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.74676358143445, 45.436343468651735 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66810549019091,
+                    45.42106021570442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 9545,
+                "stop_name": "Lake Oswego Transit Center",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67515248781474,
+                    45.42070678100008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 4,
+                "stop_name": "A Ave & 10th St",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68884592551434,
+                    45.42318484224512
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1223,
+                "stop_name": "Country Club & Knaus Rd",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6928908927379,
+                    45.423201925499555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1227,
+                "stop_name": "Country Club & Redwood",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69765186819217,
+                    45.42384887821198
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1233,
+                "stop_name": "Country Club & Wembley Park",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70254485505531,
+                    45.42516288256602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1226,
+                "stop_name": "Country Club & Hazel Road",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70481529600343,
+                    45.42523904516928
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1229,
+                "stop_name": "Country Club & Sundeleaf",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70760652151048,
+                    45.42453036966835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1220,
+                "stop_name": "Country Club & Boones Ferry Rd",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70713473230464,
+                    45.426323852971656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3138,
+                "stop_name": "Kerr & The Grotto",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71231750109725,
+                    45.428364300725185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3135,
+                "stop_name": "Kerr & Tanglewood",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71611066732711,
+                    45.42883050895709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3129,
+                "stop_name": "Kerr & Independence",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7182475800202,
+                    45.43117116609878
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3132,
+                "stop_name": "Kerr & Jefferson Pkwy",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71935733824917,
+                    45.434206538689686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3126,
+                "stop_name": "50 Block Kerr Parkway",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7388698088764,
+                    45.44033835545232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3392,
+                "stop_name": "SW Lesser & 60th",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74119163765772,
+                    45.43698246029339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3389,
+                "stop_name": "SW Lesser & Haines",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74691108095905,
+                    45.430407801374514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 7848,
+                "stop_name": "SW 68th & Franklin",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75500782462116,
+                    45.427030944482816
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2810,
+                "stop_name": "7500 Block SW Hunziker",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76347771443017,
+                    45.42979162784455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2816,
+                "stop_name": "SW Hunziker & Knoll",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76813623538533,
+                    45.43396227562758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2232,
+                "stop_name": "SW Greenburg & Center",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77242216565769,
+                    45.43637722253673
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2239,
+                "stop_name": "SW Greenburg & 92nd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77795623989148,
+                    45.437641302626524
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2245,
+                "stop_name": "SW Greenburg & 98th",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77933147769053,
+                    45.438968889035365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2234,
+                "stop_name": "SW Greenburg & North Dakota",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78213975668412,
+                    45.456841660478666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2295,
+                "stop_name": "SW Hall & Scholls Ferry",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79352540037561,
+                    45.46066451129974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2275,
+                "stop_name": "SW Hall & Creekside",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79711741063649,
+                    45.4616668892347
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2284,
+                "stop_name": "SW Hall & Greenway",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80308908414081,
+                    45.46421151539717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2277,
+                "stop_name": "SW Hall & Cresmoor",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80392772777948,
+                    45.46967937183516
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2278,
+                "stop_name": "SW Hall & Denney",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80532291080239,
+                    45.47495272134817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2261,
+                "stop_name": "6200 Block SW Hall",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80544553078552,
+                    45.47977716370104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2260,
+                "stop_name": "5500 Block SW Hall",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80467558295977,
+                    45.483255244625745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2305,
+                "stop_name": "SW Hall & 5th",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80421324937353,
+                    45.48568253071299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2302,
+                "stop_name": "SW Hall & 2nd",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80162306113947,
+                    45.4910486663122
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 9982,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74120413948798,
+                    45.43834767018396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3388,
+                "stop_name": "12000 Block SW Lesser",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7468701922261,
+                    45.434413405212275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 7846,
+                "stop_name": "SW 68th & Clinton",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7521812630526,
+                    45.425763143802456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2817,
+                "stop_name": "SW Hunziker & 72nd",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75875560430896,
+                    45.42797356785576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2811,
+                "stop_name": "8000 Block SW Hunziker",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76960314829975,
+                    45.43494473812313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2238,
+                "stop_name": "SW Greenburg & 90th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7743496407452,
+                    45.436963878217625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2242,
+                "stop_name": "SW Greenburg & 95th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77889058686287,
+                    45.441522065806396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2230,
+                "stop_name": "SW Greenburg & Cascade",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7803450973838,
+                    45.454726882354755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 6175,
+                "stop_name": "SW Eliander & One Embassy Centre",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71473867962115,
+                    45.42812955207859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 10305,
+                "stop_name": "Kerr & Touchstone",
+                "stop_seq": 775,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79895647302874,
+                    45.46221581256525
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2291,
+                "stop_name": "SW Hall & Ridgecrest",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80363754393306,
+                    45.467214468734205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2285,
+                "stop_name": "SW Hall & Hart",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80470024951798,
+                    45.47148542099932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2297,
+                "stop_name": "SW Hall & Sussex",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80534420638813,
+                    45.47629405726123
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2267,
+                "stop_name": "SW Hall & Allen",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77881019038718,
+                    45.45269980711577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 9650,
+                "stop_name": "Washington Square Transit Center",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67268047259621,
+                    45.42041430526356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 7,
+                "stop_name": "A Ave & 8th St",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69530824683402,
+                    45.423295856884245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1231,
+                "stop_name": "Country Club & Uplands",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66800925373582,
+                    45.42004412900279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3363,
+                "stop_name": "Lake Oswego Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77614897242259,
+                    45.44613426588574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 12403,
+                "stop_name": "SW Greenburg & Washington Square Rd",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77511711863642,
+                    45.449007729266235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 8835,
+                "stop_name": "SW Greenburg & Lehman",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68321591444644,
+                    45.42308070603732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1219,
+                "stop_name": "700 Block Country Club",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70719241724268,
+                    45.4285204822811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3133,
+                "stop_name": "Kerr & McNary",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76852847993199,
+                    45.432162436013215
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 3655,
+                "stop_name": "SW Main & Scoffins",
+                "stop_seq": 2201,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80142902298174,
+                    45.463353423786046
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2262,
+                "stop_name": "7800 Block SW Hall",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80381802832706,
+                    45.48740848475015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2271,
+                "stop_name": "SW Hall & Broadway",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67918110229617,
+                    45.42308072773345
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1221,
+                "stop_name": "Country Club & Iron Mtn",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73017673010175,
+                    45.43795901109099
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 4431,
+                "stop_name": "PCC Sylvania Main Stop",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80552634372981,
+                    45.477621805732156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 2300,
+                "stop_name": "SW Hall & 13th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76644766162785,
+                    45.428659601505764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 1122,
+                "stop_name": "SW Commercial & Hall",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7337412277141,
+                    45.441398305461796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 12959,
+                "stop_name": "PCC Lower Drive (G St) & H St",
+                "stop_seq": 1125,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74676358143445,
+                    45.436343468651735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 13210,
+                "stop_name": "SW 68th & Atlanta",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76951349365768,
+                    45.43018609683967
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 8209,
+                "stop_name": "Tigard Transit Center",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7481519686053,
+                    45.429572450472875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 13736,
+                "stop_name": "SW Beveland & 69th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78781701677322,
+                    45.459125995505886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 13481,
+                "stop_name": "8300 Block SW Hall",
+                "stop_seq": 3125,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77599498913187,
+                    45.45150689935038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 78,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "stop_id": 13589,
+                "stop_name": "SW Summit Dr & Palmblad",
+                "stop_seq": 2775,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

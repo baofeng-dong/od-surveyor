@@ -1,42 +1,816 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1350, "stop_id": 11024, "stop_name": "NW Glencoe & Cody Ct", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.989640715601809, 45.534437996026568 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 800, "stop_id": 10278, "stop_name": "NE 15th & Edgefield", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.966317585394194, 45.548651414100128 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 750, "stop_id": 10280, "stop_name": "NE 15th & Prahl Pkwy", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.966232629003201, 45.545173497376325 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 400, "stop_id": 10288, "stop_name": "1300 Block NE 25th", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.956900305302582, 45.533801406681725 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 900, "stop_id": 9921, "stop_name": "NW Evergreen & Jackson School Rd N", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.9741344235497, 45.550118379587857 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 150, "stop_id": 9953, "stop_name": "Fair Complex\/Airport Park & Ride", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.945879686159557, 45.527198006062605 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 200, "stop_id": 9962, "stop_name": "NE 34th & Cornell", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.94652009458963, 45.531495346024812 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 500, "stop_id": 9963, "stop_name": "NE 25th & Kathryn", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.956958271851633, 45.538696241794149 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 650, "stop_id": 9965, "stop_name": "NE Griffin Oaks & 15th", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.966167315738687, 45.540152084625028 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 600, "stop_id": 9966, "stop_name": "1800 Block NE Griffin Oaks", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.961994177149009, 45.540180503573346 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 700, "stop_id": 9967, "stop_name": "NE 15th & Jones Farm Pkwy", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.966225989293761, 45.542179977279787 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 950, "stop_id": 9987, "stop_name": "NW Evergreen & NE Jackson School Rd S", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.979493279949153, 45.55010584103956 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1000, "stop_id": 9988, "stop_name": "NW Evergreen & NE Sunburst", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.986109289673635, 45.549969417363748 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1100, "stop_id": 9990, "stop_name": "30900 Block NW Evergreen", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.993306941040302, 45.549900957200038 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1250, "stop_id": 9991, "stop_name": "2800 Block NW Glencoe", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.99586456084694, 45.540758297039915 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1300, "stop_id": 9992, "stop_name": "NW Glencoe & Cory", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.995916278448234, 45.538776328296898 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1200, "stop_id": 9993, "stop_name": "3100 Block NW Glencoe", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.995810685050742, 45.542900485952757 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1150, "stop_id": 9994, "stop_name": "NW Glencoe & Milne", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.995632926779678, 45.548735770875808 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1400, "stop_id": 9996, "stop_name": "N 1st & NW Tiffany", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.989677943017739, 45.531471756568052 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1550, "stop_id": 9998, "stop_name": "NE Lincoln & 2nd", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.988064249808431, 45.523846535175863 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 50, "stop_id": 10001, "stop_name": "5400 Block NE Dawson Creek", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.929536344790279, 45.544354154051462 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1700, "stop_id": 9954, "stop_name": "Hillsboro Transit Center", "jurisdic": "Hillsboro", "zipcode": "97123", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.984845349156046, 45.521496092015632 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1500, "stop_id": 9997, "stop_name": "300 Block N 1st", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.989775609831156, 45.525939022957836 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1050, "stop_id": 9989, "stop_name": "NW Evergreen & NE 3rd", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.989038804036198, 45.549934870089537 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1650, "stop_id": 10000, "stop_name": "NE 3rd & E Main", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.986214329411851, 45.523164101634023 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 1450, "stop_id": 9995, "stop_name": "N 1st & NW Garibaldi", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.989738583717624, 45.527749973884006 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 250, "stop_id": 8546, "stop_name": "3300 Block NE Cornell", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.947881865304041, 45.532299234851067 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 350, "stop_id": 8557, "stop_name": "NE 25th & Cornell", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.956884112908725, 45.531637933573563 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 450, "stop_id": 9606, "stop_name": "NE 25th & Sunrise Lane", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.956941277944949, 45.536616730990829 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 100, "stop_id": 13115, "stop_name": "NE Brookwood Pkwy & 49th Pl", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.93432432650269, 45.545868864651446 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 850, "stop_id": 9920, "stop_name": "NW Evergreen & NE 13th", "jurisdic": "Washington Co.", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.969371474066321, 45.550109057815362 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 25, "stop_id": 10063, "stop_name": "Shute Rd & Dawson Creek Dr", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.926328406509541, 45.54439924602147 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 125, "stop_id": 13025, "stop_name": "2800 Blk NE Brookwood Pkwy, Main Library", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.937266413661661, 45.543083959497274 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 550, "stop_id": 10198, "stop_name": "2200 Block NE Griffin Oaks", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.959840380590094, 45.540195983297885 ] } },
-{ "type": "Feature", "properties": { "rte": 46, "dir": 1, "rte_desc": "46-North Hillsboro", "dir_desc": "To Hillsboro TC", "type": "BUS", "stop_seq": 975, "stop_id": 13528, "stop_name": "NW Evergreen & Evergreen Middle School", "jurisdic": "Hillsboro", "zipcode": "97124", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.984049771983294, 45.550041574527434 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98621432941185,
+                    45.52316410163402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10000,
+                "stop_name": "NE 3rd & E Main",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.94587968615956,
+                    45.527198006062605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9953,
+                "stop_name": "Fair Complex/Airport Park & Ride",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.95694127794495,
+                    45.53661673099083
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9606,
+                "stop_name": "NE 25th & Sunrise Lane",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96622598929376,
+                    45.54217997727979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9967,
+                "stop_name": "NE 15th & Jones Farm Pkwy",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98610928968547,
+                    45.54996941736318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9988,
+                "stop_name": "NW Evergreen & NE Sunburst",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99591627844823,
+                    45.5387763282969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9992,
+                "stop_name": "NW Glencoe & Cory",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.92632840650954,
+                    45.54439924602147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10063,
+                "stop_name": "Shute Rd & Dawson Creek Dr",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.92953634479028,
+                    45.54435415405146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10001,
+                "stop_name": "5400 Block NE Dawson Creek",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.94652009458963,
+                    45.53149534602481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9962,
+                "stop_name": "NE 34th & Cornell",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.94788186530404,
+                    45.53229923485107
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 8546,
+                "stop_name": "3300 Block NE Cornell",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.95690030530258,
+                    45.533801406681725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10288,
+                "stop_name": "1300 Block NE 25th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.95695827185163,
+                    45.53869624179415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9963,
+                "stop_name": "NE 25th & Kathryn",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.9598403805901,
+                    45.540195983297885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10198,
+                "stop_name": "2200 Block NE Griffin Oaks",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96199417714901,
+                    45.540180503573346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9966,
+                "stop_name": "1800 Block NE Griffin Oaks",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96616731573869,
+                    45.54015208462503
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9965,
+                "stop_name": "NE Griffin Oaks & 15th",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.9662326290032,
+                    45.545173497376325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10280,
+                "stop_name": "NE 15th & Prahl Pkwy",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96937144422702,
+                    45.55010837247328
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9920,
+                "stop_name": "NW Evergreen & NE 13th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.97413442356456,
+                    45.55011837958807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9921,
+                "stop_name": "NW Evergreen & Jackson School Rd N",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.97949327996037,
+                    45.55010584103864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9987,
+                "stop_name": "NW Evergreen & NE Jackson School Rd S",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98903880402725,
+                    45.54993487008997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9989,
+                "stop_name": "NW Evergreen & NE 3rd",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99330692599284,
+                    45.54990061453248
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9990,
+                "stop_name": "30900 Block NW Evergreen",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99563292677968,
+                    45.54873577087581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9994,
+                "stop_name": "NW Glencoe & Milne",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99581068505074,
+                    45.54290048595276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9993,
+                "stop_name": "3100 Block NW Glencoe",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98973858371762,
+                    45.527749973884006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9995,
+                "stop_name": "N 1st & NW Garibaldi",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98977560983116,
+                    45.525939022957836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9997,
+                "stop_name": "300 Block N 1st",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98484534915605,
+                    45.52149609201563
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9954,
+                "stop_name": "Hillsboro Transit Center",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97123"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98964071560181,
+                    45.53443799602657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 11024,
+                "stop_name": "NW Glencoe & Cody Ct",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.95688411290872,
+                    45.53163793357356
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 8557,
+                "stop_name": "NE 25th & Cornell",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.96630910423112,
+                    45.548568592106335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 10278,
+                "stop_name": "NE 15th & Edgefield",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.99586456084694,
+                    45.540758297039915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9991,
+                "stop_name": "2800 Block NW Glencoe",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98967794301774,
+                    45.53147175656805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9996,
+                "stop_name": "N 1st & NW Tiffany",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98806424980843,
+                    45.52384653517586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 9998,
+                "stop_name": "NE Lincoln & 2nd",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.93432432650269,
+                    45.545868864651446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 13115,
+                "stop_name": "NE Brookwood Pkwy & 49th Pl",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.93726641366166,
+                    45.543083959497274
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 13025,
+                "stop_name": "2800 Blk NE Brookwood Pkwy, Main Library",
+                "stop_seq": 125,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.98404928426997,
+                    45.55004158506657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Hillsboro Transit Center",
+                "frequent": "False",
+                "jurisdic": "Hillsboro",
+                "rte": 46,
+                "rte_desc": "46-North Hillsboro",
+                "stop_id": 13528,
+                "stop_name": "NW Evergreen & Evergreen Middle School",
+                "stop_seq": 975,
+                "type": "BUS",
+                "zipcode": "97124"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

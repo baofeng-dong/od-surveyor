@@ -1,43 +1,816 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 2000, "stop_id": 522, "stop_name": "SW Boones Ferry Rd & Day", "jurisdic": "Wilsonville", "zipcode": "97140", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.773693920697397, 45.340127035065699 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1850, "stop_id": 530, "stop_name": "SW Boones Ferry Rd & Ibach", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.774811875122779, 45.360358551888673 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1700, "stop_id": 535, "stop_name": "SW Boones Ferry Rd & Killarney", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.77313339663327, 45.367352356575708 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 500, "stop_id": 558, "stop_name": "18000 Block SW Lower Boones Ferry", "jurisdic": "Tualatin", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.751993325654965, 45.390984200353969 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1650, "stop_id": 563, "stop_name": "SW Boones Ferry Rd & Siletz", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.772632488645357, 45.369524226924526 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 25, "stop_id": 3049, "stop_name": "SW Jefferson & 10th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683763507242972, 45.515944445951916 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 750, "stop_id": 3779, "stop_name": "SW Martinazzi & Seneca", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.758856431150519, 45.383600947691086 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1750, "stop_id": 500, "stop_name": "SW Boones Ferry Rd & Alsea", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.773214141421505, 45.365139536714558 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 550, "stop_id": 514, "stop_name": "SW Lower Boones Ferry & Childs Rd", "jurisdic": "Tualatin", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.753345196919526, 45.39007791960492 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1550, "stop_id": 501, "stop_name": "SW Boones Ferry Rd & Apache", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.769659370261664, 45.372987585322036 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1975, "stop_id": 8891, "stop_name": "24300 Block SW Boones Ferry Rd", "jurisdic": "Washington Co.", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.774095891051076, 45.343518283154751 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 406, "stop_id": 11001, "stop_name": "SW Harbor & Montgomery", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675991045635683, 45.509971948559304 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 440, "stop_id": 8956, "stop_name": "I-5 Off Ramp & SW Lower Boones Ferry", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.74771124203329, 45.397162046674481 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 450, "stop_id": 7880, "stop_name": "Tualatin Park & Ride", "jurisdic": "Tualatin", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.74875930512178, 45.394767102352034 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 760, "stop_id": 9026, "stop_name": "SW Martinazzi & Tualatin-Sherwood", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.759030368763248, 45.381876608188676 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 50, "stop_id": 9044, "stop_name": "SW Columbia & 10th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684818118841747, 45.515326262005885 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1490, "stop_id": 8788, "stop_name": "SW Sagert & 86th", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.76546719880325, 45.375418009386031 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 753, "stop_id": 5004, "stop_name": "SW Sagert & 86th", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.765776017114035, 45.375238962833059 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1350, "stop_id": 8285, "stop_name": "SW Martinazzi & Mohawk", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760435282534488, 45.376148538194109 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 800, "stop_id": 8252, "stop_name": "SW Martinazzi & Martinazzi Square", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.759195538046669, 45.380274582384786 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 600, "stop_id": 571, "stop_name": "SW Lower Boones Ferry & Boones Ferry", "jurisdic": "Durham", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.755456617847699, 45.389313514371331 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 2050, "stop_id": 9484, "stop_name": "9400 Block SW Commerce Circle", "jurisdic": "Wilsonville", "zipcode": "97070", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.774601321368408, 45.337694586485192 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1890, "stop_id": 9512, "stop_name": "SW Boones Ferry Rd & Iowa Dr", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.77483666350409, 45.355159802891642 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 100, "stop_id": 1108, "stop_name": "SW Columbia & Park Ave", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683247522889332, 45.514918924833509 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1625, "stop_id": 9352, "stop_name": "SW Boones Ferry Rd & Avery", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.771577297760643, 45.370930375830383 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 412, "stop_id": 10712, "stop_name": "SW Harbor & Harrison", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675991907723514, 45.50713075412601 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1375, "stop_id": 8274, "stop_name": "SW Martinazzi & Mohawk", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760968022519705, 45.376666038746563 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 2100, "stop_id": 13493, "stop_name": "10100 Block SW Commerce Circle", "jurisdic": "Wilsonville", "zipcode": "97070", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.775493297352071, 45.335190046406488 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 2075, "stop_id": 8391, "stop_name": "9900 Block SW Commerce Circle", "jurisdic": "Wilsonville", "zipcode": "97070", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.777316451183864, 45.336463759401759 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 756, "stop_id": 8278, "stop_name": "SW Sagert & Tillamook", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.763407546226858, 45.375288731572553 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 650, "stop_id": 495, "stop_name": "18200 Block SW Boones Ferry Rd", "jurisdic": "Tualatin", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.757268013031023, 45.387046274369276 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1450, "stop_id": 8276, "stop_name": "SW Sagert & Tillamook", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.763950285394444, 45.375433947162456 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1900, "stop_id": 542, "stop_name": "SW Boones Ferry Rd & Norwood", "jurisdic": "Tualatin", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.774862628122079, 45.353382762061464 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 200, "stop_id": 12794, "stop_name": "SW Columbia between 5th & 4th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679634389387857, 45.51395421182761 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 300, "stop_id": 12795, "stop_name": "SW Columbia & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676402363354583, 45.513088397849138 ] } },
-{ "type": "Feature", "properties": { "rte": 96, "dir": 0, "rte_desc": "96-Tualatin\/I-5", "dir_desc": "To Commerce Circle", "type": "BUS", "stop_seq": 1950, "stop_id": 533, "stop_name": "SW Boones Ferry Rd & Greenhill Ln", "jurisdic": "Washington Co.", "zipcode": "97062", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.775268700017449, 45.347059367670106 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74771124203329,
+                    45.39716204667448
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8956,
+                "stop_name": "I-5 Off Ramp & SW Lower Boones Ferry",
+                "stop_seq": 440,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74875930512178,
+                    45.394767102352034
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 7880,
+                "stop_name": "Tualatin Park & Ride",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75885643115052,
+                    45.383600947691086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 3779,
+                "stop_name": "SW Martinazzi & Seneca",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75903036876325,
+                    45.381876608188676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9026,
+                "stop_name": "SW Martinazzi & Tualatin-Sherwood",
+                "stop_seq": 760,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76395028539444,
+                    45.375433947162456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8276,
+                "stop_name": "SW Sagert & Tillamook",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77157729776064,
+                    45.37093037583038
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9352,
+                "stop_name": "SW Boones Ferry Rd & Avery",
+                "stop_seq": 1625,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77263248864536,
+                    45.369524226924526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 563,
+                "stop_name": "SW Boones Ferry Rd & Siletz",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7732141414215,
+                    45.36513953671456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 500,
+                "stop_name": "SW Boones Ferry Rd & Alsea",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77486262812208,
+                    45.353382762061464
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 542,
+                "stop_name": "SW Boones Ferry Rd & Norwood",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7736939206974,
+                    45.3401270350657
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 522,
+                "stop_name": "SW Boones Ferry Rd & Day",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97140"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77460132136841,
+                    45.33769458648519
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9484,
+                "stop_name": "9400 Block SW Commerce Circle",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76043528253449,
+                    45.37614853819411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8285,
+                "stop_name": "SW Martinazzi & Mohawk",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67599190772351,
+                    45.50713075412601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 10712,
+                "stop_name": "SW Harbor & Harrison",
+                "stop_seq": 412,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75919553804667,
+                    45.380274582384786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8252,
+                "stop_name": "SW Martinazzi & Martinazzi Square",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7609680225197,
+                    45.37666603874656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8274,
+                "stop_name": "SW Martinazzi & Mohawk",
+                "stop_seq": 1375,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76546719880325,
+                    45.37541800938603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8788,
+                "stop_name": "SW Sagert & 86th",
+                "stop_seq": 1490,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76965937026166,
+                    45.372987585322036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 501,
+                "stop_name": "SW Boones Ferry Rd & Apache",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77313339663327,
+                    45.36735235657571
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 535,
+                "stop_name": "SW Boones Ferry Rd & Killarney",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77481187512278,
+                    45.36035855188867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 530,
+                "stop_name": "SW Boones Ferry Rd & Ibach",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77483666350409,
+                    45.35515980289164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9512,
+                "stop_name": "SW Boones Ferry Rd & Iowa Dr",
+                "stop_seq": 1890,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77409589105108,
+                    45.34351828315475
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8891,
+                "stop_name": "24300 Block SW Boones Ferry Rd",
+                "stop_seq": 1975,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77734263631037,
+                    45.336461866743406
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8391,
+                "stop_name": "9900 Block SW Commerce Circle",
+                "stop_seq": 2075,
+                "type": "BUS",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67599104563568,
+                    45.509971948559304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 11001,
+                "stop_name": "SW Harbor & Montgomery",
+                "stop_seq": 406,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68481811884175,
+                    45.515326262005885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68324752288933,
+                    45.51491892483351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67963438938786,
+                    45.51395421182761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67640236335458,
+                    45.51308839784914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 12795,
+                "stop_name": "SW Columbia & 1st",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 25,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77526870001745,
+                    45.347059367670106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 533,
+                "stop_name": "SW Boones Ferry Rd & Greenhill Ln",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76577601711404,
+                    45.37523896283306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 5004,
+                "stop_name": "SW Sagert & 86th",
+                "stop_seq": 753,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76340754622686,
+                    45.37528873157255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 8278,
+                "stop_name": "SW Sagert & Tillamook",
+                "stop_seq": 756,
+                "type": "BUS",
+                "zipcode": "97062"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75334519691953,
+                    45.39007791960492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 514,
+                "stop_name": "SW Lower Boones Ferry & Childs Rd",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75199332565496,
+                    45.39098420035397
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 558,
+                "stop_name": "18000 Block SW Lower Boones Ferry",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75726801303102,
+                    45.387046274369276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 495,
+                "stop_name": "18200 Block SW Boones Ferry Rd",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77549329736831,
+                    45.335190046404826
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Commerce Circle",
+                "frequent": "False",
+                "jurisdic": "Wilsonville",
+                "rte": 96,
+                "rte_desc": "96-Tualatin/I-5",
+                "stop_id": 13493,
+                "stop_name": "10100 Block SW Commerce Circle",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97070"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

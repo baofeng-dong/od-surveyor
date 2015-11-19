@@ -1,73 +1,1529 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2450, "stop_id": 545, "stop_name": "SW Boones Ferry Rd & Palatine", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686315297679798, 45.444770505023996 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1400, "stop_id": 564, "stop_name": "Boones Ferry Rd & Spring Lane", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.714820564723581, 45.41673927392366 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2350, "stop_id": 565, "stop_name": "SW Boones Ferry Rd & Stephenson", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686158880640832, 45.439813603646428 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1450, "stop_id": 569, "stop_name": "Boones Ferry Rd & Twin Fir", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712711862827462, 45.418800117537607 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2300, "stop_id": 580, "stop_name": "SW Boones Ferry Rd & 19th", "jurisdic": "Multnomah Co.", "zipcode": "97034", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.697115148108779, 45.436068172344413 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2600, "stop_id": 584, "stop_name": "SW Boones Ferry Rd & 4th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683202690025595, 45.451751596668196 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3500, "stop_id": 1926, "stop_name": "SW Naito Parkway & Harrison", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676875212131378, 45.509278640851235 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3450, "stop_id": 1930, "stop_name": "SW Naito Parkway & Hooker", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677629970142476, 45.502166097086878 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3650, "stop_id": 3039, "stop_name": "SW Jefferson & Broadway", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.681592512030178, 45.515365868427999 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1900, "stop_id": 3046, "stop_name": "SW Jefferson Pkwy & McNary Pkwy", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.715583736064488, 45.434619370581849 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3700, "stop_id": 3049, "stop_name": "SW Jefferson & 10th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683763507242972, 45.515944445951916 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2100, "stop_id": 2248, "stop_name": "200 Block Greenridge", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.705557624382124, 45.430500229572871 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2150, "stop_id": 2249, "stop_name": "Greenridge & Greenridge Ct", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.704130648800202, 45.431241324671255 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1300, "stop_id": 3293, "stop_name": "Kruse Way & Carman", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.724510353314685, 45.418380543783137 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1250, "stop_id": 3298, "stop_name": "Kruse Way & Kruse Woods", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.731299532470572, 45.418830977921061 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3350, "stop_id": 156, "stop_name": "4900 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682514639880239, 45.487677128400847 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3200, "stop_id": 167, "stop_name": "SW Barbur & Brier", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.6793212408583, 45.472703470036741 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3400, "stop_id": 172, "stop_name": "SW Barbur & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677724730057179, 45.491185992510047 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3100, "stop_id": 193, "stop_name": "SW Barbur & Terwilliger", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684975700356532, 45.470919191202213 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3000, "stop_id": 5790, "stop_name": "SW Terwilliger & Carson", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683568946441355, 45.46405596643617 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2400, "stop_id": 492, "stop_name": "11200 Block SW Boones Ferry Rd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686627618037434, 45.44367081081333 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2900, "stop_id": 5798, "stop_name": "SW Terwilliger & Lobelia", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684848442127688, 45.461059675226245 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2950, "stop_id": 5806, "stop_name": "SW Terwilliger & Taylors Ferry", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684834895954722, 45.462811225743792 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3050, "stop_id": 5809, "stop_name": "SW Terwilliger & Troy", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684770697669663, 45.467537419034663 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2750, "stop_id": 5814, "stop_name": "SW Terwilliger & 6th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684659679581642, 45.456156338190731 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1950, "stop_id": 3862, "stop_name": "McNary & Churchill Downs", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712115610283192, 45.433589317977223 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2000, "stop_id": 3864, "stop_name": "McNary & Condolea", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.710016275832217, 45.433887663491006 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2550, "stop_id": 517, "stop_name": "SW Boones Ferry Rd & Colony Dr", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686123395762351, 45.448875720717972 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1675, "stop_id": 10305, "stop_name": "Kerr & Touchstone", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.714738679621149, 45.428129552078587 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2325, "stop_id": 9407, "stop_name": "SW Boones Ferry Rd & 13th Ct", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.692423520005178, 45.437758133632308 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1850, "stop_id": 3041, "stop_name": "Jefferson & Independence", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.715847435756871, 45.432044622642664 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1700, "stop_id": 3129, "stop_name": "Kerr & Independence", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.716110667327115, 45.428830508957091 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1600, "stop_id": 3133, "stop_name": "Kerr & McNary", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70719241724268, 45.428520482281101 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2500, "stop_id": 507, "stop_name": "SW Boones Ferry Rd & Arnold", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686984192617373, 45.446434502652203 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 750, "stop_id": 11944, "stop_name": "16800 Block SW 72nd", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.749002087386415, 45.397670005098554 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 900, "stop_id": 7877, "stop_name": "SW 72nd & Kable", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748934754661633, 45.407907404407752 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 700, "stop_id": 7879, "stop_name": "Tualatin Park & Ride", "jurisdic": "Tualatin", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748820768416266, 45.394696549867142 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1100, "stop_id": 7887, "stop_name": "SW 72nd & Sandburg", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.751661708021061, 45.421286412949705 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 850, "stop_id": 7893, "stop_name": "SW 72nd & Upper Boones Ferry", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.749421841673566, 45.403898715294446 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1150, "stop_id": 7894, "stop_name": "SW 72nd & Varns", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.751484942390832, 45.424467763077466 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2650, "stop_id": 5813, "stop_name": "SW Terwilliger & 2nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682536304602309, 45.454040662502663 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1200, "stop_id": 3295, "stop_name": "Kruse Way & Kruse Oaks", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.738835687113877, 45.419185985533801 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1000, "stop_id": 7867, "stop_name": "SW 72nd & Bonita", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.74897046933738, 45.415042704642026 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1500, "stop_id": 554, "stop_name": "Boones Ferry Rd & Rainbow", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.710404534907255, 45.421379876384457 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2200, "stop_id": 3996, "stop_name": "Monroe & Boones Ferry Rd", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.702863014305109, 45.432166843340198 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1050, "stop_id": 7895, "stop_name": "14100 Block SW 72nd", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.74898685116608, 45.417594930624404 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2050, "stop_id": 3997, "stop_name": "SW Monroe & Greenridge", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.707672997129336, 45.433548714247856 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3550, "stop_id": 12789, "stop_name": "SW Jefferson & 1st", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675599760742017, 45.513746096543358 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 950, "stop_id": 7885, "stop_name": "SW 72nd & Cardinal", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748953432446484, 45.411471267855617 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1750, "stop_id": 3043, "stop_name": "2 Jefferson Parkway", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.716342539625032, 45.4307044216607 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3250, "stop_id": 182, "stop_name": "SW Barbur & Parkhill", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679657054747253, 45.477480474593023 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1800, "stop_id": 3048, "stop_name": "Jefferson & Mt Jefferson", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.71587299913665, 45.431282497250962 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1650, "stop_id": 3135, "stop_name": "Kerr & Tanglewood", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712317501097246, 45.428364300725185 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 875, "stop_id": 8495, "stop_name": "15700 Block SW 72nd", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748917622738219, 45.406223417428954 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2800, "stop_id": 5781, "stop_name": "SW Terwilliger & Alice", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684865715432792, 45.457391043128716 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1550, "stop_id": 3138, "stop_name": "Kerr & The Grotto", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.707134732304638, 45.426323852971656 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3410, "stop_id": 9558, "stop_name": "3800 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677266675430729, 45.495070210410923 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 800, "stop_id": 7865, "stop_name": "16500 Block SW 72nd", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.749035557824783, 45.401286472494029 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1060, "stop_id": 9509, "stop_name": "13900 Block SW 72nd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.750114273476314, 45.419300982646895 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2850, "stop_id": 5801, "stop_name": "SW Terwilliger & Primrose", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684860801911015, 45.459427456542493 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 2250, "stop_id": 13735, "stop_name": "SW Boones Ferry & Orchard Hill", "jurisdic": "Portland", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.699043970755497, 45.434869374214195 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3300, "stop_id": 189, "stop_name": "SW Barbur & Slavin\/Capitol Hwy", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.680128513430063, 45.480455657162722 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3150, "stop_id": 203, "stop_name": "SW Barbur & 2nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.680574878813388, 45.471448919979785 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 775, "stop_id": 9048, "stop_name": "SW 72nd & Durham Rd", "jurisdic": "Tigard", "zipcode": "97224", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.748989391094867, 45.398824979130495 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 1350, "stop_id": 3299, "stop_name": "Kruse Way & Mercantile", "jurisdic": "Lake Oswego", "zipcode": "97035", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.718839581994473, 45.416536589318632 ] } },
-{ "type": "Feature", "properties": { "rte": 38, "dir": 1, "rte_desc": "38-Boones Ferry Rd", "dir_desc": "To Portland City Center", "type": "BUS", "stop_seq": 3600, "stop_id": 12791, "stop_name": "SW Jefferson & 5th", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679534868504206, 45.514809931890845 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71883958199447,
+                    45.41653658931863
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3299,
+                "stop_name": "Kruse Way & Mercantile",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70555762438212,
+                    45.43050022957287
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 2248,
+                "stop_name": "200 Block Greenridge",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68486080191101,
+                    45.45942745654249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5801,
+                "stop_name": "SW Terwilliger & Primrose",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68251463988024,
+                    45.48767712840085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74882076841627,
+                    45.39469654986714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tualatin",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7879,
+                "stop_name": "Tualatin Park & Ride",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74893475466163,
+                    45.40790740440775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7877,
+                "stop_name": "SW 72nd & Kable",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74897046933738,
+                    45.415042704642026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7867,
+                "stop_name": "SW 72nd & Bonita",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75011427347631,
+                    45.419300982646895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 9509,
+                "stop_name": "13900 Block SW 72nd",
+                "stop_seq": 1060,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75166170802106,
+                    45.421286412949705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7887,
+                "stop_name": "SW 72nd & Sandburg",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73129953247057,
+                    45.41883097792106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3298,
+                "stop_name": "Kruse Way & Kruse Woods",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71271186282746,
+                    45.41880011753761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 569,
+                "stop_name": "Boones Ferry Rd & Twin Fir",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71040453490725,
+                    45.42137987638446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 554,
+                "stop_name": "Boones Ferry Rd & Rainbow",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70719241724268,
+                    45.4285204822811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3133,
+                "stop_name": "Kerr & McNary",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71231750109725,
+                    45.428364300725185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3135,
+                "stop_name": "Kerr & Tanglewood",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71584743575687,
+                    45.432044622642664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3041,
+                "stop_name": "Jefferson & Independence",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71211561028319,
+                    45.43358931797722
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3862,
+                "stop_name": "McNary & Churchill Downs",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71001627583222,
+                    45.43388766349101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3864,
+                "stop_name": "McNary & Condolea",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70286301430511,
+                    45.4321668433402
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3996,
+                "stop_name": "Monroe & Boones Ferry Rd",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69242352000518,
+                    45.43775813363231
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 9407,
+                "stop_name": "SW Boones Ferry Rd & 13th Ct",
+                "stop_seq": 2325,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68585521622624,
+                    45.43997441063945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 565,
+                "stop_name": "SW Boones Ferry Rd & Stephenson",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6863152976798,
+                    45.444770505023996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 545,
+                "stop_name": "SW Boones Ferry Rd & Palatine",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68698419261737,
+                    45.4464345026522
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 507,
+                "stop_name": "SW Boones Ferry Rd & Arnold",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6832026900256,
+                    45.451751596668196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 584,
+                "stop_name": "SW Boones Ferry Rd & 4th",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68253630460231,
+                    45.45404066250266
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5813,
+                "stop_name": "SW Terwilliger & 2nd",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68465967958164,
+                    45.45615633819073
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5814,
+                "stop_name": "SW Terwilliger & 6th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68484844212769,
+                    45.461059675226245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5798,
+                "stop_name": "SW Terwilliger & Lobelia",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68483489595472,
+                    45.46281122574379
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5806,
+                "stop_name": "SW Terwilliger & Taylors Ferry",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68356894644135,
+                    45.46405596643617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5790,
+                "stop_name": "SW Terwilliger & Carson",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68477069766966,
+                    45.46753741903466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5809,
+                "stop_name": "SW Terwilliger & Troy",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6793212408583,
+                    45.47270347003674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 167,
+                "stop_name": "SW Barbur & Brier",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68012851343006,
+                    45.48045565716272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 189,
+                "stop_name": "SW Barbur & Slavin/Capitol Hwy",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67772473005718,
+                    45.49118599251005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67762997014248,
+                    45.50216609708688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 1930,
+                "stop_name": "SW Naito Parkway & Hooker",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67687521213138,
+                    45.509278640851235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 1926,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74942184167357,
+                    45.403898715294446
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7893,
+                "stop_name": "SW 72nd & Upper Boones Ferry",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74895343244648,
+                    45.41147126785562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7885,
+                "stop_name": "SW 72nd & Cardinal",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74898685116608,
+                    45.417594930624404
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7895,
+                "stop_name": "14100 Block SW 72nd",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75148494239083,
+                    45.424467763077466
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7894,
+                "stop_name": "SW 72nd & Varns",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72451035331468,
+                    45.41838054378314
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3293,
+                "stop_name": "Kruse Way & Carman",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70713473230464,
+                    45.426323852971656
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3138,
+                "stop_name": "Kerr & The Grotto",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71473867962115,
+                    45.42812955207859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 10305,
+                "stop_name": "Kerr & Touchstone",
+                "stop_seq": 1675,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71634253962503,
+                    45.4307044216607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3043,
+                "stop_name": "2 Jefferson Parkway",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71558373606449,
+                    45.43461937058185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3046,
+                "stop_name": "SW Jefferson Pkwy & McNary Pkwy",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7041306488002,
+                    45.431241324671255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 2249,
+                "stop_name": "Greenridge & Greenridge Ct",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69711514810878,
+                    45.43606817234441
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Multnomah Co.",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 580,
+                "stop_name": "SW Boones Ferry Rd & 19th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97034"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68662761803743,
+                    45.44367081081333
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 492,
+                "stop_name": "11200 Block SW Boones Ferry Rd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74900208738642,
+                    45.397670005098554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 11944,
+                "stop_name": "16800 Block SW 72nd",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74898939109487,
+                    45.398824979130495
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 9048,
+                "stop_name": "SW 72nd & Durham Rd",
+                "stop_seq": 775,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67559976074202,
+                    45.51374609654336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 12789,
+                "stop_name": "SW Jefferson & 1st",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6795348685042,
+                    45.514809931890845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 12791,
+                "stop_name": "SW Jefferson & 5th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68159251203018,
+                    45.515365868428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71482056472358,
+                    45.41673927392366
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 564,
+                "stop_name": "Boones Ferry Rd & Spring Lane",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70767299712934,
+                    45.433548714247856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3997,
+                "stop_name": "SW Monroe & Greenridge",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74903555782478,
+                    45.40128647249403
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 7865,
+                "stop_name": "16500 Block SW 72nd",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73883568711388,
+                    45.4191859855338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3295,
+                "stop_name": "Kruse Way & Kruse Oaks",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71587299913665,
+                    45.43128249725096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3048,
+                "stop_name": "Jefferson & Mt Jefferson",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68612339576235,
+                    45.44887572071797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 517,
+                "stop_name": "SW Boones Ferry Rd & Colony Dr",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68486571543279,
+                    45.457391043128716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 5781,
+                "stop_name": "SW Terwilliger & Alice",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68057487881339,
+                    45.471448919979785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 203,
+                "stop_name": "SW Barbur & 2nd",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67726667543073,
+                    45.49507021041092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 9558,
+                "stop_name": "3800 Block SW Barbur",
+                "stop_seq": 3410,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71611066732711,
+                    45.42883050895709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Lake Oswego",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 3129,
+                "stop_name": "Kerr & Independence",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74891762273822,
+                    45.406223417428954
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 8495,
+                "stop_name": "15700 Block SW 72nd",
+                "stop_seq": 875,
+                "type": "BUS",
+                "zipcode": "97224"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68497570035653,
+                    45.47091919120221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 193,
+                "stop_name": "SW Barbur & Terwilliger",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67965705474725,
+                    45.47748047459302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 182,
+                "stop_name": "SW Barbur & Parkhill",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6990439707555,
+                    45.434869374214195
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 38,
+                "rte_desc": "38-Boones Ferry Rd",
+                "stop_id": 13735,
+                "stop_name": "SW Boones Ferry & Orchard Hill",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97035"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

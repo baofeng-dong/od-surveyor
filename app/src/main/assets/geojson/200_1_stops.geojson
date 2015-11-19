@@ -1,30 +1,563 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 440, "stop_id": 8347, "stop_name": "Gateway\/NE 99th Ave TC MAX Station", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.563577524517029, 45.530272127442544 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 550, "stop_id": 8372, "stop_name": "NE 60th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.603341898282508, 45.528494427725576 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 600, "stop_id": 8373, "stop_name": "Hollywood\/NE 42nd Ave TC MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.621366790255593, 45.532956553186843 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 650, "stop_id": 8374, "stop_name": "Lloyd Center\/NE 11th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.654334506442638, 45.530146371409948 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 750, "stop_id": 8376, "stop_name": "Convention Center MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.662539547292354, 45.530137848577276 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 850, "stop_id": 7601, "stop_name": "Union Station\/NW 5th & Glisan St MAX Stn", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675604427038621, 45.526735350038663 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 1100, "stop_id": 7618, "stop_name": "PSU\/SW 5th & Mill St MAX Station", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681550761553311, 45.511644700168972 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 950, "stop_id": 7627, "stop_name": "SW 5th & Oak St MAX Station", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.676178301722103, 45.521573387862311 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 1000, "stop_id": 7646, "stop_name": "Pioneer Place\/SW 5th Ave MAX Station", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677933765294824, 45.518255421252178 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 500, "stop_id": 8371, "stop_name": "NE 82nd Ave MAX Station", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578437293811731, 45.533478203929455 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 450, "stop_id": 8370, "stop_name": "Gateway\/NE 99th Ave TC MAX Station", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.563626896079015, 45.530842047320171 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 800, "stop_id": 8377, "stop_name": "Rose Quarter TC MAX Station", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.665534016962653, 45.530135647397898 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 1150, "stop_id": 7606, "stop_name": "PSU South\/SW 5th & Jackson St MAX Stn", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682998814108871, 45.508979353579697 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 1050, "stop_id": 7608, "stop_name": "City Hall\/SW 5th & Jefferson St MAX Stn", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679741623181229, 45.51491772389312 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 900, "stop_id": 9303, "stop_name": "NW 5th & Couch St MAX Station", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675498404644188, 45.52388524678301 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 50, "stop_id": 13132, "stop_name": "Clackamas Town Center TC MAX Station", "jurisdic": "Clackamas Co.", "zipcode": "97086", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.567769341321664, 45.435721150730174 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 100, "stop_id": 13133, "stop_name": "SE Fuller Rd MAX Station", "jurisdic": "Clackamas Co.", "zipcode": "97086", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.573656023848869, 45.453637147826846 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 150, "stop_id": 13134, "stop_name": "SE Flavel St MAX Station", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.566542225795587, 45.468068132766838 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 200, "stop_id": 13135, "stop_name": "Lents\/SE Foster Rd MAX Station", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.566744801873085, 45.480685959431106 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 250, "stop_id": 13136, "stop_name": "SE Holgate Blvd MAX Station", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.566228991529655, 45.491368949078904 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 300, "stop_id": 13137, "stop_name": "SE Powell Blvd MAX Station", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.566197993012807, 45.495994266337107 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 350, "stop_id": 13138, "stop_name": "SE Division St MAX Station", "jurisdic": "Portland", "zipcode": "97266", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.566584394297593, 45.503610877347846 ] } },
-{ "type": "Feature", "properties": { "rte": 200, "dir": 1, "rte_desc": "MAX Green Line", "dir_desc": "To Portland City Center\/PSU", "type": "MAX", "stop_seq": 400, "stop_id": 13139, "stop_name": "SE Main St MAX Station", "jurisdic": "Portland", "zipcode": "97216", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.564412586892431, 45.514528125196286 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56357752451703,
+                    45.530272127442544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8347,
+                "stop_name": "Gateway/NE 99th Ave TC MAX Station",
+                "stop_seq": 440,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56776934132166,
+                    45.435721150730174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13132,
+                "stop_name": "Clackamas Town Center TC MAX Station",
+                "stop_seq": 50,
+                "type": "MAX",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57365602384887,
+                    45.453637147826846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Clackamas Co.",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13133,
+                "stop_name": "SE Fuller Rd MAX Station",
+                "stop_seq": 100,
+                "type": "MAX",
+                "zipcode": "97086"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56654222579559,
+                    45.46806813276684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13134,
+                "stop_name": "SE Flavel St MAX Station",
+                "stop_seq": 150,
+                "type": "MAX",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56674480187309,
+                    45.480685959431106
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13135,
+                "stop_name": "Lents/SE Foster Rd MAX Station",
+                "stop_seq": 200,
+                "type": "MAX",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56622899152966,
+                    45.491368949078904
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13136,
+                "stop_name": "SE Holgate Blvd MAX Station",
+                "stop_seq": 250,
+                "type": "MAX",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5661979930128,
+                    45.49599426633711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13137,
+                "stop_name": "SE Powell Blvd MAX Station",
+                "stop_seq": 300,
+                "type": "MAX",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56658439429759,
+                    45.503610877347846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13138,
+                "stop_name": "SE Division St MAX Station",
+                "stop_seq": 350,
+                "type": "MAX",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56441258689243,
+                    45.514528125196286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 13139,
+                "stop_name": "SE Main St MAX Station",
+                "stop_seq": 400,
+                "type": "MAX",
+                "zipcode": "97216"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56362689607901,
+                    45.53084204732017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8370,
+                "stop_name": "Gateway/NE 99th Ave TC MAX Station",
+                "stop_seq": 450,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57843729381173,
+                    45.533478203929455
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8371,
+                "stop_name": "NE 82nd Ave MAX Station",
+                "stop_seq": 500,
+                "type": "MAX",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60334189828251,
+                    45.528494427725576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8372,
+                "stop_name": "NE 60th Ave MAX Station",
+                "stop_seq": 550,
+                "type": "MAX",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62136679025559,
+                    45.53295655318684
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8373,
+                "stop_name": "Hollywood/NE 42nd Ave TC MAX Station",
+                "stop_seq": 600,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65433450644264,
+                    45.53014637140995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8374,
+                "stop_name": "Lloyd Center/NE 11th Ave MAX Station",
+                "stop_seq": 650,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65827702947595,
+                    45.53014968672015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8375,
+                "stop_name": "NE 7th Ave MAX Station",
+                "stop_seq": 700,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66253954729235,
+                    45.530137848577276
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8376,
+                "stop_name": "Convention Center MAX Station",
+                "stop_seq": 750,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66553401696265,
+                    45.5301356473979
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 8377,
+                "stop_name": "Rose Quarter TC MAX Station",
+                "stop_seq": 800,
+                "type": "MAX",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67560442703862,
+                    45.52673535003866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 7601,
+                "stop_name": "Union Station/NW 5th & Glisan MAX Stn",
+                "stop_seq": 850,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67549840464419,
+                    45.52388524678301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 9303,
+                "stop_name": "NW 5th & Couch MAX Station",
+                "stop_seq": 900,
+                "type": "MAX",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67617830172131,
+                    45.521573387862375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 7627,
+                "stop_name": "SW 5th & Oak MAX Station",
+                "stop_seq": 950,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67793376529407,
+                    45.51825542125225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 7646,
+                "stop_name": "Pioneer Place/SW 5th Ave MAX Station",
+                "stop_seq": 1000,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67974162318123,
+                    45.51491772389312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 7608,
+                "stop_name": "City Hall/SW 5th & Jefferson MAX Station",
+                "stop_seq": 1050,
+                "type": "MAX",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68155076155331,
+                    45.51164470016897
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 7618,
+                "stop_name": "PSU Urban Center/SW 5th & Mill MAX Station",
+                "stop_seq": 1100,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68299881410887,
+                    45.5089793535797
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Portland City Center/PSU",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 200,
+                "rte_desc": "MAX Green Line",
+                "stop_id": 7606,
+                "stop_name": "PSU South/SW 5th & Jackson MAX Stn",
+                "stop_seq": 1150,
+                "type": "MAX",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

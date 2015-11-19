@@ -1,39 +1,494 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1550, "stop_id": 3277, "stop_name": "SW Knight & Kingston", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.716911062613278, 45.512410873451024 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 800, "stop_id": 4341, "stop_name": "SW Park Pl & Douglas", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.700370338267476, 45.521251922423026 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1400, "stop_id": 4351, "stop_name": "SW Rose Garden Way & Wright", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.704634415389393, 45.521675678741488 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 550, "stop_id": 1618, "stop_name": "2700 Block SW Fairview", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70872879729761, 45.520428798469425 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 400, "stop_id": 1622, "stop_name": "2800 Block SW Fairview", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.71179391424522, 45.519501926463697 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 350, "stop_id": 1627, "stop_name": "SW Fairview & Bennington", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.710889989211182, 45.520756634821829 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 450, "stop_id": 1629, "stop_name": "SW Fairview & Cascade", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712434267843747, 45.518886947445417 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 500, "stop_id": 1632, "stop_name": "SW Fairview & Champlain", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.710751108799414, 45.519311562161029 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1025, "stop_id": 5006, "stop_name": "SW Salmon & 19th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.692364468895363, 45.520159879868494 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1200, "stop_id": 5018, "stop_name": "SW Salmon & 20th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.693947684841973, 45.520736527792344 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 650, "stop_id": 11091, "stop_name": "SW Kingston & Japanese Garden", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.706821968616197, 45.519310262596306 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1450, "stop_id": 11151, "stop_name": "SW Rose Garden Blvd & Sherwood", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.706201185778298, 45.518438653819324 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1300, "stop_id": 4343, "stop_name": "SW Park Pl & Green", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.698956023119464, 45.521360724531093 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1100, "stop_id": 6911, "stop_name": "SW 18th & Morrison", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.690433111585136, 45.521901477853099 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 750, "stop_id": 10300, "stop_name": "SW Sherwood & Children's Park", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.705952945345985, 45.51637453354175 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 100, "stop_id": 3291, "stop_name": "SW Knights & Kingston", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.716800245846485, 45.512455353317584 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 850, "stop_id": 4350, "stop_name": "SW Park Pl & Vista", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.697870751750813, 45.52124713948573 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1050, "stop_id": 9122, "stop_name": "SW 18th & Morrison", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.690123241200666, 45.521934674202534 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 950, "stop_id": 5019, "stop_name": "SW Salmon & 20th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.693770869209658, 45.520554934771901 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1350, "stop_id": 4346, "stop_name": "SW Park Pl & Lewis & Clark", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.700613409081626, 45.521366784655747 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1150, "stop_id": 9553, "stop_name": "SW 18th & Salmon", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.691398762799196, 45.520380923811345 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 700, "stop_id": 10488, "stop_name": "SW Sherwood & Kingston", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.706119174980017, 45.517808648852295 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 150, "stop_id": 1624, "stop_name": "4000 Block SW Fairview (Arboretum)", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.715960851286383, 45.515615096306057 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 300, "stop_id": 1636, "stop_name": "2900 Block SW Fairview", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.711466961856217, 45.521408963027547 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 600, "stop_id": 1633, "stop_name": "SW Fairview & Kingston", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.706978956925965, 45.521358268986013 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 900, "stop_id": 4345, "stop_name": "SW Park Pl & King", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.69555608865349, 45.521236483947902 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 50, "stop_id": 10299, "stop_name": "MAX Station\/Oregon Zoo", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.717307452730182, 45.510474141000664 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1600, "stop_id": 10299, "stop_name": "MAX Station\/Oregon Zoo", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.717307452730182, 45.510474141000664 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1250, "stop_id": 4340, "stop_name": "SW Park Pl & St Clair", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.696639635460841, 45.521351540350913 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 250, "stop_id": 1628, "stop_name": "SW Fairview & Canterbury", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.71304521307691, 45.520330853455498 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 200, "stop_id": 1638, "stop_name": "SW Fairview & Wildwood Trail", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.715723930678621, 45.518068369548914 ] } },
-{ "type": "Feature", "properties": { "rte": 83, "dir": 0, "rte_desc": "83-Washington Park Loop", "dir_desc": "To Rose Test Garden, Oregon Zoo and MAX Station", "type": "BUS", "stop_seq": 1500, "stop_id": 13253, "stop_name": "SW Kingston & Archery Range", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70979062251395, 45.514212841090796 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71730745273018,
+                    45.510474141000664
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 10299,
+                "stop_name": "MAX Station/Oregon Zoo",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71680024584649,
+                    45.512455353317584
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 3291,
+                "stop_name": "SW Knights & Kingston",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71596085128638,
+                    45.51561509630606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1624,
+                "stop_name": "4000 Block SW Fairview (Arboretum)",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71572393067862,
+                    45.518068369548914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1638,
+                "stop_name": "SW Fairview & Wildwood Trail",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71304521307691,
+                    45.5203308534555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1628,
+                "stop_name": "SW Fairview & Canterbury",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71146696185622,
+                    45.52140896302755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1636,
+                "stop_name": "2900 Block SW Fairview",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71088998921118,
+                    45.52075663482183
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1627,
+                "stop_name": "SW Fairview & Bennington",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71179391424522,
+                    45.5195019264637
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1622,
+                "stop_name": "2800 Block SW Fairview",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71243426784375,
+                    45.51888694744542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1629,
+                "stop_name": "SW Fairview & Cascade",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71075110879941,
+                    45.51931156216103
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1632,
+                "stop_name": "SW Fairview & Champlain",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70872879729761,
+                    45.520428798469425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1618,
+                "stop_name": "2700 Block SW Fairview",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70697895692597,
+                    45.52135826898601
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 1633,
+                "stop_name": "SW Fairview & Kingston",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7068219686162,
+                    45.519310262596306
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 11091,
+                "stop_name": "SW Kingston & Japanese Garden",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70611917498002,
+                    45.517808648852295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 10488,
+                "stop_name": "SW Sherwood & Kingston",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70595294534598,
+                    45.51637453354175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 10300,
+                "stop_name": "SW Sherwood & Children's Park",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70037033826748,
+                    45.521251922423026
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4341,
+                "stop_name": "SW Park Pl & Douglas",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69787075175081,
+                    45.52124713948573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4350,
+                "stop_name": "SW Park Pl & Vista",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69555608865349,
+                    45.5212364839479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 4345,
+                "stop_name": "SW Park Pl & King",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69377086920966,
+                    45.5205549347719
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 5019,
+                "stop_name": "SW Salmon & 20th",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69236446889536,
+                    45.520159879868494
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 5006,
+                "stop_name": "SW Salmon & 19th",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69012324120067,
+                    45.521934674202534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Providence Park",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 83,
+                "rte_desc": "83-Washington Park Loop",
+                "stop_id": 9122,
+                "stop_name": "SW 18th & Morrison",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

@@ -1,60 +1,1253 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1450, "stop_id": 4043, "stop_name": "NE Multnomah & Grand", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.660482076209973, 45.531586474716498 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1250, "stop_id": 4045, "stop_name": "NE Multnomah & 13th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.652350373022628, 45.531571250671583 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2600, "stop_id": 1945, "stop_name": "SW Gaines & 11th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.691210647312317, 45.497008788407548 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2500, "stop_id": 1947, "stop_name": "SW Gaines & 6th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.686883082293093, 45.495966157853672 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2550, "stop_id": 1949, "stop_name": "SW Gaines & 9th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.689252126938115, 45.49692106905821 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2950, "stop_id": 868, "stop_name": "SW Campus Dr & OHSU Garage F", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.684302586911969, 45.498186562258532 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2850, "stop_id": 871, "stop_name": "SW Campus Dr & Loading Dock 5", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.685140799067938, 45.498877205177884 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 150, "stop_id": 1264, "stop_name": "NE Dekum & Dean", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.652717134309739, 45.571703456217534 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 100, "stop_id": 1265, "stop_name": "NE Dekum & Durham", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.656249049408601, 45.571714654861367 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2300, "stop_id": 5804, "stop_name": "SW Terwilliger & Sam Jackson", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.687516089783927, 45.502538361806856 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2450, "stop_id": 5975, "stop_name": "US Veterans Hospital", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.683270680560838, 45.497058333643132 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2800, "stop_id": 5027, "stop_name": "SW Sam Jackson Pk & Campus Dr", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.684265451057172, 45.500298423399727 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2750, "stop_id": 5028, "stop_name": "SW Sam Jackson Pk & OHSU", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.685535452629395, 45.499336025348434 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2700, "stop_id": 5032, "stop_name": "SW Sam Jackson Pk & US Veterans", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.687161151997074, 45.49904224530831 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2350, "stop_id": 11010, "stop_name": "SW Terwilliger & Campus", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682732956285562, 45.499253111067027 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2250, "stop_id": 7794, "stop_name": "SW 6th & Sheridan", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.684451816900122, 45.505362718211458 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 600, "stop_id": 6788, "stop_name": "NE 15th & Going", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.649797288148847, 45.55645049892744 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2900, "stop_id": 10176, "stop_name": "700 SW Campus Dr at Doernbecher", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.685901020573965, 45.497876895369593 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1500, "stop_id": 11492, "stop_name": "NE Multnomah & 3rd", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.662929768053374, 45.531159122614994 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2050, "stop_id": 7612, "stop_name": "SW 5th & Madison", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679352016511842, 45.515682288641393 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2100, "stop_id": 7616, "stop_name": "SW 5th & Market", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680837021325345, 45.512953816300836 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1950, "stop_id": 7631, "stop_name": "SW 5th & Pine", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675826575832332, 45.52224017989127 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 350, "stop_id": 6772, "stop_name": "NE 15th & Ainsworth", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650078337468258, 45.566519266357311 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 550, "stop_id": 6774, "stop_name": "NE 15th & Alberta", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.649779048251034, 45.559201154572229 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 950, "stop_id": 6778, "stop_name": "NE 15th & Brazee", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650515765571271, 45.540605315644086 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1100, "stop_id": 6779, "stop_name": "NE 15th & Weidler", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650588058260112, 45.534456615199687 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 800, "stop_id": 6786, "stop_name": "NE 15th & Fremont", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.65046811002405, 45.548431331498357 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 400, "stop_id": 6793, "stop_name": "NE 15th & Jarrett", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650139085641385, 45.564670216396969 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 200, "stop_id": 6794, "stop_name": "NE 15th & Junior", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650118384631227, 45.571275297173948 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 300, "stop_id": 6797, "stop_name": "NE 15th & Holman", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650056187032988, 45.568121974209326 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 900, "stop_id": 6800, "stop_name": "NE 15th & Knott", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650541873962055, 45.542220005118146 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 650, "stop_id": 6805, "stop_name": "NE 15th & Prescott", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650258421058084, 45.555220628221001 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 500, "stop_id": 6813, "stop_name": "NE 15th & Sumner", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.649780506775997, 45.560415894767836 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1000, "stop_id": 6816, "stop_name": "NE 15th & Thompson", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.65053771398469, 45.539086091621769 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1200, "stop_id": 6818, "stop_name": "NE 16th & Multnomah", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.649631556991807, 45.53185739745895 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2650, "stop_id": 6548, "stop_name": "SW 11th & Gibbs", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.691148097857152, 45.499030565158122 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2150, "stop_id": 10491, "stop_name": "SW 5th & Hall", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.68228619677673, 45.510277176094831 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1150, "stop_id": 6789, "stop_name": "NE 15th & Halsey", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650564357393506, 45.533241076969951 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 700, "stop_id": 6802, "stop_name": "NE 15th & Mason", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650433753455516, 45.553213123578352 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1050, "stop_id": 6817, "stop_name": "NE 15th & Tillamook", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650549972588763, 45.537176146049738 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 750, "stop_id": 6784, "stop_name": "NE 15th & Failing", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650461881272378, 45.550858023085659 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 850, "stop_id": 6809, "stop_name": "NE 15th & Siskiyou", "jurisdic": "Portland", "zipcode": "97212", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650483221483981, 45.545285968609754 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2400, "stop_id": 8455, "stop_name": "SW US Veterans Rd & Bldg #16", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682219978027689, 45.49642214627815 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1300, "stop_id": 4044, "stop_name": "NE Multnomah & 11th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.654436084072316, 45.531575354269982 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 3000, "stop_id": 870, "stop_name": "SW Campus Dr & Terwilliger", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682572023043434, 45.499108334121381 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2200, "stop_id": 7588, "stop_name": "SW 5th & Broadway", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.683850353690943, 45.507083209641934 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 2000, "stop_id": 7625, "stop_name": "SW 5th & Morrison", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677571173182358, 45.518935910357392 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1350, "stop_id": 10876, "stop_name": "NE Multnomah & 9th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.657075228281442, 45.53157619907644 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1850, "stop_id": 9301, "stop_name": "NW 5th & Davis", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.675552025421126, 45.524704992815877 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1750, "stop_id": 9311, "stop_name": "NW Glisan & 3rd", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.673986501232164, 45.526840349237375 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 250, "stop_id": 6804, "stop_name": "NE 15th & Rosa Parks Way", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.650111745278139, 45.569941665529079 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 1550, "stop_id": 2592, "stop_name": "Rose Quarter Transit Center", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.66647593582104, 45.530005376981457 ] } },
-{ "type": "Feature", "properties": { "rte": 8, "dir": 0, "rte_desc": "8-Jackson Park\/NE 15th", "dir_desc": "To Marquam Hill", "type": "BUS", "stop_seq": 450, "stop_id": 6796, "stop_name": "NE 15th & Killingsworth", "jurisdic": "Portland", "zipcode": "97211", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.65014737093648, 45.562826909929775 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6868830822931,
+                    45.49596615785367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 1947,
+                "stop_name": "SW Gaines & 6th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68925212693811,
+                    45.49692106905821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 1949,
+                "stop_name": "SW Gaines & 9th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69121064731232,
+                    45.49700878840755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 1945,
+                "stop_name": "SW Gaines & 11th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69114809785715,
+                    45.49903056515812
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6548,
+                "stop_name": "SW 11th & Gibbs",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67398650123216,
+                    45.526840349237375
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 9311,
+                "stop_name": "NW Glisan & 3rd",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67555202542113,
+                    45.52470499281588
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 9301,
+                "stop_name": "NW 5th & Davis",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67582657583233,
+                    45.52224017989127
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 7631,
+                "stop_name": "SW 5th & Pine",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67757117318236,
+                    45.51893591035739
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 7625,
+                "stop_name": "SW 5th & Morrison",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6505643573935,
+                    45.53324107696995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6789,
+                "stop_name": "NE 15th & Halsey",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6496315569918,
+                    45.53185739745895
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6818,
+                "stop_name": "NE 16th & Multnomah",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65235037302263,
+                    45.53157125067158
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 4045,
+                "stop_name": "NE Multnomah & 13th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65443608407232,
+                    45.53157535426998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 4044,
+                "stop_name": "NE Multnomah & 11th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66048207620997,
+                    45.5315864747165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 4043,
+                "stop_name": "NE Multnomah & Grand",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67935201651184,
+                    45.51568228864139
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 7612,
+                "stop_name": "SW 5th & Madison",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68083702132535,
+                    45.512953816300836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 7616,
+                "stop_name": "SW 5th & Market",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68228619677673,
+                    45.51027717609483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 10491,
+                "stop_name": "SW 5th & Hall",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6562490494086,
+                    45.57171465486137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 1265,
+                "stop_name": "NE Dekum & Durham",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65271713430974,
+                    45.571703456217534
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 1264,
+                "stop_name": "NE Dekum & Dean",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65011838463123,
+                    45.57127529717395
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6794,
+                "stop_name": "NE 15th & Junior",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65011174527814,
+                    45.56994166552908
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6804,
+                "stop_name": "NE 15th & Rosa Parks Way",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65005618703299,
+                    45.568121974209326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6797,
+                "stop_name": "NE 15th & Holman",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65007833746826,
+                    45.56651926635731
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6772,
+                "stop_name": "NE 15th & Ainsworth",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65013908564138,
+                    45.56467021639697
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6793,
+                "stop_name": "NE 15th & Jarrett",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65014737093648,
+                    45.562826909929775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6796,
+                "stop_name": "NE 15th & Killingsworth",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.649780506776,
+                    45.560415894767836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6813,
+                "stop_name": "NE 15th & Sumner",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64977904825103,
+                    45.55920115457223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6774,
+                "stop_name": "NE 15th & Alberta",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64979728814885,
+                    45.55645049892744
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6788,
+                "stop_name": "NE 15th & Going",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65025842105808,
+                    45.555220628221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6805,
+                "stop_name": "NE 15th & Prescott",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65043375345552,
+                    45.55321312357835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6802,
+                "stop_name": "NE 15th & Mason",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65046188127238,
+                    45.55085802308566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6784,
+                "stop_name": "NE 15th & Failing",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65046811002405,
+                    45.54843133149836
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6786,
+                "stop_name": "NE 15th & Fremont",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65048322148398,
+                    45.545285968609754
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6809,
+                "stop_name": "NE 15th & Siskiyou",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65054187396206,
+                    45.542220005118146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6800,
+                "stop_name": "NE 15th & Knott",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65051576557127,
+                    45.540605315644086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6778,
+                "stop_name": "NE 15th & Brazee",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65053771398469,
+                    45.53908609162177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6816,
+                "stop_name": "NE 15th & Thompson",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65054997258876,
+                    45.53717614604974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6817,
+                "stop_name": "NE 15th & Tillamook",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65058805826011,
+                    45.53445661519969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 6779,
+                "stop_name": "NE 15th & Weidler",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66292976805337,
+                    45.531159122614994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 11492,
+                "stop_name": "NE Multnomah & 3rd",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66647593582104,
+                    45.53000537698146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 2592,
+                "stop_name": "Rose Quarter Transit Center",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68445181690012,
+                    45.50536271821146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 7794,
+                "stop_name": "SW 6th & Sheridan",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68751608978393,
+                    45.502538361806856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 5804,
+                "stop_name": "SW Terwilliger & Sam Jackson",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68273295628556,
+                    45.49925311106703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 11010,
+                "stop_name": "SW Terwilliger & Campus",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68221997802769,
+                    45.49642214627815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 8455,
+                "stop_name": "SW US Veterans Rd & Bldg #16",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68327068056084,
+                    45.49705833364313
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 5975,
+                "stop_name": "US Veterans Hospital",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68716115199707,
+                    45.49904224530831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 5032,
+                "stop_name": "SW Sam Jackson Pk & US Veterans",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6855354526294,
+                    45.499336025348434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 5028,
+                "stop_name": "SW Sam Jackson Pk & OHSU",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68426545105717,
+                    45.50029842339973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 5027,
+                "stop_name": "SW Sam Jackson Pk & Campus Dr",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68514079906794,
+                    45.498877205177884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 871,
+                "stop_name": "SW Campus Dr & Loading Dock 5",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68590102057397,
+                    45.49787689536959
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 10176,
+                "stop_name": "700 SW Campus Dr at Doernbecher",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68430258691197,
+                    45.49818656225853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 868,
+                "stop_name": "SW Campus Dr & OHSU Garage F",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68385035369094,
+                    45.507083209641934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 7588,
+                "stop_name": "SW 5th & Broadway",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68257202304343,
+                    45.49910833412138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 870,
+                "stop_name": "SW Campus Dr & Terwilliger",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65707522828144,
+                    45.53157619907644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 10876,
+                "stop_name": "NE Multnomah & 9th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65945851351357,
+                    45.57171895759202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Marquam Hill",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 8,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "stop_id": 1293,
+                "stop_name": "NE Dekum & 6th",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

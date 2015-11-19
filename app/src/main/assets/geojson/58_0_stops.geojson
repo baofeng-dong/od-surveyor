@@ -1,32 +1,586 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 550, "stop_id": 3039, "stop_name": "SW Jefferson & Broadway", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.681592512030178, 45.515365868427999 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 600, "stop_id": 3049, "stop_name": "SW Jefferson & 10th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683763507242972, 45.515944445951916 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 830, "stop_id": 3054, "stop_name": "SW Jefferson & 20th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.694077767196362, 45.518415094377431 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1100, "stop_id": 882, "stop_name": "7500 Block SW Canyon", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.754626595040477, 45.498899507545545 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1150, "stop_id": 883, "stop_name": "SW Canyon & Canyon Dr", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.764452781431075, 45.498446128913294 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1000, "stop_id": 885, "stop_name": "SW Canyon & Benz Park", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.752357586803512, 45.50168078643204 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 850, "stop_id": 895, "stop_name": "Hwy 26\/Canyon Rd Ramp & SW Skyline", "jurisdic": "Portland", "zipcode": "97221", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.736455863032489, 45.509131859229242 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1500, "stop_id": 904, "stop_name": "SW Canyon & 104th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.78356116184591, 45.492739969355561 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1600, "stop_id": 907, "stop_name": "SW Canyon & 107th", "jurisdic": "Washington Co.", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.786756137789226, 45.492105822511007 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1650, "stop_id": 909, "stop_name": "SW Canyon & 110th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.789888137747965, 45.491419286017212 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1700, "stop_id": 910, "stop_name": "SW Canyon & 115th", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.795324512460709, 45.490040936279875 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1200, "stop_id": 914, "stop_name": "SW Canyon & 87th", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.767202956955956, 45.498042040897857 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1300, "stop_id": 917, "stop_name": "SW Canyon & 93rd", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.772613917749197, 45.495256567027901 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1350, "stop_id": 919, "stop_name": "SW Canyon & 96th", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.775501808663748, 45.494130187906961 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1750, "stop_id": 8265, "stop_name": "SW Canyon & Red Robin", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.79915840758828, 45.489306822264297 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1050, "stop_id": 890, "stop_name": "SW Canyon & Copel", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.753439776444921, 45.500678656437124 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 750, "stop_id": 3052, "stop_name": "SW Jefferson & 16th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.690110971037825, 45.517636362303442 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1250, "stop_id": 12406, "stop_name": "SW Canyon & 91st", "jurisdic": "Washington Co.", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.770403672390998, 45.496457964663172 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1400, "stop_id": 898, "stop_name": "SW Canyon & Walker", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.779967738180289, 45.493448155265646 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 700, "stop_id": 3051, "stop_name": "SW Jefferson & 13th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.687153570560042, 45.51685238997436 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 900, "stop_id": 10632, "stop_name": "SW Canyon & Camelot Ct", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.747327198422809, 45.50494752818993 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 950, "stop_id": 10633, "stop_name": "SW Canyon & Canyon Crest", "jurisdic": "Beaverton", "zipcode": "97225", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.749214006833682, 45.503538202259108 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 1850, "stop_id": 9976, "stop_name": "Beaverton Transit Center", "jurisdic": "Beaverton", "zipcode": "97005", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.801264664343876, 45.490823906525691 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 225, "stop_id": 12791, "stop_name": "SW Jefferson & 5th", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679534868504206, 45.514809931890845 ] } },
-{ "type": "Feature", "properties": { "rte": 58, "dir": 0, "rte_desc": "58-Canyon Rd", "dir_desc": "To Beaverton TC", "type": "BUS", "stop_seq": 800, "stop_id": 13107, "stop_name": "SW Jefferson & 17th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.691767883408815, 45.51790299717161 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68159251203018,
+                    45.515365868428
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 3039,
+                "stop_name": "SW Jefferson & Broadway",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68715357056004,
+                    45.51685238997436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 3051,
+                "stop_name": "SW Jefferson & 13th",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69011097103783,
+                    45.51763636230344
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 3052,
+                "stop_name": "SW Jefferson & 16th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69407776719636,
+                    45.51841509437743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 3054,
+                "stop_name": "SW Jefferson & 20th",
+                "stop_seq": 830,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75235758680351,
+                    45.50168078643204
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 885,
+                "stop_name": "SW Canyon & Benz Park",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75462659504048,
+                    45.498899507545545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 882,
+                "stop_name": "7500 Block SW Canyon",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76720295695596,
+                    45.49804204089786
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 914,
+                "stop_name": "SW Canyon & 87th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77996773818029,
+                    45.49344815526565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 898,
+                "stop_name": "SW Canyon & Walker",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78356116184591,
+                    45.49273996935556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 904,
+                "stop_name": "SW Canyon & 104th",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78675613778923,
+                    45.49210582251101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 907,
+                "stop_name": "SW Canyon & 107th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80126466434388,
+                    45.49082390652569
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 9976,
+                "stop_name": "Beaverton Transit Center",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74732719842281,
+                    45.50494752818993
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 10632,
+                "stop_name": "SW Canyon & Camelot Ct",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77550180866375,
+                    45.49413018790696
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 919,
+                "stop_name": "SW Canyon & 96th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75343977644492,
+                    45.500678656437124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 890,
+                "stop_name": "SW Canyon & Copel",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76445278143107,
+                    45.498446128913294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 883,
+                "stop_name": "SW Canyon & Canyon Dr",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79532451246071,
+                    45.490040936279875
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 910,
+                "stop_name": "SW Canyon & 115th",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.770403672391,
+                    45.49645796466317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 12406,
+                "stop_name": "SW Canyon & 91st",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68376350724297,
+                    45.51594444595192
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 3049,
+                "stop_name": "SW Jefferson & 10th",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73645586303249,
+                    45.50913185922924
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 895,
+                "stop_name": "Hwy 26/Canyon Rd Ramp & SW Skyline",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97221"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74921400683368,
+                    45.50353820225911
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 10633,
+                "stop_name": "SW Canyon & Canyon Crest",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6795348685042,
+                    45.514809931890845
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 12791,
+                "stop_name": "SW Jefferson & 5th",
+                "stop_seq": 225,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69176788340882,
+                    45.51790299717161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 13107,
+                "stop_name": "SW Jefferson & 17th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7726139177492,
+                    45.4952565670279
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 917,
+                "stop_name": "SW Canyon & 93rd",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97225"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78988813774797,
+                    45.49141928601721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 909,
+                "stop_name": "SW Canyon & 110th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79915840758828,
+                    45.4893068222643
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Beaverton Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 58,
+                "rte_desc": "58-Canyon Rd",
+                "stop_id": 8265,
+                "stop_name": "SW Canyon & Red Robin",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97005"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

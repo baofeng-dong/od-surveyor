@@ -1,103 +1,2219 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3650, "stop_id": 6216, "stop_name": "NE Weidler & Lloyd Center", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.653718278921232, 45.534290065843521 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3500, "stop_id": 6218, "stop_name": "NE Weidler & M L King", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.661131660969843, 45.534277488214762 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3450, "stop_id": 6232, "stop_name": "NE Weidler & 2nd", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.663830466234941, 45.534270825301462 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3800, "stop_id": 6235, "stop_name": "NE Weidler & 21st", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.644975531066791, 45.534252084923352 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3850, "stop_id": 6237, "stop_name": "NE Weidler & 22nd", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.64309995089927, 45.534246842400442 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3550, "stop_id": 6240, "stop_name": "NE Weidler & 7th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.65876621664188, 45.534284371481036 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2700, "stop_id": 3116, "stop_name": "SW Kelly & Corbett", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675220136024336, 45.501919598258446 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2900, "stop_id": 3398, "stop_name": "SW Lincoln & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679723088467199, 45.508033876057162 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2750, "stop_id": 143, "stop_name": "SW Arthur & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678421387269282, 45.50382030828424 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 750, "stop_id": 2683, "stop_name": "SE Holgate & 117th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.542365598731493, 45.489766517406515 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 50, "stop_id": 2685, "stop_name": "SE Holgate & 134th Dr", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.526748141972959, 45.48958510994877 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1000, "stop_id": 2687, "stop_name": "SE Holgate & 101st", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.56038936358253, 45.489944420488442 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 450, "stop_id": 4576, "stop_name": "SE Powell & 127th Pl", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.533445299267484, 45.497310688297411 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2650, "stop_id": 4702, "stop_name": "SE Powell & 9th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.657285430360574, 45.501661793324082 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 850, "stop_id": 2697, "stop_name": "SE Holgate & 112th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.547869486610566, 45.489850171186795 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 700, "stop_id": 2705, "stop_name": "SE Holgate & 122nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.539042127436645, 45.48973656351577 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2350, "stop_id": 2713, "stop_name": "SE Holgate & 26th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.639367969493719, 45.490371628479707 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2300, "stop_id": 2715, "stop_name": "SE Holgate & 28th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.637099857323818, 45.490358243322945 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2250, "stop_id": 2719, "stop_name": "SE Holgate & 32nd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.632390936817259, 45.490650731666896 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2200, "stop_id": 2721, "stop_name": "SE Holgate & 34th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.629399920539967, 45.490362264536152 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4300, "stop_id": 4811, "stop_name": "NE Regents & 26th", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.639227583232255, 45.54975833597463 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2150, "stop_id": 2723, "stop_name": "SE Holgate & 36th", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.626790892799434, 45.490365845128274 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2100, "stop_id": 2727, "stop_name": "SE Holgate & Cesar Chavez Blvd", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.622461328721258, 45.490347085760298 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2000, "stop_id": 2733, "stop_name": "SE Holgate & 45th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.615726304356414, 45.490353111753407 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1900, "stop_id": 2737, "stop_name": "SE Holgate & 49th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.611821860339006, 45.490345296330936 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1800, "stop_id": 2741, "stop_name": "SE Holgate & 56th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.605583539122051, 45.490340319595624 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1750, "stop_id": 2743, "stop_name": "SE Holgate & 58th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.603569205534299, 45.49033043424101 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1700, "stop_id": 2747, "stop_name": "SE Holgate & 62nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.599261990605015, 45.490319963418457 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1550, "stop_id": 2753, "stop_name": "SE Holgate & 70th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.591093670673359, 45.490309160642163 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1450, "stop_id": 2756, "stop_name": "SE Holgate & 74th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.586815153950681, 45.490300034327774 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1400, "stop_id": 2759, "stop_name": "SE Holgate & 77th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.584485026683282, 45.490308310125137 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1350, "stop_id": 2761, "stop_name": "SE Holgate & 79th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.582203410660441, 45.490305964183356 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1300, "stop_id": 2763, "stop_name": "SE Holgate & 82nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.579397484689238, 45.4903476177575 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1200, "stop_id": 2768, "stop_name": "SE Holgate & 88th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.572198659012301, 45.490180001301773 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 900, "stop_id": 2695, "stop_name": "SE Holgate & 108th Pl", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.551413974117338, 45.489869878335767 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2400, "stop_id": 6876, "stop_name": "SE 17th & Mall", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.648249879893015, 45.491672689173576 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4050, "stop_id": 7185, "stop_name": "NE 24th & Brazee", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.64105606300069, 45.540394511433888 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3900, "stop_id": 7188, "stop_name": "NE 24th & Broadway", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641066885287259, 45.535415014330432 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4200, "stop_id": 7194, "stop_name": "NE 24th & Klickitat", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641048581282547, 45.546602973011986 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4150, "stop_id": 7201, "stop_name": "NE 24th & Siskiyou", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641077415840925, 45.545062170212994 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3950, "stop_id": 7208, "stop_name": "NE 24th & Tillamook", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641067975741294, 45.537335522022524 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1150, "stop_id": 2771, "stop_name": "SE Holgate & 92nd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.568974668837541, 45.49010815069223 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3050, "stop_id": 7756, "stop_name": "SW 6th & Clay", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.681439773946934, 45.513596575009096 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3200, "stop_id": 7759, "stop_name": "NW Broadway & Davis", "jurisdic": "Portland", "zipcode": "97209", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677378301082456, 45.524378381288876 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 950, "stop_id": 2690, "stop_name": "SE Holgate & 103rd", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.556514165747956, 45.489877499191742 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 200, "stop_id": 6725, "stop_name": "SE 136th & Center", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.523451975852765, 45.493924742774965 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 150, "stop_id": 6728, "stop_name": "SE 136th & Mall", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.52349582146077, 45.490470526211304 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 250, "stop_id": 6731, "stop_name": "SE 136th & Rhone", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.52343015329636, 45.496085849166512 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 350, "stop_id": 4581, "stop_name": "SE Powell & 132nd", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.527970202901571, 45.497534530242653 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4250, "stop_id": 7190, "stop_name": "NE 24th & Fremont", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641039965254137, 45.548410649313773 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4850, "stop_id": 7235, "stop_name": "NE 27th & Ainsworth", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.638047830504561, 45.566200978373381 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2450, "stop_id": 6849, "stop_name": "SE 17th & Center", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.648258403909892, 45.49384923556736 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3150, "stop_id": 7747, "stop_name": "SW 6th & Alder", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678239804158494, 45.519606763166784 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 100, "stop_id": 2708, "stop_name": "SE Holgate & 136th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.524311535759423, 45.488785479971462 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 600, "stop_id": 6625, "stop_name": "SE 122nd & Bush", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.537828521200694, 45.494106575178556 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3700, "stop_id": 10425, "stop_name": "NE Weidler & 15th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.650682083532203, 45.534255464681038 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3750, "stop_id": 6227, "stop_name": "NE Weidler & 17th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.648682353139023, 45.534265960285012 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3400, "stop_id": 6220, "stop_name": "N Weidler & Williams", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.666898070330234, 45.534316051445579 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3600, "stop_id": 6242, "stop_name": "NE Weidler & 9th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.656750352797118, 45.534289745552478 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3300, "stop_id": 625, "stop_name": "NW Broadway & Irving", "jurisdic": "Portland", "zipcode": "97209", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677488200201097, 45.527807199493481 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 5000, "stop_id": 7240, "stop_name": "NE 27th & Dekum", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.638076149168725, 45.57180101183193 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4900, "stop_id": 7246, "stop_name": "NE 27th & Holman", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.638067171935461, 45.568141141925729 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4800, "stop_id": 7248, "stop_name": "NE 27th & Jarrett", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.63805630264136, 45.564364402533805 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4750, "stop_id": 7250, "stop_name": "NE 27th & Killingsworth", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.637765743216008, 45.562614507726828 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4700, "stop_id": 7260, "stop_name": "NE 27th & Sumner", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.637792675379103, 45.560205573532102 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 5050, "stop_id": 5148, "stop_name": "2500 Block of NE Saratoga", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.639885150265187, 45.572851702408975 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2850, "stop_id": 6472, "stop_name": "2200 Block SW 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678536781364713, 45.506687104294414 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 400, "stop_id": 4578, "stop_name": "SE Powell & 129th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.530982925329255, 45.497394798724294 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4000, "stop_id": 7206, "stop_name": "NE 24th & Thompson", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641038799215153, 45.538906006571906 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4600, "stop_id": 7267, "stop_name": "NE 27th & Wygant", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.637833560499814, 45.557608562139649 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4400, "stop_id": 7306, "stop_name": "NE 29th & Alameda", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.635879401424106, 45.550150141111942 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3350, "stop_id": 611, "stop_name": "N Broadway & Benton", "jurisdic": "Portland", "zipcode": "97227", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.669904730714023, 45.53403249808833 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 550, "stop_id": 6668, "stop_name": "SE 122nd & Rhone", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.537806595214505, 45.495979622428386 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4500, "stop_id": 7317, "stop_name": "NE 29th & Skidmore", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.635841354029267, 45.55422089309122 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1650, "stop_id": 2748, "stop_name": "SE Holgate & 64th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.597280523567548, 45.490359114375295 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4950, "stop_id": 8727, "stop_name": "NE 27th & Highland", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.638073947864726, 45.569659417485674 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2600, "stop_id": 4538, "stop_name": "SE Powell & Milwaukie", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.654695073998624, 45.501404363353785 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 300, "stop_id": 4583, "stop_name": "SE Powell & 134th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.525126845549877, 45.497671074589157 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1250, "stop_id": 10593, "stop_name": "SE Holgate & 85th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.575824898288332, 45.49032205139244 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4650, "stop_id": 7238, "stop_name": "NE 27th & Alberta", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.637835622978315, 45.558955375572218 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1500, "stop_id": 2755, "stop_name": "SE Holgate & 72nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.588866726423731, 45.490301698405624 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4550, "stop_id": 7256, "stop_name": "NE 27th & Prescott", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.637870765310481, 45.555313648485701 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1050, "stop_id": 12914, "stop_name": "SE Holgate & 97th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.563221851518833, 45.490006051654227 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4450, "stop_id": 7309, "stop_name": "NE 29th & Bryce", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.635823678357269, 45.551782374922901 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3100, "stop_id": 7767, "stop_name": "SW 6th & Main", "jurisdic": "Portland", "zipcode": "97204", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.680038581720069, 45.516272768850293 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2050, "stop_id": 2729, "stop_name": "SE Holgate & 41st", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.619382359626542, 45.490346131739834 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1850, "stop_id": 2739, "stop_name": "SE Holgate & 52nd", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.609354237069908, 45.490350902239506 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 650, "stop_id": 6619, "stop_name": "SE 122nd & Boise", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.537848418819564, 45.492118032539913 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 3000, "stop_id": 13305, "stop_name": "SW Harrison & 6th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682648183796346, 45.511058254648034 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1100, "stop_id": 13219, "stop_name": "SE Holgate & SE Holgate Blvd MAX Stn", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.567278095974316, 45.490106983143853 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 500, "stop_id": 4575, "stop_name": "SE Powell & 124th", "jurisdic": "Portland", "zipcode": "97236", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.536050806167651, 45.49721456390381 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1600, "stop_id": 2751, "stop_name": "SE Holgate & 67th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.59413051280012, 45.490317065253521 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 800, "stop_id": 2700, "stop_name": "SE Holgate & 115th", "jurisdic": "Portland", "zipcode": "97266", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.544409894183644, 45.489810803700777 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 1950, "stop_id": 2735, "stop_name": "SE Holgate & 47th", "jurisdic": "Portland", "zipcode": "97206", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.613775750595167, 45.490343420463077 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 2525, "stop_id": 13693, "stop_name": "SE 17th & Rhine", "jurisdic": "Portland", "zipcode": "97202", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.647875987511867, 45.497774034634915 ] } },
-{ "type": "Feature", "properties": { "rte": 17, "dir": 1, "rte_desc": "17-Holgate\/Broadway", "dir_desc": "To Saratoga & 27th", "type": "BUS", "stop_seq": 4100, "stop_id": 7197, "stop_name": "NE 24th & Knott", "jurisdic": "Portland", "zipcode": "97212", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.641047967784999, 45.541894211987319 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6797230884672,
+                    45.50803387605716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 3398,
+                "stop_name": "SW Lincoln & 1st",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67737830108246,
+                    45.52437838128888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7759,
+                "stop_name": "NW Broadway & Davis",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64787598751187,
+                    45.497774034634915
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13693,
+                "stop_name": "SE 17th & Rhine",
+                "stop_seq": 2525,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52674814197296,
+                    45.48958510994877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2685,
+                "stop_name": "SE Holgate & 134th Dr",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52431153575942,
+                    45.48878547997146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2708,
+                "stop_name": "SE Holgate & 136th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52349582146077,
+                    45.490470526211304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6728,
+                "stop_name": "SE 136th & Mall",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52345197585277,
+                    45.493924742774965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6725,
+                "stop_name": "SE 136th & Center",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52343015329636,
+                    45.49608584916651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6731,
+                "stop_name": "SE 136th & Rhone",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52512684554988,
+                    45.49767107458916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4583,
+                "stop_name": "SE Powell & 134th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.52797020290157,
+                    45.49753453024265
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4581,
+                "stop_name": "SE Powell & 132nd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53098292532925,
+                    45.497394798724294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4578,
+                "stop_name": "SE Powell & 129th",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53344529926748,
+                    45.49731068829741
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4576,
+                "stop_name": "SE Powell & 127th Pl",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53605080616765,
+                    45.49721456390381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4575,
+                "stop_name": "SE Powell & 124th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5378065952145,
+                    45.495979622428386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6668,
+                "stop_name": "SE 122nd & Rhone",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5378285212007,
+                    45.494106575178556
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6625,
+                "stop_name": "SE 122nd & Bush",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53784841881956,
+                    45.49211803253991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6619,
+                "stop_name": "SE 122nd & Boise",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97236"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.53904212743664,
+                    45.48973656351577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2705,
+                "stop_name": "SE Holgate & 122nd",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5423655987315,
+                    45.489766517406515
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2683,
+                "stop_name": "SE Holgate & 117th",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54440989418364,
+                    45.48981080370078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2700,
+                "stop_name": "SE Holgate & 115th",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.54786948661057,
+                    45.489850171186795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2697,
+                "stop_name": "SE Holgate & 112th",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55141397411734,
+                    45.48986987833577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2695,
+                "stop_name": "SE Holgate & 108th Pl",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.55651416574796,
+                    45.48987749919174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2690,
+                "stop_name": "SE Holgate & 103rd",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56038936358253,
+                    45.48994442048844
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2687,
+                "stop_name": "SE Holgate & 101st",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56322185151883,
+                    45.49000605165423
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 12914,
+                "stop_name": "SE Holgate & 97th",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56727809597432,
+                    45.49010698314385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13219,
+                "stop_name": "SE Holgate & SE Holgate Blvd MAX Stn",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56897466883754,
+                    45.49010815069223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2771,
+                "stop_name": "SE Holgate & 92nd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5721986590123,
+                    45.49018000130177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2768,
+                "stop_name": "SE Holgate & 88th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57582489828833,
+                    45.49032205139244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 10593,
+                "stop_name": "SE Holgate & 85th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57939748468924,
+                    45.4903476177575
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2763,
+                "stop_name": "SE Holgate & 82nd",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97266"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58220341066044,
+                    45.49030596418336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2761,
+                "stop_name": "SE Holgate & 79th",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58448502668328,
+                    45.49030831012514
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2759,
+                "stop_name": "SE Holgate & 77th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58681515395068,
+                    45.490300034327774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2756,
+                "stop_name": "SE Holgate & 74th",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58886672642373,
+                    45.490301698405624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2755,
+                "stop_name": "SE Holgate & 72nd",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59109367067336,
+                    45.49030916064216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2753,
+                "stop_name": "SE Holgate & 70th",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59413051280012,
+                    45.49031706525352
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2751,
+                "stop_name": "SE Holgate & 67th",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59728052356755,
+                    45.490359114375295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2748,
+                "stop_name": "SE Holgate & 64th",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59926199060502,
+                    45.49031996341846
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2747,
+                "stop_name": "SE Holgate & 62nd",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6035692055343,
+                    45.49033043424101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2743,
+                "stop_name": "SE Holgate & 58th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60558353912205,
+                    45.490340319595624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2741,
+                "stop_name": "SE Holgate & 56th",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60935423706991,
+                    45.490350902239506
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2739,
+                "stop_name": "SE Holgate & 52nd",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.611821860339,
+                    45.490345296330936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2737,
+                "stop_name": "SE Holgate & 49th",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61377575059517,
+                    45.49034342046308
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2735,
+                "stop_name": "SE Holgate & 47th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61572630435641,
+                    45.49035311175341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2733,
+                "stop_name": "SE Holgate & 45th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97206"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61938235962654,
+                    45.490346131739834
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2729,
+                "stop_name": "SE Holgate & 41st",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62246132872126,
+                    45.4903470857603
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2727,
+                "stop_name": "SE Holgate & Cesar Chavez Blvd",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62622612628246,
+                    45.49036258481762
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2723,
+                "stop_name": "SE Holgate & 36th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62932580486249,
+                    45.490362266973385
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2721,
+                "stop_name": "SE Holgate & 34th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63239093681726,
+                    45.490650731666896
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2719,
+                "stop_name": "SE Holgate & 32nd",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63709985732382,
+                    45.490358243322945
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2715,
+                "stop_name": "SE Holgate & 28th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63936796949372,
+                    45.49037162847971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 2713,
+                "stop_name": "SE Holgate & 26th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64824987989302,
+                    45.491672689173576
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6876,
+                "stop_name": "SE 17th & Mall",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64821404739023,
+                    45.49384972231554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6849,
+                "stop_name": "SE 17th & Center",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65469507399862,
+                    45.501404363353785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4538,
+                "stop_name": "SE Powell & Milwaukie",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68143977394693,
+                    45.513596575009096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7756,
+                "stop_name": "SW 6th & Clay",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68003858172007,
+                    45.51627276885029
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7767,
+                "stop_name": "SW 6th & Main",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6782398041585,
+                    45.519606763166784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7747,
+                "stop_name": "SW 6th & Alder",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6774882002011,
+                    45.52780719949348
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 625,
+                "stop_name": "NW Broadway & Irving",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66990473071402,
+                    45.53403249808833
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 611,
+                "stop_name": "N Broadway & Benton",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97227"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66689807033023,
+                    45.53431605144558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6220,
+                "stop_name": "N Weidler & Williams",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66383046623494,
+                    45.53427082530146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6232,
+                "stop_name": "NE Weidler & 2nd",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66113166096984,
+                    45.53427748821476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6218,
+                "stop_name": "NE Weidler & M L King",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65876621664188,
+                    45.534284371481036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6240,
+                "stop_name": "NE Weidler & 7th",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65675035279712,
+                    45.53428974555248
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6242,
+                "stop_name": "NE Weidler & 9th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6536855227081,
+                    45.534275589655124
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6216,
+                "stop_name": "NE Weidler & Lloyd Center",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6506820835322,
+                    45.53425546468104
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 10425,
+                "stop_name": "NE Weidler & 15th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64868235313902,
+                    45.53426596028501
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6227,
+                "stop_name": "NE Weidler & 17th",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64497553106679,
+                    45.53425208492335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6235,
+                "stop_name": "NE Weidler & 21st",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64309995089927,
+                    45.53424684240044
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 6237,
+                "stop_name": "NE Weidler & 22nd",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64106688528726,
+                    45.53541501433043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7188,
+                "stop_name": "NE 24th & Broadway",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6410679757413,
+                    45.53733552202252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7208,
+                "stop_name": "NE 24th & Tillamook",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64103879921515,
+                    45.53890600657191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7206,
+                "stop_name": "NE 24th & Thompson",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64105606300069,
+                    45.54039451143389
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7185,
+                "stop_name": "NE 24th & Brazee",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.641047967785,
+                    45.54189421198732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7197,
+                "stop_name": "NE 24th & Knott",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64107741584093,
+                    45.545062170212994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7201,
+                "stop_name": "NE 24th & Siskiyou",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64104858128255,
+                    45.546602973011986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7194,
+                "stop_name": "NE 24th & Klickitat",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64103996525414,
+                    45.54841064931377
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7190,
+                "stop_name": "NE 24th & Fremont",
+                "stop_seq": 4250,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63922758323226,
+                    45.54975833597463
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 4811,
+                "stop_name": "NE Regents & 26th",
+                "stop_seq": 4300,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6358794014241,
+                    45.55015014111194
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7306,
+                "stop_name": "NE 29th & Alameda",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63582367835727,
+                    45.5517823749229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7309,
+                "stop_name": "NE 29th & Bryce",
+                "stop_seq": 4450,
+                "type": "BUS",
+                "zipcode": "97212"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63584135402927,
+                    45.55422089309122
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7317,
+                "stop_name": "NE 29th & Skidmore",
+                "stop_seq": 4500,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63787076531048,
+                    45.5553136484857
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7256,
+                "stop_name": "NE 27th & Prescott",
+                "stop_seq": 4550,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63783356049981,
+                    45.55760856213965
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7267,
+                "stop_name": "NE 27th & Wygant",
+                "stop_seq": 4600,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63783562297832,
+                    45.55895537557222
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7238,
+                "stop_name": "NE 27th & Alberta",
+                "stop_seq": 4650,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6377926753791,
+                    45.5602055735321
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7260,
+                "stop_name": "NE 27th & Sumner",
+                "stop_seq": 4700,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63776574321601,
+                    45.56261450772683
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7250,
+                "stop_name": "NE 27th & Killingsworth",
+                "stop_seq": 4750,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63805630264136,
+                    45.564364402533805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7248,
+                "stop_name": "NE 27th & Jarrett",
+                "stop_seq": 4800,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63804783050456,
+                    45.56620097837338
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7235,
+                "stop_name": "NE 27th & Ainsworth",
+                "stop_seq": 4850,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63806717193546,
+                    45.56814114192573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7246,
+                "stop_name": "NE 27th & Holman",
+                "stop_seq": 4900,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63807394786473,
+                    45.569659417485674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 8727,
+                "stop_name": "NE 27th & Highland",
+                "stop_seq": 4950,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63807614916873,
+                    45.57180101183193
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7240,
+                "stop_name": "NE 27th & Dekum",
+                "stop_seq": 5000,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63988515026519,
+                    45.572851702408975
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 5148,
+                "stop_name": "2500 Block of NE Saratoga",
+                "stop_seq": 5050,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65728882236785,
+                    45.50490853762738
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13779,
+                "stop_name": "SE Division Pl & 8th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97202"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66319235182263,
+                    45.5065990087097
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13773,
+                "stop_name": "OMSI/SE Water",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67178714627286,
+                    45.50258553128883
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13733,
+                "stop_name": "South Waterfront/SW Moody",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6820879584694,
+                    45.51013271825708
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 13780,
+                "stop_name": "SW Hall & 5th",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68220249504158,
+                    45.51223283780384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Saratoga & 27th",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 17,
+                "rte_desc": "17-Holgate/Broadway",
+                "stop_id": 7773,
+                "stop_name": "SW 6th & Mill",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

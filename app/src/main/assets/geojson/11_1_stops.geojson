@@ -1,51 +1,1023 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1700, "stop_id": 1698, "stop_name": "N Fessenden & Allegheny", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.743940866863412, 45.595631759746659 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1600, "stop_id": 1704, "stop_name": "N Fessenden & Burr", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.738156667133765, 45.594261048341309 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1750, "stop_id": 1715, "stop_name": "N Fessenden & Richmond", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.746821888686867, 45.596303229876554 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1650, "stop_id": 1718, "stop_name": "N Fessenden & Tioga", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.741032351501417, 45.594941229092655 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1850, "stop_id": 5374, "stop_name": "N St Louis & Seneca", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.751542352003014, 45.595983058090489 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1900, "stop_id": 5375, "stop_name": "N St Louis & Smith", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.753491404189987, 45.595022717489847 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2150, "stop_id": 4818, "stop_name": "N Richmond & Syracuse", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.751883842378035, 45.587888752718243 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 900, "stop_id": 3541, "stop_name": "13200 Block N Lombard", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.771495082210521, 45.619179561208192 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1550, "stop_id": 1713, "stop_name": "N Fessenden & Midway", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.735243611466032, 45.593575066913878 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 950, "stop_id": 9192, "stop_name": "N Rivergate Blvd & Lombard St", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.771308705838464, 45.617591562684908 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1000, "stop_id": 9193, "stop_name": "13300 Block N Rivergate", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.779959142379298, 45.619611149532766 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1050, "stop_id": 9194, "stop_name": "N Rivergate Blvd & Ramsey", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.779976667121517, 45.623562370058977 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1150, "stop_id": 9196, "stop_name": "13300 Block N Rivergate Blvd", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.780289061341946, 45.619640100065531 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 450, "stop_id": 9204, "stop_name": "5900 Block N Marine", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.731367941694998, 45.622885779227147 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 700, "stop_id": 9206, "stop_name": "N Lombard & Simmons", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.766013136490486, 45.637725950864812 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 750, "stop_id": 10162, "stop_name": "N Lombard & Terminal 5 Access Rd", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.769525839081922, 45.635400970517502 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 850, "stop_id": 9309, "stop_name": "N Lombard & Ramsey", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.771709380729504, 45.623465224532275 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2100, "stop_id": 3009, "stop_name": "N Ivanhoe & Charleston", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.752711159873229, 45.588684839328408 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1350, "stop_id": 11833, "stop_name": "N Columbia Blvd & Upland Dr", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.742188493830042, 45.600463166865381 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1400, "stop_id": 11834, "stop_name": "N Columbia Blvd & Bank", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.736084967353619, 45.596666100294819 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1500, "stop_id": 11836, "stop_name": "N Macrum & Powers", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.730509234926075, 45.593884515912244 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2050, "stop_id": 11837, "stop_name": "N Ivanhoe & Baltimore", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756426071701497, 45.590383461320897 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1250, "stop_id": 11849, "stop_name": "9500 Block N Columbia Blvd", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.759341188891625, 45.60859993654956 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 2000, "stop_id": 11935, "stop_name": "N Ivanhoe & Chicago", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.757362851432873, 45.591359690019729 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 600, "stop_id": 9335, "stop_name": "N Marine & Leadbetter", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.745175077303742, 45.630438472019598 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 150, "stop_id": 9453, "stop_name": "NE 6th Drive & Faloma", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.659465755785305, 45.599118597885095 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 200, "stop_id": 9454, "stop_name": "N Marine & Gantenbein", "jurisdic": "Portland", "zipcode": "97217", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.669460105989259, 45.601885896699898 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 250, "stop_id": 9455, "stop_name": "N Marine & Anchor", "jurisdic": "Portland", "zipcode": "97217", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.675755110684193, 45.602987274768097 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 500, "stop_id": 9457, "stop_name": "6100 Block N Marine", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.735509224352967, 45.625089714210254 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 800, "stop_id": 9460, "stop_name": "14500 Block N Lombard", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.77199386345076, 45.630918991217726 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 400, "stop_id": 9203, "stop_name": "5700 Block N Marine", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.727820155560494, 45.620939028393224 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 300, "stop_id": 11832, "stop_name": "N Marine & Pier 99 St", "jurisdic": "Portland", "zipcode": "97217", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684306009053515, 45.606330201808042 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1300, "stop_id": 11838, "stop_name": "N Columbia Blvd & Hendricks", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.750280263570161, 45.603869465711448 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1450, "stop_id": 11835, "stop_name": "N Columbia Blvd & Oregonian", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.732376542648325, 45.595233856157854 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 350, "stop_id": 11006, "stop_name": "N Marine & Portland Rd", "jurisdic": "Portland", "zipcode": "97217", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.704467366906087, 45.613925204912057 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1950, "stop_id": 5372, "stop_name": "N St Louis & Kellogg", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756739128739483, 45.593433167020294 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 100, "stop_id": 9451, "stop_name": "NE Middlefield & 6th Drive", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.663134783157091, 45.595875650590493 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 675, "stop_id": 9459, "stop_name": "N Marine & Pacific Gateway Blvd", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.756280632817351, 45.636552740536111 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1800, "stop_id": 13479, "stop_name": "N Fessenden & Iris Way", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.749011019705137, 45.596770213586922 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 50, "stop_id": 9477, "stop_name": "NE Middlefield Rd & N Vancouver Way", "jurisdic": "Portland", "zipcode": "97211", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.667541057269261, 45.59585028272636 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 550, "stop_id": 9458, "stop_name": "N Marine & Bybee Lake Road", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.740840086964184, 45.628045502639644 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 650, "stop_id": 9205, "stop_name": "7100 Block N Marine", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.750064933871201, 45.633133871776863 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1100, "stop_id": 12942, "stop_name": "9600 N Ramsey Blvd", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.77632778057982, 45.623903400064606 ] } },
-{ "type": "Feature", "properties": { "rte": 11, "dir": 1, "rte_desc": "11-Rivergate\/Marine Dr", "dir_desc": "To St Johns", "type": "BUS", "stop_seq": 1200, "stop_id": 13527, "stop_name": "N Lombard & Burgard", "jurisdic": "Portland", "zipcode": "97203", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.762999866011143, 45.612694519238225 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75628063281735,
+                    45.63655274053611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9459,
+                "stop_name": "N Marine & Pacific Gateway Blvd",
+                "stop_seq": 675,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66754105726926,
+                    45.59585028272636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9477,
+                "stop_name": "NE Middlefield Rd & N Vancouver Way",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66313478315709,
+                    45.59587565059049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9451,
+                "stop_name": "NE Middlefield & 6th Drive",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6594657557853,
+                    45.599118597885095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9453,
+                "stop_name": "NE 6th Drive & Faloma",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97211"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66946010598926,
+                    45.6018858966999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9454,
+                "stop_name": "N Marine & Gantenbein",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6757551106842,
+                    45.6029872747681
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9455,
+                "stop_name": "N Marine & Anchor",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68430600905351,
+                    45.60633020180804
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11832,
+                "stop_name": "N Marine & Pier 99 St",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70446736690609,
+                    45.61392520491206
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11006,
+                "stop_name": "N Marine & Portland Rd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97217"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7278201555605,
+                    45.620939028393224
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9203,
+                "stop_name": "5700 Block N Marine",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.731367941695,
+                    45.62288577922715
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9204,
+                "stop_name": "5900 Block N Marine",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73550922435297,
+                    45.625089714210254
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9457,
+                "stop_name": "6100 Block N Marine",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74084008696418,
+                    45.628045502639644
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9458,
+                "stop_name": "N Marine & Bybee Lake Road",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74517507730374,
+                    45.6304384720196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9335,
+                "stop_name": "N Marine & Leadbetter",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7500649338712,
+                    45.63313387177686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9205,
+                "stop_name": "7100 Block N Marine",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76601313649049,
+                    45.63772595086481
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9206,
+                "stop_name": "N Lombard & Simmons",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76952583908192,
+                    45.6354009705175
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 10162,
+                "stop_name": "N Lombard & Terminal 5 Access Rd",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77199386345076,
+                    45.630918991217726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9460,
+                "stop_name": "14500 Block N Lombard",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7717093807295,
+                    45.623465224532275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9309,
+                "stop_name": "N Lombard & Ramsey",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77149508221052,
+                    45.61917956120819
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 3541,
+                "stop_name": "13200 Block N Lombard",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77130870583846,
+                    45.61759156268491
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9192,
+                "stop_name": "N Rivergate Blvd & Lombard St",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7799591423793,
+                    45.619611149532766
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9193,
+                "stop_name": "13300 Block N Rivergate",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77997666712152,
+                    45.62356237005898
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9194,
+                "stop_name": "N Rivergate Blvd & Ramsey",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77632778057982,
+                    45.623903400064606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 12942,
+                "stop_name": "9600 N Ramsey Blvd",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78028906134195,
+                    45.61964010006553
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 9196,
+                "stop_name": "13300 Block N Rivergate Blvd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76299986601114,
+                    45.612694519238225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 13527,
+                "stop_name": "N Lombard & Burgard",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75934118889163,
+                    45.60859993654956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11849,
+                "stop_name": "9500 Block N Columbia Blvd",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75028026357016,
+                    45.60386946571145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11838,
+                "stop_name": "N Columbia Blvd & Hendricks",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74218849383004,
+                    45.60046316686538
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11833,
+                "stop_name": "N Columbia Blvd & Upland Dr",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73608496735362,
+                    45.59666610029482
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11834,
+                "stop_name": "N Columbia Blvd & Bank",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73237654264832,
+                    45.595233856157854
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11835,
+                "stop_name": "N Columbia Blvd & Oregonian",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73050923492607,
+                    45.593884515912244
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11836,
+                "stop_name": "N Macrum & Powers",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73524361146603,
+                    45.59357506691388
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1713,
+                "stop_name": "N Fessenden & Midway",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73815666713377,
+                    45.59426104834131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1704,
+                "stop_name": "N Fessenden & Burr",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74103235150142,
+                    45.594941229092655
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1718,
+                "stop_name": "N Fessenden & Tioga",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74394086686341,
+                    45.59563175974666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1698,
+                "stop_name": "N Fessenden & Allegheny",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74682188868687,
+                    45.596303229876554
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 1715,
+                "stop_name": "N Fessenden & Richmond",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74901101970514,
+                    45.59677021358692
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 13479,
+                "stop_name": "N Fessenden & Iris Way",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75154235200301,
+                    45.59598305809049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 5374,
+                "stop_name": "N St Louis & Seneca",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75349140418999,
+                    45.59502271748985
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 5375,
+                "stop_name": "N St Louis & Smith",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75673912873948,
+                    45.593433167020294
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 5372,
+                "stop_name": "N St Louis & Kellogg",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75736285143287,
+                    45.59135969001973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11935,
+                "stop_name": "N Ivanhoe & Chicago",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75653486222578,
+                    45.59049038913618
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 11837,
+                "stop_name": "N Ivanhoe & Baltimore",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75271115987323,
+                    45.58868483932841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 3009,
+                "stop_name": "N Ivanhoe & Charleston",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75188384237804,
+                    45.58788875271824
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To St Johns",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 11,
+                "rte_desc": "11-Rivergate/Marine Dr",
+                "stop_id": 4818,
+                "stop_name": "N Richmond & Syracuse",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97203"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

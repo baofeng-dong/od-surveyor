@@ -1,90 +1,1920 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3200, "stop_id": 5091, "stop_name": "NE Sandy & 44th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.617607248303571, 45.537053722746521 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3300, "stop_id": 5097, "stop_name": "NE Sandy & 50th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.611486357700173, 45.539506643404302 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3450, "stop_id": 5104, "stop_name": "NE Sandy & 57th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.604775001870777, 45.542032948844557 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3500, "stop_id": 5110, "stop_name": "NE Sandy & 60th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.601199825759636, 45.54344419406047 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3550, "stop_id": 5112, "stop_name": "NE Sandy & 62nd", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.598961844886659, 45.544318493665649 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3700, "stop_id": 5123, "stop_name": "NE Sandy & 70th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.590785266064884, 45.547499297862849 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3850, "stop_id": 5132, "stop_name": "NE Sandy & 77th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.583920113267581, 45.550220490190526 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3900, "stop_id": 5135, "stop_name": "NE Sandy & 79th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.581256533667315, 45.551281604509114 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 4150, "stop_id": 5146, "stop_name": "NE Sandy & 92nd", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.568373800508624, 45.55652052430829 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2450, "stop_id": 704, "stop_name": "E Burnside & NE Grand", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.660873985736885, 45.522866825980692 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2350, "stop_id": 772, "stop_name": "W Burnside & SW 4th", "jurisdic": "Portland", "zipcode": "97209", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.674805247663059, 45.522983089904955 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2500, "stop_id": 820, "stop_name": "E Burnside & SE 8th", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.657843498945738, 45.522851089811645 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 100, "stop_id": 3669, "stop_name": "SW Main & Pacific Hwy", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.76700926882279, 45.432742199461934 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 750, "stop_id": 150, "stop_name": "10100 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.723411808894795, 45.452500501195658 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 600, "stop_id": 154, "stop_name": "11100 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.733515254355169, 45.44487344757956 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1650, "stop_id": 156, "stop_name": "4900 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.682514639880239, 45.487677128400847 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 900, "stop_id": 160, "stop_name": "9500 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.713429007387333, 45.456525508256192 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 950, "stop_id": 162, "stop_name": "SW Barbur & Alice", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.70949120433508, 45.458724113232272 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1500, "stop_id": 167, "stop_name": "SW Barbur & Brier", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.6793212408583, 45.472703470036741 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1700, "stop_id": 172, "stop_name": "SW Barbur & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677724730057179, 45.491185992510047 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 550, "stop_id": 183, "stop_name": "11200 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.736602934267651, 45.444189337897676 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1400, "stop_id": 193, "stop_name": "SW Barbur & Terwilliger", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.684975700356532, 45.470919191202213 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1850, "stop_id": 195, "stop_name": "SW Barbur & Whitaker", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679786951024823, 45.49907017744065 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1900, "stop_id": 197, "stop_name": "SW Barbur & Woods", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680756354673335, 45.500752912794724 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1200, "stop_id": 202, "stop_name": "SW Barbur & 19th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.697572143898483, 45.46558451999978 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1000, "stop_id": 208, "stop_name": "SW Barbur & 30th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.707432756352617, 45.459912647060712 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 650, "stop_id": 210, "stop_name": "SW Barbur & 53rd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.730142084774045, 45.446239358459863 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 500, "stop_id": 211, "stop_name": "SW Pacific Hwy & 64th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.742702026033157, 45.442983738192275 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2700, "stop_id": 5044, "stop_name": "NE Sandy & Flanders", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.646165049469587, 45.525567795067801 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3350, "stop_id": 5054, "stop_name": "NE Sandy & Sacramento", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.609337658118775, 45.540235802650507 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2750, "stop_id": 5066, "stop_name": "NE Sandy & 24th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.641136186610126, 45.52750731550303 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2850, "stop_id": 5070, "stop_name": "NE Sandy & 28th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.637475669732439, 45.528935752440951 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2900, "stop_id": 5076, "stop_name": "NE Sandy & 31st", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.632469281653883, 45.530883294566699 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 50, "stop_id": 8210, "stop_name": "Tigard Transit Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.769088522352007, 45.430102170555585 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3250, "stop_id": 5094, "stop_name": "NE Sandy & 47th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.614692525711064, 45.538378806567842 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1950, "stop_id": 174, "stop_name": "SW Barbur & Hooker", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681477750668193, 45.502087120440876 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2100, "stop_id": 7772, "stop_name": "SW 6th & Market", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681811375678549, 45.512946379080333 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2200, "stop_id": 7807, "stop_name": "SW 6th & Yamhill", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.678974577868502, 45.518199280986877 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 250, "stop_id": 4251, "stop_name": "11600 Block SW Pacific Hwy", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.755816242028061, 45.437458990073118 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 4100, "stop_id": 5051, "stop_name": "NE Sandy & Prescott", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.56970385586034, 45.555981850898071 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 450, "stop_id": 4327, "stop_name": "SW Pacific Hwy & 68th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.746707926281715, 45.441996899833725 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 350, "stop_id": 4284, "stop_name": "SW Pacific Hwy & 72nd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.75082227414309, 45.43997754355113 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 300, "stop_id": 9648, "stop_name": "SW Pacific Hwy & 74th (Park & Ride)", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.752608268358998, 45.439040412680079 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2650, "stop_id": 5061, "stop_name": "NE Sandy & 18th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.647783858740567, 45.524971432872015 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2600, "stop_id": 6839, "stop_name": "NE 16th & Sandy", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.649471517192836, 45.524277105783192 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3050, "stop_id": 10793, "stop_name": "NE Sandy & 38th", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.623828884189976, 45.534369195647017 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1050, "stop_id": 10849, "stop_name": "SW Barbur & 26th Way", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.705448463342933, 45.461086375072099 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1250, "stop_id": 180, "stop_name": "SW Barbur & Moss", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.694279194398604, 45.467493504007706 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 4000, "stop_id": 5046, "stop_name": "NE Sandy & Grotto", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.575983638977249, 45.553434582422504 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3600, "stop_id": 5115, "stop_name": "NE Sandy & 65th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.59664263869702, 45.545235458563255 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2950, "stop_id": 5079, "stop_name": "NE Sandy & 33rd", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.630092194134576, 45.531837978722926 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3400, "stop_id": 5102, "stop_name": "NE Sandy & 54th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.607476314181369, 45.540992099784312 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3950, "stop_id": 5138, "stop_name": "NE Sandy & 82nd", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.578119739377925, 45.552553933449069 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1750, "stop_id": 177, "stop_name": "SW Barbur & Lane", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.678004322877712, 45.495936828305723 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3800, "stop_id": 10795, "stop_name": "NE Sandy & 74th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.586500549611657, 45.549182628890627 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1300, "stop_id": 11271, "stop_name": "SW Barbur & 13th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.692126246417175, 45.468708493456511 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2250, "stop_id": 7782, "stop_name": "SW 6th & Oak", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.677172283761493, 45.521525022014636 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2150, "stop_id": 7765, "stop_name": "SW 6th & Jefferson", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680761444587603, 45.51486977564484 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 800, "stop_id": 168, "stop_name": "SW Barbur & Capitol Hwy", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.721559489280153, 45.45323314560278 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 150, "stop_id": 4290, "stop_name": "SW Pacific Hwy & Hall", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.764196489028208, 45.434074458922183 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1150, "stop_id": 11031, "stop_name": "SW Barbur & 22nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.699936234875693, 45.464181343008903 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1800, "stop_id": 186, "stop_name": "SW Barbur & Pennoyer", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.67907374054063, 45.49775594220435 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2800, "stop_id": 5049, "stop_name": "NE Sandy & Lawrence", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.638908376556188, 45.528376311344083 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 850, "stop_id": 212, "stop_name": "Barbur Transit Center", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.717389765773248, 45.454551691293652 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2000, "stop_id": 12762, "stop_name": "SW 4th & Caruthers", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681878559266138, 45.505521958651734 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2050, "stop_id": 12763, "stop_name": "SW 4th & Hall", "jurisdic": "Portland", "zipcode": "97201", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.681292276008151, 45.509575667525304 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2400, "stop_id": 9526, "stop_name": "W Burnside & SW 2nd", "jurisdic": "Portland", "zipcode": "97204", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.672529201984631, 45.523008743907603 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3000, "stop_id": 5048, "stop_name": "NE Sandy & Imperial", "jurisdic": "Portland", "zipcode": "97232", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.627831369914773, 45.532759456305072 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 400, "stop_id": 4248, "stop_name": "11500 Block SW Pacific Hwy", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.748613656766793, 45.441165683349872 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 4200, "stop_id": 10853, "stop_name": "Parkrose\/ Sumner Transit Center", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.564900426612567, 45.558427540567678 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1550, "stop_id": 182, "stop_name": "SW Barbur & Parkhill", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.679657054747253, 45.477480474593023 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 700, "stop_id": 179, "stop_name": "SW Barbur & Luradel", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.727083859542503, 45.450894824310311 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 200, "stop_id": 4252, "stop_name": "11700 Block SW Pacific Hwy", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.759137868809418, 45.435964934359909 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2300, "stop_id": 792, "stop_name": "W Burnside & SW 6th", "jurisdic": "Portland", "zipcode": "97205", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.676820733211969, 45.522949513209973 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1600, "stop_id": 189, "stop_name": "SW Barbur & Slavin\/Capitol Hwy", "jurisdic": "Portland", "zipcode": "97239", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680128513430063, 45.480455657162722 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1450, "stop_id": 203, "stop_name": "SW Barbur & 2nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.680574878813388, 45.471448919979785 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3750, "stop_id": 5045, "stop_name": "NE Sandy & Fremont", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.589533484834533, 45.547992262902049 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3150, "stop_id": 5087, "stop_name": "NE Sandy & 42nd", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.619510024362455, 45.536198715539086 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1350, "stop_id": 10848, "stop_name": "SW Barbur & Bertha", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.688578458153842, 45.470622355660225 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 3650, "stop_id": 5118, "stop_name": "NE Sandy & 67th", "jurisdic": "Portland", "zipcode": "97213", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.5944504153601, 45.546096153246246 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 1100, "stop_id": 159, "stop_name": "SW Barbur & 26th Ave", "jurisdic": "Portland", "zipcode": "97219", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.702771738800578, 45.462585977353179 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 2550, "stop_id": 13327, "stop_name": "E Burnside & SE Sandy", "jurisdic": "Portland", "zipcode": "97214", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.653806690901618, 45.522823507911767 ] } },
-{ "type": "Feature", "properties": { "rte": 12, "dir": 1, "rte_desc": "12-Barbur\/Sandy Blvd", "dir_desc": "To Parkrose\/Sumner Transit Center", "type": "BUS", "stop_seq": 4050, "stop_id": 13651, "stop_name": "NE Sandy & 87th", "jurisdic": "Portland", "zipcode": "97220", "frequent": "True" }, "geometry": { "type": "Point", "coordinates": [ -122.57317202320607, 45.554570382549883 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57317202320607,
+                    45.55457038254988
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 13651,
+                "stop_name": "NE Sandy & 87th",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76700926882279,
+                    45.432742199461934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 3669,
+                "stop_name": "SW Main & Pacific Hwy",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76419648902821,
+                    45.43407445892218
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 4290,
+                "stop_name": "SW Pacific Hwy & Hall",
+                "stop_seq": 150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75913786880942,
+                    45.43596493435991
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 4252,
+                "stop_name": "11700 Block SW Pacific Hwy",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75581624202806,
+                    45.43745899007312
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 4251,
+                "stop_name": "11600 Block SW Pacific Hwy",
+                "stop_seq": 250,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.752608268359,
+                    45.43904041268008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 9648,
+                "stop_name": "SW Pacific Hwy & 74th (Park & Ride)",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75082227414309,
+                    45.43997754355113
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 4284,
+                "stop_name": "SW Pacific Hwy & 72nd",
+                "stop_seq": 350,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74861365676679,
+                    45.44116568334987
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 4248,
+                "stop_name": "11500 Block SW Pacific Hwy",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74670792628172,
+                    45.441996899833725
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 4327,
+                "stop_name": "SW Pacific Hwy & 68th",
+                "stop_seq": 450,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74270202603316,
+                    45.442983738192275
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 211,
+                "stop_name": "SW Pacific Hwy & 64th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73660293426765,
+                    45.444189337897676
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 183,
+                "stop_name": "11200 Block SW Barbur",
+                "stop_seq": 550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73351525435517,
+                    45.44487344757956
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 154,
+                "stop_name": "11100 Block SW Barbur",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73014208477404,
+                    45.44623935845986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 210,
+                "stop_name": "SW Barbur & 53rd",
+                "stop_seq": 650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7270838595425,
+                    45.45089482431031
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 179,
+                "stop_name": "SW Barbur & Luradel",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7234118088948,
+                    45.45250050119566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 150,
+                "stop_name": "10100 Block SW Barbur",
+                "stop_seq": 750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72155948928015,
+                    45.45323314560278
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 168,
+                "stop_name": "SW Barbur & Capitol Hwy",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71738976577325,
+                    45.45455169129365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 212,
+                "stop_name": "Barbur Transit Center",
+                "stop_seq": 850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71342900738733,
+                    45.45652550825619
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 160,
+                "stop_name": "9500 Block SW Barbur",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70949120433508,
+                    45.45872411323227
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 162,
+                "stop_name": "SW Barbur & Alice",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70743275635262,
+                    45.45991264706071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 208,
+                "stop_name": "SW Barbur & 30th",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70544846334293,
+                    45.4610863750721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 10849,
+                "stop_name": "SW Barbur & 26th Way",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70277173880058,
+                    45.46258597735318
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 159,
+                "stop_name": "SW Barbur & 26th Ave",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6999362348757,
+                    45.4641813430089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 11031,
+                "stop_name": "SW Barbur & 22nd",
+                "stop_seq": 1150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69757214389848,
+                    45.46558451999978
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 202,
+                "stop_name": "SW Barbur & 19th",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6942791943986,
+                    45.467493504007706
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 180,
+                "stop_name": "SW Barbur & Moss",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69212624641717,
+                    45.46870849345651
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 11271,
+                "stop_name": "SW Barbur & 13th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68857845815384,
+                    45.470622355660225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 10848,
+                "stop_name": "SW Barbur & Bertha",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68497570035653,
+                    45.47091919120221
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 193,
+                "stop_name": "SW Barbur & Terwilliger",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68057487881339,
+                    45.471448919979785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 203,
+                "stop_name": "SW Barbur & 2nd",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6793212408583,
+                    45.47270347003674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 167,
+                "stop_name": "SW Barbur & Brier",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68012851343006,
+                    45.48045565716272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 189,
+                "stop_name": "SW Barbur & Slavin/Capitol Hwy",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68251463988024,
+                    45.48767712840085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 156,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67772473005718,
+                    45.49118599251005
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 172,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 1700,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67800432287771,
+                    45.49593682830572
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 177,
+                "stop_name": "SW Barbur & Lane",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67907374054063,
+                    45.49775594220435
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 186,
+                "stop_name": "SW Barbur & Pennoyer",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67978695102482,
+                    45.49907017744065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 195,
+                "stop_name": "SW Barbur & Whitaker",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68075635467333,
+                    45.500752912794724
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 197,
+                "stop_name": "SW Barbur & Woods",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6814777506682,
+                    45.502087120440876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 174,
+                "stop_name": "SW Barbur & Hooker",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68187855926614,
+                    45.505521958651734
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 12762,
+                "stop_name": "SW 4th & Caruthers",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68129227600815,
+                    45.509575667525304
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 12763,
+                "stop_name": "SW 4th & Hall",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68181137567855,
+                    45.51294637908033
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 7772,
+                "stop_name": "SW 6th & Market",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6807614445876,
+                    45.51486977564484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 7765,
+                "stop_name": "SW 6th & Jefferson",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6789745778685,
+                    45.51819928098688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 7807,
+                "stop_name": "SW 6th & Yamhill",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6771722837615,
+                    45.521525022014636
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 7782,
+                "stop_name": "SW 6th & Oak",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67682073321197,
+                    45.52294951320997
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 792,
+                "stop_name": "W Burnside & SW 6th",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97205"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67480524766306,
+                    45.522983089904955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 772,
+                "stop_name": "W Burnside & SW 4th",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97209"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67252920198463,
+                    45.5230087439076
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 9526,
+                "stop_name": "W Burnside & SW 2nd",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97204"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.66087398573688,
+                    45.52286682598069
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 704,
+                "stop_name": "E Burnside & NE Grand",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65784349894574,
+                    45.522851089811645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 820,
+                "stop_name": "E Burnside & SE 8th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.65380669090162,
+                    45.52282350791177
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 13327,
+                "stop_name": "E Burnside & SE Sandy",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97214"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64947151719284,
+                    45.52427710578319
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 6839,
+                "stop_name": "NE 16th & Sandy",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64778385874057,
+                    45.524971432872015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5061,
+                "stop_name": "NE Sandy & 18th",
+                "stop_seq": 2650,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64616504946959,
+                    45.5255677950678
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5044,
+                "stop_name": "NE Sandy & Flanders",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.64113618661013,
+                    45.52750731550303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5066,
+                "stop_name": "NE Sandy & 24th",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63890837655619,
+                    45.52837631134408
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5049,
+                "stop_name": "NE Sandy & Lawrence",
+                "stop_seq": 2800,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63747566973244,
+                    45.52893575244095
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5070,
+                "stop_name": "NE Sandy & 28th",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63246928165388,
+                    45.5308832945667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5076,
+                "stop_name": "NE Sandy & 31st",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.63009219413458,
+                    45.531837978722926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5079,
+                "stop_name": "NE Sandy & 33rd",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62783136991477,
+                    45.53275945630507
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5048,
+                "stop_name": "NE Sandy & Imperial",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.62382888418998,
+                    45.53436919564702
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 10793,
+                "stop_name": "NE Sandy & 38th",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97232"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61951002436246,
+                    45.536198715539086
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5087,
+                "stop_name": "NE Sandy & 42nd",
+                "stop_seq": 3150,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61760724830357,
+                    45.53705372274652
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5091,
+                "stop_name": "NE Sandy & 44th",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61469252571106,
+                    45.53837880656784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5094,
+                "stop_name": "NE Sandy & 47th",
+                "stop_seq": 3250,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.61148635770017,
+                    45.5395066434043
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5097,
+                "stop_name": "NE Sandy & 50th",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60933765811878,
+                    45.54023580265051
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5054,
+                "stop_name": "NE Sandy & Sacramento",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60747631418137,
+                    45.54099209978431
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5102,
+                "stop_name": "NE Sandy & 54th",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60477500187078,
+                    45.54203294884456
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5104,
+                "stop_name": "NE Sandy & 57th",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.60119982575964,
+                    45.54344419406047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5110,
+                "stop_name": "NE Sandy & 60th",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59896184488666,
+                    45.54431849366565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5112,
+                "stop_name": "NE Sandy & 62nd",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.59664263869702,
+                    45.545235458563255
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5115,
+                "stop_name": "NE Sandy & 65th",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5944504153601,
+                    45.546096153246246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5118,
+                "stop_name": "NE Sandy & 67th",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.5908883591494,
+                    45.54746244224789
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5123,
+                "stop_name": "NE Sandy & 70th",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58953348483453,
+                    45.54799226290205
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5045,
+                "stop_name": "NE Sandy & Fremont",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58650054961166,
+                    45.54918262889063
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 10795,
+                "stop_name": "NE Sandy & 74th",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58392011326758,
+                    45.550220490190526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5132,
+                "stop_name": "NE Sandy & 77th",
+                "stop_seq": 3850,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67965705474725,
+                    45.47748047459302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 182,
+                "stop_name": "SW Barbur & Parkhill",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7693403921675,
+                    45.43006480797382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Tigard",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5846,
+                "stop_name": "Tigard Transit Center",
+                "stop_seq": 50,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.58125653366731,
+                    45.551281604509114
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5135,
+                "stop_name": "NE Sandy & 79th",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97213"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57811973937793,
+                    45.55255393344907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5138,
+                "stop_name": "NE Sandy & 82nd",
+                "stop_seq": 3950,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.57598363897725,
+                    45.553434582422504
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5046,
+                "stop_name": "NE Sandy & Grotto",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56970385586034,
+                    45.55598185089807
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5051,
+                "stop_name": "NE Sandy & Prescott",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56837380050862,
+                    45.55652052430829
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 5146,
+                "stop_name": "NE Sandy & 92nd",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.56490042661257,
+                    45.55842754056768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 1,
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "frequent": "True",
+                "jurisdic": "Portland",
+                "rte": 12,
+                "rte_desc": "12-Barbur/Sandy Blvd",
+                "stop_id": 10853,
+                "stop_name": "Parkrose/ Sumner Transit Center",
+                "stop_seq": 4200,
+                "type": "BUS",
+                "zipcode": "97220"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

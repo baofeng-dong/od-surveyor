@@ -1,79 +1,1667 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3400, "stop_id": 5164, "stop_name": "SW Scholls Ferry & Cascade", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.786515209632924, 45.449516592588857 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3500, "stop_id": 5166, "stop_name": "SW Scholls Ferry & Conestoga", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.796134306428016, 45.445296074955458 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 700, "stop_id": 1927, "stop_name": "SW Naito Parkway & Harrison", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.67695576613643, 45.509707544515308 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2550, "stop_id": 1951, "stop_name": "SW Garden Home & Multnomah", "jurisdic": "Portland", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.747713075026596, 45.465740245324987 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1950, "stop_id": 1957, "stop_name": "SW Garden Home & 45th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.722846661762802, 45.465687731784989 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2000, "stop_id": 1960, "stop_name": "SW Garden Home & 47th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.724968130433851, 45.465462594154857 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1200, "stop_id": 943, "stop_name": "SW Capitol & Idaho", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.70172559662366, 45.476746474246738 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2900, "stop_id": 4205, "stop_name": "SW Oleson & Alden", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.760226684869394, 45.460516804906582 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2700, "stop_id": 4207, "stop_name": "SW Oleson & Garden Home", "jurisdic": "Beaverton", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.754425155723425, 45.46516979157164 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3100, "stop_id": 4209, "stop_name": "SW Oleson & Hall", "jurisdic": "Beaverton", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.773438534735391, 45.453904743094135 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2950, "stop_id": 4215, "stop_name": "SW Oleson & Rustling Leaves Pl", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.764362578845819, 45.458099064171783 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2850, "stop_id": 4217, "stop_name": "SW Oleson & Skyhar Dr", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.75820735237717, 45.462162570757158 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3000, "stop_id": 4218, "stop_name": "SW Oleson & 89th", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.766795978324637, 45.45708176250951 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3450, "stop_id": 5189, "stop_name": "SW Scholls Ferry & Nimbus", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.790297388931251, 45.447205362264 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 950, "stop_id": 155, "stop_name": "4900 Block SW Barbur", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.682756766798278, 45.487059214323075 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 900, "stop_id": 173, "stop_name": "SW Barbur & Hamilton", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.678565727132423, 45.491037216311163 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 4050, "stop_id": 5845, "stop_name": "SW Walnut & Tiedeman", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.787795713820358, 45.430618924729359 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1750, "stop_id": 5878, "stop_name": "SW Troy & 35th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.713433918821394, 45.468290056105182 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1300, "stop_id": 6035, "stop_name": "SW Vermont & 30th", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.707508953942707, 45.476158543258862 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1350, "stop_id": 6037, "stop_name": "SW Vermont & 32nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.709606318118873, 45.476155950736334 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 4100, "stop_id": 6107, "stop_name": "SW Walnut & Watkins", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.782975127711154, 45.428941104165411 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 4000, "stop_id": 6109, "stop_name": "SW Walnut & 112th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.792006509399101, 45.430572313977216 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3900, "stop_id": 6111, "stop_name": "SW Walnut & 116th", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.795930204312214, 45.430137174232669 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3350, "stop_id": 6126, "stop_name": "9000 Block SW Washington Square Rd", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.78280583528975, 45.454405253063065 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3800, "stop_id": 10913, "stop_name": "SW Walnut & 121st", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.799451615683694, 45.429635748207687 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 4400, "stop_id": 8209, "stop_name": "Tigard Transit Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.769513493657684, 45.43018609683967 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1775, "stop_id": 8227, "stop_name": "SW Troy & 37th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.715469585856965, 45.468305114939135 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2150, "stop_id": 1965, "stop_name": "SW Garden Home & 54th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.732203666854289, 45.464532722423868 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2200, "stop_id": 1967, "stop_name": "SW Garden Home & 56th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.734463879525634, 45.465066061393962 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2250, "stop_id": 1969, "stop_name": "SW Garden Home & 57th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.735932583099455, 45.465175836698208 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2350, "stop_id": 1973, "stop_name": "SW Garden Home & 62nd Pl", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.741058795505708, 45.465450588331173 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2400, "stop_id": 1975, "stop_name": "SW Garden Home & 64th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.742754837333251, 45.465617549338759 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3700, "stop_id": 6602, "stop_name": "SW 121st & Merestone", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.800363973669334, 45.435680062001936 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3600, "stop_id": 6603, "stop_name": "SW 121st & North Dakota", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.800365433413972, 45.438811104939013 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3550, "stop_id": 6606, "stop_name": "SW 121st & Scholls Ferry", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.800408005403355, 45.44294644030483 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3650, "stop_id": 6608, "stop_name": "SW 121st & Summer", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.800372042288032, 45.437198395055972 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1850, "stop_id": 8911, "stop_name": "SW 40th & Garden Home", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.718070334277996, 45.46696385714386 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1000, "stop_id": 957, "stop_name": "SW Capitol & Terwilliger", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.687336599271632, 45.480276157838638 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1100, "stop_id": 964, "stop_name": "SW Capitol & Nebraska", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.699619918024581, 45.477705862514135 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 800, "stop_id": 8770, "stop_name": "SW Naito Parkway & Sheridan", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.677673217475729, 45.5060967819458 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 300, "stop_id": 9044, "stop_name": "SW Columbia & 10th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.684818118841747, 45.515326262005885 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3300, "stop_id": 9650, "stop_name": "Washington Square Transit Center", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.778801775410159, 45.452696544443015 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3575, "stop_id": 10698, "stop_name": "10900 Block SW 121st", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.80037034717698, 45.441494872883794 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 200, "stop_id": 1111, "stop_name": "SW Columbia & 12th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.686847741841504, 45.51587110348251 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1800, "stop_id": 13647, "stop_name": "SW 40th & Troy", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.718033545714022, 45.468037515055812 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2050, "stop_id": 1961, "stop_name": "SW Garden Home & 50th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.727708070177144, 45.463738189646023 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1500, "stop_id": 7429, "stop_name": "SW 35th & Texas", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712937445913056, 45.474062491455442 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2450, "stop_id": 1977, "stop_name": "SW Garden Home & 66th", "jurisdic": "Portland", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.74477480188942, 45.465738007914361 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1650, "stop_id": 7422, "stop_name": "SW 35th & Logan", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712911604287868, 45.470454978260541 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 4150, "stop_id": 6104, "stop_name": "SW Walnut & Grant", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.78032165603679, 45.427738296333196 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2750, "stop_id": 4210, "stop_name": "SW Oleson & Obrien", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.755822441313853, 45.463970128629619 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2600, "stop_id": 1982, "stop_name": "SW Garden Home & 71st", "jurisdic": "Portland", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.751184396174637, 45.465778852709001 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2010, "stop_id": 9525, "stop_name": "SW Garden Home & Orchard Lane", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.726544023179017, 45.464792335323146 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1900, "stop_id": 1955, "stop_name": "SW Garden Home & 42nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.720493496729645, 45.466366024539141 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1600, "stop_id": 7412, "stop_name": "SW 35th & Caldew", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712928401646721, 45.471708545940878 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1450, "stop_id": 7414, "stop_name": "SW 35th & California", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712920649190664, 45.474838934572411 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3050, "stop_id": 4220, "stop_name": "SW Oleson & 91st", "jurisdic": "Washington Co.", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.770529579781197, 45.455323768389363 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1050, "stop_id": 955, "stop_name": "SW Capitol & Sunset", "jurisdic": "Portland", "zipcode": "97239", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.693219302072464, 45.478896111218745 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1250, "stop_id": 966, "stop_name": "SW Capitol & 26th", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.704188122660341, 45.476127146120639 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 400, "stop_id": 1108, "stop_name": "SW Columbia & Park Ave", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.683247522889332, 45.514918924833509 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2100, "stop_id": 1963, "stop_name": "SW Garden Home & 52nd", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.731005506939454, 45.464473277678096 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2300, "stop_id": 1971, "stop_name": "SW Garden Home & 61st", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.739338699785719, 45.465232677752056 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 2500, "stop_id": 1979, "stop_name": "SW Garden Home & 67th", "jurisdic": "Portland", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.746237439663943, 45.465715093170481 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1400, "stop_id": 7431, "stop_name": "SW 35th & Vermont", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712930817152696, 45.475770538231444 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 1550, "stop_id": 7425, "stop_name": "SW 35th & Nevada", "jurisdic": "Portland", "zipcode": "97219", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.712935603410045, 45.472603418557085 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3750, "stop_id": 6598, "stop_name": "SW 121st & Katherine", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.799764007277716, 45.431981214318654 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3200, "stop_id": 13582, "stop_name": "SW Blum & Palmblad", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.776915191015362, 45.452916126421719 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 4350, "stop_id": 3654, "stop_name": "SW Main & Burnham", "jurisdic": "Tigard", "zipcode": "97223", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.772327255037879, 45.429880300916999 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 100, "stop_id": 12792, "stop_name": "SW Columbia & 16th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.690692289013555, 45.516922761632728 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 500, "stop_id": 12794, "stop_name": "SW Columbia between 5th & 4th", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.679634389387857, 45.51395421182761 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 600, "stop_id": 12795, "stop_name": "SW Columbia & 1st", "jurisdic": "Portland", "zipcode": "97201", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.676402363354583, 45.513088397849138 ] } },
-{ "type": "Feature", "properties": { "rte": 45, "dir": 0, "rte_desc": "45-Garden Home", "dir_desc": "To Tigard TC", "type": "BUS", "stop_seq": 3475, "stop_id": 9038, "stop_name": "SW Scholls Ferry & Springwood", "jurisdic": "Beaverton", "zipcode": "97008", "frequent": "False" }, "geometry": { "type": "Point", "coordinates": [ -122.794007255088204, 45.445760022980835 ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68733659927163,
+                    45.48027615783864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 957,
+                "stop_name": "SW Capitol & Terwilliger",
+                "stop_seq": 1000,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7075089539427,
+                    45.47615854325886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6035,
+                "stop_name": "SW Vermont & 30th",
+                "stop_seq": 1300,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70960631811887,
+                    45.476155950736334
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6037,
+                "stop_name": "SW Vermont & 32nd",
+                "stop_seq": 1350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71293560341005,
+                    45.472603418557085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 7425,
+                "stop_name": "SW 35th & Nevada",
+                "stop_seq": 1550,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71292840164672,
+                    45.47170854594088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 7412,
+                "stop_name": "SW 35th & Caldew",
+                "stop_seq": 1600,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7134339188214,
+                    45.46829005610518
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 5878,
+                "stop_name": "SW Troy & 35th",
+                "stop_seq": 1750,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7228466617628,
+                    45.46568773178499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1957,
+                "stop_name": "SW Garden Home & 45th",
+                "stop_seq": 1950,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72654402317902,
+                    45.464792335323146
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 9525,
+                "stop_name": "SW Garden Home & Orchard Lane",
+                "stop_seq": 2010,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73100550693945,
+                    45.464473277678096
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1963,
+                "stop_name": "SW Garden Home & 52nd",
+                "stop_seq": 2100,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73220366685429,
+                    45.46453272242387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1965,
+                "stop_name": "SW Garden Home & 54th",
+                "stop_seq": 2150,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73933869978572,
+                    45.465232677752056
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1971,
+                "stop_name": "SW Garden Home & 61st",
+                "stop_seq": 2300,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74623743966394,
+                    45.46571509317048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1979,
+                "stop_name": "SW Garden Home & 67th",
+                "stop_seq": 2500,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7477130750266,
+                    45.46574024532499
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1951,
+                "stop_name": "SW Garden Home & Multnomah",
+                "stop_seq": 2550,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75582244131385,
+                    45.46397012862962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4210,
+                "stop_name": "SW Oleson & Obrien",
+                "stop_seq": 2750,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78651520963292,
+                    45.44951659258886
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 5164,
+                "stop_name": "SW Scholls Ferry & Cascade",
+                "stop_seq": 3400,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79613430642802,
+                    45.44529607495546
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 5166,
+                "stop_name": "SW Scholls Ferry & Conestoga",
+                "stop_seq": 3500,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80036543341397,
+                    45.43881110493901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6603,
+                "stop_name": "SW 121st & North Dakota",
+                "stop_seq": 3600,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80036397366933,
+                    45.435680062001936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6602,
+                "stop_name": "SW 121st & Merestone",
+                "stop_seq": 3700,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79976400727772,
+                    45.431981214318654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6598,
+                "stop_name": "SW 121st & Katherine",
+                "stop_seq": 3750,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79593020431221,
+                    45.43013717423267
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6111,
+                "stop_name": "SW Walnut & 116th",
+                "stop_seq": 3900,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7920065093991,
+                    45.430572313977216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6109,
+                "stop_name": "SW Walnut & 112th",
+                "stop_seq": 4000,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78032165603679,
+                    45.427738296333196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6104,
+                "stop_name": "SW Walnut & Grant",
+                "stop_seq": 4150,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80037034717698,
+                    45.441494872883794
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 10698,
+                "stop_name": "10900 Block SW 121st",
+                "stop_seq": 3575,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74275483733325,
+                    45.46561754933876
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1975,
+                "stop_name": "SW Garden Home & 64th",
+                "stop_seq": 2400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78280583528975,
+                    45.454405253063065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6126,
+                "stop_name": "9000 Block SW Washington Square Rd",
+                "stop_seq": 3350,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78297512771115,
+                    45.42894110416541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6107,
+                "stop_name": "SW Walnut & Watkins",
+                "stop_seq": 4100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75118439617464,
+                    45.465778852709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1982,
+                "stop_name": "SW Garden Home & 71st",
+                "stop_seq": 2600,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7994516156837,
+                    45.42963574820769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 10913,
+                "stop_name": "SW Walnut & 121st",
+                "stop_seq": 3800,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74105879550571,
+                    45.46545058833117
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1973,
+                "stop_name": "SW Garden Home & 62nd Pl",
+                "stop_seq": 2350,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.74477480188942,
+                    45.46573800791436
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1977,
+                "stop_name": "SW Garden Home & 66th",
+                "stop_seq": 2450,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75442515572342,
+                    45.46516979157164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4207,
+                "stop_name": "SW Oleson & Garden Home",
+                "stop_seq": 2700,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77881019038718,
+                    45.45269980711577
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 9650,
+                "stop_name": "Washington Square Transit Center",
+                "stop_seq": 3300,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76436257884582,
+                    45.45809906417178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4215,
+                "stop_name": "SW Oleson & Rustling Leaves Pl",
+                "stop_seq": 2950,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.76679597832464,
+                    45.45708176250951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4218,
+                "stop_name": "SW Oleson & 89th",
+                "stop_seq": 3000,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7705295797812,
+                    45.45532376838936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4220,
+                "stop_name": "SW Oleson & 91st",
+                "stop_seq": 3050,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77343853473539,
+                    45.453904743094135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4209,
+                "stop_name": "SW Oleson & Hall",
+                "stop_seq": 3100,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67856572713242,
+                    45.49103721631116
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 173,
+                "stop_name": "SW Barbur & Hamilton",
+                "stop_seq": 900,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71292064919066,
+                    45.47483893457241
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 7414,
+                "stop_name": "SW 35th & California",
+                "stop_seq": 1450,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72049349672965,
+                    45.46636602453914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1955,
+                "stop_name": "SW Garden Home & 42nd",
+                "stop_seq": 1900,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73593258309945,
+                    45.46517583669821
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1969,
+                "stop_name": "SW Garden Home & 57th",
+                "stop_seq": 2250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7940072550882,
+                    45.445760022980835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 9038,
+                "stop_name": "SW Scholls Ferry & Springwood",
+                "stop_seq": 3475,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77231695791599,
+                    45.42989079424966
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 3654,
+                "stop_name": "SW Main & Burnham",
+                "stop_seq": 4350,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.75820735237717,
+                    45.46216257075716
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4217,
+                "stop_name": "SW Oleson & Skyhar Dr",
+                "stop_seq": 2850,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.79029738893125,
+                    45.447205362264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Beaverton",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 5189,
+                "stop_name": "SW Scholls Ferry & Nimbus",
+                "stop_seq": 3450,
+                "type": "BUS",
+                "zipcode": "97008"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80037204228803,
+                    45.43719839505597
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6608,
+                "stop_name": "SW 121st & Summer",
+                "stop_seq": 3650,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.78779571382036,
+                    45.43061892472936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 5845,
+                "stop_name": "SW Walnut & Tiedeman",
+                "stop_seq": 4050,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68275676679828,
+                    45.487059214323075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 155,
+                "stop_name": "4900 Block SW Barbur",
+                "stop_seq": 950,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.718070334278,
+                    45.46696385714386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 8911,
+                "stop_name": "SW 40th & Garden Home",
+                "stop_seq": 1850,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69321930207246,
+                    45.478896111218745
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 955,
+                "stop_name": "SW Capitol & Sunset",
+                "stop_seq": 1050,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70418812266034,
+                    45.47612714612064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 966,
+                "stop_name": "SW Capitol & 26th",
+                "stop_seq": 1250,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71293744591306,
+                    45.47406249145544
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 7429,
+                "stop_name": "SW 35th & Texas",
+                "stop_seq": 1500,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71291160428787,
+                    45.47045497826054
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 7422,
+                "stop_name": "SW 35th & Logan",
+                "stop_seq": 1650,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71546958585697,
+                    45.468305114939135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 8227,
+                "stop_name": "SW Troy & 37th",
+                "stop_seq": 1775,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72496813043385,
+                    45.46546259415486
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1960,
+                "stop_name": "SW Garden Home & 47th",
+                "stop_seq": 2000,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.72770807017714,
+                    45.46373818964602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1961,
+                "stop_name": "SW Garden Home & 50th",
+                "stop_seq": 2050,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.73446387952563,
+                    45.46506606139396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1967,
+                "stop_name": "SW Garden Home & 56th",
+                "stop_seq": 2200,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69069228901355,
+                    45.51692276163273
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 12792,
+                "stop_name": "SW Columbia & 16th",
+                "stop_seq": 100,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.6868477418415,
+                    45.51587110348251
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1111,
+                "stop_name": "SW Columbia & 12th",
+                "stop_seq": 200,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68481811884175,
+                    45.515326262005885
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 9044,
+                "stop_name": "SW Columbia & 10th",
+                "stop_seq": 300,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.68324752288933,
+                    45.51491892483351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1108,
+                "stop_name": "SW Columbia & Park Ave",
+                "stop_seq": 400,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67640236335458,
+                    45.51308839784914
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 12795,
+                "stop_name": "SW Columbia & 1st",
+                "stop_seq": 600,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67695576613643,
+                    45.50970754451531
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 1927,
+                "stop_name": "SW Naito Parkway & Harrison",
+                "stop_seq": 700,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67767321747573,
+                    45.5060967819458
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 8770,
+                "stop_name": "SW Naito Parkway & Sheridan",
+                "stop_seq": 800,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.69961991802458,
+                    45.477705862514135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 964,
+                "stop_name": "SW Capitol & Nebraska",
+                "stop_seq": 1100,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.7602266848694,
+                    45.46051680490658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Washington Co.",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 4205,
+                "stop_name": "SW Oleson & Alden",
+                "stop_seq": 2900,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.70172559662366,
+                    45.47674647424674
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 943,
+                "stop_name": "SW Capitol & Idaho",
+                "stop_seq": 1200,
+                "type": "BUS",
+                "zipcode": "97239"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.80040800540336,
+                    45.44294644030483
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 6606,
+                "stop_name": "SW 121st & Scholls Ferry",
+                "stop_seq": 3550,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.769088522352,
+                    45.430102170555585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 8210,
+                "stop_name": "Tigard Transit Center",
+                "stop_seq": 4400,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71195177274194,
+                    45.47618634708084
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 13768,
+                "stop_name": "SW Vermont & 34th",
+                "stop_seq": 1400,
+                "type": "BUS",
+                "zipcode": "97219"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.77691519101536,
+                    45.45291612642172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Tigard",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 13582,
+                "stop_name": "SW Blum & Palmblad",
+                "stop_seq": 3200,
+                "type": "BUS",
+                "zipcode": "97223"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.67963438938786,
+                    45.51395421182761
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "stop_seq": 500,
+                "type": "BUS",
+                "zipcode": "97201"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -122.71803354571402,
+                    45.46803751505581
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To Tigard Transit Center",
+                "frequent": "False",
+                "jurisdic": "Portland",
+                "rte": 45,
+                "rte_desc": "45-Garden Home",
+                "stop_id": 13647,
+                "stop_name": "SW 40th & Troy",
+                "stop_seq": 1800,
+                "type": "BUS",
+                "zipcode": "00000"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }

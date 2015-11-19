@@ -1,8 +1,36 @@
 {
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "rte": 208, "dir": 0, "rte_desc": "Portland Aerial Tram", "public_rte": null, "dir_desc": "To South Waterfront", "frequent": "False", "type": "AT" }, "geometry": { "type": "LineString", "coordinates": [ [ -122.683931022460314, 45.499488885093442 ], [ -122.671168635929931, 45.499278219410826 ] ] } }
-]
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        },
+        "type": "name"
+    },
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        -122.68393102246031,
+                        45.49948888509344
+                    ],
+                    [
+                        -122.67116863592993,
+                        45.499278219410826
+                    ]
+                ],
+                "type": "LineString"
+            },
+            "properties": {
+                "dir": 0,
+                "dir_desc": "To South Waterfront",
+                "frequent": "False",
+                "public_rte": null,
+                "rte": 208,
+                "rte_desc": "Portland Aerial Tram",
+                "type": "MAX"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
 }
