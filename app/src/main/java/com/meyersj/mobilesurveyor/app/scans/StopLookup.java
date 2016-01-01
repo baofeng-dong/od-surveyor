@@ -150,6 +150,7 @@ public class StopLookup {
         }
 
         private void parseResponse(String response) {
+            if (response == null) return;
             JSONParser parser = new JSONParser();
 
             try{
