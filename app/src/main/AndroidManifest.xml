@@ -18,7 +18,7 @@
         android:name=".survey.SurveyApplication">
 
         <activity
-            android:name=".menu.LoginActivity"
+            android:name=".login.LoginActivity"
             android:windowSoftInputMode="stateHidden|adjustResize"
             android:screenOrientation="portrait">
             <intent-filter >
@@ -35,7 +35,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
 
         <activity
             android:name=".menu.SetLineActivity"
