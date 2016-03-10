@@ -56,14 +56,6 @@ public class Utils {
         return properties;
     }
 
-    public static void shortToast(Context context, String message) {
-        Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
-    }
-
-    public static void longToast(Context context, String message) {
-        Toast.makeText(context, message, Toast.LENGTH_SHORT).show();
-    }
-
     public static void shortToastCenter(Context context, String message) {
         Toast toast = Toast.makeText(context, message, Toast.LENGTH_SHORT);
         toast.setGravity(Gravity.CENTER, 0, 0);
@@ -111,8 +103,6 @@ public class Utils {
             e.printStackTrace();
         }
     }
-
-
 
     public static boolean isGPSEnabled(Context context) {
         final LocationManager manager = (LocationManager) context.getSystemService(Context.LOCATION_SERVICE);
@@ -198,6 +188,4 @@ public class Utils {
         paint.setStyle(Paint.Style.STROKE);
         return paint;
     }
-
-
 }
