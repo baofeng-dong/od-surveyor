@@ -32,7 +32,7 @@ keys/
 
 
 newrelic.properties
-config.properties
+#config.properties
 gradle.properties
 geojson.1
 icons/
