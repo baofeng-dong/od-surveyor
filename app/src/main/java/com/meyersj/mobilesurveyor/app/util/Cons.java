@@ -49,6 +49,7 @@ public class Cons {
     public static final String ODK_LAT = "lat";
     public static final String ODK_LNG = "lng";
     public static final String ROUTE_DIRECTIONS_CSV = "route_directions.csv";
+    public static final String NEWRELIC = "newrelic";
 
     // keys for survey valyes for ODK
     public static final String PURPOSE_ODK = "purpose";
