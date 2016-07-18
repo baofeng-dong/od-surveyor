@@ -19,6 +19,7 @@ import com.meyersj.mobilesurveyor.app.survey.Confirm.ConfirmFragment;
 import com.meyersj.mobilesurveyor.app.survey.Location.PickLocationFragment;
 import com.meyersj.mobilesurveyor.app.survey.OnOff.OnOffFragment;
 import com.meyersj.mobilesurveyor.app.survey.Transfer.TransfersMapFragment;
+import com.meyersj.mobilesurveyor.app.util.NonSwipeableViewPager;
 
 public class SurveyActivity extends FragmentActivity implements ActionBar.TabListener {
 
@@ -137,7 +138,6 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
         }
     }
 
-
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
         if ((keyCode == KeyEvent.KEYCODE_BACK)){
@@ -155,5 +155,4 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
         }
         return null;
     }
-
 }
