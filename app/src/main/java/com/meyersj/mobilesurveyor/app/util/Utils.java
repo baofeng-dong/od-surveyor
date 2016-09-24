@@ -136,10 +136,9 @@ public class Utils {
         SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
         String url = "";
         //if "Testing" is selected as pa reference url will be "dev" instead of "prod"
-        String api = sharedPref.getString(Cons.SERVER, "prod");
         String defaultUrl = getProperties(context, Cons.PROPERTIES).getProperty(Cons.BASE_URL);
         url = sharedPref.getString(Cons.BASE_URL, defaultUrl);
-        url += "/" + api + "/api";
+        url += "/api";
         Log.d("Utilities", url);
         return url;
     }
