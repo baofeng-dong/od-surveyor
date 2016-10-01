@@ -2,8 +2,11 @@ package com.meyersj.mobilesurveyor.app.survey;
 
 import android.app.ActionBar;
 import android.app.FragmentTransaction;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
@@ -19,14 +22,21 @@ import com.meyersj.mobilesurveyor.app.survey.Confirm.ConfirmFragment;
 import com.meyersj.mobilesurveyor.app.survey.Location.PickLocationFragment;
 import com.meyersj.mobilesurveyor.app.survey.OnOff.OnOffFragment;
 import com.meyersj.mobilesurveyor.app.survey.Transfer.TransfersMapFragment;
-import com.meyersj.mobilesurveyor.app.util.NonSwipeableViewPager;
+import com.meyersj.mobilesurveyor.app.util.Cons;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class SurveyActivity extends FragmentActivity implements ActionBar.TabListener {
 
+    public enum TabTypes { ORIGIN, DESTINATION, ON_OFF, TRANSFERS }
+
     private final String TAG = "SurveyActivity";
-    protected static final int SURVEY_FRAGMENTS = 5;
+    protected static Integer fragmentCount = null;
+    protected final String CONFIRM = "Confirm";
     protected final String ODK_ACTION = "com.meyersj.mobilesurveyor.app.ODK_SURVEY";
-    protected static final String[] HEADERS = {"Origin", "Destination", "On-Off", "Transfers", "Confirm"};
+    protected static List<String> headers = null;
 
     protected AppSectionsPagerAdapter mAppSectionsPagerAdapter;
     protected ViewPager mViewPager;
@@ -49,12 +59,30 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
             Log.d(TAG, line);
         }
         manager = new SurveyManager(getApplicationContext(), this, line);
+
+        String[] tabTypes = fetchTabTypes(getApplicationContext());
+        String[] configHeaders = fetchHeaders(getApplicationContext());
+
+        if (tabTypes.length != configHeaders.length) {
+            throw new RuntimeException("tabs and headers in config.properties are different lengths");
+        }
+
+        mViewPager = (ViewPager) findViewById(R.id.survey_pager);
+
+        fragmentCount = initializeTabs(tabTypes, extras) + 1;
+
+        headers = new ArrayList<String>(Arrays.asList(CONFIRM));
+        headers.addAll(0, Arrays.asList(configHeaders));
+
+        fragments[fragmentCount - 1] = new ConfirmFragment();
+        ((ConfirmFragment) fragments[fragmentCount - 1]).setParams(this, manager, mViewPager);
+
         actionBar.setHomeButtonEnabled(false);
         actionBar.setTitle("TransitSurveyor");
         actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
-        mViewPager = (ViewPager) findViewById(R.id.survey_pager);
+
         mViewPager.setAdapter(mAppSectionsPagerAdapter);
-        mViewPager.setOffscreenPageLimit(SURVEY_FRAGMENTS);
+        mViewPager.setOffscreenPageLimit(fragmentCount);
         mViewPager.setOnPageChangeListener(new ViewPager.SimpleOnPageChangeListener() {
             @Override
             public void onPageSelected(int position) {
@@ -65,19 +93,8 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
             }
         });
 
-        fragments = new Fragment[SURVEY_FRAGMENTS];
-        fragments[0] = new PickLocationFragment();
-        fragments[1] = new PickLocationFragment();
-        ((PickLocationFragment) fragments[0]).initialize(manager, "origin", extras);
-        ((PickLocationFragment) fragments[1]).initialize(manager, "destination", extras);
-        fragments[2] = new OnOffFragment();
-        ((OnOffFragment) fragments[2]).initialize(manager, extras);
-        fragments[3] = new TransfersMapFragment();
-        ((TransfersMapFragment) fragments[3]).initialize(manager, mViewPager, extras);
-        fragments[4] = new ConfirmFragment();
-        ((ConfirmFragment) fragments[4]).setParams(this, manager, mViewPager);
-        for (int i = 0; i < SURVEY_FRAGMENTS; i++) {
-            actionBar.addTab(actionBar.newTab().setText(HEADERS[i]).setTabListener(this));
+        for (int i = 0; i < fragmentCount; i++) {
+            actionBar.addTab(actionBar.newTab().setText(headers.get(i)).setTabListener(this));
         }
         toggleNavButtons(mViewPager.getCurrentItem());
         previousBtn.setOnClickListener(new View.OnClickListener() {
@@ -101,7 +118,7 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
         nextBtn.setEnabled(true);
         if(item == 0)
             previousBtn.setEnabled(false);
-        if(item == SURVEY_FRAGMENTS - 1)
+        if(item == fragmentCount - 1)
             nextBtn.setEnabled(false);
     }
 
@@ -129,7 +146,7 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
 
         @Override
         public int getCount() {
-            return SURVEY_FRAGMENTS;
+            return fragmentCount;
         }
 
         @Override
@@ -154,5 +171,59 @@ public class SurveyActivity extends FragmentActivity implements ActionBar.TabLis
             return intent.getExtras();
         }
         return null;
+    }
+
+    public static String[] fetchTabTypes(Context context) {
+        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
+        String tabs = sharedPref.getString(Cons.LONG_TABS, "");
+        if (tabs != null) {
+            return tabs.split(",");
+        }
+        return new String[]{};
+    }
+
+    private String[] fetchHeaders(Context context) {
+        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
+        String headers = sharedPref.getString(Cons.LONG_HEADERS, "");
+        if (headers != null) {
+            return headers.split(",");
+        }
+        return new String[]{};
+    }
+
+    private Integer initializeTabs(String[] tabTypes, Bundle extras) {
+        if (tabTypes == null || tabTypes.length == 0 || tabTypes[0].isEmpty()) {
+            fragments = new Fragment[1];
+            return 0;
+        }
+        fragments = new Fragment[tabTypes.length + 1];
+        Integer tabIndex = 0;
+        for (; tabIndex < tabTypes.length; tabIndex++) {
+            if (compareType(tabTypes[tabIndex], TabTypes.ORIGIN)) {
+                Log.d(TAG, "we have an origin!");
+                fragments[tabIndex] = new PickLocationFragment();
+                ((PickLocationFragment) fragments[tabIndex]).initialize(manager, "origin", extras);
+            } else if (compareType(tabTypes[tabIndex], TabTypes.DESTINATION)) {
+                Log.d(TAG, "we have an destination!");
+                fragments[tabIndex] = new PickLocationFragment();
+                ((PickLocationFragment) fragments[tabIndex]).initialize(manager, "destination", extras);
+            } else if (compareType(tabTypes[tabIndex], TabTypes.ON_OFF)) {
+                Log.d(TAG, "we have an onoff!");
+                fragments[tabIndex] = new OnOffFragment();
+                ((OnOffFragment) fragments[tabIndex]).initialize(manager, extras);
+            } else if (compareType(tabTypes[tabIndex], TabTypes.TRANSFERS)) {
+                Log.d(TAG, "we have an transfer!");
+                fragments[tabIndex] = new TransfersMapFragment();
+                ((TransfersMapFragment) fragments[tabIndex]).initialize(manager, mViewPager, extras);
+            } else {
+                // this is an error
+                throw new RuntimeException("unexpected tab type " + tabTypes[tabIndex]);
+            }
+        }
+        return tabIndex;
+    }
+
+    public static boolean compareType(String tab, TabTypes type) {
+        return tab.equalsIgnoreCase(type.name());
     }
 }

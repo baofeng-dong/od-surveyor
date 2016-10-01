@@ -5,8 +5,6 @@ import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.graphics.drawable.Drawable;
-import android.os.Bundle;
 import android.text.Editable;
 import android.text.InputType;
 import android.util.Log;
@@ -14,10 +12,10 @@ import android.widget.EditText;
 
 import com.mapbox.mapboxsdk.geometry.LatLng;
 import com.mapbox.mapboxsdk.overlay.Marker;
-import com.meyersj.mobilesurveyor.app.R;
+import com.meyersj.mobilesurveyor.app.survey.Confirm.ValidateResult;
 import com.meyersj.mobilesurveyor.app.util.Cons;
 
-import java.util.ArrayList;
+import static com.meyersj.mobilesurveyor.app.survey.SurveyActivity.compareType;
 
 
 public class SurveyManager {
@@ -77,23 +75,61 @@ public class SurveyManager {
         return prefix + "_" + cons;
     }
 
-    public Boolean[] validate() {
-        Boolean[] flags = new Boolean[4];
-        flags[0] = this.orig.validate();
-        flags[1] = this.dest.validate();
-        flags[2] = false;
-        if(onStop != null && offStop != null)
-            flags[2] = true;
-        flags[3] = false;
-        printTransfers();
-        Log.d(TAG, line);
-        for(String route: transfers) {
-            if(route != null && !route.isEmpty() && route.equals(line)) {
-                flags[3] = true;
-                break;
+    public ValidateResult validate() {
+        String[] tabTypes = SurveyActivity.fetchTabTypes(context);
+
+        if (tabTypes == null || tabTypes.length == 0 || tabTypes[0].isEmpty()) {
+            return new ValidateResult();
+        }
+
+        Integer tabIndex = 0;
+        for (; tabIndex < tabTypes.length; tabIndex++) {
+            if (compareType(tabTypes[tabIndex], SurveyActivity.TabTypes.ORIGIN)) {
+                if (!this.orig.validate()) {
+                    return new ValidateResult(false, tabIndex, "missing information about origin location");
+                }
+            } else if (compareType(tabTypes[tabIndex], SurveyActivity.TabTypes.DESTINATION)) {
+                if (!this.dest.validate()) {
+                    return new ValidateResult(false, tabIndex, "missing information about destination location");
+                }
+            } else if (compareType(tabTypes[tabIndex], SurveyActivity.TabTypes.ON_OFF)) {
+                if(onStop == null || offStop == null) {
+                    return new ValidateResult(false, tabIndex, "on and off locations are incomplete");
+                }
+            } else if (compareType(tabTypes[tabIndex], SurveyActivity.TabTypes.TRANSFERS)) {
+                Boolean validTransfer = false;
+                for(String route: transfers) {
+                    if(route != null && !route.isEmpty() && route.equals(line)) {
+                        validTransfer = true;
+                        break;
+                    }
+                }
+                if (!validTransfer) {
+                    return new ValidateResult(false, tabIndex, "you must include the current route");
+                }
+            } else {
+                // this is an error
+                throw new RuntimeException("unexpected tab type " + tabTypes[tabIndex]);
             }
         }
-        return flags;
+        return new ValidateResult();
+//
+//        Boolean[] flags = new Boolean[4];
+//        flags[0] = this.orig.validate();
+//        flags[1] = this.dest.validate();
+//        flags[2] = false;
+//        if(onStop != null && offStop != null)
+//            flags[2] = true;
+//        flags[3] = false;
+//        printTransfers();
+//        Log.d(TAG, line);
+//        for(String route: transfers) {
+//            if(route != null && !route.isEmpty() && route.equals(line)) {
+//                flags[3] = true;
+//                break;
+//            }
+//        }
+//        return flags;
     }
 
     public void setLocation(Marker marker, String mode) {
@@ -210,15 +246,16 @@ public class SurveyManager {
         intent.putExtra(key("orig", Cons.BLOCKS_ODK), orig.blocks);
         intent.putExtra(key("orig", Cons.PARKING_ODK), orig.parking);
         intent.putExtra(key("orig", "region"), orig.region);
-        if(orig.loc != null) {
+
+        if (orig.region.equals("1") || orig.loc == null) {
+            intent.putExtra(key("orig", Cons.LAT_ODK), "");
+            intent.putExtra(key("orig", Cons.LNG_ODK), "");
+        } else {
             LatLng latLng = orig.loc.getPoint();
             intent.putExtra(key("orig", Cons.LAT_ODK), latLng.getLatitude());
             intent.putExtra(key("orig", Cons.LNG_ODK), latLng.getLongitude());
         }
-        else {
-            intent.putExtra(key("orig", Cons.LAT_ODK), "");
-            intent.putExtra(key("orig", Cons.LNG_ODK), "");
-        }
+
         intent.putExtra(key("dest", Cons.PURPOSE_ODK), dest.purpose);
         intent.putExtra(key("dest", Cons.PURPOSE_OTHER_ODK), dest.purposeOther);
         intent.putExtra(key("dest", Cons.EGRESS_ODK), dest.mode);
@@ -226,15 +263,16 @@ public class SurveyManager {
         intent.putExtra(key("dest", Cons.BLOCKS_ODK), dest.blocks);
         intent.putExtra(key("dest", Cons.PARKING_ODK), dest.parking);
         intent.putExtra(key("dest", "region"), dest.region);
-        if(dest.loc != null) {
+
+        if (dest.region.equals("1") || dest.loc == null) {
+            intent.putExtra(key("dest", Cons.LAT_ODK), "");
+            intent.putExtra(key("dest", Cons.LNG_ODK), "");
+        } else  {
             LatLng latLng = dest.loc.getPoint();
             intent.putExtra(key("dest", Cons.LAT_ODK), latLng.getLatitude());
             intent.putExtra(key("dest", Cons.LNG_ODK), latLng.getLongitude());
         }
-        else {
-            intent.putExtra(key("dest", Cons.LAT_ODK), "");
-            intent.putExtra(key("dest", Cons.LNG_ODK), "");
-        }
+
         if(onStop != null) {
             String onStopID = onStop.getDescription();
             intent.putExtra(Cons.BOARD_ID_ODK, onStopID);
@@ -250,12 +288,14 @@ public class SurveyManager {
             intent.putExtra(Cons.ALIGHT_ID_ODK, "");
         }
         Integer count = 0;
-        for(int i = 0; i < Cons.MAX_TRANSFERS; i++) {
-            if(transfers[i] != null && !transfers[i].isEmpty()) {
-                intent.putExtra("route" + String.valueOf(++count), transfers[i]);
-            }
-            else {
-                intent.putExtra("route" + String.valueOf(++count), "");
+
+        if (transfers != null && transfers.length > 0) {
+            for (int i = 0; i < Cons.MAX_TRANSFERS; i++) {
+                if (transfers[i] != null && !transfers[i].isEmpty()) {
+                    intent.putExtra("route" + String.valueOf(++count), transfers[i]);
+                } else {
+                    intent.putExtra("route" + String.valueOf(++count), "");
+                }
             }
         }
         intent.putExtra("validated", validated);
@@ -358,7 +398,6 @@ public class SurveyManager {
         this.transfers = transfers;
     }
 
-
     protected void printTransfers() {
         String sel = "";
         for (String s : transfers) {
@@ -370,5 +409,4 @@ public class SurveyManager {
         }
         Log.d(TAG, "Transfers: " + sel);
     }
-
 }

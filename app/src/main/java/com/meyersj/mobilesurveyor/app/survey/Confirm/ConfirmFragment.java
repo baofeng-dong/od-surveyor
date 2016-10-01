@@ -5,7 +5,6 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -43,32 +42,41 @@ public class ConfirmFragment extends MapFragment {
         submit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Boolean[] validate = manager.validate();
-                for(int i = 0; i < validate.length; i++) {
-                    Log.d(TAG, validate[i].toString());
-                    if(!validate[i]) {
-                        String msg = "";
-                        switch(i) {
-                            case 0:
-                                msg = "missing information about origin location";
-                                break;
-                            case 1:
-                                msg = "missing information about destination location";
-                                break;
-                            case 2:
-                                msg = "on and off locations are incomplete";
-                                break;
-                            case 3:
-                                msg = "you must include the current route";
-                                break;
-                        }
-                        Utils.shortToastCenter(context, msg);
-                        pager.setCurrentItem(i);
-                        //TODO change previous and next buttons being enabled/disabled
-                        return;
-                    }
+                //Boolean[] validate = manager.validate();
+                ValidateResult result = manager.validate();
+
+                if (!result.getValid()) {
+                    Utils.shortToastCenter(context, result.getError());
+                    pager.setCurrentItem(result.getTabIndex());
+                    return;
                 }
                 exitWithSurveyBundle(true);
+
+//                for(int i = 0; i < validate.length; i++) {
+//                    Log.d(TAG, validate[i].toString());
+//                    if(!validate[i]) {
+//                        String msg = "";
+//                        switch(i) {
+//                            case 0:
+//                                msg = "missing information about origin location";
+//                                break;
+//                            case 1:
+//                                msg = "missing information about destination location";
+//                                break;
+//                            case 2:
+//                                msg = "on and off locations are incomplete";
+//                                break;
+//                            case 3:
+//                                msg = "you must include the current route";
+//                                break;
+//                        }
+//                        Utils.shortToastCenter(context, msg);
+//                        pager.setCurrentItem(i);
+//                        //TODO change previous and next buttons being enabled/disabled
+//                        return;
+//                    }
+//                }
+//                exitWithSurveyBundle(true);
             }
         });
         return view;

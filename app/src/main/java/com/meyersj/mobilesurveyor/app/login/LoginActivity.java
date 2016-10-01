@@ -3,9 +3,7 @@ package com.meyersj.mobilesurveyor.app.login;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
-import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.preference.PreferenceManager;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.Menu;
@@ -17,12 +15,10 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-
 import com.meyersj.mobilesurveyor.app.R;
 import com.meyersj.mobilesurveyor.app.menu.SettingsActivity;
 import com.meyersj.mobilesurveyor.app.util.Cons;
 import com.meyersj.mobilesurveyor.app.util.Utils;
-
 
 import java.util.Properties;
 
@@ -46,7 +42,7 @@ public class LoginActivity extends Activity implements Login.LoginCallback {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         context = getApplicationContext();
-        loadPreferences(context);
+        //loadPreferences(context);
 
         username = (EditText) findViewById(R.id.username);
         password = (EditText) findViewById(R.id.password);
@@ -142,23 +138,6 @@ public class LoginActivity extends Activity implements Login.LoginCallback {
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
-        }
-    }
-
-    private void loadPreferences(Context context) {
-        SharedPreferences sharedPref = PreferenceManager.getDefaultSharedPreferences(context);
-
-        //this should only execute after program was installed for first time
-        //grab default urls from properties and update sharedprefs with those
-        if(!sharedPref.contains(Cons.SET_PREFS)) {
-            Properties prop = Utils.getProperties(context, Cons.PROPERTIES);
-            SharedPreferences.Editor editor = sharedPref.edit();
-            editor.putBoolean(Cons.SET_PREFS, true);
-            editor.putString(Cons.BASE_URL, prop.getProperty(Cons.BASE_URL));
-            editor.putString(Cons.SOLR_URL, prop.getProperty(Cons.SOLR_URL));
-            Log.d(TAG, prop.getProperty(Cons.MAP_RTES));
-            editor.putString(Cons.MAP_RTES, prop.getProperty(Cons.MAP_RTES));
-            editor.commit();
         }
     }
 

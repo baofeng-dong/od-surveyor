@@ -169,10 +169,14 @@ public class PickLocationFragment extends MapFragment {
         });
 
         region.setOnClickListener(new View.OnClickListener() {
+            //TODO if a marker is on map, but out of region is checked, we should remove it and clear coordinates
+
             @Override
             public void onClick(View v) {
                 if (((CheckBox) v).isChecked()) {
                     manager.setRegion("1", mode);
+                    // manager.setLocation(null, "origin");
+                    // clear marker from map
                 }
                 else {
                     manager.setRegion("2", mode);

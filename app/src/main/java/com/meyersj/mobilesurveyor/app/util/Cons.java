@@ -68,5 +68,10 @@ public class Cons {
     public static final String[] SINGLE_DIRECTION = {"194", "195", "291"};
     public static final int MAX_TRANSFERS = 5;
     public static final Double PADDING = 0.01;
+
+
+    //
+    public static final String LONG_TABS = "long_tabs";
+    public static final String LONG_HEADERS = "long_headers";
 }
 

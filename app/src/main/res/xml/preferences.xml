@@ -11,4 +11,12 @@
         android:key="map_rtes"
         android:hint="must be comma separated route ids"
         android:title="Route IDs for Map"/>
+    <EditTextPreference
+        android:key="long_tabs"
+        android:hint="must be comma separated list of types [origin,destination,on_offf,transfers]"
+        android:title="Tabs for long survey"/>
+    <EditTextPreference
+        android:key="long_headers"
+        android:hint="must be comma separated list of headers for long survey tabs"
+        android:title="Long survey headers"/>
 </PreferenceScreen>
