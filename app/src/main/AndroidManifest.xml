@@ -14,7 +14,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:theme="@style/AppTheme"
-        android:label="Transit Surveyor"
+        android:label="OD Surveyor"
         android:name=".survey.SurveyApplication">
 
         <activity
