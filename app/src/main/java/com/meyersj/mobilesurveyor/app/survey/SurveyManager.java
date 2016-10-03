@@ -113,23 +113,6 @@ public class SurveyManager {
             }
         }
         return new ValidateResult();
-//
-//        Boolean[] flags = new Boolean[4];
-//        flags[0] = this.orig.validate();
-//        flags[1] = this.dest.validate();
-//        flags[2] = false;
-//        if(onStop != null && offStop != null)
-//            flags[2] = true;
-//        flags[3] = false;
-//        printTransfers();
-//        Log.d(TAG, line);
-//        for(String route: transfers) {
-//            if(route != null && !route.isEmpty() && route.equals(line)) {
-//                flags[3] = true;
-//                break;
-//            }
-//        }
-//        return flags;
     }
 
     public void setLocation(Marker marker, String mode) {
