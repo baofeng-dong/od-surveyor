@@ -122,10 +122,12 @@ rte,rte_desc,dir,dir_desc
 68,68 - Marquam Hill/Collins Circle,1,To PSU & Marquam Hill
 70,70 - 12th/NE 33rd Ave,0,To 33rd & Sunderland
 70,70 - 12th/NE 33rd Ave,1,To Milwaukie
-71,71 - 60th Ave/122nd Ave,0,To Clackamas Town Center
-71,71 - 60th Ave/122nd Ave,1,To Foster & 94th
+71,71 - 60th Ave,0,To Clackamas Town Center
+71,71 - 60th Ave,1,To Parkrose/Sumner Transit Center
 72,72 - Killingsworth/82nd Ave,0,To Swan Island
 72,72 - Killingsworth/82nd Ave,1,To Clackamas Town Center
+73,73 - 122nd Ave,0,To Foster & 94th
+73,73 - 122nd Ave,1,To Parkrose/Sumner Transit Center
 75,75 - Cesar Chavez/Lombard,0,To St. Johns
 75,75 - Cesar Chavez/Lombard,1,To Milwaukie
 76,76 - Beaverton/Tualatin,0,To Tualatin
@@ -140,8 +142,6 @@ rte,rte_desc,dir,dir_desc
 80,80 - Kane/Troutdale Rd,1,To Gresham Transit Center
 81,81 - Kane/257th,0,To Troutdale
 81,81 - Kane/257th,1,To Gresham Transit Center
-83,83 - Washington Park Loop,0,To Providence Park
-83,83 - Washington Park Loop,1,To Washington Park/Oregon Zoo
 84,84 - Powell Valley/Orient Dr,0,Evening Loop
 84,84 - Powell Valley/Orient Dr,1,Morning Loop
 85,85 - Swan Island,0,To Swan Island

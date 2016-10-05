@@ -15,7 +15,7 @@
                     ],
                     [
                         -122.68393102246031,
-                        45.49948888509344
+                        45.499488885093434
                     ]
                 ],
                 "type": "LineString"
@@ -27,7 +27,7 @@
                 "public_rte": null,
                 "rte": 208,
                 "rte_desc": "Portland Aerial Tram",
-                "type": "MAX"
+                "type": "AT"
             },
             "type": "Feature"
         }
