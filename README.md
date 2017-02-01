@@ -1,5 +1,5 @@
 `master` is the current working version that is compatible with `api` version
-running on `argo.trimet.org`
+running on `gissurvey-test.trimet.org`
 
 
 `trimet_working` branch contains working implementation that will work with
