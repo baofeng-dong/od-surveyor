@@ -10,4 +10,4 @@ the head of master `api` repo.
 using MapBox vector tiles instead of raster.
 
 
-An android app for collecting boarding/alighting, trip origin and destination data transit on-board customer surveys.
+An android app for collecting boarding/alighting, trip origin and destination data for transit on-board customer surveys.
