@@ -8,5 +8,8 @@
     <string name="dir_prompt">Select Direction</string>
     <string name="dummy_section_text">dummy section text</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
 
 </resources>

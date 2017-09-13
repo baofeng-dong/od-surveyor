@@ -11,5 +11,6 @@
     <color name="grey">#ffededed</color>
     <color name="light_grey">#ffbbbbbb</color>
     <color name="red">#ffd20000</color>
+    <color name="colorBackground">#bdc5c9</color>
 
 </resources>
