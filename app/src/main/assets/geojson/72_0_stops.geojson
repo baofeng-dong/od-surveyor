@@ -1,2679 +1,2657 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.7154753676577,
-                    45.56267224681284
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6950,
                 "stop_id": 3318,
                 "stop_name": "N Dolphin & Channel",
-                "stop_seq": 6950,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71547536765769,
+                    45.56267224681282
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71886480789766,
-                    45.56297280845794
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 7000,
                 "stop_id": 8496,
                 "stop_name": "5500 Block N Channel Ave (Shipyards)",
-                "stop_seq": 7000,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71886480789763,
+                    45.562972808457936
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71202767363476,
-                    45.56037635202492
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 7100,
                 "stop_id": 1043,
                 "stop_name": "N Channel Ave & Commerce",
-                "stop_seq": 7100,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71202767363474,
+                    45.5603763520249
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57869167935681,
-                    45.443647947176196
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 200,
                 "stop_id": 7920,
                 "stop_name": "SE 82nd & Boyer Drive",
-                "stop_seq": 200,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57869167935678,
+                    45.44364794717618
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57884327612474,
-                    45.44950972209168
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 350,
                 "stop_id": 7968,
                 "stop_name": "SE 82nd & Glencoe",
-                "stop_seq": 350,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57884327612473,
+                    45.44950972209167
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57884783623301,
-                    45.45123548472132
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 400,
                 "stop_id": 8015,
                 "stop_name": "SE 82nd & Otty",
-                "stop_seq": 400,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57884783623298,
+                    45.45123548472131
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57893236893577,
-                    45.468970953232535
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 7962,
                 "stop_name": "SE 82nd & Flavel",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57893236893575,
+                    45.46897095323252
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57895348179461,
-                    45.473884873766885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1000,
                 "stop_id": 7970,
                 "stop_name": "SE 82nd & Glenwood",
-                "stop_seq": 1000,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57895348179458,
+                    45.47388487376687
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57892918764718,
-                    45.47753659104581
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 8057,
                 "stop_name": "SE 82nd & Tolman",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57892918764715,
+                    45.4775365910458
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57890111425864,
-                    45.47934312881018
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1150,
                 "stop_id": 8059,
                 "stop_name": "SE 82nd & Woodstock",
-                "stop_seq": 1150,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57890111425861,
+                    45.47934312881017
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5787764416763,
-                    45.48573322762621
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 8029,
                 "stop_name": "SE 82nd & Raymond Ct",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57877644167627,
+                    45.4857332276262
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57865089589728,
-                    45.490791435771406
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1450,
                 "stop_id": 7984,
                 "stop_name": "SE 82nd & Holgate",
-                "stop_seq": 1450,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57865089589725,
+                    45.49079143577138
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5786179346671,
-                    45.49532916452894
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1650,
                 "stop_id": 8031,
                 "stop_name": "SE 82nd & Rhone",
-                "stop_seq": 1650,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57861793466707,
+                    45.49532916452892
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57858170996506,
-                    45.49995155440455
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1750,
                 "stop_id": 8052,
                 "stop_name": "SE 82nd & Tibbetts",
-                "stop_seq": 1750,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57858170996504,
+                    45.49995155440452
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57852281087861,
-                    45.50455404997431
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1900,
                 "stop_id": 7957,
                 "stop_name": "SE 82nd & Division",
-                "stop_seq": 1900,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5785632773863,
+                    45.5051267293817
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57853185262101,
-                    45.511912618925024
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2050,
                 "stop_id": 7979,
                 "stop_name": "SE 82nd & Hawthorne",
-                "stop_seq": 2050,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57853185262098,
+                    45.51191261892501
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57878163759558,
-                    45.515990655303256
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2150,
                 "stop_id": 8065,
                 "stop_name": "SE 82nd & Yamhill",
-                "stop_seq": 2150,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57878163759554,
+                    45.51599065530323
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5789410445405,
-                    45.52096908806235
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2300,
                 "stop_id": 7930,
                 "stop_name": "SE 82nd & Ash",
-                "stop_seq": 2300,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57894104454047,
+                    45.52096908806234
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57893977358859,
-                    45.526660856391075
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2450,
                 "stop_id": 7972,
                 "stop_name": "NE 82nd & Glisan",
-                "stop_seq": 2450,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57893977358856,
+                    45.52666085639106
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57890535474904,
-                    45.52982814491394
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2550,
                 "stop_id": 7987,
                 "stop_name": "NE 82nd & Holladay",
-                "stop_seq": 2550,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57890535474901,
+                    45.52982814491394
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5788523727858,
-                    45.533613254019926
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2650,
                 "stop_id": 7999,
                 "stop_name": "NE 82nd & 82nd Ave MAX Stn/I-84",
-                "stop_seq": 2650,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57885237278579,
+                    45.533613254019905
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57887613209687,
-                    45.53592467531702
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2700,
                 "stop_id": 8042,
                 "stop_name": "NE 82nd & Schuyler",
-                "stop_seq": 2700,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57887613209684,
+                    45.53592467531701
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57874810574316,
-                    45.540769788590595
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2850,
                 "stop_id": 8033,
                 "stop_name": "NE 82nd & Russell",
-                "stop_seq": 2850,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57874810574313,
+                    45.54076978859059
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57872912607634,
-                    45.54283945168775
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2900,
                 "stop_id": 8001,
                 "stop_name": "NE 82nd & Madison HS",
-                "stop_seq": 2900,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57872912607631,
+                    45.54283945168773
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57870466286161,
-                    45.54497230172785
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2950,
                 "stop_id": 8046,
                 "stop_name": "NE 82nd & Siskiyou",
-                "stop_seq": 2950,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57870466286158,
+                    45.54497230172784
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57866730572296,
-                    45.54625071260206
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3000,
                 "stop_id": 7991,
                 "stop_name": "NE 82nd & Klickitat",
-                "stop_seq": 3000,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57865666302818,
+                    45.54625330566579
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57863585728727,
-                    45.54787954585986
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3050,
                 "stop_id": 7967,
                 "stop_name": "NE 82nd & Fremont",
-                "stop_seq": 3050,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57863585728724,
+                    45.54787954585984
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57853222779876,
-                    45.55310724761384
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3150,
                 "stop_id": 8039,
                 "stop_name": "NE 82nd & Sandy",
-                "stop_seq": 3150,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57853222779873,
+                    45.55310724761382
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57846581214189,
-                    45.555338000738374
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3200,
                 "stop_id": 8026,
                 "stop_name": "NE 82nd & Prescott",
-                "stop_seq": 3200,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57846581214186,
+                    45.55533800073836
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57903606125059,
-                    45.56280693364467
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3400,
                 "stop_id": 3216,
                 "stop_name": "NE Killingsworth & 82nd",
-                "stop_seq": 3400,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57903606125058,
+                    45.562806933644666
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58567147560532,
-                    45.562741452942895
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3500,
                 "stop_id": 3215,
                 "stop_name": "NE Killingsworth & 75th",
-                "stop_seq": 3500,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5856714756053,
+                    45.56274145294289
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58825828973868,
-                    45.562775445242885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3600,
                 "stop_id": 3212,
                 "stop_name": "NE Killingsworth & 72nd",
-                "stop_seq": 3600,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58825828973865,
+                    45.56277544524288
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59707352228324,
-                    45.562834188910266
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3900,
                 "stop_id": 3147,
                 "stop_name": "6300 Block NE Killingsworth",
-                "stop_seq": 3900,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59707352228321,
+                    45.56283418891026
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60704593445169,
-                    45.56284564890132
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4050,
                 "stop_id": 3207,
                 "stop_name": "NE Killingsworth & 54th",
-                "stop_seq": 4050,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60730474570637,
+                    45.562847079214606
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60942645591093,
-                    45.5628457269385
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4100,
                 "stop_id": 3205,
                 "stop_name": "NE Killingsworth & 52nd",
-                "stop_seq": 4100,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6094264559109,
+                    45.56284572693849
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61223696142709,
-                    45.562856802652426
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4150,
                 "stop_id": 3203,
                 "stop_name": "NE Killingsworth & 49th",
-                "stop_seq": 4150,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61223696142706,
+                    45.56285680265242
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6149804051347,
-                    45.562867445918165
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4200,
                 "stop_id": 3201,
                 "stop_name": "NE Killingsworth & 46th Pl",
-                "stop_seq": 4200,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61498040513467,
+                    45.56286744591815
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62647818140493,
-                    45.562812926655226
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4400,
                 "stop_id": 3196,
                 "stop_name": "NE Killingsworth & 36th",
-                "stop_seq": 4400,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62647818140492,
+                    45.56281292665522
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62848595911234,
-                    45.56278916702221
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4450,
                 "stop_id": 3194,
                 "stop_name": "NE Killingsworth & 35th",
-                "stop_seq": 4450,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62848595911231,
+                    45.5627891670222
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63374848771639,
-                    45.56276955767991
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4599,
                 "stop_id": 3189,
                 "stop_name": "NE Killingsworth & 31st",
-                "stop_seq": 4599,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63374848771637,
+                    45.56276955767988
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63494223009052,
-                    45.56157628232958
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4600,
                 "stop_id": 7328,
                 "stop_name": "NE 30th & Emerson",
-                "stop_seq": 4600,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63494223009049,
+                    45.561576282329575
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64080506639029,
-                    45.55911652934908
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4850,
                 "stop_id": 61,
                 "stop_name": "NE Alberta & 24th",
-                "stop_seq": 4850,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64080506639027,
+                    45.55911652934907
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64952416354005,
-                    45.559156799467345
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5050,
                 "stop_id": 53,
                 "stop_name": "NE Alberta & 15th",
-                "stop_seq": 5050,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64952416354002,
+                    45.559156799467324
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65253072395211,
-                    45.55915336313876
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5100,
                 "stop_id": 51,
                 "stop_name": "NE Alberta & 13th",
-                "stop_seq": 5100,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65253072395208,
+                    45.55915336313874
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65645116165041,
-                    45.55915308126635
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5200,
                 "stop_id": 70,
                 "stop_name": "NE Alberta & 9th",
-                "stop_seq": 5200,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65645116165038,
+                    45.55915308126634
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.684665563307,
-                    45.56273942168644
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5900,
                 "stop_id": 3159,
                 "stop_name": "N Killingsworth & Concord",
-                "stop_seq": 5900,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68466556330696,
+                    45.56273942168643
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68719348557624,
-                    45.56275415967741
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5950,
                 "stop_id": 3163,
                 "stop_name": "N Killingsworth & Denver",
-                "stop_seq": 5950,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68719348557622,
+                    45.56275415967739
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69241859076874,
-                    45.562822758764895
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6050,
                 "stop_id": 3161,
                 "stop_name": "N Killingsworth & Delaware",
-                "stop_seq": 6050,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69241859076871,
+                    45.56282275876488
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70588142108609,
-                    45.5594295695275
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6800,
                 "stop_id": 3316,
                 "stop_name": "N Lagoon & Ballast",
-                "stop_seq": 6800,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70588142108608,
+                    45.559429569527495
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70982766045678,
-                    45.56155732768885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6850,
                 "stop_id": 3317,
                 "stop_name": "N Lagoon & Commerce",
-                "stop_seq": 6850,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70982766045675,
+                    45.56155732768883
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57892490727772,
-                    45.46474630608503
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 750,
                 "stop_id": 7953,
                 "stop_name": "SE 82nd & Crystal Springs",
-                "stop_seq": 750,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5789249072777,
+                    45.46474630608503
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59385933093745,
-                    45.56279689267576
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3700,
                 "stop_id": 10601,
                 "stop_name": "NE Killingsworth & Cully",
-                "stop_seq": 3700,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59385933093742,
+                    45.56279689267575
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.661358541705,
-                    45.55957487210707
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5300,
                 "stop_id": 5890,
                 "stop_name": "NE M L King & Alberta",
-                "stop_seq": 5300,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66135854170497,
+                    45.55957487210704
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5789598672046,
-                    45.45463354926352
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 450,
                 "stop_id": 8017,
                 "stop_name": "SE 82nd & Overland",
-                "stop_seq": 450,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57895986720457,
+                    45.45463354926351
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57894550984282,
-                    45.45999499361359
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 600,
                 "stop_id": 7951,
                 "stop_name": "SE 82nd & Cornwell",
-                "stop_seq": 600,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5789455098428,
+                    45.45999499361356
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57884262030592,
-                    45.48099911332407
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 8027,
                 "stop_name": "SE 82nd & Ramona",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5788426203059,
+                    45.48099911332406
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57870052005673,
-                    45.48786329647398
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1400,
                 "stop_id": 8040,
                 "stop_name": "SE 82nd & Schiller",
-                "stop_seq": 1400,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5787005200567,
+                    45.48786329647395
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57858033328138,
-                    45.492424355458716
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1550,
                 "stop_id": 7935,
                 "stop_name": "SE 82nd & Boise",
-                "stop_seq": 1550,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57858033328135,
+                    45.4924243554587
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57857104235367,
-                    45.50131398043412
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1800,
                 "stop_id": 8061,
                 "stop_name": "SE 82nd & Woodward",
-                "stop_seq": 1800,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57857104235364,
+                    45.501313980434105
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57867562502052,
-                    45.51421942238012
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2100,
                 "stop_id": 8037,
                 "stop_name": "SE 82nd & Salmon",
-                "stop_seq": 2100,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5786564989155,
+                    45.51401674281376
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57887988843375,
-                    45.51826110230663
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2200,
                 "stop_id": 7928,
                 "stop_name": "SE 82nd & Washington",
-                "stop_seq": 2200,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57887988843373,
+                    45.518261102306624
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57891051799037,
-                    45.52829911274195
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2500,
                 "stop_id": 8014,
                 "stop_name": "NE 82nd & Oregon",
-                "stop_seq": 2500,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57891051799035,
+                    45.528299112741934
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57890639513225,
-                    45.531600137238144
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2600,
                 "stop_id": 8010,
                 "stop_name": "NE 82nd & Multnomah",
-                "stop_seq": 2600,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57890639513222,
+                    45.53160013723813
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62332179195516,
-                    45.5628228257451
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4350,
                 "stop_id": 3197,
                 "stop_name": "NE Killingsworth & Cesar Chavez Blvd",
-                "stop_seq": 4350,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62332179195514,
+                    45.56282282574509
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63111094479976,
-                    45.56278829386149
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4500,
                 "stop_id": 3192,
                 "stop_name": "NE Killingsworth & 33rd",
-                "stop_seq": 4500,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63111094479973,
+                    45.562788293861466
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63777898319783,
-                    45.559091470144665
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4750,
                 "stop_id": 64,
                 "stop_name": "NE Alberta & 27th",
-                "stop_seq": 4750,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63777898319782,
+                    45.55909147014466
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64668031652893,
-                    45.55911994445942
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5000,
                 "stop_id": 55,
                 "stop_name": "NE Alberta & 18th",
-                "stop_seq": 5000,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6466803165289,
+                    45.559119944459404
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67156834246555,
-                    45.56274458035954
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5600,
                 "stop_id": 3157,
                 "stop_name": "N Killingsworth & Commercial",
-                "stop_seq": 5600,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67156834246553,
+                    45.56274458035953
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67480361820242,
-                    45.56274043213481
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5700,
                 "stop_id": 3154,
                 "stop_name": "N Killingsworth & Albina",
-                "stop_seq": 5700,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67480361820239,
+                    45.562740432134795
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69007901027072,
-                    45.56278594393301
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6000,
                 "stop_id": 3180,
                 "stop_name": "N Killingsworth & Omaha",
-                "stop_seq": 6000,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69007901027071,
+                    45.56278594393299
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69570465778024,
-                    45.562173826147614
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6100,
                 "stop_id": 3167,
                 "stop_name": "N Greeley & Willamette",
-                "stop_seq": 6100,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69570465778021,
+                    45.56217382614759
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69865489296906,
-                    45.55628903460048
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6250,
                 "stop_id": 2161,
                 "stop_name": "N Going & Port Center Way",
-                "stop_seq": 6250,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69865489296903,
+                    45.556289034600475
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70255439119585,
-                    45.557679641482764
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6750,
                 "stop_id": 3315,
                 "stop_name": "N Lagoon & Anchor",
-                "stop_seq": 6750,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70255439119583,
+                    45.55767964148275
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71326697981296,
-                    45.56343545383985
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6900,
                 "stop_id": 3319,
                 "stop_name": "5500 Block N Lagoon (at Gate 18)",
-                "stop_seq": 6900,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71326697981293,
+                    45.56343545383985
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.7157121502548,
-                    45.56233486198267
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 7050,
                 "stop_id": 1044,
                 "stop_name": "N Channel Ave & Dolphin",
-                "stop_seq": 7050,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71571215025479,
+                    45.562334861982656
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70763987375132,
-                    45.55801342034802
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 7150,
                 "stop_id": 1042,
                 "stop_name": "N Channel Ave & Ballast",
-                "stop_seq": 7150,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70763987375129,
+                    45.558013420348004
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70390349044217,
-                    45.55662938628451
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 7200,
                 "stop_id": 1041,
                 "stop_name": "N Channel Ave & Anchor",
-                "stop_seq": 7200,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70395990472672,
+                    45.55662384641468
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57892370163593,
-                    45.46702674032561
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 800,
                 "stop_id": 7993,
                 "stop_name": "SE 82nd & Lambert",
-                "stop_seq": 800,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5789237016359,
+                    45.46702674032558
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57878266661105,
-                    45.483281015692164
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 7964,
                 "stop_name": "SE 82nd & Foster",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57878266661103,
+                    45.48328101569214
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5785730599752,
-                    45.50315128993772
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1850,
                 "stop_id": 7947,
                 "stop_name": "SE 82nd & Clinton",
-                "stop_seq": 1850,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57857305997517,
+                    45.50315128993769
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57895000609285,
-                    45.51947112241736
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2250,
                 "stop_id": 8047,
                 "stop_name": "SE 82nd & Stark",
-                "stop_seq": 2250,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57895000609282,
+                    45.51947112241734
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57880207148932,
-                    45.53931070314349
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2800,
                 "stop_id": 8036,
                 "stop_name": "NE 82nd & Sacramento",
-                "stop_seq": 2800,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5788020714893,
+                    45.539310703143485
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57858312208498,
-                    45.54947220266705
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3100,
                 "stop_id": 7933,
                 "stop_name": "NE 82nd & Beech",
-                "stop_seq": 3100,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57858312208495,
+                    45.54947220266702
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58209905217873,
-                    45.56277420320915
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3450,
                 "stop_id": 3149,
                 "stop_name": "7700 Block NE Killingsworth",
-                "stop_seq": 3450,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58209905217872,
+                    45.56277420320914
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60063691123266,
-                    45.562818574803494
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3950,
                 "stop_id": 3210,
                 "stop_name": "NE Killingsworth & 60th",
-                "stop_seq": 3950,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60063691123263,
+                    45.56281857480348
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6197012064974,
-                    45.562883737835136
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4300,
                 "stop_id": 3200,
                 "stop_name": "NE Killingsworth & 42nd",
-                "stop_seq": 4300,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61970120649738,
+                    45.562883737835115
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65838457273524,
-                    45.55917897362037
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5250,
                 "stop_id": 10184,
                 "stop_name": "NE Alberta & 7th",
-                "stop_seq": 5250,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65838457273523,
+                    45.559178973620355
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67679941535687,
-                    45.56272094354499
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5750,
                 "stop_id": 3174,
                 "stop_name": "N Killingsworth & Michigan",
-                "stop_seq": 5750,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67679941535684,
+                    45.56272094354497
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6947955755889,
-                    45.560275153324454
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6150,
                 "stop_id": 2227,
                 "stop_name": "N Greeley & Sumner",
-                "stop_seq": 6150,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69479557558887,
+                    45.56027515332444
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64374530527343,
-                    45.55910961823707
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4900,
                 "stop_id": 11472,
                 "stop_name": "NE Alberta & 21st",
-                "stop_seq": 4900,
-                "type": "BUS",
-                "zipcode": "97211"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.69374289675399,
-                    45.558667414033245
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
                 "jurisdic": "Portland",
-                "rte": 72,
-                "rte_desc": "72-Killingsworth/82nd Ave",
-                "stop_id": 2202,
-                "stop_name": "N Greeley & Humboldt",
-                "stop_seq": 6200,
-                "type": "BUS",
-                "zipcode": "97217"
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6437453052734,
+                    45.55910961823706
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57892515251714,
-                    45.46130065835505
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 650,
                 "stop_id": 7946,
                 "stop_name": "SE 82nd & Clatsop",
-                "stop_seq": 650,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57892515251712,
+                    45.461300658355036
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57861597018925,
-                    45.49395902494818
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1600,
                 "stop_id": 7943,
                 "stop_name": "SE 82nd & Francis",
-                "stop_seq": 1600,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57861597018922,
+                    45.49395902494817
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57885596317296,
-                    45.537116937331994
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2750,
                 "stop_id": 8055,
                 "stop_name": "NE 82nd & Tillamook",
-                "stop_seq": 2750,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57885596317293,
+                    45.537116937331994
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5784254898067,
-                    45.557840426620025
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3300,
                 "stop_id": 8063,
                 "stop_name": "NE 82nd & Wygant",
-                "stop_seq": 3300,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57842548980668,
+                    45.557840426620004
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60404544784629,
-                    45.5628472407031
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4000,
                 "stop_id": 3209,
                 "stop_name": "NE Killingsworth & 57th",
-                "stop_seq": 4000,
-                "type": "BUS",
-                "zipcode": "97218"
+                "jurisdic": "Portland",
+                "zipcode": "97218",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60404544784626,
+                    45.56284724070309
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63497353305763,
-                    45.559233021525756
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4700,
                 "stop_id": 7326,
                 "stop_name": "NE 30th & Alberta",
-                "stop_seq": 4700,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6349735330576,
+                    45.559233021525735
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70393234076536,
-                    45.556745196024096
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 6350,
                 "stop_id": 115,
                 "stop_name": "N Anchor & Channel",
-                "stop_seq": 6350,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70387785897353,
+                    45.55669994096787
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57892021824614,
-                    45.52447756678962
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2400,
                 "stop_id": 7955,
                 "stop_name": "NE 82nd & Davis",
-                "stop_seq": 2400,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57892021824611,
+                    45.524477566789606
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66836122685277,
-                    45.5627752475031
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5550,
                 "stop_id": 3184,
                 "stop_name": "N Killingsworth & Vancouver",
-                "stop_seq": 5550,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66836122685274,
+                    45.56277524750309
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57400318580466,
-                    45.437506594559366
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 75,
                 "stop_id": 12922,
                 "stop_name": "Clackamas Town Center Mall",
-                "stop_seq": 75,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57400318580463,
+                    45.43750659455936
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57892958043071,
-                    45.45873769883786
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 550,
                 "stop_id": 7995,
                 "stop_name": "SE 82nd & Lindy",
-                "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57892958043068,
+                    45.458737698837865
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57853616648923,
-                    45.5099625935342
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2000,
                 "stop_id": 8007,
                 "stop_name": "SE 82nd & Mill",
-                "stop_seq": 2000,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5785361664892,
+                    45.50996259353419
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5784228856798,
-                    45.559147731067725
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 3350,
                 "stop_id": 7927,
                 "stop_name": "NE 82nd & Alberta",
-                "stop_seq": 3350,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57842288567977,
+                    45.559147731067696
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57896155408135,
-                    45.47573394894113
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1050,
                 "stop_id": 7960,
                 "stop_name": "SE 82nd & Duke",
-                "stop_seq": 1050,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57896155408132,
+                    45.47573394894112
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65448455438512,
-                    45.55916514451092
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5150,
                 "stop_id": 49,
                 "stop_name": "NE Alberta & 11th",
-                "stop_seq": 5150,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6544845543851,
+                    45.55916514451092
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57873625928912,
-                    45.44112253100648
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 150,
                 "stop_id": 7941,
                 "stop_name": "SE 82nd & Causey",
-                "stop_seq": 150,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57873625928909,
+                    45.44112253100646
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57891297013236,
-                    45.47109354750293
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 900,
                 "stop_id": 7982,
                 "stop_name": "SE 82nd & Ogden",
-                "stop_seq": 900,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57891297013234,
+                    45.471093547502925
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57857101821476,
-                    45.49782232884317
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1700,
                 "stop_id": 8023,
                 "stop_name": "SE 82nd & Powell",
-                "stop_seq": 1700,
-                "type": "BUS",
-                "zipcode": "97266"
+                "jurisdic": "Portland",
+                "zipcode": "97266",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57857101821473,
+                    45.49782232884315
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57891942907179,
-                    45.52266361381908
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 2350,
                 "stop_id": 7936,
                 "stop_name": "SE 82nd & E Burnside",
-                "stop_seq": 2350,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57891342789023,
+                    45.52265960701933
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63496650189035,
-                    45.56037177727828
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 4650,
                 "stop_id": 7331,
                 "stop_name": "NE 30th & Sumner",
-                "stop_seq": 4650,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63496650189033,
+                    45.56037177727827
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66249872657032,
-                    45.562797494512544
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5400,
                 "stop_id": 10957,
                 "stop_name": "NE Killingsworth & Garfield",
-                "stop_seq": 5400,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66249872657029,
+                    45.56279749451253
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57873835241388,
-                    45.447406357522965
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 300,
                 "stop_id": 7918,
                 "stop_name": "SE 82nd & King",
-                "stop_seq": 300,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57873835241385,
+                    45.44740635752296
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68194820788463,
-                    45.562726428391116
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 5825,
                 "stop_id": 3170,
                 "stop_name": "N Killingsworth & Interstate",
-                "stop_seq": 5825,
-                "type": "BUS",
-                "zipcode": "97217"
+                "jurisdic": "Portland",
+                "zipcode": "97217",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6819482078846,
+                    45.56272642839111
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56870745294738,
-                    45.43566941948304
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Clackamas Co.",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 50,
                 "stop_id": 13248,
                 "stop_name": "Clackamas Town Center Transit Center",
-                "stop_seq": 50,
-                "type": "BUS",
-                "zipcode": "97015"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56870745294735,
+                    45.43566941948304
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57856693803525,
-                    45.50813713505494
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Swan Island",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 72,
+                "dir": 0,
                 "rte_desc": "72-Killingsworth/82nd Ave",
+                "dir_desc": "To Swan Island",
+                "type": "BUS",
+                "stop_seq": 1950,
                 "stop_id": 12755,
                 "stop_name": "SE 82nd & Harrison",
-                "stop_seq": 1950,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57855756581867,
+                    45.50814759311113
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

@@ -1,747 +1,748 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63788719751174,
-                    45.44636650657025
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 100,
                 "stop_id": 2569,
                 "stop_name": "SE Harrison & 24th",
-                "stop_seq": 100,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63788719751173,
+                    45.446366506570236
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63500030170454,
-                    45.44641497978056
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 150,
                 "stop_id": 2572,
                 "stop_name": "SE Harrison & 28th",
-                "stop_seq": 150,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63500030170452,
+                    45.44641497978055
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62518116309569,
-                    45.44159641599748
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 300,
                 "stop_id": 9812,
                 "stop_name": "Milwaukie Marketplace & 37th",
-                "stop_seq": 300,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62518116309566,
+                    45.441596415997466
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60982229317173,
-                    45.43287728079828
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 550,
                 "stop_id": 8155,
                 "stop_name": "SE International Way & Mallard",
-                "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6098222931717,
+                    45.43287728079827
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6049220504442,
-                    45.43083158079189
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 650,
                 "stop_id": 8156,
                 "stop_name": "5600 Block SE International Way",
-                "stop_seq": 650,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60492205044419,
+                    45.430831580791875
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60160164670552,
-                    45.43010494137096
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 700,
                 "stop_id": 3339,
                 "stop_name": "SE Lake & Rusk",
-                "stop_seq": 700,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60160164670549,
+                    45.430104941370935
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60464651257283,
-                    45.426125557468374
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 775,
                 "stop_id": 9258,
                 "stop_name": "5700 Block SE Kellogg Creek Dr",
-                "stop_seq": 775,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6046465125728,
+                    45.42612555746836
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59735762344201,
-                    45.42772705116374
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 3324,
                 "stop_name": "6400 Block SE Lake",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59735762344198,
+                    45.42772705116372
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59561829169184,
-                    45.426153154655836
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 902,
                 "stop_id": 3338,
                 "stop_name": "6500 Block SE Lake",
-                "stop_seq": 902,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5956182916918,
+                    45.42615315465582
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58310712095505,
-                    45.42232387172771
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1150,
                 "stop_id": 8158,
                 "stop_name": "SE Lake & Johnson",
-                "stop_seq": 1150,
-                "type": "BUS",
-                "zipcode": "97267"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58310712095502,
+                    45.422323871727684
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63265633024925,
-                    45.44645886183523
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 200,
                 "stop_id": 2568,
                 "stop_name": "SE Harrison & Hwy 224",
-                "stop_seq": 200,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63265633024922,
+                    45.44645886183521
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61882416256971,
-                    45.43840078067274
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 400,
                 "stop_id": 10489,
                 "stop_name": "SE International Way & Criterion Ct",
-                "stop_seq": 400,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61882416256968,
+                    45.43840078067272
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61399237397097,
-                    45.43400641711238
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 500,
                 "stop_id": 8154,
                 "stop_name": "4900 Block SE International Way (Blount)",
-                "stop_seq": 500,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61399237397096,
+                    45.43400641711237
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60612111426718,
-                    45.43178989978075
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 602,
                 "stop_id": 9503,
                 "stop_name": "5500 Block SE International Way",
-                "stop_seq": 602,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60612111426715,
+                    45.431789899780746
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6064235137704,
-                    45.42660293043608
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 725,
                 "stop_id": 10504,
                 "stop_name": "Milwaukie Center/North Clackamas Park",
-                "stop_seq": 725,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60642351377037,
+                    45.42660293043606
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59870932383862,
-                    45.42895884893373
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 800,
                 "stop_id": 3322,
                 "stop_name": "6300 Block SE Lake",
-                "stop_seq": 800,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59870932383859,
+                    45.428958848933725
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59291707167002,
-                    45.424802858690455
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 950,
                 "stop_id": 10653,
                 "stop_name": "SE Lake & Hwy 224",
-                "stop_seq": 950,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59291707166999,
+                    45.42480285869043
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58653763536984,
-                    45.422916565567064
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 10956,
                 "stop_name": "SE Lake & Tiara Dr",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97267"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58653763536982,
+                    45.422916565567064
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60964186530408,
-                    45.43558497351024
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 575,
                 "stop_id": 9412,
                 "stop_name": "Exceed Enterprises",
-                "stop_seq": 575,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60964186530406,
+                    45.43558497351022
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62754423427364,
-                    45.443648540612834
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 250,
                 "stop_id": 9236,
                 "stop_name": "Milwaukie Marketplace",
-                "stop_seq": 250,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62754423427361,
+                    45.44364854061282
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59214702062111,
-                    45.423288986482284
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1000,
                 "stop_id": 8157,
                 "stop_name": "6900 Block SE Lake",
-                "stop_seq": 1000,
-                "type": "BUS",
-                "zipcode": "97267"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59214702062108,
+                    45.42328898648228
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57331242700954,
-                    45.437310329219926
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 12921,
                 "stop_name": "Clackamas Town Center Mall",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57331242700951,
+                    45.43731032921991
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57897248212645,
-                    45.430730158317104
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 11251,
                 "stop_name": "SE 82nd & Sunnybrook",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97015"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57897248212643,
+                    45.430730158317076
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57903500585113,
-                    45.432960415648154
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 8049,
                 "stop_name": "SE 82nd & Sunnyside",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57903500585111,
+                    45.43296041564813
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61719904144805,
-                    45.43599746876689
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 450,
                 "stop_id": 8153,
                 "stop_name": "4400 Block SE International Way",
-                "stop_seq": 450,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61719904144802,
+                    45.43599746876687
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57891625796287,
-                    45.43576731287487
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1300,
                 "stop_id": 8005,
                 "stop_name": "SE 82nd & McBride",
-                "stop_seq": 1300,
-                "type": "BUS",
-                "zipcode": "97086"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97086",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57891625796285,
+                    45.43576731287486
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62158934196177,
-                    45.43941377413243
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 350,
                 "stop_id": 8152,
                 "stop_name": "SE International Way & 40th",
-                "stop_seq": 350,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62158934196174,
+                    45.43941377413241
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56870745294738,
-                    45.43566941948304
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1450,
                 "stop_id": 13248,
                 "stop_name": "Clackamas Town Center Transit Center",
-                "stop_seq": 1450,
-                "type": "BUS",
-                "zipcode": "97015"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56870745294735,
+                    45.43566941948304
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5886452306513,
-                    45.42301445709416
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1050,
                 "stop_id": 13580,
                 "stop_name": "SE Lake & Julie Ln",
-                "stop_seq": 1050,
-                "type": "BUS",
-                "zipcode": "97267"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97267",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58864523065127,
+                    45.42301445709415
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64049050567837,
-                    45.44482683637778
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 50,
                 "stop_id": 8225,
                 "stop_name": "SE Jackson & 21st",
-                "stop_seq": 50,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64049050567836,
+                    45.444826836377764
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56813401888509,
-                    45.43555507416447
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Clackamas Co.",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 1400,
                 "stop_id": 13247,
                 "stop_name": "Clackamas Town Center TC",
-                "stop_seq": 1400,
-                "type": "BUS",
-                "zipcode": "97015"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56813401888508,
+                    45.43555507416446
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62437983286462,
-                    45.44065178652885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Clackamas Town Center",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 152,
+                "dir": 0,
                 "rte_desc": "152-Milwaukie",
+                "dir_desc": "To Clackamas Town Center",
+                "type": "BUS",
+                "stop_seq": 325,
                 "stop_id": 13811,
                 "stop_name": "11400 Block SE 37th",
-                "stop_seq": 325,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62437983286459,
+                    45.44065178652884
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

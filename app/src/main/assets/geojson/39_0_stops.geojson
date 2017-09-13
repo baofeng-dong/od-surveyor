@@ -1,586 +1,587 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68960176149501,
-                    45.47046822702211
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 350,
                 "stop_id": 199,
                 "stop_name": "SW Barbur & Bertha",
-                "stop_seq": 350,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68960176149498,
+                    45.4704682270221
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69739618965801,
-                    45.465247841045446
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 500,
                 "stop_id": 7036,
                 "stop_name": "SW 19th & Barbur",
-                "stop_seq": 500,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69739618965798,
+                    45.46524784104543
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69739039562363,
-                    45.46357458855519
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 550,
                 "stop_id": 7049,
                 "stop_name": "SW 19th & Spring Garden",
-                "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6973903956236,
+                    45.46357458855517
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69311393977353,
-                    45.46346893087231
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 650,
                 "stop_id": 5315,
                 "stop_name": "SW Spring Garden & 14th",
-                "stop_seq": 650,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6931139397735,
+                    45.4634689308723
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68876080682963,
-                    45.46331556949998
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 750,
                 "stop_id": 5707,
                 "stop_name": "SW Taylors Ferry & 10th",
-                "stop_seq": 750,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6887608068296,
+                    45.46331556949996
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67265540992527,
-                    45.45026462137216
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 4336,
                 "stop_name": "SW Palatine Hill & Riverside",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67265540992524,
+                    45.45026462137215
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69238057667252,
-                    45.46885359105328
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 400,
                 "stop_id": 200,
                 "stop_name": "SW Barbur & 13th",
-                "stop_seq": 400,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69238057667249,
+                    45.46885359105327
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6954836879734,
-                    45.46708295173999
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 450,
                 "stop_id": 201,
                 "stop_name": "SW Barbur & Evans",
-                "stop_seq": 450,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69548368797336,
+                    45.467082951739975
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69535921434768,
-                    45.463435787488535
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 600,
                 "stop_id": 5317,
                 "stop_name": "SW Spring Garden & 17th",
-                "stop_seq": 600,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69535921434765,
+                    45.46343578748853
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69053027776097,
-                    45.46318736255815
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 700,
                 "stop_id": 5314,
                 "stop_name": "SW Spring Garden & 11th",
-                "stop_seq": 700,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69053027776096,
+                    45.46318736255812
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68515700474295,
-                    45.462968913481696
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 5706,
                 "stop_name": "SW Taylors Ferry & Terwilliger",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68515700474293,
+                    45.46296891348167
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67076434818577,
-                    45.44685137534385
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1300,
                 "stop_id": 11312,
                 "stop_name": "SW Palatine Hill & Lewis & Clark Gate 6",
-                "stop_seq": 1300,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67076434818574,
+                    45.44685137534383
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69285640366004,
-                    45.47879137447437
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 50,
                 "stop_id": 929,
                 "stop_name": "SW Capitol & Sunset",
-                "stop_seq": 50,
-                "type": "BUS",
-                "zipcode": "97239"
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69285640366002,
+                    45.47879137447434
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68728093043629,
-                    45.48004111614926
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 100,
                 "stop_id": 956,
                 "stop_name": "SW Capitol & Terwilliger",
-                "stop_seq": 100,
-                "type": "BUS",
-                "zipcode": "97239"
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68728093043626,
+                    45.480041116149245
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68443792160845,
-                    45.47718219178774
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 150,
                 "stop_id": 5785,
                 "stop_name": "SW Terwilliger & Burlingame Terr",
-                "stop_seq": 150,
-                "type": "BUS",
-                "zipcode": "97239"
+                "jurisdic": "Portland",
+                "zipcode": "97239",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68443792160842,
+                    45.477182191787726
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68426778608156,
-                    45.474034257234024
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 200,
                 "stop_id": 5792,
                 "stop_name": "SW Terwilliger & Chestnut",
-                "stop_seq": 200,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68426778608155,
+                    45.474034257234
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68558067597003,
-                    45.4721849907025
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 250,
                 "stop_id": 5787,
                 "stop_name": "SW Terwilliger & Caldew",
-                "stop_seq": 250,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68558067597,
+                    45.47218499070249
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68613191992443,
-                    45.47121484162412
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 300,
                 "stop_id": 191,
                 "stop_name": "SW Barbur & Terwilliger",
-                "stop_seq": 300,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68613191992442,
+                    45.47121484162411
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68503140348292,
-                    45.46128551952965
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 900,
                 "stop_id": 5799,
                 "stop_name": "SW Terwilliger & Lobelia",
-                "stop_seq": 900,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6850314034829,
+                    45.461285519529646
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68503578358808,
-                    45.45927139964679
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 950,
                 "stop_id": 5802,
                 "stop_name": "SW Terwilliger & Primrose",
-                "stop_seq": 950,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68503578358805,
+                    45.459271399646774
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6850213655055,
-                    45.457218556559255
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1000,
                 "stop_id": 5780,
                 "stop_name": "SW Terwilliger & Alice",
-                "stop_seq": 1000,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68502136550548,
+                    45.45721855655923
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68381534621734,
-                    45.45448531715532
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 5794,
                 "stop_name": "9800 Block SW Terwilliger",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68381534621732,
+                    45.45448531715529
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67791441860778,
-                    45.4530911452768
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 12729,
                 "stop_name": "10000 Block SW Terwilliger",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67791441860776,
+                    45.4530911452768
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67199022302114,
-                    45.44843655687804
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 12731,
                 "stop_name": "SW Huddleson & Palatine Hill",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67199022302111,
+                    45.448436556878036
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67510892489547,
-                    45.4528203509301
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To  Lewis & Clark College",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 39,
+                "dir": 0,
                 "rte_desc": "39-Lewis & Clark",
+                "dir_desc": "To  Lewis & Clark College",
+                "type": "BUS",
+                "stop_seq": 1225,
                 "stop_id": 13022,
                 "stop_name": "SW Palater & Palatine Hill",
-                "stop_seq": 1225,
-                "type": "BUS",
-                "zipcode": "97219"
+                "jurisdic": "Portland",
+                "zipcode": "97219",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67510892489544,
+                    45.452820350930075
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

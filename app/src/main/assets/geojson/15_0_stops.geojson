@@ -1,2334 +1,2335 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56377346451607,
-                    45.530571493870696
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
-                "stop_id": 8194,
-                "stop_name": "Gateway Transit Center",
-                "stop_seq": 50,
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
                 "type": "BUS",
-                "zipcode": "97220"
+                "stop_seq": 50,
+                "stop_id": 8194,
+                "stop_name": "Gateway TC (Drop off only stop)",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56377346451606,
+                    45.53057149387068
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56344447150836,
-                    45.53080702177424
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 100,
                 "stop_id": 10860,
                 "stop_name": "Gateway Transit Center",
-                "stop_seq": 100,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56344447150833,
+                    45.530807021774216
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56086619791836,
-                    45.5294070730263
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 150,
                 "stop_id": 4287,
                 "stop_name": "10000 Block NE Pacific St",
-                "stop_seq": 150,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56086619791833,
+                    45.52940707302629
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55830797670185,
-                    45.52580240543028
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 200,
                 "stop_id": 6517,
                 "stop_name": "NE 102nd & Glisan",
-                "stop_seq": 200,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55830797670183,
+                    45.52580240543026
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55837619418794,
-                    45.52403159732743
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 250,
                 "stop_id": 6503,
                 "stop_name": "100 Block NE 102nd",
-                "stop_seq": 250,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55837619418793,
+                    45.5240315973274
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55843954134627,
-                    45.5223346213642
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 300,
                 "stop_id": 6511,
                 "stop_name": "SE 102nd & Burnside",
-                "stop_seq": 300,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55843954134622,
+                    45.52233462136419
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5584961967578,
-                    45.52021732848477
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 350,
                 "stop_id": 6526,
                 "stop_name": "SE 102nd & Pine",
-                "stop_seq": 350,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55849619675777,
+                    45.52021732848476
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5585263049597,
-                    45.518705933151956
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 400,
                 "stop_id": 6529,
                 "stop_name": "SE 102nd & Washington",
-                "stop_seq": 400,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55852630495968,
+                    45.51870593315195
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55547232826626,
-                    45.51541824409511
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 450,
                 "stop_id": 11026,
                 "stop_name": "10500 Block SE Cherry Blossom",
-                "stop_seq": 450,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55547232826623,
+                    45.515418244095095
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5546252622306,
-                    45.51478960668569
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 500,
                 "stop_id": 11411,
                 "stop_name": "SE 106th & Cherry Blossom",
-                "stop_seq": 500,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55462526223057,
+                    45.51478960668568
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55852168211516,
-                    45.51417352721034
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 550,
                 "stop_id": 8917,
                 "stop_name": "10200 Block SE Main",
-                "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55852168211513,
+                    45.514173527210325
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56104319530573,
-                    45.51409079437791
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 600,
                 "stop_id": 9211,
                 "stop_name": "SE Main & 100th",
-                "stop_seq": 600,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56104319530571,
+                    45.514090794377886
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56409469336963,
-                    45.514477689070304
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 650,
                 "stop_id": 8918,
                 "stop_name": "SE 96th & Main",
-                "stop_seq": 650,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56409469336961,
+                    45.514477689070276
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5637494257707,
-                    45.51601471219328
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 700,
                 "stop_id": 8919,
                 "stop_name": "SE 96th & Mall 205 Dr",
-                "stop_seq": 700,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56374942577067,
+                    45.51601471219327
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56233240537927,
-                    45.517759441372554
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 750,
                 "stop_id": 8936,
                 "stop_name": "SE 99th & Washington",
-                "stop_seq": 750,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56233240537924,
+                    45.51775944137254
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5682387672197,
-                    45.519155190327034
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 800,
                 "stop_id": 5394,
                 "stop_name": "9200 Block SE Stark",
-                "stop_seq": 800,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56823876721967,
+                    45.51915519032702
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57123647443827,
-                    45.519145573116425
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 5503,
                 "stop_name": "SE Stark & 90th",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57123647443824,
+                    45.51914557311641
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57283374532115,
-                    45.51915595767696
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 900,
                 "stop_id": 5502,
                 "stop_name": "SE Stark & 88th",
-                "stop_seq": 900,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57283374532112,
+                    45.51915595767694
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57564789398558,
-                    45.51917753498427
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 950,
                 "stop_id": 13596,
                 "stop_name": "SE Stark & 85th",
-                "stop_seq": 950,
-                "type": "BUS",
-                "zipcode": "97216"
+                "jurisdic": "Portland",
+                "zipcode": "97216",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57564789398552,
+                    45.51917753498426
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.57961206604838,
-                    45.51920122955893
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1000,
                 "stop_id": 5499,
                 "stop_name": "SE Stark & 82nd",
-                "stop_seq": 1000,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.57961206604836,
+                    45.5192012295589
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58131912441442,
-                    45.51919732709506
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1050,
                 "stop_id": 5498,
                 "stop_name": "SE Stark & 80th",
-                "stop_seq": 1050,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58131912441439,
+                    45.51919732709504
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58532943755279,
-                    45.51851566007911
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 7898,
                 "stop_name": "SE 76th & Washington",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58532943755276,
+                    45.51851566007909
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58531708544876,
-                    45.516710918769796
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1150,
                 "stop_id": 7899,
                 "stop_name": "SE 76th & Yamhill",
-                "stop_seq": 1150,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58531708544874,
+                    45.51671091876978
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5878314389341,
-                    45.516392910282875
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 6446,
                 "stop_name": "SE Yamhill & 73rd",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58783143893407,
+                    45.51639291028287
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.58958480889967,
-                    45.516401145675246
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 6444,
                 "stop_name": "SE Yamhill & 71st",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58958480889964,
+                    45.516401145675225
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59209849904926,
-                    45.51621901785232
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1300,
                 "stop_id": 6442,
                 "stop_name": "SE Yamhill & 69th",
-                "stop_seq": 1300,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59209849904924,
+                    45.51621901785231
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59311531640311,
-                    45.51701519909428
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 460,
                 "stop_name": "SE Belmont & 68th",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59311531640309,
+                    45.51701519909425
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.59690096250837,
-                    45.51700430627135
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1400,
                 "stop_id": 457,
                 "stop_name": "SE Belmont & 65th",
-                "stop_seq": 1400,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59690096250834,
+                    45.51700430627134
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60053729834716,
-                    45.51682720655812
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1450,
                 "stop_id": 454,
                 "stop_name": "SE Belmont & 62nd",
-                "stop_seq": 1450,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60053729834713,
+                    45.5168272065581
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6017479808212,
-                    45.51681775628796
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1500,
                 "stop_id": 451,
                 "stop_name": "SE Belmont & 60th",
-                "stop_seq": 1500,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60174798082117,
+                    45.516817756287956
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60409019863265,
-                    45.51680237766924
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1550,
                 "stop_id": 449,
                 "stop_name": "SE Belmont & 58th",
-                "stop_seq": 1550,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60409019863263,
+                    45.51680237766922
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6066950130283,
-                    45.51674564636952
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1600,
                 "stop_id": 446,
                 "stop_name": "SE Belmont & 55th",
-                "stop_seq": 1600,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60669501302827,
+                    45.5167456463695
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.60858970695692,
-                    45.51660060906987
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1650,
                 "stop_id": 444,
                 "stop_name": "SE Belmont & 53rd",
-                "stop_seq": 1650,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.60858970695689,
+                    45.51660060906986
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61060218530476,
-                    45.51660985672632
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1700,
                 "stop_id": 10449,
                 "stop_name": "SE Belmont & 51st",
-                "stop_seq": 1700,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61060218530473,
+                    45.5166098567263
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61233374243218,
-                    45.516615190919445
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1750,
                 "stop_id": 440,
                 "stop_name": "SE Belmont & 49th",
-                "stop_seq": 1750,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61233374243216,
+                    45.51661519091944
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61508115914363,
-                    45.51660398850852
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1800,
                 "stop_id": 435,
                 "stop_name": "SE Belmont & 46th",
-                "stop_seq": 1800,
-                "type": "BUS",
-                "zipcode": "97215"
+                "jurisdic": "Portland",
+                "zipcode": "97215",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6150811591436,
+                    45.516603988508514
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.61976975815155,
-                    45.51662093301169
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1850,
                 "stop_id": 430,
                 "stop_name": "SE Belmont & 42nd",
-                "stop_seq": 1850,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61976975815152,
+                    45.51662093301167
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62252545195554,
-                    45.516642516963856
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1900,
                 "stop_id": 428,
                 "stop_name": "SE Belmont & Cesar Chavez Blvd",
-                "stop_seq": 1900,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62252545195551,
+                    45.51664251696384
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6246755234796,
-                    45.51650270087303
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 1950,
                 "stop_id": 426,
                 "stop_name": "SE Belmont & 38th",
-                "stop_seq": 1950,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62467552347957,
+                    45.516502700873005
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.62990256205538,
-                    45.5164981012036
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2000,
                 "stop_id": 423,
                 "stop_name": "SE Belmont & 34th",
-                "stop_seq": 2000,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.62990256205535,
+                    45.51649810120358
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6351167788555,
-                    45.51651117849118
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2100,
                 "stop_id": 417,
                 "stop_name": "SE Belmont & 30th",
-                "stop_seq": 2100,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63511677885548,
+                    45.51651117849115
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63894600456665,
-                    45.516509054905036
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2200,
                 "stop_id": 410,
                 "stop_name": "SE Belmont & 26th",
-                "stop_seq": 2200,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63894600456662,
+                    45.51650905490502
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6400683717534,
-                    45.51685966793824
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2250,
                 "stop_id": 7216,
                 "stop_name": "SE 25th & Morrison",
-                "stop_seq": 2250,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64006837175337,
+                    45.516859667938235
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64534687625085,
-                    45.517163434291355
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2300,
                 "stop_id": 4023,
                 "stop_name": "SE Morrison & 20th",
-                "stop_seq": 2300,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64534687625083,
+                    45.51716343429134
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64742344491478,
-                    45.517239730630614
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2350,
                 "stop_id": 4022,
                 "stop_name": "SE Morrison & 18th",
-                "stop_seq": 2350,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64742344491475,
+                    45.5172397306306
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6493891688432,
-                    45.51724047798387
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2400,
                 "stop_id": 4019,
                 "stop_name": "SE Morrison & 16th",
-                "stop_seq": 2400,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64938916884319,
+                    45.51724047798386
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65145784665715,
-                    45.51725366925797
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2450,
                 "stop_id": 4016,
                 "stop_name": "SE Morrison & 14th",
-                "stop_seq": 2450,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65145784665712,
+                    45.517253669257954
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.653993544717,
-                    45.517297536987684
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2500,
                 "stop_id": 4014,
                 "stop_name": "SE Morrison & 12th",
-                "stop_seq": 2500,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65399354471697,
+                    45.51729753698768
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65653645728439,
-                    45.51730301679863
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2550,
                 "stop_id": 4026,
                 "stop_name": "SE Morrison & 9th",
-                "stop_seq": 2550,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65653645728436,
+                    45.517303016798614
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6605999177371,
-                    45.513008505863745
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2650,
                 "stop_id": 3633,
                 "stop_name": "SE Madison & Grand",
-                "stop_seq": 2650,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66059991773707,
+                    45.51300850586373
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66618415534144,
-                    45.51302146331125
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2700,
                 "stop_id": 2642,
                 "stop_name": "Hawthorne Bridge",
-                "stop_seq": 2700,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66618415534141,
+                    45.513021463311226
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6755664258467,
-                    45.51526245975885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2750,
                 "stop_id": 11956,
                 "stop_name": "SW Main & 2nd",
-                "stop_seq": 2750,
-                "type": "BUS",
-                "zipcode": "97204"
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67556642584668,
+                    45.51526245975885
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67459934134885,
-                    45.519590161269775
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2800,
                 "stop_id": 6158,
                 "stop_name": "SW Washington & 3rd",
-                "stop_seq": 2800,
-                "type": "BUS",
-                "zipcode": "97204"
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67459934134882,
+                    45.51959016126977
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67658603150089,
-                    45.52012555080458
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2850,
                 "stop_id": 6160,
                 "stop_name": "SW Washington & 5th",
-                "stop_seq": 2850,
-                "type": "BUS",
-                "zipcode": "97204"
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67658603150086,
+                    45.520125550804565
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6786565079318,
-                    45.5206946365535
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2900,
                 "stop_id": 6137,
                 "stop_name": "SW Washington & Broadway",
-                "stop_seq": 2900,
-                "type": "BUS",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67865650793179,
+                    45.5206946365535
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68027007275433,
-                    45.52111166470496
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2950,
                 "stop_id": 6169,
                 "stop_name": "SW Washington & 9th",
-                "stop_seq": 2950,
-                "type": "BUS",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6802700727543,
+                    45.521111664704954
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68281890991447,
-                    45.52109396546567
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
-                "stop_id": 9600,
-                "stop_name": "SW 11th & Alder",
-                "stop_seq": 3000,
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
                 "type": "BUS",
-                "zipcode": "97205"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.6858880873663,
-                    45.521081881950586
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
-                "rte": 15,
-                "rte_desc": "15-Belmont/NW 23rd",
+                "stop_seq": 3100,
                 "stop_id": 9708,
                 "stop_name": "SW Morrison & 14th",
-                "stop_seq": 3100,
-                "type": "BUS",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68588808736627,
+                    45.52108188195057
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68793209020635,
-                    45.52164059824394
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3150,
                 "stop_id": 9613,
                 "stop_name": "SW Morrison & 16th",
-                "stop_seq": 3150,
-                "type": "BUS",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68793209020632,
+                    45.52164059824393
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68957654006533,
-                    45.522059887296976
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3200,
                 "stop_id": 9599,
                 "stop_name": "SW Morrison & 17th",
-                "stop_seq": 3200,
-                "type": "BUS",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6895765400653,
+                    45.52205988729697
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69006534110966,
-                    45.523077149854736
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3250,
                 "stop_id": 735,
                 "stop_name": "W Burnside & NW 19th",
-                "stop_seq": 3250,
-                "type": "BUS",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69006534110963,
+                    45.52307714985472
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69286627298094,
-                    45.5232122609602
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3300,
                 "stop_id": 742,
                 "stop_name": "W Burnside & NW 20th Pl",
-                "stop_seq": 3300,
-                "type": "BUS",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6928405394309,
+                    45.5232154957457
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69495392325527,
-                    45.52331653405087
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3350,
                 "stop_id": 747,
                 "stop_name": "W Burnside & NW King",
-                "stop_seq": 3350,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69495392325524,
+                    45.52331653405086
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6979952742176,
-                    45.523491402861175
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3400,
                 "stop_id": 755,
                 "stop_name": "W Burnside & NW 23rd",
-                "stop_seq": 3400,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69799527421759,
+                    45.523491402861175
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69838146023639,
-                    45.52541562190149
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3450,
                 "stop_id": 7157,
                 "stop_name": "NW 23rd & Flanders",
-                "stop_seq": 3450,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69838599076058,
+                    45.52540661823926
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69846923241207,
-                    45.527565645271494
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3500,
                 "stop_id": 7161,
                 "stop_name": "NW 23rd & Irving",
-                "stop_seq": 3500,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69846923241204,
+                    45.52756564527149
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69852182517748,
-                    45.52969384711897
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3550,
                 "stop_id": 7163,
                 "stop_name": "NW 23rd & Lovejoy",
-                "stop_seq": 3550,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69852182517745,
+                    45.529693847118956
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69863674454142,
-                    45.53212821676433
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3600,
                 "stop_id": 8981,
                 "stop_name": "NW 23rd & Overton",
-                "stop_seq": 3600,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69863674454139,
+                    45.53212821676431
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6987017603796,
-                    45.53399090152848
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3650,
                 "stop_id": 9031,
                 "stop_name": "NW 23rd & Raleigh",
-                "stop_seq": 3650,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69870176037958,
+                    45.533990901528476
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69871388852746,
-                    45.53575207037206
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3700,
                 "stop_id": 7169,
                 "stop_name": "NW 23rd & Thurman",
-                "stop_seq": 3700,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69871388852744,
+                    45.535752070372055
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.69970154163524,
-                    45.53553731886243
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3750,
                 "stop_id": 8984,
                 "stop_name": "NW Thurman & 23rd Pl",
-                "stop_seq": 3750,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69965510947179,
+                    45.53553546385858
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70260267824189,
-                    45.53546970792048
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3800,
                 "stop_id": 8985,
                 "stop_name": "NW Thurman & 25th",
-                "stop_seq": 3800,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70260267824186,
+                    45.53546970792046
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70468612661995,
-                    45.53544521933129
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3850,
                 "stop_id": 5831,
                 "stop_name": "NW Thurman & 26th",
-                "stop_seq": 3850,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70468612661992,
+                    45.535445219331265
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70712480101135,
-                    45.535382637293566
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3900,
                 "stop_id": 5835,
                 "stop_name": "NW Thurman & 27th",
-                "stop_seq": 3900,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70712480101132,
+                    45.53538263729355
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70908233419648,
-                    45.53536268522947
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3950,
                 "stop_id": 5837,
                 "stop_name": "NW Thurman & 28th",
-                "stop_seq": 3950,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70908233419645,
+                    45.535362685229465
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71106894295423,
-                    45.535337201408844
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4000,
                 "stop_id": 5839,
                 "stop_name": "NW Thurman & 29th",
-                "stop_seq": 4000,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7110689429542,
+                    45.53533720140882
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71455371374638,
-                    45.53596976784174
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4050,
                 "stop_id": 5841,
                 "stop_name": "NW Thurman & 32nd",
-                "stop_seq": 4050,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71455371374635,
+                    45.53596976784173
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71653944399635,
-                    45.53595922316855
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4100,
                 "stop_id": 5843,
                 "stop_name": "NW Thurman & 34th",
-                "stop_seq": 4100,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71653944399633,
+                    45.53595922316854
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71957824874572,
-                    45.53860733564324
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4150,
                 "stop_id": 5824,
                 "stop_name": "NW Thurman & Gordon",
-                "stop_seq": 4150,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.719584754421,
+                    45.53859897891646
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71674654333077,
-                    45.5358650278721
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4200,
                 "stop_id": 5844,
                 "stop_name": "NW Thurman & 34th",
-                "stop_seq": 4200,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71674654333076,
+                    45.535865027872084
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71477478467378,
-                    45.53586312871162
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4250,
                 "stop_id": 5842,
                 "stop_name": "NW Thurman & 32nd",
-                "stop_seq": 4250,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71477478467375,
+                    45.53586312871161
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71107006448122,
-                    45.53520550986986
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4300,
                 "stop_id": 5840,
                 "stop_name": "NW Thurman & 29th",
-                "stop_seq": 4300,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71107006448119,
+                    45.535205509869854
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70650515089993,
-                    45.535293100366985
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4350,
                 "stop_id": 5836,
                 "stop_name": "NW Thurman & 27th",
-                "stop_seq": 4350,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70650515089991,
+                    45.53529310036698
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70074918951033,
-                    45.53695642470458
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4400,
                 "stop_id": 6014,
                 "stop_name": "NW Vaughn & 24th",
-                "stop_seq": 4400,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7007491895103,
+                    45.53695642470457
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.7047258887126,
-                    45.536887121688196
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4450,
                 "stop_id": 8414,
                 "stop_name": "NW Vaughn & 26th",
-                "stop_seq": 4450,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70472588871257,
+                    45.536887121688174
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70669412860673,
-                    45.53684378182382
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4500,
                 "stop_id": 8802,
                 "stop_name": "NW Vaughn & 27th",
-                "stop_seq": 4500,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7066941286067,
+                    45.536843781823805
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.70844223670025,
-                    45.53695100903623
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4550,
                 "stop_id": 8481,
                 "stop_name": "NW Wardway & Montgomery Pk",
-                "stop_seq": 4550,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70844223670024,
+                    45.536951009036216
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71097786073827,
-                    45.54002547907606
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4600,
                 "stop_id": 8808,
                 "stop_name": "2400 Block NW 29th",
-                "stop_seq": 4600,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71097786073824,
+                    45.54002547907605
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71091600779852,
-                    45.541146885878746
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4650,
                 "stop_id": 7311,
                 "stop_name": "NW 29th & Industrial",
-                "stop_seq": 4650,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7109160077985,
+                    45.54114688587873
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71087139596608,
-                    45.54345340441563
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4700,
                 "stop_id": 7314,
                 "stop_name": "NW 29th & Nela",
-                "stop_seq": 4700,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71087139596607,
+                    45.543453404415615
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71084695418855,
-                    45.54452258997232
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4750,
                 "stop_id": 7320,
                 "stop_name": "NW 29th & 31st",
-                "stop_seq": 4750,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71084695418853,
+                    45.54452258997231
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71282878733925,
-                    45.544321412077025
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4800,
                 "stop_id": 10071,
                 "stop_name": "NW 31st & Guam",
-                "stop_seq": 4800,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71282878733922,
+                    45.54432141207701
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71605151153989,
-                    45.54428942945355
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4850,
                 "stop_id": 10072,
                 "stop_name": "3300 Block NW Guam",
-                "stop_seq": 4850,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71605151153986,
+                    45.544289429453535
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71879257405234,
-                    45.54432520021519
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4900,
                 "stop_id": 10073,
                 "stop_name": "NW Guam & 35th",
-                "stop_seq": 4900,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71879257405232,
+                    45.54432520021518
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71886350374515,
-                    45.54629324939284
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 4950,
                 "stop_id": 10074,
                 "stop_name": "3300 Block NW 35th",
-                "stop_seq": 4950,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71886350374514,
+                    45.54629324939281
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.71882523710471,
-                    45.548941174859415
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 5000,
                 "stop_id": 10455,
                 "stop_name": "NW 35th & Yeon",
-                "stop_seq": 5000,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.71882523710468,
+                    45.5489411748594
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.72431891045198,
-                    45.55143044683297
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 5050,
                 "stop_id": 6467,
                 "stop_name": "3900 Block NW Yeon",
-                "stop_seq": 5050,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72431891045197,
+                    45.551430446832946
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.72728000880635,
-                    45.55266215553649
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 5100,
                 "stop_id": 6458,
                 "stop_name": "4200 Block NW Yeon",
-                "stop_seq": 5100,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.72728000880632,
+                    45.552662155536474
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.73195812906769,
-                    45.55421521898441
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 5150,
                 "stop_id": 13637,
                 "stop_name": "NW Yeon & 44th",
-                "stop_seq": 5150,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73195812906768,
+                    45.554215218984396
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.73061166567214,
-                    45.553682530052114
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 5200,
                 "stop_id": 6470,
                 "stop_name": "NW Yeon & 44th",
-                "stop_seq": 5200,
-                "type": "BUS",
-                "zipcode": "97210"
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.73061166567213,
+                    45.5536825300521
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6587973357538,
-                    45.51588641540253
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "frequent": "True",
-                "jurisdic": "Portland",
                 "rte": 15,
+                "dir": 0,
                 "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3000,
+                "stop_id": 9600,
+                "stop_name": "SW 11th & Alder",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68281890991445,
+                    45.52109396546565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 0,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2600,
                 "stop_id": 13574,
                 "stop_name": "SE 7th & Yamhill",
-                "stop_seq": 2600,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65879733575377,
+                    45.5158864154025
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

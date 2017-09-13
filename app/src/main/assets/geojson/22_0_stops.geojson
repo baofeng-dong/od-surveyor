@@ -1,678 +1,679 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56086619791836,
-                    45.5294070730263
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 700,
                 "stop_id": 4287,
                 "stop_name": "10000 Block NE Pacific St",
-                "stop_seq": 700,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56086619791833,
+                    45.52940707302629
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55791925338247,
-                    45.534023456659035
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 6531,
                 "stop_name": "NE 102nd & Weidler",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55791925338242,
+                    45.53402345665902
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55787661346704,
-                    45.536188622296926
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 900,
                 "stop_id": 6518,
                 "stop_name": "NE 102nd & Hancock",
-                "stop_seq": 900,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55787661346702,
+                    45.53618862229691
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55780894868106,
-                    45.540159381379105
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1050,
                 "stop_id": 6508,
                 "stop_name": "NE 102nd & Brazee",
-                "stop_seq": 1050,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55780894868103,
+                    45.54015938137909
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55777521832367,
-                    45.5421068904594
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 8149,
                 "stop_name": "NE 102nd & Knott",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55777521832364,
+                    45.54210689045937
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55769113249055,
-                    45.544319675146724
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1150,
                 "stop_id": 6521,
                 "stop_name": "NE 102nd & Morris Ct",
-                "stop_seq": 1150,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55769113249049,
+                    45.5443196751467
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55763910264766,
-                    45.54797298370623
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 6514,
                 "stop_name": "NE 102nd & Fremont",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55763910264763,
+                    45.54797298370622
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55767706845243,
-                    45.55020349733952
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 6506,
                 "stop_name": "NE 102nd & Beech",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5576770684524,
+                    45.5502034973395
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55484218185971,
-                    45.55171013340306
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 5226,
                 "stop_name": "NE Shaver & 105th",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55484218185968,
+                    45.55171013340305
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55076621783704,
-                    45.551708393553255
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1400,
                 "stop_id": 5228,
                 "stop_name": "NE Shaver & 109th",
-                "stop_seq": 1400,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55076621783701,
+                    45.55170839355325
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.54531399411465,
-                    45.551704317667046
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1500,
                 "stop_id": 5232,
                 "stop_name": "NE Shaver & 114th",
-                "stop_seq": 1500,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54531399411462,
+                    45.55170431766704
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.54158570000422,
-                    45.551697001092684
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1525,
                 "stop_id": 8471,
                 "stop_name": "NE Shaver & Parkrose Middle School",
-                "stop_seq": 1525,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54158570000419,
+                    45.551697001092656
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.53746828901471,
-                    45.5516103012979
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1550,
                 "stop_id": 5234,
                 "stop_name": "NE Shaver & 122nd",
-                "stop_seq": 1550,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53746828901468,
+                    45.551610301297885
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.53449043565055,
-                    45.55221626176682
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1600,
                 "stop_id": 6683,
                 "stop_name": "NE 125th Pl & Shaver",
-                "stop_seq": 1600,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53449043565053,
+                    45.552216261766816
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.53347359675683,
-                    45.55302818290206
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1650,
                 "stop_id": 6682,
                 "stop_name": "NE 125th Pl & Riverwood 40",
-                "stop_seq": 1650,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5334735967568,
+                    45.55302818290204
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.53229838867274,
-                    45.555011287220424
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1750,
                 "stop_id": 4772,
                 "stop_name": "12600 Block NE Prescott Dr",
-                "stop_seq": 1750,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5322983886727,
+                    45.55501128722042
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.53089330258194,
-                    45.55487832028169
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1800,
                 "stop_id": 4774,
                 "stop_name": "NE Prescott Dr & 129th Pl",
-                "stop_seq": 1800,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.53089330258192,
+                    45.55487832028167
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.52605753629433,
-                    45.55403925733317
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1900,
                 "stop_id": 4779,
                 "stop_name": "NE Prescott Dr & 133rd",
-                "stop_seq": 1900,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5260575362943,
+                    45.55403925733316
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.52587157302244,
-                    45.55245354993461
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1950,
                 "stop_id": 6719,
                 "stop_name": "NE 133rd & Shaver",
-                "stop_seq": 1950,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52587157302239,
+                    45.55245354993459
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.52002155142229,
-                    45.55235419351298
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 2070,
                 "stop_id": 10454,
                 "stop_name": "NE Shaver & 141st",
-                "stop_seq": 2070,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52002155142227,
+                    45.55235419351297
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55794039594858,
-                    45.53161195406824
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 750,
                 "stop_id": 6522,
                 "stop_name": "1200 Block NE 102nd",
-                "stop_seq": 750,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55794039594855,
+                    45.53161195406822
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55786059962712,
-                    45.537436121213425
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 950,
                 "stop_id": 6530,
                 "stop_name": "NE 102nd & Tillamook",
-                "stop_seq": 950,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55786059962709,
+                    45.53743612121342
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.51936682331655,
-                    45.551175195342644
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 2100,
                 "stop_id": 6748,
                 "stop_name": "NE 141st & Failing",
-                "stop_seq": 2100,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.51936682331652,
+                    45.55117519534263
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.54765168381216,
-                    45.55169867996246
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1450,
                 "stop_id": 5230,
                 "stop_name": "NE Shaver & 112th",
-                "stop_seq": 1450,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.54765168381213,
+                    45.55169867996245
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.5290554970261,
-                    45.55452897459023
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1850,
                 "stop_id": 4776,
                 "stop_name": "NE Prescott Dr & 131st Pl",
-                "stop_seq": 1850,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52905549702608,
+                    45.5545289745902
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56377346451607,
-                    45.530571493870696
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
-                "stop_id": 8194,
-                "stop_name": "Gateway Transit Center",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
                 "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97220"
+                "stop_id": 8194,
+                "stop_name": "Gateway TC (Drop off only stop)",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56377346451606,
+                    45.53057149387068
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.55766770989376,
-                    45.55166430941612
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 1300,
                 "stop_id": 6528,
                 "stop_name": "NE 102nd & Shaver",
-                "stop_seq": 1300,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.55766770989374,
+                    45.551664309416104
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.52426569823791,
-                    45.55264783509017
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 2000,
                 "stop_id": 5223,
                 "stop_name": "NE Shaver & 135th",
-                "stop_seq": 2000,
-                "type": "BUS",
-                "zipcode": "97230"
+                "jurisdic": "Portland",
+                "zipcode": "97230",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.52426569823788,
+                    45.55264783509016
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.56332385200179,
-                    45.53048635401241
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "To Parkrose",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 22,
+                "dir": 0,
                 "rte_desc": "22-Parkrose",
+                "dir_desc": "To Parkrose",
+                "type": "BUS",
+                "stop_seq": 600,
                 "stop_id": 10862,
                 "stop_name": "Gateway Transit Center",
-                "stop_seq": 600,
-                "type": "BUS",
-                "zipcode": "97220"
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56332385200176,
+                    45.530486354012396
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

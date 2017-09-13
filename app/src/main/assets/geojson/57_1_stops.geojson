@@ -1,1598 +1,1599 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -123.11544795649303,
-                    45.518533652948214
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 100,
                 "stop_id": 146,
                 "stop_name": "19th & B St",
-                "stop_seq": 100,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.115447956493,
+                    45.5185336529482
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.10674260805006,
-                    45.518284612817084
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
                 "stop_id": 7041,
                 "stop_name": "19th & Cedar",
-                "stop_seq": 500,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10674260805004,
+                    45.51828461281707
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.09945215787809,
-                    45.518267095076915
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 600,
                 "stop_id": 7044,
                 "stop_name": "19th & Hawthorne",
-                "stop_seq": 600,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09945215787808,
+                    45.51826709507691
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.09144493544595,
-                    45.519980974186794
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
                 "stop_id": 4294,
                 "stop_name": "Pacific Ave & Maple",
-                "stop_seq": 700,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09144493544592,
+                    45.51998097418677
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.08201421929071,
-                    45.52008817599582
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
                 "stop_id": 4306,
                 "stop_name": "Pacific Ave & Quince",
-                "stop_seq": 800,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0820142192907,
+                    45.5200881759958
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.07865068965329,
-                    45.52007042915772
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 4272,
                 "stop_name": "3900 Block Pacific Ave",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07865068965326,
+                    45.520070429157705
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.0729802379832,
-                    45.520068202055924
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 950,
                 "stop_id": 4323,
                 "stop_name": "Pacific Ave & Yew",
-                "stop_seq": 950,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07298023798317,
+                    45.5200682020559
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.06694173644608,
-                    45.51999079864982
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1050,
                 "stop_id": 303,
                 "stop_name": "Baseline St & S 4th",
-                "stop_seq": 1050,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.06694173644605,
+                    45.519990798649815
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.06333061007065,
-                    45.52002734401227
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 258,
                 "stop_name": "700 Block Baseline",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.06333061007062,
+                    45.52002734401226
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.03541400903289,
-                    45.51988527130589
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
                 "stop_id": 285,
                 "stop_name": "Baseline St & N 29th/Hobbs",
-                "stop_seq": 1600,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.03541400903286,
+                    45.519885271305874
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.03273644965283,
-                    45.519868821837406
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1650,
                 "stop_id": 300,
                 "stop_name": "SW Baseline & 345th",
-                "stop_seq": 1650,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0327364496528,
+                    45.51986882183738
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.01737639235921,
-                    45.51986187045932
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1950,
                 "stop_id": 291,
                 "stop_name": "SW Baseline & 331st",
-                "stop_seq": 1950,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.01737639235918,
+                    45.5198618704593
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.97407632291133,
-                    45.51762521646796
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 3850,
                 "stop_id": 6500,
                 "stop_name": "SE 10th & Walnut",
-                "stop_seq": 3850,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9740763229113,
+                    45.51762521646796
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.97419621076756,
-                    45.51450558593996
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 3900,
                 "stop_id": 6496,
                 "stop_name": "SE 10th & Maple",
-                "stop_seq": 3900,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97419621076753,
+                    45.51450558593995
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.96850094271379,
-                    45.50967597253584
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4000,
                 "stop_id": 5602,
                 "stop_name": "SE Tualatin Valley Hwy & River Rd",
-                "stop_seq": 4000,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96850094271376,
+                    45.50967597253583
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.95825605915275,
-                    45.50547785990019
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4150,
                 "stop_id": 5611,
                 "stop_name": "SE Tualatin Valley Hwy & Sunset Esplnd",
-                "stop_seq": 4150,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95825605915273,
+                    45.50547785990017
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.93794376730894,
-                    45.50105640556348
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4325,
                 "stop_id": 10157,
                 "stop_name": "SE Tualatin Valley Hwy & 44th",
-                "stop_seq": 4325,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.93794376730891,
+                    45.50105640556347
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.92959043514342,
-                    45.50018162277514
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4450,
                 "stop_id": 5614,
                 "stop_name": "SE Tualatin Valley Hwy & Brookwood",
-                "stop_seq": 4450,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.92959043514341,
+                    45.50018162277512
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.92294598716501,
-                    45.49951362573517
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4500,
                 "stop_id": 5655,
                 "stop_name": "SE Tualatin Valley Hwy & Imlay",
-                "stop_seq": 4500,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.922945987165,
+                    45.49951362573514
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.89671384902323,
-                    45.49698223981963
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4900,
                 "stop_id": 5642,
                 "stop_name": "SW Tualatin Valley Hwy & 214th",
-                "stop_seq": 4900,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89671384902319,
+                    45.49698223981963
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.88637076237606,
-                    45.49571598556525
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5100,
                 "stop_id": 5590,
                 "stop_name": "SW Tualatin Valley Hwy & Market Centre",
-                "stop_seq": 5100,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.88637076237603,
+                    45.495715985565226
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.87308676167977,
-                    45.49435308245954
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5250,
                 "stop_id": 5593,
                 "stop_name": "18882-19040 SW Tualatin Valley Hwy",
-                "stop_seq": 5250,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87308676167974,
+                    45.49435308245953
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.86757306836145,
-                    45.49397798875094
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5350,
                 "stop_id": 5628,
                 "stop_name": "SW Tualatin Valley Hwy & 185th",
-                "stop_seq": 5350,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86672105908336,
+                    45.49398869112535
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.85666932505049,
-                    45.49265355363087
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5650,
                 "stop_id": 5623,
                 "stop_name": "SW Tualatin Valley Hwy & 174th",
-                "stop_seq": 5650,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85666932505048,
+                    45.49265355363085
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.84122980059814,
-                    45.49159238752715
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5800,
                 "stop_id": 5618,
                 "stop_name": "SW Tualatin Valley Hwy & 160th",
-                "stop_seq": 5800,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84122980059811,
+                    45.491592387527135
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.82643085470775,
-                    45.48947905512406
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5900,
                 "stop_id": 5600,
                 "stop_name": "SW Tualatin Valley Hwy & Murray",
-                "stop_seq": 5900,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82643085470774,
+                    45.48947905512405
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.81499327922153,
-                    45.48830663794693
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 6050,
                 "stop_id": 5597,
                 "stop_name": "SW Tualatin Valley Hwy & Hocken",
-                "stop_seq": 6050,
-                "type": "BUS",
-                "zipcode": "97005"
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8149932792215,
+                    45.48830663794691
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.80640924759253,
-                    45.48825777174607
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 6150,
                 "stop_id": 8270,
                 "stop_name": "SW Canyon & Watson",
-                "stop_seq": 6150,
-                "type": "BUS",
-                "zipcode": "97005"
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80640924759251,
+                    45.488257771746056
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.80104716229758,
-                    45.49132669952321
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 6300,
                 "stop_id": 9984,
                 "stop_name": "Beaverton Transit Center",
-                "stop_seq": 6300,
-                "type": "BUS",
-                "zipcode": "97005"
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80104716229755,
+                    45.49132669952319
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.11168160852665,
-                    45.51831674470212
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 400,
                 "stop_id": 7046,
                 "stop_name": "19th & Main",
-                "stop_seq": 400,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.11168160852662,
+                    45.518316744702105
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.09449853241216,
-                    45.51846710381132
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 650,
                 "stop_id": 7048,
                 "stop_name": "19th Way & 19th Ave",
-                "stop_seq": 650,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.09449853241213,
+                    45.518467103811304
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.07659789875768,
-                    45.52009637023809
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 900,
                 "stop_id": 4311,
                 "stop_name": "Pacific Ave & Mountain View Ln",
-                "stop_seq": 900,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07659789875765,
+                    45.52009637023808
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.0702250361549,
-                    45.520028276686375
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1000,
                 "stop_id": 270,
                 "stop_name": "Baseline St & S 1st",
-                "stop_seq": 1000,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.07022503615487,
+                    45.52002827668636
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.05976040155879,
-                    45.52000057296506
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
                 "stop_id": 271,
                 "stop_name": "Baseline St & S 10th",
-                "stop_seq": 1150,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05976040155876,
+                    45.52000057296505
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.04721906549317,
-                    45.52006835140692
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 277,
                 "stop_name": "Baseline & S 20th",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.04721906549314,
+                    45.52006835140689
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.02954734294175,
-                    45.51982370251863
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1700,
                 "stop_id": 256,
                 "stop_name": "E Baseline & Valley View",
-                "stop_seq": 1700,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Cornelius",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02954734294173,
+                    45.5198237025186
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.02073131402089,
-                    45.5198269078893
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1900,
                 "stop_id": 293,
                 "stop_name": "SW Baseline & NW 334th",
-                "stop_seq": 1900,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02073131402086,
+                    45.51982690788929
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.00462379239391,
-                    45.51947382425475
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2000,
                 "stop_id": 4119,
                 "stop_name": "SW Oak & 17th",
-                "stop_seq": 2000,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.00462379239389,
+                    45.519473824254746
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.98543992800131,
-                    45.52150543511584
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
                 "stop_id": 9955,
                 "stop_name": "Hillsboro Transit Center",
-                "stop_seq": 2600,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98543992800128,
+                    45.52150543511583
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.97279351229452,
-                    45.51148781344662
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 3950,
                 "stop_id": 6498,
                 "stop_name": "SE Tualatin Valley Hwy & 11th",
-                "stop_seq": 3950,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97279351229449,
+                    45.511487813446614
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.95461190162193,
-                    45.50398089882951
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4200,
                 "stop_id": 5606,
                 "stop_name": "SE Tualatin Valley Hwy & 24th",
-                "stop_seq": 4200,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95461190162187,
+                    45.5039808988295
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.91774195556332,
-                    45.49895168386346
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4550,
                 "stop_id": 5652,
                 "stop_name": "SE Tualatin Valley Hwy & SW 234th",
-                "stop_seq": 4550,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91774195556329,
+                    45.498951683863446
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.89188939165689,
-                    45.49630420262899
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5000,
                 "stop_id": 5637,
                 "stop_name": "SW Tualatin Valley Hwy & 209th",
-                "stop_seq": 5000,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.89188939165686,
+                    45.49630420262898
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.87529112393106,
-                    45.494586120964335
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5200,
                 "stop_id": 5634,
                 "stop_name": "SW Tualatin Valley Hwy & 192nd",
-                "stop_seq": 5200,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.87529112393104,
+                    45.49458612096433
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.86078228156458,
-                    45.49305738788327
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5600,
                 "stop_id": 5624,
                 "stop_name": "SW Tualatin Valley Hwy & 178th",
-                "stop_seq": 5600,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.86078228156455,
+                    45.49305738788326
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.10888676255665,
-                    45.518285319508834
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 450,
                 "stop_id": 7038,
                 "stop_name": "19th & Birch",
-                "stop_seq": 450,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.10888676255662,
+                    45.51828531950882
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.05678240215134,
-                    45.51998299379069
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 272,
                 "stop_name": "Baseline St & S 12th",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05678240215131,
+                    45.51998299379066
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.00125593556335,
-                    45.518835775963026
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2100,
                 "stop_id": 4116,
                 "stop_name": "SW Oak & Armco Ave",
-                "stop_seq": 2100,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.00125593556332,
+                    45.51883577596301
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.88062830267413,
-                    45.495125053365456
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Washington Co.",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5160,
                 "stop_id": 9207,
                 "stop_name": "SW Tualatin Valley Hwy & 198th",
-                "stop_seq": 5160,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Washington Co.",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8806283026741,
+                    45.495125053365456
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.84691759778916,
-                    45.49164142316952
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5750,
                 "stop_id": 5603,
                 "stop_name": "SW Tualatin Valley Hwy & St Marys Home",
-                "stop_seq": 5750,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.84691759778913,
+                    45.49164142316951
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.83305339656332,
-                    45.49029044579775
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5825,
                 "stop_id": 9029,
                 "stop_name": "SW Tualatin Valley Hwy & 153rd",
-                "stop_seq": 5825,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.83305339656329,
+                    45.49029044579774
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.82252680172061,
-                    45.489076333764444
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5950,
                 "stop_id": 5617,
                 "stop_name": "SW Tualatin Valley Hwy & 142nd",
-                "stop_seq": 5950,
-                "type": "BUS",
-                "zipcode": "97005"
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.82252680172058,
+                    45.48907633376442
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.94194733129052,
-                    45.50149191258213
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4250,
                 "stop_id": 5609,
                 "stop_name": "SE Tualatin Valley Hwy & 40th",
-                "stop_seq": 4250,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.94194733129049,
+                    45.50149191258211
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.0242964308205,
-                    45.51979214851083
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
-                "stop_id": 297,
-                "stop_name": "SW Baseline & NW 338th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
                 "stop_seq": 1800,
-                "type": "BUS",
-                "zipcode": "97123"
+                "stop_id": 297,
+                "stop_name": "Baseline & NW 338th",
+                "jurisdic": "Cornelius",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.02429643082047,
+                    45.5197921485108
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.04451976192107,
-                    45.51999753834451
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1400,
                 "stop_id": 267,
                 "stop_name": "2200 Block Baseline",
-                "stop_seq": 1400,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.04451976192104,
+                    45.5199975383445
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.04052392284673,
-                    45.51985628350819
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1502,
                 "stop_id": 263,
                 "stop_name": "Baseline St & S 26th",
-                "stop_seq": 1502,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.0405239228467,
+                    45.519856283508176
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.97575227722534,
-                    45.51865082950628
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2700,
                 "stop_id": 4125,
                 "stop_name": "SE Oak & 9th",
-                "stop_seq": 2700,
-                "type": "BUS",
-                "zipcode": "97123"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.90238033253831,
-                    45.49738258857321
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
                 "jurisdic": "Hillsboro",
-                "rte": 57,
-                "rte_desc": "57-TV Hwy/Forest Grove",
-                "stop_id": 5643,
-                "stop_name": "SE Tualatin Valley Hwy & SW Cornelius Ps",
-                "stop_seq": 4800,
-                "type": "BUS",
-                "zipcode": "97078"
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97575227722531,
+                    45.51865082950625
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.08824237649902,
-                    45.52000396419173
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4800,
+                "stop_id": 5643,
+                "stop_name": "SE Tualatin Valley Hwy & Cornelius Pass",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97078",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9023803325383,
+                    45.497382588573196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 57,
+                "dir": 1,
+                "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
                 "stop_id": 4298,
                 "stop_name": "Pacific Ave & Oak",
-                "stop_seq": 750,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.088242376499,
+                    45.52000396419171
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.05483981961326,
-                    45.52001826966312
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Cornelius",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 273,
                 "stop_name": "Baseline St & S 14th",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97113"
+                "jurisdic": "Cornelius",
+                "zipcode": "97113",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.05483981961324,
+                    45.520018269663105
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.99159809519065,
-                    45.521357041869734
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2151,
                 "stop_id": 6477,
                 "stop_name": "SW Washington & Adams",
-                "stop_seq": 2151,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.99159809519062,
+                    45.52135704186972
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.96143253592412,
-                    45.506759455941726
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4100,
                 "stop_id": 5598,
                 "stop_name": "SE Tualatin Valley Hwy & Minter Bridge",
-                "stop_seq": 4100,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96143253592409,
+                    45.50675945594172
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.91246383428516,
-                    45.49842192048093
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 4600,
                 "stop_id": 5651,
                 "stop_name": "SE Tualatin Valley Hwy & SW 229th",
-                "stop_seq": 4600,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.91246383428515,
+                    45.49842192048092
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.98819662677404,
-                    45.521313165275
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "False",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
                 "stop_id": 10290,
                 "stop_name": "SE Washington & 2nd",
-                "stop_seq": 2550,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.98819662677401,
+                    45.52131316527498
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.9792506412104,
-                    45.518688762355815
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
                 "stop_id": 4123,
                 "stop_name": "SE Oak & 7th",
-                "stop_seq": 2650,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.97925064121034,
+                    45.518688762355794
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.85129873614653,
-                    45.49207566034989
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 5700,
                 "stop_id": 5620,
                 "stop_name": "SW Tualatin Valley Hwy & 170th",
-                "stop_seq": 5700,
-                "type": "BUS",
-                "zipcode": "97078"
+                "jurisdic": "Beaverton",
+                "zipcode": "97078",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.8512987361465,
+                    45.49207566034986
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -123.10328820702331,
-                    45.51828124425833
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Forest Grove",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
                 "stop_id": 7043,
                 "stop_name": "19th & Elm",
-                "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97116"
+                "jurisdic": "Forest Grove",
+                "zipcode": "97116",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -123.1032882070233,
+                    45.51828124425832
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.99568979285023,
-                    45.52003122341416
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Hillsboro",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
                 "stop_id": 8452,
                 "stop_name": "SW Dennis & Baseline",
-                "stop_seq": 2150,
-                "type": "BUS",
-                "zipcode": "97123"
+                "jurisdic": "Hillsboro",
+                "zipcode": "97123",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9956897928502,
+                    45.52003122341415
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.81006830263166,
-                    45.488179786921165
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Beaverton Transit Center",
-                "frequent": "True",
-                "jurisdic": "Beaverton",
                 "rte": 57,
+                "dir": 1,
                 "rte_desc": "57-TV Hwy/Forest Grove",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 6075,
                 "stop_id": 13577,
                 "stop_name": "12900 Block SW Canyon",
-                "stop_seq": 6075,
-                "type": "BUS",
-                "zipcode": "97005"
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "True"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81006830263163,
+                    45.48817978692115
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

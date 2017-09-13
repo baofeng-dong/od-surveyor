@@ -1,701 +1,702 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68245613963018,
-                    45.53090436019112
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 50,
                 "stop_id": 13620,
                 "stop_name": "NW 11th & Marshall",
-                "stop_seq": 50,
-                "type": "SC",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68245613963016,
+                    45.53090436019111
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68237399887484,
-                    45.528745529338956
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 100,
                 "stop_id": 10753,
                 "stop_name": "NW 11th & Johnson",
-                "stop_seq": 100,
-                "type": "SC",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68237399887482,
+                    45.52874552933895
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68229701490203,
-                    45.52660844602792
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 150,
                 "stop_id": 10754,
                 "stop_name": "NW 11th & Glisan",
-                "stop_seq": 150,
-                "type": "SC",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68229701490202,
+                    45.526608446027915
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68222311522595,
-                    45.52378380026912
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 250,
                 "stop_id": 10756,
                 "stop_name": "NW 11th & Couch",
-                "stop_seq": 250,
-                "type": "SC",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68222311522594,
+                    45.52378380026911
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68281890991447,
-                    45.52109396546567
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 300,
                 "stop_id": 9600,
                 "stop_name": "SW 11th & Alder",
-                "stop_seq": 300,
-                "type": "SC",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68281890991445,
+                    45.52109396546565
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68387331678129,
-                    45.5190589217911
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 350,
                 "stop_id": 9633,
                 "stop_name": "SW 11th & Taylor",
-                "stop_seq": 350,
-                "type": "SC",
-                "zipcode": "97205"
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68387331678126,
+                    45.51905892179109
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68530101215015,
-                    45.51640242540795
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 400,
                 "stop_id": 10759,
                 "stop_name": "SW 11th & Jefferson",
-                "stop_seq": 400,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68530101215012,
+                    45.51640242540794
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68608116071503,
-                    45.515105916010455
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 450,
                 "stop_id": 10760,
                 "stop_name": "SW 11th & Clay",
-                "stop_seq": 450,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.686081160715,
+                    45.51510591601044
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68391330818389,
-                    45.51370380377237
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 500,
                 "stop_id": 11011,
                 "stop_name": "SW Park & Market",
-                "stop_seq": 500,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68391330818386,
+                    45.513703803772366
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68104189409956,
-                    45.51292198321976
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 550,
                 "stop_id": 10762,
                 "stop_name": "SW 5th & Market",
-                "stop_seq": 550,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68104189409954,
+                    45.51292198321975
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68131460510158,
-                    45.511708076313155
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 600,
                 "stop_id": 10763,
                 "stop_name": "SW 5th & Montgomery",
-                "stop_seq": 600,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68131460510155,
+                    45.511708076313134
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67959772042457,
-                    45.510206764754166
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 650,
                 "stop_id": 12375,
                 "stop_name": "SW 3rd & Harrison",
-                "stop_seq": 650,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67959772042455,
+                    45.51020676475415
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67657362517305,
-                    45.508795450528254
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 750,
                 "stop_id": 12377,
                 "stop_name": "SW Harrison Street",
-                "stop_seq": 750,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67657362517302,
+                    45.50879545052824
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67392423801051,
-                    45.507068886371236
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 800,
                 "stop_id": 12378,
                 "stop_name": "SW River Pkwy & Moody",
-                "stop_seq": 800,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67392423801049,
+                    45.50706888637123
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.67279257733266,
-                    45.50311477285932
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 850,
                 "stop_id": 13601,
                 "stop_name": "SW Moody & Meade South",
-                "stop_seq": 850,
-                "type": "SC",
-                "zipcode": "97201"
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67279257733263,
+                    45.503114772859306
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66334464949097,
-                    45.507037528615705
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 900,
                 "stop_id": 13615,
                 "stop_name": "SE Water/OMSI (Streetcar)",
-                "stop_seq": 900,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66334464949094,
+                    45.50703752861568
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66070168003462,
-                    45.510003381182024
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 950,
                 "stop_id": 2171,
                 "stop_name": "SE Grand & Mill",
-                "stop_seq": 950,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66070168003459,
+                    45.51000338118201
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6606865660456,
-                    45.512829284620985
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1000,
                 "stop_id": 13616,
                 "stop_name": "SE Grand & Hawthorne",
-                "stop_seq": 1000,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66068656604557,
+                    45.51282928462098
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66066759725155,
-                    45.51499394568457
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1050,
                 "stop_id": 11483,
                 "stop_name": "SE Grand & Taylor",
-                "stop_seq": 1050,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66066759725152,
+                    45.51499394568456
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6606286193206,
-                    45.516857727036836
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1100,
                 "stop_id": 11484,
                 "stop_name": "SE Grand & Belmont",
-                "stop_seq": 1100,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66062861932058,
+                    45.51685772703682
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66064420905522,
-                    45.51962647191977
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1150,
                 "stop_id": 13597,
                 "stop_name": "SE Grand & Stark",
-                "stop_seq": 1150,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66064420905519,
+                    45.51962647191976
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66062095708517,
-                    45.522810350193495
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1200,
                 "stop_id": 2167,
                 "stop_name": "SE Grand & E Burnside",
-                "stop_seq": 1200,
-                "type": "SC",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66062095708514,
+                    45.52281035019348
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66059266103086,
-                    45.5275157924066
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1250,
                 "stop_id": 2169,
                 "stop_name": "NE Grand & Hoyt",
-                "stop_seq": 1250,
-                "type": "SC",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66059266103083,
+                    45.52751579240658
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66058186170198,
-                    45.52972793197696
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1300,
                 "stop_id": 2175,
                 "stop_name": "NE Grand & Holladay",
-                "stop_seq": 1300,
-                "type": "SC",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66058186170196,
+                    45.529727931976936
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66055533416674,
-                    45.53185229753126
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1350,
                 "stop_id": 9343,
                 "stop_name": "NE Grand & Multnomah",
-                "stop_seq": 1350,
-                "type": "SC",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66055533416672,
+                    45.531852297531245
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66054845070568,
-                    45.5347980032745
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1400,
                 "stop_id": 13617,
                 "stop_name": "NE Grand & Broadway",
-                "stop_seq": 1400,
-                "type": "SC",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66054845070565,
+                    45.534798003274496
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66353809481612,
-                    45.5350340981503
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1450,
                 "stop_id": 13618,
                 "stop_name": "NE Broadway & 2nd (Streetcar)",
-                "stop_seq": 1450,
-                "type": "SC",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66353809481609,
+                    45.53503409815028
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.66952198914788,
-                    45.53444993655258
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1500,
                 "stop_id": 13619,
                 "stop_name": "NE Broadway & Ross (Streetcar)",
-                "stop_seq": 1500,
-                "type": "SC",
-                "zipcode": "97227"
+                "jurisdic": "Portland",
+                "zipcode": "97227",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66952198914787,
+                    45.53444993655256
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68136386894994,
-                    45.53127971731937
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1550,
                 "stop_id": 13604,
                 "stop_name": "NW 10th & Northrup",
-                "stop_seq": 1550,
-                "type": "SC",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68136386894992,
+                    45.53127971731934
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.68245613963018,
-                    45.53090436019112
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 0,
-                "dir_desc": "Counter-clockwise",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 195,
+                "dir": 0,
                 "rte_desc": "Portland Streetcar - B Loop",
+                "dir_desc": "Counter-clockwise",
+                "type": "SC",
+                "stop_seq": 1600,
                 "stop_id": 13620,
                 "stop_name": "NW 11th & Marshall",
-                "stop_seq": 1600,
-                "type": "SC",
-                "zipcode": "97209"
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68245613963016,
+                    45.53090436019111
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }

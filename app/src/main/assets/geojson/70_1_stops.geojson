@@ -1,1851 +1,1898 @@
 {
+    "type": "FeatureCollection",
+    "name": "tm_route_stops",
     "crs": {
+        "type": "name",
         "properties": {
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        },
-        "type": "name"
+        }
     },
     "features": [
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63588817176824,
-                    45.589875031628296
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 50,
                 "stop_id": 9368,
                 "stop_name": "NE Sunderland & Columbia River Corr Cntr",
-                "stop_seq": 50,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63588817176822,
+                    45.58987503162829
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63269807057593,
-                    45.58933949529529
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 100,
                 "stop_id": 9414,
                 "stop_name": "NE Sunderland & 33rd Dr (In)",
-                "stop_seq": 100,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6326980705759,
+                    45.58933949529527
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63292482779487,
-                    45.584060925752304
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 150,
                 "stop_id": 10450,
                 "stop_name": "8400 Block NE 33rd Dr",
-                "stop_seq": 150,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63292482779484,
+                    45.5840609257523
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6332785310899,
-                    45.58194668809741
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 200,
                 "stop_id": 9369,
                 "stop_name": "NE 33rd Dr & Elrod Dr",
-                "stop_seq": 200,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63327853108987,
+                    45.58194668809738
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6440068498268,
-                    45.57939456207242
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 400,
                 "stop_id": 118,
                 "stop_name": "NE 21st & Argyle",
-                "stop_seq": 400,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64400684982677,
+                    45.57939456207241
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6440261797178,
-                    45.57736475538868
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 450,
                 "stop_id": 8304,
                 "stop_name": "7500 Block NE 21st",
-                "stop_seq": 450,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64402617971777,
+                    45.57736475538867
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64039212074823,
-                    45.575665653718445
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 500,
                 "stop_id": 8507,
                 "stop_name": "NE Columbia Blvd & 24th",
-                "stop_seq": 500,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6403921207482,
+                    45.57566565371844
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63833471858479,
-                    45.57520976453657
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 550,
                 "stop_id": 8500,
                 "stop_name": "NE Columbia Blvd & 27th",
-                "stop_seq": 550,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63833471858476,
+                    45.57520976453655
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63654362011269,
-                    45.5748491533423
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 600,
                 "stop_id": 8499,
                 "stop_name": "NE Columbia Blvd & 29th",
-                "stop_seq": 600,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63654362011266,
+                    45.57484915334229
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63073270158077,
-                    45.57210933469405
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 650,
                 "stop_id": 7370,
                 "stop_name": "NE 33rd & Dekum",
-                "stop_seq": 650,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63073270158074,
+                    45.57210933469404
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63073117353329,
-                    45.57013374599487
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 700,
                 "stop_id": 7388,
                 "stop_name": "NE 33rd & Rosa Parks Way",
-                "stop_seq": 700,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63073117353326,
+                    45.570133745994845
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63073867763572,
-                    45.56810782190027
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 750,
                 "stop_id": 7379,
                 "stop_name": "NE 33rd & Holman",
-                "stop_seq": 750,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63073867763569,
+                    45.56810782190026
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63073021274386,
-                    45.5659809811325
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 800,
                 "stop_id": 7361,
                 "stop_name": "NE 33rd & Ainsworth",
-                "stop_seq": 800,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63073021274383,
+                    45.56598098113248
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63070870493463,
-                    45.56454614141363
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 850,
                 "stop_id": 7381,
                 "stop_name": "NE 33rd & Jarrett",
-                "stop_seq": 850,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307087049346,
+                    45.56454614141362
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63073638280595,
-                    45.56299970087961
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 900,
                 "stop_id": 7382,
                 "stop_name": "NE 33rd & Killingsworth",
-                "stop_seq": 900,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63073638280592,
+                    45.5629997008796
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63071926342063,
-                    45.561599636931135
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 950,
                 "stop_id": 7372,
                 "stop_name": "NE 33rd & Emerson",
-                "stop_seq": 950,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307192634206,
+                    45.56159963693112
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63074497689578,
-                    45.559111458859725
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1000,
                 "stop_id": 7363,
                 "stop_name": "NE 33rd & Alberta",
-                "stop_seq": 1000,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63074497689576,
+                    45.559111458859704
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6307599439459,
-                    45.55547327987794
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1050,
                 "stop_id": 7391,
                 "stop_name": "NE 33rd & Prescott",
-                "stop_seq": 1050,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63075994394588,
+                    45.55547327987793
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63075726057473,
-                    45.554389589988716
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1100,
                 "stop_id": 7397,
                 "stop_name": "NE 33rd & Skidmore",
-                "stop_seq": 1100,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307572605747,
+                    45.55438958998869
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63076678185816,
-                    45.55190364404972
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1150,
                 "stop_id": 7394,
                 "stop_name": "NE 33rd & Shaver",
-                "stop_seq": 1150,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63076678185813,
+                    45.55190364404971
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63077632678723,
-                    45.55019120496458
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1200,
                 "stop_id": 7368,
                 "stop_name": "NE 33rd & Bryce",
-                "stop_seq": 1200,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307763267872,
+                    45.550191204964555
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63077982390853,
-                    45.54838200798114
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1250,
                 "stop_id": 7374,
                 "stop_name": "NE 33rd & Fremont",
-                "stop_seq": 1250,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307798239085,
+                    45.548382007981125
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63077061981481,
-                    45.54536120213787
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1300,
                 "stop_id": 7396,
                 "stop_name": "NE 33rd & Siskiyou",
-                "stop_seq": 1300,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63077061981478,
+                    45.545361202137855
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63075903341753,
-                    45.54371136824047
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1350,
                 "stop_id": 7400,
                 "stop_name": "NE 33rd & Stanton",
-                "stop_seq": 1350,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307590334175,
+                    45.543711368240466
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63076701825575,
-                    45.54175305872576
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1400,
                 "stop_id": 7386,
                 "stop_name": "NE 33rd & Knott",
-                "stop_seq": 1400,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63076701825572,
+                    45.54175305872575
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63074132045152,
-                    45.54020785056197
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1450,
                 "stop_id": 7366,
                 "stop_name": "NE 33rd & Brazee",
-                "stop_seq": 1450,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6307413204515,
+                    45.540207850561956
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63074908041324,
-                    45.537871747214425
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1500,
                 "stop_id": 7403,
                 "stop_name": "NE 33rd & US Grant Pl",
-                "stop_seq": 1500,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63074908041321,
+                    45.53787174721441
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63074510384703,
-                    45.53659448289884
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1550,
                 "stop_id": 7377,
                 "stop_name": "NE 33rd & Hancock",
-                "stop_seq": 1550,
-                "type": "BUS",
-                "zipcode": "97212"
+                "jurisdic": "Portland",
+                "zipcode": "97212",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63074510384702,
+                    45.53659448289882
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63114998140594,
-                    45.535242342473815
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1600,
                 "stop_id": 644,
                 "stop_name": "NE Broadway & 33rd",
-                "stop_seq": 1600,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63114998140591,
+                    45.53524234247379
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63659550214129,
-                    45.53526182818264
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1750,
                 "stop_id": 639,
                 "stop_name": "NE Broadway & 28th",
-                "stop_seq": 1750,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63659550214123,
+                    45.535261828182634
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6395660707429,
-                    45.5352413359375
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1800,
                 "stop_id": 637,
                 "stop_name": "NE Broadway & 26th",
-                "stop_seq": 1800,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63956607074287,
+                    45.53524133593747
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64160645444014,
-                    45.53512578108114
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1850,
                 "stop_id": 635,
                 "stop_name": "NE Broadway & 24th",
-                "stop_seq": 1850,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64160645444011,
+                    45.53512578108112
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64491440566091,
-                    45.53452602191073
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1900,
                 "stop_id": 7139,
                 "stop_name": "NE 21st & Weidler",
-                "stop_seq": 1900,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64491440566088,
+                    45.534526021910715
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64494617053006,
-                    45.532960165004255
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 1950,
                 "stop_id": 7106,
                 "stop_name": "NE 21st & Clackamas",
-                "stop_seq": 1950,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64494617053003,
+                    45.53296016500424
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64494039235434,
-                    45.53159145371774
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
-                "stop_id": 7126,
-                "stop_name": "NE 21st & Multnomah",
-                "stop_seq": 2000,
+                "dir_desc": "To Milwaukie",
                 "type": "BUS",
-                "zipcode": "97232"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.64925870702322,
-                    45.53155269283666
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
-                "rte": 70,
-                "rte_desc": "70-12th/NE 33rd Ave",
+                "stop_seq": 2050,
                 "stop_id": 4049,
                 "stop_name": "NE Multnomah & 16th",
-                "stop_seq": 2050,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64925870702321,
+                    45.53155269283665
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65235037302263,
-                    45.531571250671576
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2100,
                 "stop_id": 4045,
                 "stop_name": "NE Multnomah & 13th",
-                "stop_seq": 2100,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65235037302261,
+                    45.531571250671576
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65367167259176,
-                    45.52808260533885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2350,
                 "stop_id": 6583,
                 "stop_name": "NE 12th & Irving",
-                "stop_seq": 2350,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65367167259173,
+                    45.52808260533884
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65368352456215,
-                    45.52671907969593
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2400,
                 "stop_id": 6580,
                 "stop_name": "NE 12th & Glisan",
-                "stop_seq": 2400,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65368352456213,
+                    45.526719079695916
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65372346955415,
-                    45.523369032373026
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2450,
                 "stop_id": 6577,
                 "stop_name": "NE 12th & Couch",
-                "stop_seq": 2450,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65372346955412,
+                    45.52336903237301
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65470267660147,
-                    45.52160046880235
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2500,
                 "stop_id": 6541,
                 "stop_name": "SE 11th & Ash",
-                "stop_seq": 2500,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65470267660145,
+                    45.52160046880233
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65472308177499,
-                    45.519464198536994
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2550,
                 "stop_id": 6554,
                 "stop_name": "SE 11th & Stark",
-                "stop_seq": 2550,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65472308177496,
+                    45.51946419853699
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65476771074654,
-                    45.512723353207925
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2650,
                 "stop_id": 6551,
                 "stop_name": "SE 11th & Madison",
-                "stop_seq": 2650,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65476771074651,
+                    45.51272335320791
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65478431087254,
-                    45.51167418383786
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2700,
                 "stop_id": 6543,
                 "stop_name": "SE 11th & Clay",
-                "stop_seq": 2700,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65478431087251,
+                    45.51167418383783
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65479128054615,
-                    45.509470674585586
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2750,
                 "stop_id": 6555,
                 "stop_name": "SE 11th & Stephens",
-                "stop_seq": 2750,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65479128054614,
+                    45.50947067458557
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65481837333877,
-                    45.50659998326011
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2800,
                 "stop_id": 6553,
                 "stop_name": "SE 11th & Sherman",
-                "stop_seq": 2800,
-                "type": "BUS",
-                "zipcode": "97214"
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65481837333874,
+                    45.5065999832601
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65482897232852,
-                    45.50494852322133
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2850,
                 "stop_id": 6545,
                 "stop_name": "SE 11th & Division",
-                "stop_seq": 2850,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6548289723285,
+                    45.50494852322133
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64877539618645,
-                    45.48767128142619
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3250,
                 "stop_id": 6894,
                 "stop_name": "SE 17th & Schiller",
-                "stop_seq": 3250,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64869483328263,
+                    45.48766833043772
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64845594157092,
-                    45.485452095975084
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3300,
                 "stop_id": 6846,
                 "stop_name": "SE 17th & Mitchell",
-                "stop_seq": 3300,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6484559415709,
+                    45.48545209597507
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64845959653078,
-                    45.48320317309132
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3350,
                 "stop_id": 6862,
                 "stop_name": "SE 17th & Harold",
-                "stop_seq": 3350,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64845959653076,
+                    45.48320317309129
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64848678453747,
-                    45.48008774851329
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3400,
                 "stop_id": 6868,
                 "stop_name": "SE 17th & Knight",
-                "stop_seq": 3400,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64848678453744,
+                    45.48008774851327
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64824764097708,
-                    45.47749757523776
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3450,
                 "stop_id": 6899,
                 "stop_name": "SE 17th & Tolman",
-                "stop_seq": 3450,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64824764097702,
+                    45.47749757523774
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64802322164091,
-                    45.47567129105788
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3500,
                 "stop_id": 6857,
                 "stop_name": "SE 17th & Claybourne",
-                "stop_seq": 3500,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64802322164088,
+                    45.47567129105787
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64779320758808,
-                    45.47389743760151
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3550,
                 "stop_id": 6847,
                 "stop_name": "SE 17th & Bybee",
-                "stop_seq": 3550,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64779320758807,
+                    45.47389743760149
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6484024311248,
-                    45.47379664219461
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 6542,
+                "stop_name": "SE 11th & Belmont",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65473742549031,
+                    45.51623466363929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 1,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3600,
                 "stop_id": 838,
                 "stop_name": "SE Bybee & Milwaukie",
-                "stop_seq": 3600,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64840243112477,
+                    45.473796642194586
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65163439036512,
-                    45.473737183059946
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3650,
                 "stop_id": 843,
                 "stop_name": "SE Bybee & 14th",
-                "stop_seq": 3650,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65163439036509,
+                    45.473737183059924
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65306546776436,
-                    45.471594207759544
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3700,
                 "stop_id": 6707,
                 "stop_name": "SE 13th & Sellwood",
-                "stop_seq": 3700,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65306546776434,
+                    45.47159420775954
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65307577915964,
-                    45.46869399544276
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3750,
                 "stop_id": 6694,
                 "stop_name": "SE 13th & Lambert",
-                "stop_seq": 3750,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65307577915961,
+                    45.468693995442756
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6530612442281,
-                    45.46583744549521
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3800,
                 "stop_id": 6700,
                 "stop_name": "SE 13th & Nehalem",
-                "stop_seq": 3800,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65306124422807,
+                    45.4658374454952
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65307696252704,
-                    45.46407065615242
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3850,
                 "stop_id": 6709,
                 "stop_name": "SE 13th & Tacoma",
-                "stop_seq": 3850,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65307696252701,
+                    45.46407065615241
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64945332992963,
-                    45.462841044275926
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3900,
                 "stop_id": 5884,
                 "stop_name": "SE Umatilla & 16th",
-                "stop_seq": 3900,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6494533299296,
+                    45.46284104427592
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64738136491017,
-                    45.47026146464885
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3950,
                 "stop_id": 6890,
                 "stop_name": "SE 17th & Rex",
-                "stop_seq": 3950,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64738136491015,
+                    45.47026146464882
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64710924882489,
-                    45.46714944425627
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4000,
                 "stop_id": 6874,
                 "stop_name": "SE 17th & Lexington",
-                "stop_seq": 4000,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64710924882486,
+                    45.467149444256265
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64712676402972,
-                    45.46445448654896
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4050,
                 "stop_id": 6896,
                 "stop_name": "SE 17th & Tacoma",
-                "stop_seq": 4050,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6471267640297,
+                    45.46445448654895
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64711550668645,
-                    45.46255986821381
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4100,
                 "stop_id": 6900,
                 "stop_name": "SE 17th & Umatilla",
-                "stop_seq": 4100,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64711550668642,
+                    45.46255986821381
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64711671082168,
-                    45.46089277706456
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4150,
                 "stop_id": 6852,
                 "stop_name": "SE 17th & Clatsop",
-                "stop_seq": 4150,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64711671082165,
+                    45.46089277706454
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64711213779204,
-                    45.458725267490784
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4200,
                 "stop_id": 6886,
                 "stop_name": "SE 17th & Ochoco St",
-                "stop_seq": 4200,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64711213779202,
+                    45.45872526749077
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64071315915207,
-                    45.44478633018247
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4400,
                 "stop_id": 13477,
                 "stop_name": "SE Jackson & Main",
-                "stop_seq": 4400,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64071315915206,
+                    45.44478633018245
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6483665008592,
-                    45.49719160622516
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3025,
                 "stop_id": 13704,
                 "stop_name": "SE 17th & Rhine",
-                "stop_seq": 3025,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64836650085917,
+                    45.49719160622516
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64867123517814,
-                    45.49410368903412
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3100,
                 "stop_id": 6850,
                 "stop_name": "SE 17th & Center",
-                "stop_seq": 3100,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64867123517811,
+                    45.494103689034105
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64867237572783,
-                    45.49155177675893
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 3150,
                 "stop_id": 6877,
                 "stop_name": "SE 17th & Mall",
-                "stop_seq": 3150,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6486723757278,
+                    45.491551776758925
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.63550458012578,
-                    45.58013674310311
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 250,
                 "stop_id": 9549,
                 "stop_name": "NE Riverside Way & 33rd Dr",
-                "stop_seq": 250,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63550458012575,
+                    45.580136743103104
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6387979340053,
-                    45.58065870203575
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 300,
                 "stop_id": 9371,
                 "stop_name": "2400 Block NE Riverside Way",
-                "stop_seq": 300,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63879793400528,
+                    45.580658702035734
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64396975441899,
-                    45.581499936456936
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 350,
                 "stop_id": 9402,
                 "stop_name": "NE 21st & Riverside Way",
-                "stop_seq": 350,
-                "type": "BUS",
-                "zipcode": "97211"
+                "jurisdic": "Portland",
+                "zipcode": "97211",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64396975441896,
+                    45.58149993645692
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65328324948825,
-                    45.500809319046134
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2950,
                 "stop_id": 13792,
                 "stop_name": "SE Powell & 12th",
-                "stop_seq": 2950,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65328324948824,
+                    45.50080931904612
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.6543592747207,
-                    45.5025624006342
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2900,
                 "stop_id": 13791,
                 "stop_name": "SE Milwaukie & Gideon",
-                "stop_seq": 2900,
-                "type": "BUS",
-                "zipcode": "97202"
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65436015866028,
+                    45.50258570521228
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.64629747980567,
-                    45.45348254423179
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Milwaukie",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4275,
                 "stop_id": 6902,
                 "stop_name": "SE 17th & Waverly",
-                "stop_seq": 4275,
-                "type": "BUS",
-                "zipcode": "97222"
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64623440214085,
+                    45.453257369084405
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65480382880133,
-                    45.52995391246168
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 4350,
+                "stop_id": 6872,
+                "stop_name": "SE 17th & Lava",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64337432351745,
+                    45.44694286204956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 1,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2289,
                 "stop_id": 8937,
                 "stop_name": "NE Holladay & 11th",
-                "stop_seq": 2289,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65480382880132,
+                    45.529953912461664
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65474308635714,
-                    45.51743626552583
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
-                "stop_id": 13813,
-                "stop_name": "SE 11th & Morrison",
-                "stop_seq": 2600,
+                "dir_desc": "To Milwaukie",
                 "type": "BUS",
-                "zipcode": "97214"
+                "stop_seq": 2163,
+                "stop_id": 4044,
+                "stop_name": "NE Multnomah & 11th",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6544360840723,
+                    45.53157535426996
+                ]
+            }
         },
         {
-            "geometry": {
-                "coordinates": [
-                    -122.65672654813649,
-                    45.53084294049657
-                ],
-                "type": "Point"
-            },
+            "type": "Feature",
             "properties": {
-                "dir": 1,
-                "dir_desc": "To Milwaukie",
-                "frequent": "False",
-                "jurisdic": "Portland",
                 "rte": 70,
+                "dir": 1,
                 "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2250,
                 "stop_id": 13633,
                 "stop_name": "NE 9th & Hassalo",
-                "stop_seq": 2250,
-                "type": "BUS",
-                "zipcode": "97232"
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
             },
-            "type": "Feature"
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.65672654813645,
+                    45.530842940496555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 70,
+                "dir": 1,
+                "rte_desc": "70-12th/NE 33rd Ave",
+                "dir_desc": "To Milwaukie",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 13892,
+                "stop_name": "NE Multnomah & 21st",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.64537199184645,
+                    45.531518320472614
+                ]
+            }
         }
-    ],
-    "type": "FeatureCollection"
+    ]
 }
