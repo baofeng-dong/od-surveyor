@@ -63,8 +63,8 @@ public class LoginActivity extends Activity implements Login.LoginCallback {
 
                 // send username and password to server
                 // onAuthenticate callback will be called with the response
-                String name = username.getText().toString();
-                String pass = password.getText().toString();
+                String name = username.getText().toString().trim();
+                String pass = password.getText().toString().trim();
                 login.authenticate(name, pass);
             }
         });
