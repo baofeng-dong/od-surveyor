@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-apply plugin: 'newrelic'
+//apply plugin: 'newrelic'
 
 android {
     compileSdkVersion 19
