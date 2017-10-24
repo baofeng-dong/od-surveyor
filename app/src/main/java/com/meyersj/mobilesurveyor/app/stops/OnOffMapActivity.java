@@ -12,6 +12,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
+import android.media.ToneGenerator;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
@@ -30,6 +31,7 @@ import android.widget.LinearLayout;
 import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.mapbox.mapboxsdk.api.ILatLng;
 import com.mapbox.mapboxsdk.geometry.BoundingBox;
@@ -568,12 +570,27 @@ public class OnOffMapActivity extends ActionBarActivity {
         @Override
         protected void onPostExecute(String response) {
             Log.d(TAG, "onPostExecute(): " + response);
+            Log.d(TAG, "response code: " + response);
+            //create small popup message using Toast
+            Context context = getApplicationContext();
+            CharSequence text = "Insert Successful!";
+            CharSequence errorText = "Insert unsuccessful!";
+            int duration = Toast.LENGTH_SHORT;
+            // success if response code equals 200, else shows error
+            if(response.contentEquals("200")){
+                Toast toast = Toast.makeText(context, text, duration);
+                toast.show();
+            } else {
+                Toast toast = Toast.makeText(context, errorText, duration);
+            }
+
         }
     }
 
     protected String post(String[] params) {
 
         String retVal = null;
+        String responseCode = null;
 
 
 
@@ -585,9 +602,12 @@ public class OnOffMapActivity extends ActionBarActivity {
         try {
             post.setEntity(new UrlEncodedFormEntity(postParam));
             HttpResponse response = client.execute(post);
+            Log.d(TAG, String.valueOf(response.getStatusLine().getStatusCode()));
+            responseCode = String.valueOf(response.getStatusLine().getStatusCode());
             HttpEntity entityR = response.getEntity();
             Log.d(TAG, EntityUtils.toString(entityR));
             retVal = response.toString();
+            //Log.d(TAG, "retVal: " + retVal);
 
         } catch (UnsupportedEncodingException e) {
             Log.e(TAG, "UnsupportedEncodingException" + e.toString());
@@ -596,7 +616,8 @@ public class OnOffMapActivity extends ActionBarActivity {
         } catch (IOException e) {
             Log.e(TAG, "IOException: " + e.toString());
         }
-        return retVal;
+        //return retVal;
+        return responseCode;
     }
 
 
