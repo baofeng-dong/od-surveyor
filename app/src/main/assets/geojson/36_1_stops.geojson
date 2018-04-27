@@ -1327,6 +1327,29 @@
                 "rte_desc": "36-South Shore",
                 "dir_desc": "To Lake Oswego Transit Center or Portland",
                 "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 3,
+                "stop_name": "A Ave & Second St",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66519744809426,
+                    45.41938848566768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 1,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Lake Oswego Transit Center or Portland",
+                "type": "BUS",
                 "stop_seq": 200,
                 "stop_id": 13195,
                 "stop_name": "SW Lower Boones Ferry & McEwan Rd",

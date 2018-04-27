@@ -387,7 +387,7 @@
                 "stop_seq": 850,
                 "stop_id": 9920,
                 "stop_name": "NE Evergreen & 13th",
-                "jurisdic": "Washington Co.",
+                "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
             },
@@ -670,8 +670,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.96630910423109,
-                    45.548568592106314
+                    -122.96629984893949,
+                    45.54855781495273
                 ]
             }
         },

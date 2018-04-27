@@ -154,29 +154,6 @@
                 "rte_desc": "66-Marquam Hill/Hollywood",
                 "dir_desc": "To Marquam Hill",
                 "type": "BUS",
-                "stop_seq": 400,
-                "stop_id": 4628,
-                "stop_name": "SE Powell & 26th",
-                "jurisdic": "Portland",
-                "zipcode": "97202",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.63937020183744,
-                    45.49801687143909
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 66,
-                "dir": 1,
-                "rte_desc": "66-Marquam Hill/Hollywood",
-                "dir_desc": "To Marquam Hill",
-                "type": "BUS",
                 "stop_seq": 50,
                 "stop_id": 10871,
                 "stop_name": "Hollywood Transit Center",
@@ -187,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.62057449929628,
-                    45.533336490693706
+                    -122.62056624676877,
+                    45.53335070397249
                 ]
             }
         },
@@ -210,8 +187,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.62305136326508,
-                    45.5166390056026
+                    -122.62306134606607,
+                    45.5165928653884
                 ]
             }
         },
@@ -279,8 +256,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.68514079906792,
-                    45.498877205177884
+                    -122.68519597174104,
+                    45.49885351999815
                 ]
             }
         },
@@ -511,6 +488,29 @@
                 "coordinates": [
                     -122.68426545105714,
                     45.50029842339972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 66,
+                "dir": 1,
+                "rte_desc": "66-Marquam Hill/Hollywood",
+                "dir_desc": "To Marquam Hill",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 4631,
+                "stop_name": "SE Powell & 28th",
+                "jurisdic": "Portland",
+                "zipcode": "97202",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.63738802513755,
+                    45.49784166554689
                 ]
             }
         },

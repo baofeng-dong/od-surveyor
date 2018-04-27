@@ -440,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.96630910423109,
-                    45.548568592106314
+                    -122.96629984893949,
+                    45.54855781495273
                 ]
             }
         },
@@ -752,52 +752,6 @@
                 "rte_desc": "46-North Hillsboro",
                 "dir_desc": "To Hillsboro Brookwood Library",
                 "type": "BUS",
-                "stop_seq": 1125,
-                "stop_id": 13901,
-                "stop_name": "NE 15th & Griffin Oaks",
-                "jurisdic": "Hillsboro",
-                "zipcode": "97124",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.96648939098232,
-                    45.54018318155931
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 46,
-                "dir": 0,
-                "rte_desc": "46-North Hillsboro",
-                "dir_desc": "To Hillsboro Brookwood Library",
-                "type": "BUS",
-                "stop_seq": 1200,
-                "stop_id": 13902,
-                "stop_name": "1500 Block NE 25th",
-                "jurisdic": "Hillsboro",
-                "zipcode": "97124",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.95712686957626,
-                    45.536011597189656
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 46,
-                "dir": 0,
-                "rte_desc": "46-North Hillsboro",
-                "dir_desc": "To Hillsboro Brookwood Library",
-                "type": "BUS",
                 "stop_seq": 1300,
                 "stop_id": 10026,
                 "stop_name": "NE Cornell & 25th",
@@ -810,6 +764,121 @@
                 "coordinates": [
                     -122.95632178568356,
                     45.53057506054266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 9952,
+                "stop_name": "NE 25th & Kathryn",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95714463134475,
+                    45.53889090923745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 9949,
+                "stop_name": "NE Griffin Oaks & 15th",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96526497973998,
+                    45.539996559541265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 9950,
+                "stop_name": "1800 Block NE Griffin Oaks",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.96211395479976,
+                    45.54004587970593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 9951,
+                "stop_name": "2200 Block NE Griffin Oaks",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.95964789078732,
+                    45.54004485047026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 46,
+                "dir": 0,
+                "rte_desc": "46-North Hillsboro",
+                "dir_desc": "To Hillsboro Brookwood Library",
+                "type": "BUS",
+                "stop_seq": 1225,
+                "stop_id": 9607,
+                "stop_name": "NE 25th & Sunrise Lane",
+                "jurisdic": "Hillsboro",
+                "zipcode": "97124",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.9571148870572,
+                    45.53702494882755
                 ]
             }
         }

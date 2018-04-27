@@ -246,29 +246,6 @@
                 "rte_desc": "62-Murray Blvd",
                 "dir_desc": "To Washington Square Transit Center",
                 "type": "BUS",
-                "stop_seq": 1750,
-                "stop_id": 4061,
-                "stop_name": "4800 Block SW Murray",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.82629821419759,
-                    45.48453084523185
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 62,
-                "dir": 0,
-                "rte_desc": "62-Murray Blvd",
-                "dir_desc": "To Washington Square Transit Center",
-                "type": "BUS",
                 "stop_seq": 1850,
                 "stop_id": 4062,
                 "stop_name": "5300 Block SW Murray",
@@ -434,14 +411,14 @@
                 "stop_id": 4068,
                 "stop_name": "SW Murray & Farmington",
                 "jurisdic": "Beaverton",
-                "zipcode": "97078",
+                "zipcode": "97005",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.82629142826985,
-                    45.48604851813893
+                    -122.82627313162918,
+                    45.485434954577734
                 ]
             }
         },

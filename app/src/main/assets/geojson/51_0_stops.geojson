@@ -62,52 +62,6 @@
                 "rte_desc": "51-Vista",
                 "dir_desc": "To Council Crest or Dosch & Hamilton",
                 "type": "BUS",
-                "stop_seq": 360,
-                "stop_id": 6911,
-                "stop_name": "SW 18th & Morrison",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.69043311158511,
-                    45.52190147785308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 51,
-                "dir": 0,
-                "rte_desc": "51-Vista",
-                "dir_desc": "To Council Crest or Dosch & Hamilton",
-                "type": "BUS",
-                "stop_seq": 400,
-                "stop_id": 9553,
-                "stop_name": "SW 18th & Salmon",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.69139876279918,
-                    45.52038092381132
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 51,
-                "dir": 0,
-                "rte_desc": "51-Vista",
-                "dir_desc": "To Council Crest or Dosch & Hamilton",
-                "type": "BUS",
                 "stop_seq": 650,
                 "stop_id": 4340,
                 "stop_name": "SW Park Pl & St Clair",
@@ -867,29 +821,6 @@
                 "rte_desc": "51-Vista",
                 "dir_desc": "To Council Crest or Dosch & Hamilton",
                 "type": "BUS",
-                "stop_seq": 100,
-                "stop_id": 6137,
-                "stop_name": "SW Washington & Broadway",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67865650793179,
-                    45.5206946365535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 51,
-                "dir": 0,
-                "rte_desc": "51-Vista",
-                "dir_desc": "To Council Crest or Dosch & Hamilton",
-                "type": "BUS",
                 "stop_seq": 260,
                 "stop_id": 9613,
                 "stop_name": "SW Morrison & 16th",
@@ -902,29 +833,6 @@
                 "coordinates": [
                     -122.68793209020632,
                     45.52164059824393
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 51,
-                "dir": 0,
-                "rte_desc": "51-Vista",
-                "dir_desc": "To Council Crest or Dosch & Hamilton",
-                "type": "BUS",
-                "stop_seq": 150,
-                "stop_id": 6169,
-                "stop_name": "SW Washington & 9th",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6802700727543,
-                    45.521111664704954
                 ]
             }
         },
@@ -1097,6 +1005,29 @@
                 "rte_desc": "51-Vista",
                 "dir_desc": "To Council Crest or Dosch & Hamilton",
                 "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 6169,
+                "stop_name": "SW Washington & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68076467679977,
+                    45.52123603259347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
                 "stop_seq": 200,
                 "stop_id": 9600,
                 "stop_name": "SW 11th & Alder",
@@ -1109,6 +1040,52 @@
                 "coordinates": [
                     -122.68281890991445,
                     45.52109396546565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 9552,
+                "stop_name": "SW Salmon & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69108488311163,
+                    45.520005377345676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 0,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Council Crest or Dosch & Hamilton",
+                "type": "BUS",
+                "stop_seq": 225,
+                "stop_id": 9598,
+                "stop_name": "SW Morrison & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68393296619406,
+                    45.52054960991197
                 ]
             }
         }

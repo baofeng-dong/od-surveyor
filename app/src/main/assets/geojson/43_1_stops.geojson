@@ -1304,29 +1304,6 @@
                 "rte_desc": "43-Taylors Ferry Rd",
                 "dir_desc": "To Portland",
                 "type": "BUS",
-                "stop_seq": 3200,
-                "stop_id": 5701,
-                "stop_name": "SW Taylors Ferry & Fulton Park Blvd",
-                "jurisdic": "Portland",
-                "zipcode": "97219",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67270860505276,
-                    45.46834334102693
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 43,
-                "dir": 1,
-                "rte_desc": "43-Taylors Ferry Rd",
-                "dir_desc": "To Portland",
-                "type": "BUS",
                 "stop_seq": 3600,
                 "stop_id": 1130,
                 "stop_name": "SW Corbett & Carolina",
@@ -1636,8 +1613,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.71549285718662,
-                    45.45187703289036
+                    -122.7155040975913,
+                    45.45190288159763
                 ]
             }
         },

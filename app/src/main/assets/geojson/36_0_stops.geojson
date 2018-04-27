@@ -371,8 +371,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.69598094210534,
-                    45.404972969953555
+                    -122.69607313755577,
+                    45.40493965081684
                 ]
             }
         },
@@ -601,8 +601,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.67357111252683,
-                    45.48126072398042
+                    -122.67358219336151,
+                    45.48129549637802
                 ]
             }
         },
@@ -1235,29 +1235,6 @@
                 "rte_desc": "36-South Shore",
                 "dir_desc": "To Tualatin Park & Ride",
                 "type": "BUS",
-                "stop_seq": 550,
-                "stop_id": 13180,
-                "stop_name": "SW River Pkwy & River Dr",
-                "jurisdic": "Portland",
-                "zipcode": "97201",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67454422178685,
-                    45.50714773267976
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 36,
-                "dir": 0,
-                "rte_desc": "36-South Shore",
-                "dir_desc": "To Tualatin Park & Ride",
-                "type": "BUS",
                 "stop_seq": 700,
                 "stop_id": 12880,
                 "stop_name": "SW Moody & Gaines",
@@ -1339,6 +1316,52 @@
                 "coordinates": [
                     -122.67181484176656,
                     45.499337006424916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 13994,
+                "stop_name": "SW Moody & River Pkwy",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67364060700335,
+                    45.506565438227945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 36,
+                "dir": 0,
+                "rte_desc": "36-South Shore",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 2000,
+                "stop_id": 3,
+                "stop_name": "A Ave & Second St",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66519744809426,
+                    45.41938848566768
                 ]
             }
         },

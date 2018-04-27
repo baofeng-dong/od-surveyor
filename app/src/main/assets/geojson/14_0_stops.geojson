@@ -785,8 +785,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.61383164970776,
-                    45.511961265080586
+                    -122.61384352716138,
+                    45.511965847875906
                 ]
             }
         },
@@ -1121,8 +1121,8 @@
                 "dir_desc": "To Foster & 94th",
                 "type": "BUS",
                 "stop_seq": 1350,
-                "stop_id": 13882,
-                "stop_name": "SE Hawthorne & 43rd",
+                "stop_id": 2630,
+                "stop_name": "SE Hawthorne & 44th",
                 "jurisdic": "Portland",
                 "zipcode": "97215",
                 "frequent": "True"
@@ -1130,8 +1130,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.61829336517627,
-                    45.51195723284573
+                    -122.61729252774909,
+                    45.51197406235418
                 ]
             }
         }

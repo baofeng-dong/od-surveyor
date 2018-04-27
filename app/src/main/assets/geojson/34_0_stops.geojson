@@ -108,98 +108,6 @@
                 "rte_desc": "34-Linwood/River Rd",
                 "dir_desc": "To Oregon City Transit Center",
                 "type": "BUS",
-                "stop_seq": 450,
-                "stop_id": 2497,
-                "stop_name": "SE Fuller & Harmony",
-                "jurisdic": "Clackamas Co.",
-                "zipcode": "97222",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.58719733374694,
-                    45.432711299677464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 34,
-                "dir": 0,
-                "rte_desc": "34-Linwood/River Rd",
-                "dir_desc": "To Oregon City Transit Center",
-                "type": "BUS",
-                "stop_seq": 500,
-                "stop_id": 2503,
-                "stop_name": "SE Harmony & 71st",
-                "jurisdic": "Clackamas Co.",
-                "zipcode": "97222",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.59094502563693,
-                    45.43226881904343
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 34,
-                "dir": 0,
-                "rte_desc": "34-Linwood/River Rd",
-                "dir_desc": "To Oregon City Transit Center",
-                "type": "BUS",
-                "stop_seq": 550,
-                "stop_id": 2501,
-                "stop_name": "SE Harmony & 67th",
-                "jurisdic": "Clackamas Co.",
-                "zipcode": "97222",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.59363944572911,
-                    45.43212387819087
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 34,
-                "dir": 0,
-                "rte_desc": "34-Linwood/River Rd",
-                "dir_desc": "To Oregon City Transit Center",
-                "type": "BUS",
-                "stop_seq": 600,
-                "stop_id": 2499,
-                "stop_name": "SE Harmony & Linwood",
-                "jurisdic": "Milwaukie",
-                "zipcode": "97222",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.59821651909029,
-                    45.4320695525116
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 34,
-                "dir": 0,
-                "rte_desc": "34-Linwood/River Rd",
-                "dir_desc": "To Oregon City Transit Center",
-                "type": "BUS",
                 "stop_seq": 650,
                 "stop_id": 3428,
                 "stop_name": "12300 Block SE Linwood",
@@ -1222,8 +1130,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.62167437099217,
-                    45.393165859169045
+                    -122.62136071403482,
+                    45.39295216652059
                 ]
             }
         },
@@ -1751,8 +1659,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.5804629033508,
-                    45.43838231456986
+                    -122.58046105195565,
+                    45.43835834123066
                 ]
             }
         },
@@ -1774,8 +1682,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.5832774479893,
-                    45.43842974098839
+                    -122.58341262562779,
+                    45.43843620328284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 34,
+                "dir": 0,
+                "rte_desc": "34-Linwood/River Rd",
+                "dir_desc": "To Oregon City Transit Center",
+                "type": "BUS",
+                "stop_seq": 475,
+                "stop_id": 13983,
+                "stop_name": "SE Harmony & Fuller",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.58763249329871,
+                    45.43264185813318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 34,
+                "dir": 0,
+                "rte_desc": "34-Linwood/River Rd",
+                "dir_desc": "To Oregon City Transit Center",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 13984,
+                "stop_name": "SE Harmony & Cedarcrest",
+                "jurisdic": "Milwaukie",
+                "zipcode": "97222",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59629871639154,
+                    45.43197265595029
                 ]
             }
         },

@@ -693,8 +693,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.68031960641457,
-                    45.48023082309977
+                    -122.68033126980198,
+                    45.48028067425144
                 ]
             }
         },
@@ -854,8 +854,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.7030594144764,
-                    45.432333944172896
+                    -122.70308330535482,
+                    45.4323345142774
                 ]
             }
         },
@@ -1314,8 +1314,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.68665851616176,
-                    45.439680038968895
+                    -122.68710814189632,
+                    45.43956640992607
                 ]
             }
         },
@@ -1339,29 +1339,6 @@
                 "coordinates": [
                     -122.75185036433733,
                     45.42195319104335
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 38,
-                "dir": 0,
-                "rte_desc": "38-Boones Ferry Rd",
-                "dir_desc": "To Tualatin Park & Ride",
-                "type": "BUS",
-                "stop_seq": 300,
-                "stop_id": 12794,
-                "stop_name": "SW Columbia between 5th & 4th",
-                "jurisdic": "Portland",
-                "zipcode": "97201",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67963438938783,
-                    45.513954211827595
                 ]
             }
         },
@@ -1408,6 +1385,29 @@
                 "coordinates": [
                     -122.68667480009177,
                     45.44412365578323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 38,
+                "dir": 0,
+                "rte_desc": "38-Boones Ferry Rd",
+                "dir_desc": "To Tualatin Park & Ride",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67963438938783,
+                    45.513954211827595
                 ]
             }
         }

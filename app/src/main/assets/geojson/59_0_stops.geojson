@@ -547,7 +547,7 @@
                 "type": "BUS",
                 "stop_seq": 2300,
                 "stop_id": 7025,
-                "stop_name": "NW 185th & Walker",
+                "stop_name": "NW 185th & NE Walker",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97006",
                 "frequent": "False"
@@ -626,6 +626,29 @@
                 "coordinates": [
                     -122.86979066619406,
                     45.517370415717174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 59,
+                "dir": 0,
+                "rte_desc": "59-Walker/Park Way",
+                "dir_desc": "To Willow Creek/SW 185th Ave Transit Center",
+                "type": "BUS",
+                "stop_seq": 2200,
+                "stop_id": 9148,
+                "stop_name": "NW Walker & 173rd",
+                "jurisdic": "Beaverton",
+                "zipcode": "97006",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.85451875695277,
+                    45.522608618158394
                 ]
             }
         }

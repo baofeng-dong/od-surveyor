@@ -14,172 +14,11 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 160,
-                "stop_id": 4520,
-                "stop_name": "E Powell & SE Cleveland",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.42120863394386,
-                    45.497921229406295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 240,
-                "stop_id": 4639,
-                "stop_name": "E Powell & SE 3rd",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.41210891668347,
-                    45.49575827846442
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 260,
-                "stop_id": 4545,
-                "stop_name": "E Powell & SE Rene",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.40972889785421,
-                    45.49432774232999
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 300,
-                "stop_id": 4715,
-                "stop_name": "SE Powell Valley & Hale",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.40124904933354,
-                    45.4925435892365
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 420,
-                "stop_id": 3092,
-                "stop_name": "NE Kane & Division",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.39976636413647,
-                    45.50546281035027
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 460,
-                "stop_id": 3091,
-                "stop_name": "NE Kane & 18th Ct",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.39981044755453,
-                    45.51015612665049
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 480,
-                "stop_id": 3105,
-                "stop_name": "NE Kane & 23rd",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3993538975458,
-                    45.513224296685785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 675,
-                "stop_id": 10645,
-                "stop_name": "2300 Block SW 257th",
+                "stop_seq": 1100,
+                "stop_id": 13532,
+                "stop_name": "NW Graham/257th & W Columbia River Hwy",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -187,8 +26,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.39829260652229,
-                    45.52444845579227
+                    -122.39039809755543,
+                    45.54123718777183
                 ]
             }
         },
@@ -198,103 +37,11 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 180,
-                "stop_id": 4531,
-                "stop_name": "E Powell & NE Liberty",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.41872342090102,
-                    45.49788756144337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 280,
-                "stop_id": 4713,
-                "stop_name": "2800 Block SE Powell Valley",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.40351736523203,
-                    45.493066662706106
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 380,
-                "stop_id": 3102,
-                "stop_name": "NE Kane & 2nd Ct",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3986216872841,
-                    45.49811885666858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 440,
-                "stop_id": 3097,
-                "stop_name": "NE Kane & 15th",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.39980847627982,
-                    45.50809920101452
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 550,
-                "stop_id": 8598,
-                "stop_name": "SW 257th & SE Stark",
+                "stop_seq": 1150,
+                "stop_id": 9470,
+                "stop_name": "NW Graham/257th & 257th Way",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -302,8 +49,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.3982919270775,
-                    45.51957886863574
+                    -122.39036001263455,
+                    45.543490981510594
                 ]
             }
         },
@@ -313,11 +60,11 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 700,
-                "stop_id": 9046,
-                "stop_name": "SW 257th & Hensley Rd",
+                "stop_seq": 1200,
+                "stop_id": 10758,
+                "stop_name": "NW Graham/257th & North Frontage Rd",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -325,8 +72,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.3983280494825,
-                    45.526581744700806
+                    -122.39104533174658,
+                    45.545442390455605
                 ]
             }
         },
@@ -336,11 +83,11 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 865,
-                "stop_id": 10170,
-                "stop_name": "400 Block SW 257th",
+                "stop_seq": 1250,
+                "stop_id": 13988,
+                "stop_name": "900 Block NE Graham Rd",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -348,8 +95,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.39275718471342,
-                    45.538110574291
+                    -122.39118723293483,
+                    45.54703754930283
                 ]
             }
         },
@@ -359,20 +106,20 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 360,
-                "stop_id": 3100,
-                "stop_name": "SE Kane & 2nd",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
+                "stop_seq": 1300,
+                "stop_id": 13989,
+                "stop_name": "1500 Block NE Graham Rd",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.3986308486286,
-                    45.496544206786595
+                    -122.38857487147763,
+                    45.55137021712446
                 ]
             }
         },
@@ -382,11 +129,80 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 50,
-                "stop_id": 10859,
-                "stop_name": "Gresham Transit Center",
+                "stop_seq": 1350,
+                "stop_id": 13990,
+                "stop_name": "NW Graham & N Entrance Rd",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39873203662769,
+                    45.552041076755465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 13991,
+                "stop_name": "NW Sundial & Rogers Circle",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40768255937829,
+                    45.55363029889435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 13975,
+                "stop_name": "1200 Block NW Swigert Way",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3992074975382,
+                    45.55504640071599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 150,
+                "stop_id": 1328,
+                "stop_name": "NE Division & Cleveland",
                 "jurisdic": "Gresham",
                 "zipcode": "97030",
                 "frequent": "False"
@@ -394,8 +210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42684015281966,
-                    45.503008446872194
+                    -122.42127624431382,
+                    45.50471289820799
                 ]
             }
         },
@@ -405,55 +221,9 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 400,
-                "stop_id": 3107,
-                "stop_name": "NE Kane & 8th",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3997867449706,
-                    45.50318503324003
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 220,
-                "stop_id": 4529,
-                "stop_name": "E Powell & SE Hogan",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.4145805151787,
-                    45.49784405683129
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 500,
+                "stop_seq": 650,
                 "stop_id": 10879,
                 "stop_name": "NE Kane & 29th, MHCC",
                 "jurisdic": "Gresham",
@@ -474,9 +244,9 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 600,
+                "stop_seq": 750,
                 "stop_id": 8599,
                 "stop_name": "SW 257th & 28th",
                 "jurisdic": "Troutdale",
@@ -497,9 +267,9 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 750,
+                "stop_seq": 900,
                 "stop_id": 9092,
                 "stop_name": "SW 257th & 16th Way",
                 "jurisdic": "Troutdale",
@@ -520,9 +290,9 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 850,
+                "stop_seq": 950,
                 "stop_id": 9094,
                 "stop_name": "SW 257th & Cherry Park",
                 "jurisdic": "Troutdale",
@@ -543,9 +313,9 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 860,
+                "stop_seq": 1000,
                 "stop_id": 9427,
                 "stop_name": "SW 257th & Jennings Way",
                 "jurisdic": "Troutdale",
@@ -566,11 +336,11 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
-                "stop_seq": 120,
-                "stop_id": 13033,
-                "stop_name": "NE Hood & 2nd",
+                "stop_seq": 200,
+                "stop_id": 1324,
+                "stop_name": "NE Division & Burnside",
                 "jurisdic": "Gresham",
                 "zipcode": "97030",
                 "frequent": "False"
@@ -578,8 +348,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42783210484413,
-                    45.4986156107445
+                    -122.41661634616953,
+                    45.504692411284786
                 ]
             }
         },
@@ -589,11 +359,310 @@
                 "rte": 81,
                 "dir": 0,
                 "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 250,
+                "stop_id": 1339,
+                "stop_name": "NE Division & Hogan",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.41348032668725,
+                    45.504723258198915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 300,
+                "stop_id": 1335,
+                "stop_name": "NE Division & Fleming",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40841708424948,
+                    45.50471272741293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 1355,
+                "stop_name": "NE Division & Village Squire Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40464770206695,
+                    45.50469735755241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 400,
+                "stop_id": 1320,
+                "stop_name": "NE Division & Palmblad Dr",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40286184160287,
+                    45.50469441339425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 450,
+                "stop_id": 3092,
+                "stop_name": "NE Kane & Division",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39976636413647,
+                    45.50546281035027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 550,
+                "stop_id": 3091,
+                "stop_name": "NE Kane & 18th Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39981044755453,
+                    45.51015612665049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 600,
+                "stop_id": 3105,
+                "stop_name": "NE Kane & 23rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3993538975458,
+                    45.513224296685785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 10645,
+                "stop_name": "2300 Block SW 257th",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39829260652229,
+                    45.52444845579227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 3097,
+                "stop_name": "NE Kane & 15th",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39980847627982,
+                    45.50809920101452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 8598,
+                "stop_name": "SW 257th & SE Stark",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3982919270775,
+                    45.51957886863574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 9046,
+                "stop_name": "SW 257th & Hensley Rd",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3983280494825,
+                    45.526581744700806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 1050,
+                "stop_id": 10170,
+                "stop_name": "400 Block SW 257th",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39275718471342,
+                    45.538110574291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 2253,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42648582749146,
+                    45.50259420263245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 81,
+                "dir": 0,
+                "rte_desc": "81-Kane/257th",
+                "dir_desc": "To Troutdale Airport Business Park",
                 "type": "BUS",
                 "stop_seq": 100,
-                "stop_id": 13211,
-                "stop_name": "NE Hood & 5th",
+                "stop_id": 12707,
+                "stop_name": "NE Division & Kelly",
                 "jurisdic": "Gresham",
                 "zipcode": "97030",
                 "frequent": "False"
@@ -601,169 +670,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42802415464328,
-                    45.50110041466277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 340,
-                "stop_id": 13470,
-                "stop_name": "SE Kane & 5th St",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.39864225579203,
-                    45.493803686848715
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 140,
-                "stop_id": 13474,
-                "stop_name": "E Powell & NE Elliott",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.42487589777599,
-                    45.49792180587593
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 950,
-                "stop_id": 13331,
-                "stop_name": "E Columbia River Hwy & SE Jackson Park",
-                "jurisdic": "Troutdale",
-                "zipcode": "97060",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.38088732364959,
-                    45.53711038541646
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 1000,
-                "stop_id": 13314,
-                "stop_name": "Glenn Otto Park",
-                "jurisdic": "Troutdale",
-                "zipcode": "97060",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.3782448658267,
-                    45.53729270005823
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 875,
-                "stop_id": 8747,
-                "stop_name": "W Columbia River Hwy & SW Kendall",
-                "jurisdic": "Troutdale",
-                "zipcode": "97060",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.38970507041768,
-                    45.54067945530158
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 900,
-                "stop_id": 12838,
-                "stop_name": "E Columbia River Hwy & SE Harlow",
-                "jurisdic": "Troutdale",
-                "zipcode": "97060",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.38645090584934,
-                    45.54066924112784
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 81,
-                "dir": 0,
-                "rte_desc": "81-Kane/257th",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 320,
-                "stop_id": 13476,
-                "stop_name": "SE Kane & Powell Valley",
-                "jurisdic": "Gresham",
-                "zipcode": "97080",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.39867667236366,
-                    45.49232087496754
+                    -122.42549304322557,
+                    45.504822825856905
                 ]
             }
         }

@@ -16,6 +16,52 @@
                 "rte_desc": "73-122nd Ave",
                 "dir_desc": "To Parkrose Transit Center",
                 "type": "BUS",
+                "stop_seq": 2300,
+                "stop_id": 13913,
+                "stop_name": "9800 Block NE Prescott",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56141691156895,
+                    45.555468483932216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 73,
+                "dir": 1,
+                "rte_desc": "73-122nd Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
+                "stop_seq": 2375,
+                "stop_id": 13914,
+                "stop_name": "NE Prescott & 96th",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5637304097321,
+                    45.55543216647277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 73,
+                "dir": 1,
+                "rte_desc": "73-122nd Ave",
+                "dir_desc": "To Parkrose Transit Center",
+                "type": "BUS",
                 "stop_seq": 25,
                 "stop_id": 1831,
                 "stop_name": "SE Foster & 94th (I-205 Overpass)",
@@ -641,14 +687,14 @@
                 "stop_id": 6621,
                 "stop_name": "SE 122nd & E Burnside",
                 "jurisdic": "Portland",
-                "zipcode": "97233",
+                "zipcode": "97230",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.5376108777495,
-                    45.52227006835011
+                    -122.53759943723436,
+                    45.52293009433139
                 ]
             }
         },
@@ -1038,8 +1084,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.5546139753141,
-                    45.555480956620016
+                    -122.55460191982166,
+                    45.55547156967581
                 ]
             }
         },
@@ -1063,75 +1109,6 @@
                 "coordinates": [
                     -122.5584900774266,
                     45.555472579297295
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 73,
-                "dir": 1,
-                "rte_desc": "73-122nd Ave",
-                "dir_desc": "To Parkrose Transit Center",
-                "type": "BUS",
-                "stop_seq": 2300,
-                "stop_id": 4771,
-                "stop_name": "NE Prescott & 99th",
-                "jurisdic": "Portland",
-                "zipcode": "97220",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.56090092090902,
-                    45.555450055250276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 73,
-                "dir": 1,
-                "rte_desc": "73-122nd Ave",
-                "dir_desc": "To Parkrose Transit Center",
-                "type": "BUS",
-                "stop_seq": 2350,
-                "stop_id": 8724,
-                "stop_name": "NE Prescott & 97th",
-                "jurisdic": "Portland",
-                "zipcode": "97220",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.56269833754568,
-                    45.55544415528162
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 73,
-                "dir": 1,
-                "rte_desc": "73-122nd Ave",
-                "dir_desc": "To Parkrose Transit Center",
-                "type": "BUS",
-                "stop_seq": 2400,
-                "stop_id": 4768,
-                "stop_name": "NE Prescott & 95th",
-                "jurisdic": "Portland",
-                "zipcode": "97220",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.5647719438688,
-                    45.55544408516283
                 ]
             }
         },

@@ -13,12 +13,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1850,
                 "stop_id": 1159,
-                "stop_name": "NW Evergreen Pkwy & 188th",
+                "stop_name": "NE Evergreen Pkwy & 106th (NW 188th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -36,7 +36,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1900,
@@ -59,12 +59,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1950,
                 "stop_id": 10150,
-                "stop_name": "NW Evergreen Pkwy & Stucki",
+                "stop_name": "NW Evergreen Pkwy & NE Stucki",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -82,12 +82,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2050,
                 "stop_id": 10457,
-                "stop_name": "NW Evergreen Pkwy & 196th Terrace",
+                "stop_name": "NW Evergreen Pkwy & NE Venetian (NW 196th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -105,12 +105,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2100,
                 "stop_id": 8540,
-                "stop_name": "NW Evergreen Pkwy & John Olsen Pl",
+                "stop_name": "NW Evergreen Pkwy & NE John Olsen",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -128,7 +128,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2150,
@@ -151,12 +151,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2200,
                 "stop_id": 8541,
-                "stop_name": "NW Evergreen Pkwy & Aloclek Pl",
+                "stop_name": "NW Evergreen Pkwy & NE Aloclek Ct",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -174,12 +174,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2250,
                 "stop_id": 9601,
-                "stop_name": "NW Evergreen Pkwy & 215th",
+                "stop_name": "NW Evergreen Pkwy & NE 79th (NW 215th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -197,7 +197,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2300,
@@ -220,7 +220,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2350,
@@ -243,7 +243,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2400,
@@ -266,7 +266,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2450,
@@ -289,7 +289,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2500,
@@ -312,7 +312,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2550,
@@ -335,12 +335,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2600,
                 "stop_id": 8542,
-                "stop_name": "NE CENTURY (NW 229th) & Butler",
+                "stop_name": "NE Century (NW 229th) & Butler",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -358,7 +358,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2650,
@@ -381,7 +381,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2700,
@@ -404,7 +404,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2750,
@@ -427,7 +427,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2800,
@@ -450,7 +450,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2850,
@@ -473,7 +473,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2900,
@@ -496,7 +496,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2950,
@@ -519,7 +519,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3000,
@@ -542,7 +542,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3050,
@@ -565,7 +565,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3100,
@@ -588,7 +588,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3150,
@@ -611,7 +611,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3200,
@@ -634,7 +634,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3250,
@@ -657,7 +657,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3300,
@@ -680,7 +680,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3350,
@@ -703,7 +703,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3400,
@@ -726,7 +726,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3450,
@@ -749,7 +749,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3500,
@@ -772,7 +772,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3550,
@@ -795,7 +795,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3600,
@@ -818,7 +818,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3650,
@@ -841,7 +841,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3700,
@@ -864,7 +864,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3750,
@@ -877,8 +877,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.97867758586554,
-                    45.52008455594461
+                    -122.97865009363508,
+                    45.520080690117
                 ]
             }
         },
@@ -887,7 +887,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3800,
@@ -910,7 +910,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3850,
@@ -933,7 +933,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3900,
@@ -956,7 +956,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 3950,
@@ -979,7 +979,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 50,
@@ -992,8 +992,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.85942626408942,
-                    45.566013935676864
+                    -122.85942075824195,
+                    45.5659989576942
                 ]
             }
         },
@@ -1002,7 +1002,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 100,
@@ -1025,7 +1025,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 150,
@@ -1048,7 +1048,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 200,
@@ -1071,7 +1071,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 250,
@@ -1094,7 +1094,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 300,
@@ -1117,7 +1117,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 350,
@@ -1140,7 +1140,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 400,
@@ -1163,7 +1163,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 450,
@@ -1176,8 +1176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.8350815082074,
-                    45.56274948955283
+                    -122.8350872047747,
+                    45.56276926633466
                 ]
             }
         },
@@ -1186,7 +1186,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 500,
@@ -1209,7 +1209,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 550,
@@ -1232,7 +1232,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 650,
@@ -1255,7 +1255,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 700,
@@ -1278,7 +1278,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 750,
@@ -1301,7 +1301,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 800,
@@ -1324,7 +1324,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 850,
@@ -1347,12 +1347,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 900,
                 "stop_id": 13671,
-                "stop_name": "NW 174th & Lone Rock",
+                "stop_name": "NW 174th & Lonerock",
                 "jurisdic": "Washington Co.",
                 "zipcode": "97229",
                 "frequent": "False"
@@ -1370,7 +1370,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 950,
@@ -1393,7 +1393,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1000,
@@ -1416,7 +1416,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1050,
@@ -1439,7 +1439,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1100,
@@ -1462,7 +1462,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 1150,
@@ -1485,7 +1485,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 0,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To Hillsboro Transit Center",
                 "type": "BUS",
                 "stop_seq": 2775,
@@ -1498,8 +1498,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.91609839531252,
-                    45.53040056136294
+                    -122.9162074774423,
+                    45.53039518094067
                 ]
             }
         }

@@ -13,7 +13,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 50,
@@ -36,7 +36,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 100,
@@ -59,7 +59,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 150,
@@ -82,7 +82,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 200,
@@ -105,7 +105,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 250,
@@ -128,7 +128,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 300,
@@ -151,7 +151,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 350,
@@ -174,7 +174,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 400,
@@ -197,7 +197,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 450,
@@ -220,7 +220,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 500,
@@ -243,7 +243,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 550,
@@ -266,7 +266,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 600,
@@ -289,7 +289,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 650,
@@ -312,7 +312,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 700,
@@ -335,7 +335,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 750,
@@ -358,7 +358,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 800,
@@ -381,7 +381,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 850,
@@ -404,7 +404,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 900,
@@ -427,7 +427,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 950,
@@ -450,7 +450,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1000,
@@ -463,8 +463,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.91463189334077,
-                    45.5266327097356
+                    -122.91460977968353,
+                    45.52662905858411
                 ]
             }
         },
@@ -473,7 +473,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1050,
@@ -486,8 +486,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.91458428925627,
-                    45.530132842905815
+                    -122.91458330938265,
+                    45.53011554266243
                 ]
             }
         },
@@ -496,7 +496,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1150,
@@ -519,7 +519,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1200,
@@ -542,7 +542,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1250,
@@ -565,7 +565,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1300,
@@ -588,7 +588,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1350,
@@ -611,7 +611,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1400,
@@ -634,7 +634,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1450,
@@ -657,7 +657,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1500,
@@ -680,7 +680,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1550,
@@ -703,12 +703,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1600,
                 "stop_id": 9602,
-                "stop_name": "NW Evergreen Pkwy & 215th",
+                "stop_name": "NW Evergreen Pkwy & NE 79th (NW 215th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -726,12 +726,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1650,
                 "stop_id": 8562,
-                "stop_name": "NW Evergreen Pkwy & Aloclek Dr",
+                "stop_name": "NW Evergreen Pkwy & NE Aloclek Dr",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -749,7 +749,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1700,
@@ -772,12 +772,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1750,
                 "stop_id": 8563,
-                "stop_name": "NW Evergreen Pkwy & John Olsen",
+                "stop_name": "NW Evergreen Pkwy & NE John Olsen",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -795,12 +795,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1800,
                 "stop_id": 10458,
-                "stop_name": "NW Evergreen Pkwy & 196th Terrace",
+                "stop_name": "NW Evergreen Pkwy & NE Venetian (NW 196th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -818,12 +818,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1850,
                 "stop_id": 8408,
-                "stop_name": "NW Evergreen Pkwy & 194th Terrace",
+                "stop_name": "NW Evergreen Pkwy & NE Amberglen (NW 194th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -841,7 +841,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1950,
@@ -864,12 +864,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2000,
                 "stop_id": 10056,
-                "stop_name": "NW Evergreen Pkwy & 188th",
+                "stop_name": "NE Evergreen Pkwy & 106th (NW 188th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -887,7 +887,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2375,
@@ -910,7 +910,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2200,
@@ -933,7 +933,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2050,
@@ -956,7 +956,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2150,
@@ -979,7 +979,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2250,
@@ -1002,12 +1002,12 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2300,
                 "stop_id": 13679,
-                "stop_name": "NW 174th & Lone Rock",
+                "stop_name": "NW 174th & Lonerock",
                 "jurisdic": "Washington Co.",
                 "zipcode": "97006",
                 "frequent": "False"
@@ -1025,7 +1025,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2350,
@@ -1048,7 +1048,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2400,
@@ -1071,7 +1071,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2450,
@@ -1094,7 +1094,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2500,
@@ -1117,7 +1117,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2600,
@@ -1140,7 +1140,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2650,
@@ -1163,7 +1163,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2700,
@@ -1176,8 +1176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.83485083547042,
-                    45.56254381309577
+                    -122.8348130704382,
+                    45.56250410907091
                 ]
             }
         },
@@ -1186,7 +1186,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2750,
@@ -1209,7 +1209,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2800,
@@ -1232,7 +1232,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2850,
@@ -1255,7 +1255,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2900,
@@ -1278,7 +1278,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 2950,
@@ -1301,7 +1301,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 3000,
@@ -1324,7 +1324,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 3050,
@@ -1347,7 +1347,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 3100,
@@ -1370,7 +1370,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 3150,
@@ -1383,8 +1383,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.85942626408942,
-                    45.566013935676864
+                    -122.85942075824195,
+                    45.5659989576942
                 ]
             }
         },
@@ -1393,7 +1393,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1075,
@@ -1406,8 +1406,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.91609839531252,
-                    45.53040056136294
+                    -122.9162074774423,
+                    45.53039518094067
                 ]
             }
         },
@@ -1416,7 +1416,7 @@
             "properties": {
                 "rte": 47,
                 "dir": 1,
-                "rte_desc": "47-Baseline/Evergreen",
+                "rte_desc": "47-Main/Evergreen",
                 "dir_desc": "To PCC Rock Creek",
                 "type": "BUS",
                 "stop_seq": 1100,
@@ -1429,8 +1429,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.91246835885025,
-                    45.53242628676166
+                    -122.91244958006982,
+                    45.532419895723166
                 ]
             }
         }

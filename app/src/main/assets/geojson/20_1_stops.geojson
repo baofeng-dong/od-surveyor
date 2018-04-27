@@ -26,8 +26,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.80834448097366,
-                    45.49702854000268
+                    -122.80835531225352,
+                    45.49698304936808
                 ]
             }
         },
@@ -3029,18 +3029,18 @@
                 "rte_desc": "20-Burnside/Stark",
                 "dir_desc": "To Gresham Transit Center",
                 "type": "BUS",
-                "stop_seq": 5775,
-                "stop_id": 13506,
-                "stop_name": "Gresham Transit Center",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
+                "stop_seq": 670,
+                "stop_id": 13327,
+                "stop_name": "E Burnside & SE Sandy",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42772042672503,
-                    45.502842852335476
+                    -122.6529635985262,
+                    45.52282284602682
                 ]
             }
         },
@@ -3053,7 +3053,7 @@
                 "dir_desc": "To Gresham Transit Center",
                 "type": "BUS",
                 "stop_seq": 5800,
-                "stop_id": 10857,
+                "stop_id": 2253,
                 "stop_name": "Gresham Transit Center",
                 "jurisdic": "Gresham",
                 "zipcode": "97030",
@@ -3062,31 +3062,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42710840704869,
-                    45.50271992316186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 20,
-                "dir": 1,
-                "rte_desc": "20-Burnside/Stark",
-                "dir_desc": "To Gresham Transit Center",
-                "type": "BUS",
-                "stop_seq": 670,
-                "stop_id": 13327,
-                "stop_name": "E Burnside & SE Sandy",
-                "jurisdic": "Portland",
-                "zipcode": "97214",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6538066909016,
-                    45.52282350791175
+                    -122.42648582749146,
+                    45.50259420263245
                 ]
             }
         },

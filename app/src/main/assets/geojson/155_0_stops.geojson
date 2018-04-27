@@ -246,29 +246,6 @@
                 "rte_desc": "155-Sunnyside",
                 "dir_desc": "To 172nd",
                 "type": "BUS",
-                "stop_seq": 1050,
-                "stop_id": 13886,
-                "stop_name": "SE 169th & Sunnyside",
-                "jurisdic": "Happy Valley",
-                "zipcode": "97015",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.48941063371775,
-                    45.427289680318694
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 155,
-                "dir": 0,
-                "rte_desc": "155-Sunnyside",
-                "dir_desc": "To 172nd",
-                "type": "BUS",
                 "stop_seq": 1100,
                 "stop_id": 13887,
                 "stop_name": "SE 169th & Misty",

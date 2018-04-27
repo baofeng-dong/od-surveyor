@@ -62,29 +62,6 @@
                 "rte_desc": "61-Marquam Hill/Beaverton",
                 "dir_desc": "To Beaverton Transit Center",
                 "type": "BUS",
-                "stop_seq": 500,
-                "stop_id": 9986,
-                "stop_name": "Beaverton Transit Center",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.80116511610171,
-                    45.491542982828136
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 61,
-                "dir": 0,
-                "rte_desc": "61-Marquam Hill/Beaverton",
-                "dir_desc": "To Beaverton Transit Center",
-                "type": "BUS",
                 "stop_seq": 50,
                 "stop_id": 5975,
                 "stop_name": "US Veterans Hospital",
@@ -187,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.68514079906792,
-                    45.498877205177884
+                    -122.68519597174104,
+                    45.49885351999815
                 ]
             }
         },
@@ -373,6 +350,29 @@
                 "coordinates": [
                     -122.68257202304342,
                     45.49910833412137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 61,
+                "dir": 0,
+                "rte_desc": "61-Marquam Hill/Beaverton",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 9976,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80126466434386,
+                    45.49082390652568
                 ]
             }
         },

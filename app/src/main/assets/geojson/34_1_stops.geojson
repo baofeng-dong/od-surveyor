@@ -271,7 +271,7 @@
                 "type": "BUS",
                 "stop_seq": 3500,
                 "stop_id": 13790,
-                "stop_name": "Johnson Creek & Stanley",
+                "stop_name": "SE Johnson Creek & Stanley",
                 "jurisdic": "Milwaukie",
                 "zipcode": "97206",
                 "frequent": "False"
@@ -1488,52 +1488,6 @@
                 "rte_desc": "34-Linwood/River Rd",
                 "dir_desc": "To Clackamas Town Center",
                 "type": "BUS",
-                "stop_seq": 4050,
-                "stop_id": 2500,
-                "stop_name": "SE Harmony & 67th",
-                "jurisdic": "Clackamas Co.",
-                "zipcode": "97222",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.59382488300257,
-                    45.43198479498004
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 34,
-                "dir": 1,
-                "rte_desc": "34-Linwood/River Rd",
-                "dir_desc": "To Clackamas Town Center",
-                "type": "BUS",
-                "stop_seq": 4100,
-                "stop_id": 2502,
-                "stop_name": "SE Harmony & 71st",
-                "jurisdic": "Clackamas Co.",
-                "zipcode": "97222",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.59072226515545,
-                    45.43209808011959
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 34,
-                "dir": 1,
-                "rte_desc": "34-Linwood/River Rd",
-                "dir_desc": "To Clackamas Town Center",
-                "type": "BUS",
                 "stop_seq": 4150,
                 "stop_id": 1934,
                 "stop_name": "SE Fuller & Sunnyside Dr",
@@ -1636,8 +1590,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.56813401888508,
-                    45.43555507416446
+                    -122.56815484002152,
+                    45.43553823700338
                 ]
             }
         },
@@ -1682,8 +1636,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.58330928513625,
-                    45.438341366120795
+                    -122.58329128224516,
+                    45.43832866067749
                 ]
             }
         },
@@ -1705,8 +1659,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.5803216974159,
-                    45.43822437162508
+                    -122.58030743937817,
+                    45.438207482354805
                 ]
             }
         },

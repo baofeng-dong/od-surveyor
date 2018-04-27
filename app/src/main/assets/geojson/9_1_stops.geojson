@@ -141,8 +141,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.49862532912793,
-                    45.495254614831595
+                    -122.49860634247835,
+                    45.49526934878944
                 ]
             }
         },
@@ -302,8 +302,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.52125173203277,
-                    45.498312885263324
+                    -122.5211898878149,
+                    45.4983290631058
                 ]
             }
         },
@@ -1109,29 +1109,6 @@
                 "coordinates": [
                     -122.63738802513755,
                     45.49784166554689
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 9,
-                "dir": 1,
-                "rte_desc": "9-Powell Blvd",
-                "dir_desc": "To Portland",
-                "type": "BUS",
-                "stop_seq": 3650,
-                "stop_id": 4628,
-                "stop_name": "SE Powell & 26th",
-                "jurisdic": "Portland",
-                "zipcode": "97202",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.63937020183744,
-                    45.49801687143909
                 ]
             }
         },

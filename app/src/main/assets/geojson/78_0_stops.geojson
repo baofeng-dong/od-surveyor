@@ -348,8 +348,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.74122061658552,
-                    45.43687977467335
+                    -122.74129852976867,
+                    45.436878938536715
                 ]
             }
         },
@@ -959,29 +959,6 @@
                 "rte_desc": "78-Beaverton/Lake Oswego",
                 "dir_desc": "To Lake Oswego Transit Center",
                 "type": "BUS",
-                "stop_seq": 1150,
-                "stop_id": 9653,
-                "stop_name": "Washington Square Transit Center",
-                "jurisdic": "Tigard",
-                "zipcode": "97223",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.7787916777249,
-                    45.4526032304752
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 78,
-                "dir": 0,
-                "rte_desc": "78-Beaverton/Lake Oswego",
-                "dir_desc": "To Lake Oswego Transit Center",
-                "type": "BUS",
                 "stop_seq": 600,
                 "stop_id": 2279,
                 "stop_name": "SW Hall & Denney",
@@ -1500,6 +1477,52 @@
                 "coordinates": [
                     -122.72719072101738,
                     45.43926520030027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 78,
+                "dir": 0,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 9652,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77878469378803,
+                    45.45244546422761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 78,
+                "dir": 0,
+                "rte_desc": "78-Beaverton/Lake Oswego",
+                "dir_desc": "To Lake Oswego Transit Center",
+                "type": "BUS",
+                "stop_seq": 2025,
+                "stop_id": 13932,
+                "stop_name": "SW Hall & Scoffins/Hunziker",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.7645176784845,
+                    45.42956052432944
                 ]
             }
         }

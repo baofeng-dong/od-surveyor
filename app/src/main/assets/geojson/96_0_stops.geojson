@@ -72,8 +72,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.75885643115049,
-                    45.383600947691065
+                    -122.75887802008803,
+                    45.383605323950675
                 ]
             }
         },
@@ -210,8 +210,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77486262812205,
-                    45.35338276206144
+                    -122.77486479144942,
+                    45.353388206865425
                 ]
             }
         },
@@ -394,8 +394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77313339663324,
-                    45.36735235657569
+                    -122.77317427754818,
+                    45.36735257451702
                 ]
             }
         },
@@ -440,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77483666350406,
-                    45.35515980289163
+                    -122.77490312017488,
+                    45.35515505336676
                 ]
             }
         },
@@ -457,14 +457,14 @@
                 "stop_id": 8891,
                 "stop_name": "24300 Block SW Boones Ferry Rd",
                 "jurisdic": "Washington Co.",
-                "zipcode": "97062",
+                "zipcode": "97140",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77409589105105,
-                    45.34351828315473
+                    -122.77428375506055,
+                    45.3435214126786
                 ]
             }
         },
@@ -568,29 +568,6 @@
                 "rte_desc": "96-Tualatin/I-5",
                 "dir_desc": "To Commerce Circle",
                 "type": "BUS",
-                "stop_seq": 200,
-                "stop_id": 12794,
-                "stop_name": "SW Columbia between 5th & 4th",
-                "jurisdic": "Portland",
-                "zipcode": "97201",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67963438938783,
-                    45.513954211827595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 96,
-                "dir": 0,
-                "rte_desc": "96-Tualatin/I-5",
-                "dir_desc": "To Commerce Circle",
-                "type": "BUS",
                 "stop_seq": 300,
                 "stop_id": 12795,
                 "stop_name": "SW Columbia & 1st",
@@ -647,8 +624,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77526870001742,
-                    45.34705936767009
+                    -122.77509157138431,
+                    45.34705739824413
                 ]
             }
         },
@@ -739,8 +716,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.75199332565495,
-                    45.39098420035397
+                    -122.75202083314343,
+                    45.39097817228547
                 ]
             }
         },
@@ -810,6 +787,29 @@
                 "coordinates": [
                     -122.76095609592976,
                     45.375444297510484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 96,
+                "dir": 0,
+                "rte_desc": "96-Tualatin/I-5",
+                "dir_desc": "To Commerce Circle",
+                "type": "BUS",
+                "stop_seq": 200,
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67963438938783,
+                    45.513954211827595
                 ]
             }
         }

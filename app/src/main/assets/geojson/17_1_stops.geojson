@@ -118,8 +118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.52349582146074,
-                    45.4904705262113
+                    -122.52347333323175,
+                    45.490468864778364
                 ]
             }
         },
@@ -164,8 +164,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.52343015329633,
-                    45.496085849166505
+                    -122.52345145527904,
+                    45.496163665207646
                 ]
             }
         },
@@ -1569,29 +1569,6 @@
                 "coordinates": [
                     -122.64103879921512,
                     45.53890600657189
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 17,
-                "dir": 1,
-                "rte_desc": "17-Holgate/Broadway",
-                "dir_desc": "To Saratoga & 27th",
-                "type": "BUS",
-                "stop_seq": 4050,
-                "stop_id": 7185,
-                "stop_name": "NE 24th & Brazee",
-                "jurisdic": "Portland",
-                "zipcode": "97212",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.64105606300066,
-                    45.540394511433874
                 ]
             }
         },

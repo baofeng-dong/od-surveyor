@@ -279,8 +279,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.56813401888508,
-                    45.43555507416446
+                    -122.56815484002152,
+                    45.43553823700338
                 ]
             }
         },
@@ -410,15 +410,15 @@
                 "stop_seq": 750,
                 "stop_id": 10214,
                 "stop_name": "SE Sunnyside & Valley View Terr",
-                "jurisdic": "Happy Valley",
-                "zipcode": "97086",
+                "jurisdic": "Clackamas Co.",
+                "zipcode": "97015",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.54846122734342,
-                    45.43342194372947
+                    -122.54903330475688,
+                    45.43350912619138
                 ]
             }
         },

@@ -1235,52 +1235,6 @@
                 "rte_desc": "51-Vista",
                 "dir_desc": "To Portland City Center",
                 "type": "BUS",
-                "stop_seq": 3000,
-                "stop_id": 6137,
-                "stop_name": "SW Washington & Broadway",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67865650793179,
-                    45.5206946365535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 51,
-                "dir": 1,
-                "rte_desc": "51-Vista",
-                "dir_desc": "To Portland City Center",
-                "type": "BUS",
-                "stop_seq": 3050,
-                "stop_id": 6169,
-                "stop_name": "SW Washington & 9th",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6802700727543,
-                    45.521111664704954
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 51,
-                "dir": 1,
-                "rte_desc": "51-Vista",
-                "dir_desc": "To Portland City Center",
-                "type": "BUS",
                 "stop_seq": 403,
                 "stop_id": 1511,
                 "stop_name": "SW Dosch & Doschview",
@@ -1408,6 +1362,29 @@
                 "coordinates": [
                     -122.68347478803857,
                     45.51802616585617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 51,
+                "dir": 1,
+                "rte_desc": "51-Vista",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 6169,
+                "stop_name": "SW Washington & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68076467679977,
+                    45.52123603259347
                 ]
             }
         }

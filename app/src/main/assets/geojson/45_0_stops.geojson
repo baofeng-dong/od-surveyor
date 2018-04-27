@@ -486,8 +486,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.79200650939907,
-                    45.43057231397721
+                    -122.79204892692015,
+                    45.430561177021566
                 ]
             }
         },
@@ -670,8 +670,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.74105879550568,
-                    45.46545058833115
+                    -122.74108966833528,
+                    45.46544244019078
                 ]
             }
         },
@@ -1061,8 +1061,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.78779571382033,
-                    45.430618924729345
+                    -122.7877316864182,
+                    45.43062568934258
                 ]
             }
         },
@@ -1626,29 +1626,6 @@
                 "rte_desc": "45-Garden Home",
                 "dir_desc": "To Tigard Transit Center",
                 "type": "BUS",
-                "stop_seq": 500,
-                "stop_id": 12794,
-                "stop_name": "SW Columbia between 5th & 4th",
-                "jurisdic": "Portland",
-                "zipcode": "97201",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67963438938783,
-                    45.513954211827595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 45,
-                "dir": 0,
-                "rte_desc": "45-Garden Home",
-                "dir_desc": "To Tigard Transit Center",
-                "type": "BUS",
                 "stop_seq": 1800,
                 "stop_id": 13647,
                 "stop_name": "SW 40th & Troy",
@@ -1661,6 +1638,29 @@
                 "coordinates": [
                     -122.7180289961231,
                     45.46804583421411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 0,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Tigard Transit Center",
+                "type": "BUS",
+                "stop_seq": 500,
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67963438938783,
+                    45.513954211827595
                 ]
             }
         }

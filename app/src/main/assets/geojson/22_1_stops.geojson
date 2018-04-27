@@ -1019,6 +1019,29 @@
                     45.551936589651845
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 22,
+                "dir": 1,
+                "rte_desc": "22-Parkrose",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2150,
+                "stop_id": 10862,
+                "stop_name": "Gateway Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56332385200176,
+                    45.530486354012396
+                ]
+            }
         }
     ]
 }

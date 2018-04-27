@@ -900,8 +900,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.62467552347957,
-                    45.516502700873005
+                    -122.62470524327863,
+                    45.51650491923512
                 ]
             }
         },
@@ -969,8 +969,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.63894600456662,
-                    45.51650905490502
+                    -122.63899770408665,
+                    45.516508778317515
                 ]
             }
         },
@@ -1143,75 +1143,6 @@
                 "rte_desc": "15-Belmont/NW 23rd",
                 "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
                 "type": "BUS",
-                "stop_seq": 2650,
-                "stop_id": 3633,
-                "stop_name": "SE Madison & Grand",
-                "jurisdic": "Portland",
-                "zipcode": "97214",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.66059991773707,
-                    45.51300850586373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 0,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "type": "BUS",
-                "stop_seq": 2700,
-                "stop_id": 2642,
-                "stop_name": "Hawthorne Bridge",
-                "jurisdic": "Portland",
-                "zipcode": "97214",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.66618415534141,
-                    45.513021463311226
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 0,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "type": "BUS",
-                "stop_seq": 2750,
-                "stop_id": 11956,
-                "stop_name": "SW Main & 2nd",
-                "jurisdic": "Portland",
-                "zipcode": "97204",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67556642584668,
-                    45.51526245975885
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 0,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "type": "BUS",
                 "stop_seq": 2800,
                 "stop_id": 6158,
                 "stop_name": "SW Washington & 3rd",
@@ -1247,52 +1178,6 @@
                 "coordinates": [
                     -122.67658603150086,
                     45.520125550804565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 0,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "type": "BUS",
-                "stop_seq": 2900,
-                "stop_id": 6137,
-                "stop_name": "SW Washington & Broadway",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67865650793179,
-                    45.5206946365535
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 0,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
-                "type": "BUS",
-                "stop_seq": 2950,
-                "stop_id": 6169,
-                "stop_name": "SW Washington & 9th",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6802700727543,
-                    45.521111664704954
                 ]
             }
         },
@@ -2293,6 +2178,29 @@
                 "rte_desc": "15-Belmont/NW 23rd",
                 "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
                 "type": "BUS",
+                "stop_seq": 2950,
+                "stop_id": 6169,
+                "stop_name": "SW Washington & 9th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68076467679977,
+                    45.52123603259347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 0,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
                 "stop_seq": 3000,
                 "stop_id": 9600,
                 "stop_name": "SW 11th & Alder",
@@ -2317,8 +2225,8 @@
                 "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
                 "type": "BUS",
                 "stop_seq": 2600,
-                "stop_id": 13574,
-                "stop_name": "SE 7th & Yamhill",
+                "stop_id": 4013,
+                "stop_name": "SE Morrison & Grand",
                 "jurisdic": "Portland",
                 "zipcode": "97214",
                 "frequent": "True"
@@ -2326,8 +2234,54 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.65879733575377,
-                    45.5158864154025
+                    -122.66053161663166,
+                    45.51732209697842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 0,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 2700,
+                "stop_id": 4029,
+                "stop_name": "Morrison Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6660097736089,
+                    45.517350544760326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 0,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To City Ctr, Montgomery Pk, Thurman or Yeon & 44th",
+                "type": "BUS",
+                "stop_seq": 3050,
+                "stop_id": 9598,
+                "stop_name": "SW Morrison & 12th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68393296619406,
+                    45.52054960991197
                 ]
             }
         }

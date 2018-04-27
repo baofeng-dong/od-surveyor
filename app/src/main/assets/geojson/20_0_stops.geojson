@@ -2280,8 +2280,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.80769488659708,
-                    45.498589151329185
+                    -122.80766885052552,
+                    45.49862054235532
                 ]
             }
         },
@@ -2964,14 +2964,14 @@
                 "stop_id": 760,
                 "stop_name": "E Burnside & NE 24th",
                 "jurisdic": "Portland",
-                "zipcode": "97232",
+                "zipcode": "97214",
                 "frequent": "False"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.64123385062346,
-                    45.522944620444704
+                    -122.64174878974457,
+                    45.52295045651885
                 ]
             }
         },
@@ -3075,29 +3075,6 @@
                 "rte_desc": "20-Burnside/Stark",
                 "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
                 "type": "BUS",
-                "stop_seq": 10,
-                "stop_id": 10857,
-                "stop_name": "Gresham Transit Center",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.42710840704869,
-                    45.50271992316186
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 20,
-                "dir": 0,
-                "rte_desc": "20-Burnside/Stark",
-                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
-                "type": "BUS",
                 "stop_seq": 1975,
                 "stop_id": 13328,
                 "stop_name": "NE Couch & 12th",
@@ -3156,6 +3133,29 @@
                 "coordinates": [
                     -122.66152442834489,
                     45.52370256250534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 20,
+                "dir": 0,
+                "rte_desc": "20-Burnside/Stark",
+                "dir_desc": "To 23rd & Burnside or Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 10,
+                "stop_id": 2253,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42648582749146,
+                    45.50259420263245
                 ]
             }
         }

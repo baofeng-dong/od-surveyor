@@ -440,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.71730745273017,
-                    45.51047414100065
+                    -122.71730000187175,
+                    45.510483201894765
                 ]
             }
         },
@@ -454,8 +454,8 @@
                 "dir_desc": "To Providence Park",
                 "type": "BUS",
                 "stop_seq": 1550,
-                "stop_id": 6911,
-                "stop_name": "SW 18th & Morrison",
+                "stop_id": 9552,
+                "stop_name": "SW Salmon & 18th",
                 "jurisdic": "Portland",
                 "zipcode": "97205",
                 "frequent": "False"
@@ -463,8 +463,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.69043311158511,
-                    45.52190147785308
+                    -122.69108488311163,
+                    45.520005377345676
                 ]
             }
         }

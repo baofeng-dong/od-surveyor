@@ -568,29 +568,6 @@
                 "rte_desc": "32-Oatfield",
                 "dir_desc": "To Oregon City Transit Center or Milwaukie",
                 "type": "BUS",
-                "stop_seq": 350,
-                "stop_id": 2865,
-                "stop_name": "1100 Block Molalla",
-                "jurisdic": "Oregon City",
-                "zipcode": "97045",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.59113119054237,
-                    45.33737572180818
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 32,
-                "dir": 1,
-                "rte_desc": "32-Oatfield",
-                "dir_desc": "To Oregon City Transit Center or Milwaukie",
-                "type": "BUS",
                 "stop_seq": 500,
                 "stop_id": 3983,
                 "stop_name": "Molalla & Hilda",
@@ -1684,6 +1661,29 @@
                 "coordinates": [
                     -122.63948698676697,
                     45.44157789474108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 32,
+                "dir": 1,
+                "rte_desc": "32-Oatfield",
+                "dir_desc": "To Oregon City Transit Center or Milwaukie",
+                "type": "BUS",
+                "stop_seq": 350,
+                "stop_id": 13993,
+                "stop_name": "Molalla & Warner-Milne",
+                "jurisdic": "Oregon City",
+                "zipcode": "97045",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.59088529347946,
+                    45.33708867955813
                 ]
             }
         }

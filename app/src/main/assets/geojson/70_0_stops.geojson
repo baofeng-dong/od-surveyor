@@ -823,7 +823,7 @@
                 "type": "BUS",
                 "stop_seq": 2100,
                 "stop_id": 6592,
-                "stop_name": "NE 12th & Sandy",
+                "stop_name": "NE 12th & E Burnside",
                 "jurisdic": "Portland",
                 "zipcode": "97232",
                 "frequent": "False"
@@ -2050,8 +2050,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.65672654813645,
-                    45.530842940496555
+                    -122.65672232432125,
+                    45.530885889230355
                 ]
             }
         }

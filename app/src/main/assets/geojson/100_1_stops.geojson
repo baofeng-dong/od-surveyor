@@ -181,14 +181,14 @@
                 "stop_id": 8368,
                 "stop_name": "E 122nd Ave MAX Station",
                 "jurisdic": "Portland",
-                "zipcode": "97216",
+                "zipcode": "97233",
                 "frequent": "True"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.53874296269352,
-                    45.522548197143074
+                    -122.53741787666178,
+                    45.52254700788735
                 ]
             }
         },

@@ -72,8 +72,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.7554716403194,
-                    45.593881814787494
+                    -122.75550573891927,
+                    45.593867084904396
                 ]
             }
         },
@@ -95,8 +95,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.75354933125725,
-                    45.594816230388005
+                    -122.75341700097238,
+                    45.59487918335784
                 ]
             }
         },
@@ -1567,8 +1567,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.64270304931853,
-                    45.50475917009645
+                    -122.64269961568161,
+                    45.50477158058597
                 ]
             }
         },
@@ -1661,29 +1661,6 @@
                 "coordinates": [
                     -122.61312568989777,
                     45.50523119624136
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 4,
-                "dir": 0,
-                "rte_desc": "4-Division/Fessenden",
-                "dir_desc": "To Gresham Transit Center",
-                "type": "BUS",
-                "stop_seq": 5200,
-                "stop_id": 1469,
-                "stop_name": "SE Division & 50th",
-                "jurisdic": "Portland",
-                "zipcode": "97206",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.61131855960176,
-                    45.505252758980774
                 ]
             }
         },
@@ -3223,8 +3200,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.75570665474048,
-                    45.59110733082989
+                    -122.75569601174864,
+                    45.59110994024065
                 ]
             }
         },
@@ -3340,6 +3317,29 @@
                 "coordinates": [
                     -122.6737066859863,
                     45.548003766732705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 4,
+                "dir": 0,
+                "rte_desc": "4-Division/Fessenden",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 5200,
+                "stop_id": 13952,
+                "stop_name": "SE Division & 49th",
+                "jurisdic": "Portland",
+                "zipcode": "97206",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.61174952897102,
+                    45.50524934981149
                 ]
             }
         }

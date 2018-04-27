@@ -2042,7 +2042,7 @@
                 "type": "BUS",
                 "stop_seq": 6000,
                 "stop_id": 10307,
-                "stop_name": "SE Flavel & 92nd",
+                "stop_name": "SE Flavel & 92nd (MAX Stn)",
                 "jurisdic": "Portland",
                 "zipcode": "97266",
                 "frequent": "False"
@@ -2456,7 +2456,7 @@
                 "type": "BUS",
                 "stop_seq": 3650,
                 "stop_id": 7172,
-                "stop_name": "SE 23rd & Tolman",
+                "stop_name": "SE 23rd & Tolman (Union Manor)",
                 "jurisdic": "Portland",
                 "zipcode": "97202",
                 "frequent": "False"
@@ -2487,8 +2487,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.67899671680749,
-                    45.50363023050336
+                    -122.67910214665815,
+                    45.50363234597509
                 ]
             }
         },

@@ -522,29 +522,6 @@
                 "rte_desc": "92-South Beaverton Express",
                 "dir_desc": "To Murrayhill",
                 "type": "BUS",
-                "stop_seq": 175,
-                "stop_id": 12794,
-                "stop_name": "SW Columbia between 5th & 4th",
-                "jurisdic": "Portland",
-                "zipcode": "97201",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67963438938783,
-                    45.513954211827595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 92,
-                "dir": 0,
-                "rte_desc": "92-South Beaverton Express",
-                "dir_desc": "To Murrayhill",
-                "type": "BUS",
                 "stop_seq": 200,
                 "stop_id": 12795,
                 "stop_name": "SW Columbia & 1st",
@@ -741,6 +718,29 @@
                 "coordinates": [
                     -122.69321930207245,
                     45.47889611121873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 92,
+                "dir": 0,
+                "rte_desc": "92-South Beaverton Express",
+                "dir_desc": "To Murrayhill",
+                "type": "BUS",
+                "stop_seq": 175,
+                "stop_id": 12794,
+                "stop_name": "SW Columbia between 5th & 4th",
+                "jurisdic": "Portland",
+                "zipcode": "97201",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67963438938783,
+                    45.513954211827595
                 ]
             }
         }

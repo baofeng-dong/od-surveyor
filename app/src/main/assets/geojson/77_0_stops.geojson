@@ -1475,8 +1475,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.62060366166796,
-                    45.5332841561317
+                    -122.62058872420903,
+                    45.533289233071415
                 ]
             }
         },
@@ -1521,8 +1521,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.55857832858575,
-                    45.533447847248645
+                    -122.558542130958,
+                    45.53344540910074
                 ]
             }
         },
@@ -1812,7 +1812,7 @@
                 "type": "BUS",
                 "stop_seq": 6350,
                 "stop_id": 9470,
-                "stop_name": "NW 257th/Graham & 257th Way",
+                "stop_name": "NW Graham/257th & 257th Way",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -1835,7 +1835,7 @@
                 "type": "BUS",
                 "stop_seq": 6400,
                 "stop_id": 10758,
-                "stop_name": "NW 257th/Graham & North Frontage Rd",
+                "stop_name": "NW Graham/257th & North Frontage Rd",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -1904,7 +1904,7 @@
                 "type": "BUS",
                 "stop_seq": 6300,
                 "stop_id": 13532,
-                "stop_name": "NW 257th/Graham & W Columbia River Hwy",
+                "stop_name": "NW Graham/257th & W Columbia River Hwy",
                 "jurisdic": "Troutdale",
                 "zipcode": "97060",
                 "frequent": "False"
@@ -1914,29 +1914,6 @@
                 "coordinates": [
                     -122.39039809755543,
                     45.54123718777183
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 77,
-                "dir": 0,
-                "rte_desc": "77-Broadway/Halsey",
-                "dir_desc": "To Troutdale",
-                "type": "BUS",
-                "stop_seq": 1000,
-                "stop_id": 13708,
-                "stop_name": "NE Multnomah & 2nd",
-                "jurisdic": "Portland",
-                "zipcode": "97232",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.66319713483729,
-                    45.530824897835785
                 ]
             }
         },
@@ -2282,6 +2259,29 @@
                 "coordinates": [
                     -122.69462839146931,
                     45.52997040417767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 77,
+                "dir": 0,
+                "rte_desc": "77-Broadway/Halsey",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1000,
+                "stop_id": 9362,
+                "stop_name": "NE Multnomah & 3rd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66281687514879,
+                    45.53101666346624
                 ]
             }
         }

@@ -831,8 +831,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.69230792305461,
-                    45.55558867170379
+                    -122.69229484681387,
+                    45.55560401116685
                 ]
             }
         },
@@ -1107,8 +1107,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.69713453209688,
-                    45.58134914235054
+                    -122.69713646400778,
+                    45.58137379822709
                 ]
             }
         },
@@ -2075,6 +2075,29 @@
                 "coordinates": [
                     -122.72875963125276,
                     45.576353075733635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 35,
+                "dir": 1,
+                "rte_desc": "35-Macadam/Greeley",
+                "dir_desc": "To University of Portland",
+                "type": "BUS",
+                "stop_seq": 1550,
+                "stop_id": 3,
+                "stop_name": "A Ave & Second St",
+                "jurisdic": "Lake Oswego",
+                "zipcode": "97034",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66519744809426,
+                    45.41938848566768
                 ]
             }
         },

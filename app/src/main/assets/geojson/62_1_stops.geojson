@@ -141,8 +141,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.82596232421058,
-                    45.48564409378279
+                    -122.82593019669359,
+                    45.4863361921698
                 ]
             }
         },
@@ -732,7 +732,7 @@
                 "stop_seq": 2400,
                 "stop_id": 4085,
                 "stop_name": "NW Murray & Science Park Dr",
-                "jurisdic": "Washington Co.",
+                "jurisdic": "Beaverton",
                 "zipcode": "97229",
                 "frequent": "False"
             },

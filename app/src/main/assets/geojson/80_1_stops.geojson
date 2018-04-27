@@ -248,7 +248,7 @@
                 "type": "BUS",
                 "stop_seq": 1050,
                 "stop_id": 3106,
-                "stop_name": "Kane & 8th",
+                "stop_name": "NE Kane & 8th",
                 "jurisdic": "Gresham",
                 "zipcode": "97030",
                 "frequent": "False"
@@ -741,6 +741,121 @@
                 "coordinates": [
                     -122.38845015421616,
                     45.53968374407623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 1,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 700,
+                "stop_id": 5409,
+                "stop_name": "SE Stark & SW Corbeth Lane",
+                "jurisdic": "Troutdale",
+                "zipcode": "97060",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39233570150178,
+                    45.51909243444851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 1,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 750,
+                "stop_id": 13031,
+                "stop_name": "NE Kane & SE Stark",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39860935994048,
+                    45.51848599798966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 1,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 775,
+                "stop_id": 10878,
+                "stop_name": "NE Kane & 29th (MHCC)",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39860825002364,
+                    45.51593767494977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 1,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 800,
+                "stop_id": 3104,
+                "stop_name": "NE Kane & 23rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39991642753387,
+                    45.51272168610568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 1,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Gresham Transit Center",
+                "type": "BUS",
+                "stop_seq": 850,
+                "stop_id": 3099,
+                "stop_name": "NE Kane & 18th Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.40011933473926,
+                    45.51034236125939
                 ]
             }
         }

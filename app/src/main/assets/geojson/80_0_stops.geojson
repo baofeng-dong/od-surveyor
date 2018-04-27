@@ -720,6 +720,121 @@
                     45.49232087496754
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1100,
+                "stop_id": 3091,
+                "stop_name": "NE Kane & 18th Ct",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39981044755453,
+                    45.51015612665049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1150,
+                "stop_id": 3105,
+                "stop_name": "NE Kane & 23rd",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3993538975458,
+                    45.513224296685785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1200,
+                "stop_id": 10879,
+                "stop_name": "NE Kane & 29th, MHCC",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39829698942671,
+                    45.51602055581745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1350,
+                "stop_id": 5408,
+                "stop_name": "SE Stark & Mt Hood Comm College Entrance",
+                "jurisdic": "Troutdale",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.39238030957662,
+                    45.51893051083829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 80,
+                "dir": 0,
+                "rte_desc": "80-Kane/Troutdale Rd",
+                "dir_desc": "To Troutdale",
+                "type": "BUS",
+                "stop_seq": 1300,
+                "stop_id": 3094,
+                "stop_name": "NE Kane & SE Stark",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3982512236033,
+                    45.518791041749246
+                ]
+            }
         }
     ]
 }

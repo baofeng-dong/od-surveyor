@@ -593,7 +593,7 @@
                 "type": "BUS",
                 "stop_seq": 1350,
                 "stop_id": 9012,
-                "stop_name": "NW Cornell & 185th",
+                "stop_name": "NE Cornell & NW 185th",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97006",
                 "frequent": "False"
@@ -662,7 +662,7 @@
                 "type": "BUS",
                 "stop_seq": 1500,
                 "stop_id": 9014,
-                "stop_name": "NW Cornell & Stucki",
+                "stop_name": "NE Cornell & Stucki",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -685,7 +685,7 @@
                 "type": "BUS",
                 "stop_seq": 1550,
                 "stop_id": 10009,
-                "stop_name": "NW Cornell & Amberwood/194th",
+                "stop_name": "NW Cornell & NE Amberglen (NW 194th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -693,8 +693,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.88129530207931,
-                    45.53605545512641
+                    -122.88126763623157,
+                    45.53604745381447
                 ]
             }
         },
@@ -708,7 +708,7 @@
                 "type": "BUS",
                 "stop_seq": 1600,
                 "stop_id": 10010,
-                "stop_name": "NW Cornell & Amberbrook Dr",
+                "stop_name": "NW Cornell & NE Overlook (NW Amberbrook)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -731,7 +731,7 @@
                 "type": "BUS",
                 "stop_seq": 1650,
                 "stop_id": 10011,
-                "stop_name": "NW Cornell & John Olsen",
+                "stop_name": "NW Cornell & NE John Olsen",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -754,7 +754,7 @@
                 "type": "BUS",
                 "stop_seq": 1700,
                 "stop_id": 10013,
-                "stop_name": "NW Cornell & Aloclek",
+                "stop_name": "NW Cornell & NE Aloclek",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -1130,8 +1130,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.97867758586554,
-                    45.52008455594461
+                    -122.97865009363508,
+                    45.520080690117
                 ]
             }
         },

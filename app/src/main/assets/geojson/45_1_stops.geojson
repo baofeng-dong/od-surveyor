@@ -49,8 +49,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.79142893184913,
-                    45.430665576743074
+                    -122.79151220016018,
+                    45.43067694666523
                 ]
             }
         },
@@ -683,29 +683,6 @@
                 "rte_desc": "45-Garden Home",
                 "dir_desc": "To Portland City Center",
                 "type": "BUS",
-                "stop_seq": 800,
-                "stop_id": 6110,
-                "stop_name": "SW Walnut & 116th",
-                "jurisdic": "Tigard",
-                "zipcode": "97223",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.79685661640941,
-                    45.43016718348273
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 45,
-                "dir": 1,
-                "rte_desc": "45-Garden Home",
-                "dir_desc": "To Portland City Center",
-                "type": "BUS",
                 "stop_seq": 1300,
                 "stop_id": 5197,
                 "stop_name": "SW Scholls Ferry & Springwood",
@@ -764,29 +741,6 @@
                 "coordinates": [
                     -122.70348116558583,
                     45.47599572033402
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 45,
-                "dir": 1,
-                "rte_desc": "45-Garden Home",
-                "dir_desc": "To Portland City Center",
-                "type": "BUS",
-                "stop_seq": 1500,
-                "stop_id": 9653,
-                "stop_name": "Washington Square Transit Center",
-                "jurisdic": "Tigard",
-                "zipcode": "97223",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.7787916777249,
-                    45.4526032304752
                 ]
             }
         },
@@ -1199,8 +1153,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.7946110330788,
-                    45.430489346590576
+                    -122.79511009136229,
+                    45.430423113810235
                 ]
             }
         },
@@ -1222,8 +1176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.67762997014245,
-                    45.502166097086864
+                    -122.67761685690101,
+                    45.502103926814925
                 ]
             }
         },
@@ -1498,8 +1452,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.7877464129316,
-                    45.43073421321408
+                    -122.78788113592339,
+                    45.43074112976982
                 ]
             }
         },
@@ -1544,8 +1498,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.77216323225774,
-                    45.4301451375473
+                    -122.77215641939982,
+                    45.43012092101852
                 ]
             }
         },
@@ -1684,6 +1638,29 @@
                 "coordinates": [
                     -122.71125292495432,
                     45.47606673806154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 45,
+                "dir": 1,
+                "rte_desc": "45-Garden Home",
+                "dir_desc": "To Portland City Center",
+                "type": "BUS",
+                "stop_seq": 1500,
+                "stop_id": 9652,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77878469378803,
+                    45.45244546422761
                 ]
             }
         }

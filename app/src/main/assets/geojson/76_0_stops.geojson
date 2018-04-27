@@ -762,8 +762,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.74548978082996,
-                    45.375417029563344
+                    -122.7454549051051,
+                    45.375421142713556
                 ]
             }
         },
@@ -785,8 +785,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.74235323084812,
-                    45.37792185553183
+                    -122.74236206498506,
+                    45.377923740562785
                 ]
             }
         },
@@ -1084,8 +1084,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.75199332565495,
-                    45.39098420035397
+                    -122.75202083314343,
+                    45.39097817228547
                 ]
             }
         },
@@ -1132,29 +1132,6 @@
                 "coordinates": [
                     -122.74974106612468,
                     45.397159003402514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 76,
-                "dir": 0,
-                "rte_desc": "76-Beaverton/Tualatin",
-                "dir_desc": "To Tualatin",
-                "type": "BUS",
-                "stop_seq": 24,
-                "stop_id": 9653,
-                "stop_name": "Washington Square Transit Center",
-                "jurisdic": "Tigard",
-                "zipcode": "97223",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.7787916777249,
-                    45.4526032304752
                 ]
             }
         },
@@ -1454,6 +1431,29 @@
                 "coordinates": [
                     -122.77542407477806,
                     45.45134331042623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 76,
+                "dir": 0,
+                "rte_desc": "76-Beaverton/Tualatin",
+                "dir_desc": "To Tualatin",
+                "type": "BUS",
+                "stop_seq": 24,
+                "stop_id": 9652,
+                "stop_name": "Washington Square Transit Center",
+                "jurisdic": "Tigard",
+                "zipcode": "97223",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.77878469378803,
+                    45.45244546422761
                 ]
             }
         },

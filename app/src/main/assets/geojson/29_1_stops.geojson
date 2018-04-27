@@ -371,8 +371,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.63278077055051,
-                    45.4435596000722
+                    -122.63279760674816,
+                    45.44356683227522
                 ]
             }
         },
@@ -440,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.57926042722404,
-                    45.43593930435522
+                    -122.5792505908411,
+                    45.435936738975286
                 ]
             }
         },
@@ -463,8 +463,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.57944040802123,
-                    45.43222152765979
+                    -122.57943446645604,
+                    45.432218891706256
                 ]
             }
         },
@@ -961,7 +961,7 @@
                 "type": "BUS",
                 "stop_seq": 1900,
                 "stop_id": 13148,
-                "stop_name": "SE Lake & Vernie",
+                "stop_name": "SE Lake & Vernie/41st Ct",
                 "jurisdic": "Milwaukie",
                 "zipcode": "97222",
                 "frequent": "False"

@@ -1350,29 +1350,6 @@
                 "rte_desc": "88-Hart/198th",
                 "dir_desc": "To Beaverton Transit Center",
                 "type": "BUS",
-                "stop_seq": 2800,
-                "stop_id": 9983,
-                "stop_name": "Beaverton Transit Center",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.8014350233966,
-                    45.49124667141979
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 88,
-                "dir": 1,
-                "rte_desc": "88-Hart/198th",
-                "dir_desc": "To Beaverton Transit Center",
-                "type": "BUS",
                 "stop_seq": 300,
                 "stop_id": 13035,
                 "stop_name": "SW 197th & Brookfield",
@@ -1477,6 +1454,29 @@
                 "coordinates": [
                     -122.81924483126387,
                     45.476407035232334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 88,
+                "dir": 1,
+                "rte_desc": "88-Hart/198th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2800,
+                "stop_id": 9985,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80130815955222,
+                    45.49138983593991
                 ]
             }
         }

@@ -706,29 +706,6 @@
                 "rte_desc": "15-Belmont/NW 23rd",
                 "dir_desc": "To Gateway Transit Center",
                 "type": "BUS",
-                "stop_seq": 1600,
-                "stop_id": 10808,
-                "stop_name": "NW Thurman & 24th",
-                "jurisdic": "Portland",
-                "zipcode": "97210",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.70096360398676,
-                    45.535396480382786
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
                 "stop_seq": 1650,
                 "stop_id": 8986,
                 "stop_name": "NW 23rd & Thurman",
@@ -959,52 +936,6 @@
                 "rte_desc": "15-Belmont/NW 23rd",
                 "dir_desc": "To Gateway Transit Center",
                 "type": "BUS",
-                "stop_seq": 2150,
-                "stop_id": 6911,
-                "stop_name": "SW 18th & Morrison",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.69043311158511,
-                    45.52190147785308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
-                "stop_seq": 2200,
-                "stop_id": 5016,
-                "stop_name": "SW Salmon & 16th",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.68931176527754,
-                    45.51957774840242
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
                 "stop_seq": 2250,
                 "stop_id": 5014,
                 "stop_name": "SW Salmon & 14th",
@@ -1109,98 +1040,6 @@
                 "coordinates": [
                     -122.67885409884911,
                     45.5167936525074
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
-                "stop_seq": 2500,
-                "stop_id": 5017,
-                "stop_name": "SW Salmon & 1st",
-                "jurisdic": "Portland",
-                "zipcode": "97204",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.67498522576966,
-                    45.51575834882963
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
-                "stop_seq": 2550,
-                "stop_id": 2641,
-                "stop_name": "Hawthorne Bridge",
-                "jurisdic": "Portland",
-                "zipcode": "97214",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.6651117795379,
-                    45.51215700840745
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
-                "stop_seq": 2600,
-                "stop_id": 2170,
-                "stop_name": "SE Grand & Main",
-                "jurisdic": "Portland",
-                "zipcode": "97214",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.66065834684717,
-                    45.51341027616463
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 15,
-                "dir": 1,
-                "rte_desc": "15-Belmont/NW 23rd",
-                "dir_desc": "To Gateway Transit Center",
-                "type": "BUS",
-                "stop_seq": 2650,
-                "stop_id": 13796,
-                "stop_name": "Belmont & 6th",
-                "jurisdic": "Portland",
-                "zipcode": "97214",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.65942087994533,
-                    45.516445640989545
                 ]
             }
         },
@@ -1337,8 +1176,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.63923135797043,
-                    45.51638637450077
+                    -122.63924831356883,
+                    45.51637028285726
                 ]
             }
         },
@@ -2351,6 +2190,144 @@
                 "coordinates": [
                     -122.65434832485447,
                     45.51643248754432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 1,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2175,
+                "stop_id": 13918,
+                "stop_name": "SW Alder & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68987714496583,
+                    45.52278960455837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 1,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2500,
+                "stop_id": 7098,
+                "stop_name": "SW 2nd & Taylor",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67524026890418,
+                    45.51653398123919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 1,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2550,
+                "stop_id": 7095,
+                "stop_name": "SW 2nd & Alder",
+                "jurisdic": "Portland",
+                "zipcode": "97204",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.67413420974454,
+                    45.518531740381455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 1,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2600,
+                "stop_id": 4028,
+                "stop_name": "Morrison Bridge",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.6661339222621,
+                    45.51646507214547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 1,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 2650,
+                "stop_id": 13689,
+                "stop_name": "Morrison Bridge/Belmont & Grand",
+                "jurisdic": "Portland",
+                "zipcode": "97214",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66095556347894,
+                    45.51648311398283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 15,
+                "dir": 1,
+                "rte_desc": "15-Belmont/NW 23rd",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1600,
+                "stop_id": 5830,
+                "stop_name": "NW Thurman & 25th",
+                "jurisdic": "Portland",
+                "zipcode": "97210",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.70295299294852,
+                    45.53536579370016
                 ]
             }
         }

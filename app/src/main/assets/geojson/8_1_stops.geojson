@@ -95,8 +95,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.69121064731229,
-                    45.49700878840754
+                    -122.69122123780821,
+                    45.49701784635333
                 ]
             }
         },
@@ -118,8 +118,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.69114809785712,
-                    45.49903056515811
+                    -122.69114809058355,
+                    45.49897980681243
                 ]
             }
         },
@@ -394,8 +394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.68514079906792,
-                    45.498877205177884
+                    -122.68519597174104,
+                    45.49885351999815
                 ]
             }
         },
@@ -1097,29 +1097,6 @@
                 "rte_desc": "8-Jackson Park/NE 15th",
                 "dir_desc": "To Dekum & M L King Jr Blvd",
                 "type": "BUS",
-                "stop_seq": 1250,
-                "stop_id": 13708,
-                "stop_name": "NE Multnomah & 2nd",
-                "jurisdic": "Portland",
-                "zipcode": "97232",
-                "frequent": "True"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.66319713483729,
-                    45.530824897835785
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 8,
-                "dir": 1,
-                "rte_desc": "8-Jackson Park/NE 15th",
-                "dir_desc": "To Dekum & M L King Jr Blvd",
-                "type": "BUS",
                 "stop_seq": 2550,
                 "stop_id": 1275,
                 "stop_name": "NE Dekum & Claremont",
@@ -1217,7 +1194,7 @@
                 "stop_name": "NE Dekum & 6th",
                 "jurisdic": "Portland",
                 "zipcode": "97211",
-                "frequent": "False"
+                "frequent": "True"
             },
             "geometry": {
                 "type": "Point",
@@ -1240,13 +1217,36 @@
                 "stop_name": "NE Dekum & M L King",
                 "jurisdic": "Portland",
                 "zipcode": "97211",
-                "frequent": "False"
+                "frequent": "True"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -122.66085227327757,
                     45.571855976246816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 8,
+                "dir": 1,
+                "rte_desc": "8-Jackson Park/NE 15th",
+                "dir_desc": "To Dekum & M L King Jr Blvd",
+                "type": "BUS",
+                "stop_seq": 1250,
+                "stop_id": 9362,
+                "stop_name": "NE Multnomah & 3rd",
+                "jurisdic": "Portland",
+                "zipcode": "97232",
+                "frequent": "True"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.66281687514879,
+                    45.53101666346624
                 ]
             }
         }

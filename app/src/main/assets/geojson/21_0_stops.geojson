@@ -49,8 +49,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.42727791078663,
-                    45.50498360533699
+                    -122.42729753553743,
+                    45.50498704835327
                 ]
             }
         },
@@ -97,29 +97,6 @@
                 "coordinates": [
                     -122.43517819569269,
                     45.50508750669816
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 21,
-                "dir": 0,
-                "rte_desc": "21-Sandy Blvd/223rd",
-                "dir_desc": "To Parkrose/Sumner Transit Center",
-                "type": "BUS",
-                "stop_seq": 50,
-                "stop_id": 8198,
-                "stop_name": "Gresham Transit Center",
-                "jurisdic": "Gresham",
-                "zipcode": "97030",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.42683138006143,
-                    45.502669398367544
                 ]
             }
         },
@@ -465,52 +442,6 @@
                 "coordinates": [
                     -122.41996492354137,
                     45.54294413051197
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 21,
-                "dir": 0,
-                "rte_desc": "21-Sandy Blvd/223rd",
-                "dir_desc": "To Parkrose/Sumner Transit Center",
-                "type": "BUS",
-                "stop_seq": 1050,
-                "stop_id": 13478,
-                "stop_name": "23200 Block NE Sandy",
-                "jurisdic": "Fairview",
-                "zipcode": "97024",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.42349776308674,
-                    45.5430929342546
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 21,
-                "dir": 0,
-                "rte_desc": "21-Sandy Blvd/223rd",
-                "dir_desc": "To Parkrose/Sumner Transit Center",
-                "type": "BUS",
-                "stop_seq": 1100,
-                "stop_id": 13091,
-                "stop_name": "NE Sandy & 230th",
-                "jurisdic": "Fairview",
-                "zipcode": "97024",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.42588882349622,
-                    45.542962118991476
                 ]
             }
         },
@@ -1015,8 +946,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.52846004876922,
-                    45.555660484423626
+                    -122.52915266454417,
+                    45.55580875842105
                 ]
             }
         },
@@ -1178,6 +1109,29 @@
                 "coordinates": [
                     -122.56465166523431,
                     45.558621537552725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 21,
+                "dir": 0,
+                "rte_desc": "21-Sandy Blvd/223rd",
+                "dir_desc": "To Parkrose/Sumner Transit Center",
+                "type": "BUS",
+                "stop_seq": 50,
+                "stop_id": 2253,
+                "stop_name": "Gresham Transit Center",
+                "jurisdic": "Gresham",
+                "zipcode": "97030",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.42648582749146,
+                    45.50259420263245
                 ]
             }
         },

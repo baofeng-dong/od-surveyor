@@ -26,31 +26,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.81461227505488,
-                    45.487493580613965
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 52,
-                "dir": 0,
-                "rte_desc": "52-Farmington/185th",
-                "dir_desc": "To PCC Rock Creek",
-                "type": "BUS",
-                "stop_seq": 350,
-                "stop_id": 1655,
-                "stop_name": "SW Farmington & Menlo",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.81706907233078,
-                    45.4871541545823
+                    -122.81446382536375,
+                    45.48746433286855
                 ]
             }
         },
@@ -72,8 +49,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.82282665342052,
-                    45.48635573634393
+                    -122.82290154830896,
+                    45.48637480003463
                 ]
             }
         },
@@ -417,8 +394,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.86726503560955,
-                    45.53682440537269
+                    -122.86726750400153,
+                    45.53681337916286
                 ]
             }
         },
@@ -463,8 +440,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.86735823089506,
-                    45.54569971773101
+                    -122.86731520231089,
+                    45.54567453748293
                 ]
             }
         },
@@ -693,8 +670,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.82684881519278,
-                    45.48587893778666
+                    -122.82686041552574,
+                    45.48585263622659
                 ]
             }
         },
@@ -762,8 +739,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.86726952297973,
-                    45.53463421284343
+                    -122.86727061590862,
+                    45.534613611507396
                 ]
             }
         },
@@ -808,54 +785,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.85942626408942,
-                    45.566013935676864
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 52,
-                "dir": 0,
-                "rte_desc": "52-Farmington/185th",
-                "dir_desc": "To PCC Rock Creek",
-                "type": "BUS",
-                "stop_seq": 25,
-                "stop_id": 9985,
-                "stop_name": "Beaverton Transit Center",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.80130815955222,
-                    45.49138983593991
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 52,
-                "dir": 0,
-                "rte_desc": "52-Farmington/185th",
-                "dir_desc": "To PCC Rock Creek",
-                "type": "BUS",
-                "stop_seq": 400,
-                "stop_id": 1666,
-                "stop_name": "SW Farmington & 139th",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.81995191668092,
-                    45.48676581267217
+                    -122.85942075824195,
+                    45.5659989576942
                 ]
             }
         },
@@ -969,8 +900,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.86727721952573,
-                    45.481257049204636
+                    -122.86727113663967,
+                    45.48150892596991
                 ]
             }
         },
@@ -1224,6 +1155,52 @@
                 "coordinates": [
                     -122.85989567275747,
                     45.47879222487513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 52,
+                "dir": 0,
+                "rte_desc": "52-Farmington/185th",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 25,
+                "stop_id": 9986,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80116511610171,
+                    45.491542982828136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 52,
+                "dir": 0,
+                "rte_desc": "52-Farmington/185th",
+                "dir_desc": "To PCC Rock Creek",
+                "type": "BUS",
+                "stop_seq": 375,
+                "stop_id": 13916,
+                "stop_name": "SW Farmington & Rose Ln",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81820407007666,
+                    45.487006883164234
                 ]
             }
         }

@@ -697,6 +697,29 @@
                     45.54062965695352
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 23,
+                "dir": 1,
+                "rte_desc": "23-San Rafael",
+                "dir_desc": "To Gateway Transit Center",
+                "type": "BUS",
+                "stop_seq": 1850,
+                "stop_id": 10862,
+                "stop_name": "Gateway Transit Center",
+                "jurisdic": "Portland",
+                "zipcode": "97220",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.56332385200176,
+                    45.530486354012396
+                ]
+            }
         }
     ]
 }

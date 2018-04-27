@@ -16,7 +16,7 @@
                 "rte_desc": "18-Hillside",
                 "dir_desc": "To Hillside and Providence Park",
                 "type": "BUS",
-                "stop_seq": 18,
+                "stop_seq": 50,
                 "stop_id": 9122,
                 "stop_name": "SW 18th & Morrison",
                 "jurisdic": "Portland",
@@ -499,29 +499,6 @@
                 "rte_desc": "18-Hillside",
                 "dir_desc": "To Hillside and Providence Park",
                 "type": "BUS",
-                "stop_seq": 1400,
-                "stop_id": 6911,
-                "stop_name": "SW 18th & Morrison",
-                "jurisdic": "Portland",
-                "zipcode": "97205",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.69043311158511,
-                    45.52190147785308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 18,
-                "dir": 0,
-                "rte_desc": "18-Hillside",
-                "dir_desc": "To Hillside and Providence Park",
-                "type": "BUS",
                 "stop_seq": 950,
                 "stop_id": 9135,
                 "stop_name": "NW Macleay & Hermosa",
@@ -603,6 +580,52 @@
                 "coordinates": [
                     -122.70989632451872,
                     45.5235581801761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 18,
+                "dir": 0,
+                "rte_desc": "18-Hillside",
+                "dir_desc": "To Hillside and Providence Park",
+                "type": "BUS",
+                "stop_seq": 1400,
+                "stop_id": 13918,
+                "stop_name": "SW Alder & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97209",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.68987714496583,
+                    45.52278960455837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 18,
+                "dir": 0,
+                "rte_desc": "18-Hillside",
+                "dir_desc": "To Hillside and Providence Park",
+                "type": "BUS",
+                "stop_seq": 1450,
+                "stop_id": 9552,
+                "stop_name": "SW Salmon & 18th",
+                "jurisdic": "Portland",
+                "zipcode": "97205",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.69108488311163,
+                    45.520005377345676
                 ]
             }
         }

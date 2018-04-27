@@ -456,7 +456,7 @@
                 "stop_seq": 4900,
                 "stop_id": 5642,
                 "stop_name": "SW Tualatin Valley Hwy & 214th",
-                "jurisdic": "Washington Co.",
+                "jurisdic": "Hillsboro",
                 "zipcode": "97078",
                 "frequent": "True"
             },
@@ -532,8 +532,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.86672105908336,
-                    45.49398869112535
+                    -122.86671172458456,
+                    45.49392851827187
                 ]
             }
         },
@@ -985,7 +985,7 @@
                 "stop_seq": 5000,
                 "stop_id": 5637,
                 "stop_name": "SW Tualatin Valley Hwy & 209th",
-                "jurisdic": "Washington Co.",
+                "jurisdic": "Hillsboro",
                 "zipcode": "97078",
                 "frequent": "True"
             },
@@ -1038,8 +1038,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.86078228156455,
-                    45.49305738788326
+                    -122.86072645033255,
+                    45.493051675943185
                 ]
             }
         },
@@ -1337,8 +1337,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.9023803325383,
-                    45.497382588573196
+                    -122.90088892439115,
+                    45.49724434032555
                 ]
             }
         },
@@ -1444,7 +1444,7 @@
                 "type": "BUS",
                 "stop_seq": 4600,
                 "stop_id": 5651,
-                "stop_name": "SE Tualatin Valley Hwy & SW 229th",
+                "stop_name": "SE Tualatin Valley Hwy & 67th (229th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97123",
                 "frequent": "True"
@@ -1452,8 +1452,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.91246383428515,
-                    45.49842192048092
+                    -122.9123648494187,
+                    45.498410966080314
                 ]
             }
         },

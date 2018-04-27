@@ -49,8 +49,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.85942626408942,
-                    45.566013935676864
+                    -122.85942075824195,
+                    45.5659989576942
                 ]
             }
         },
@@ -72,8 +72,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.85956114741148,
-                    45.563190145336826
+                    -122.8595366265611,
+                    45.56318756173739
                 ]
             }
         },
@@ -463,31 +463,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.82218340747818,
-                    45.4862785475485
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 52,
-                "dir": 1,
-                "rte_desc": "52-Farmington/185th",
-                "dir_desc": "To Beaverton Transit Center",
-                "type": "BUS",
-                "stop_seq": 2900,
-                "stop_id": 1656,
-                "stop_name": "SW Farmington & Menlo",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.81644503742714,
-                    45.487049865600106
+                    -122.8217622842399,
+                    45.48633027879093
                 ]
             }
         },
@@ -511,29 +488,6 @@
                 "coordinates": [
                     -122.8115131732592,
                     45.48734015749021
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 52,
-                "dir": 1,
-                "rte_desc": "52-Farmington/185th",
-                "dir_desc": "To Beaverton Transit Center",
-                "type": "BUS",
-                "stop_seq": 3200,
-                "stop_id": 9985,
-                "stop_name": "Beaverton Transit Center",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.80130815955222,
-                    45.49138983593991
                 ]
             }
         },
@@ -616,7 +570,7 @@
                 "type": "BUS",
                 "stop_seq": 700,
                 "stop_id": 7025,
-                "stop_name": "NW 185th & Walker",
+                "stop_name": "NW 185th & NE Walker",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97006",
                 "frequent": "False"
@@ -1038,31 +992,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.82642951005847,
-                    45.48565186613308
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "rte": 52,
-                "dir": 1,
-                "rte_desc": "52-Farmington/185th",
-                "dir_desc": "To Beaverton Transit Center",
-                "type": "BUS",
-                "stop_seq": 2850,
-                "stop_id": 1667,
-                "stop_name": "SW Farmington & 139th",
-                "jurisdic": "Beaverton",
-                "zipcode": "97005",
-                "frequent": "False"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -122.8203761070117,
-                    45.4865299184898
+                    -122.82644204464381,
+                    45.48567219097369
                 ]
             }
         },
@@ -1084,8 +1015,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -122.81423414555942,
-                    45.48732495646599
+                    -122.81421398717006,
+                    45.4873088997719
                 ]
             }
         },
@@ -1316,6 +1247,52 @@
                 "coordinates": [
                     -122.86767756994192,
                     45.543513667552844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 52,
+                "dir": 1,
+                "rte_desc": "52-Farmington/185th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 3200,
+                "stop_id": 9986,
+                "stop_name": "Beaverton Transit Center",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.80116511610171,
+                    45.491542982828136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "rte": 52,
+                "dir": 1,
+                "rte_desc": "52-Farmington/185th",
+                "dir_desc": "To Beaverton Transit Center",
+                "type": "BUS",
+                "stop_seq": 2875,
+                "stop_id": 13917,
+                "stop_name": "SW Farmington & Rose Ln",
+                "jurisdic": "Beaverton",
+                "zipcode": "97005",
+                "frequent": "False"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.81851230138105,
+                    45.48676949216113
                 ]
             }
         }

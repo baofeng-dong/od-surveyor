@@ -409,7 +409,7 @@
                 "type": "BUS",
                 "stop_seq": 1000,
                 "stop_id": 10029,
-                "stop_name": "NW Cornell & Cornelius Pass",
+                "stop_name": "NW Cornell & NE Cornelius Pass",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -432,7 +432,7 @@
                 "type": "BUS",
                 "stop_seq": 1050,
                 "stop_id": 10025,
-                "stop_name": "NW Cornell & Aloclek",
+                "stop_name": "NW Cornell & NE Aloclek",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -455,7 +455,7 @@
                 "type": "BUS",
                 "stop_seq": 1100,
                 "stop_id": 10023,
-                "stop_name": "NW Cornell & 206th",
+                "stop_name": "NW Cornell & NE John Olsen (NW 206th)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97124",
                 "frequent": "False"
@@ -478,7 +478,7 @@
                 "type": "BUS",
                 "stop_seq": 1150,
                 "stop_id": 10022,
-                "stop_name": "NW Cornell & Amberbrook Dr",
+                "stop_name": "NW Cornell & NE Overlook (NW Amberbrook)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97006",
                 "frequent": "False"
@@ -501,7 +501,7 @@
                 "type": "BUS",
                 "stop_seq": 1200,
                 "stop_id": 10021,
-                "stop_name": "NW Cornell & Amberwood Dr",
+                "stop_name": "NW Cornell & NE Amberglen (NW Amberwood)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97006",
                 "frequent": "False"
@@ -524,7 +524,7 @@
                 "type": "BUS",
                 "stop_seq": 1250,
                 "stop_id": 10032,
-                "stop_name": "NW Cornell & Stucki/Amberglen",
+                "stop_name": "NE Cornell & Stucki (NW Amberglen)",
                 "jurisdic": "Hillsboro",
                 "zipcode": "97006",
                 "frequent": "False"
