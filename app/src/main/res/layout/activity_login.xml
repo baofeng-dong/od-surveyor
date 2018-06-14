@@ -28,7 +28,7 @@
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="40dp"
             android:layout_marginBottom="50dp"
-            android:src="@drawable/ic_transit"
+            android:src="@drawable/train_icon"
             android:adjustViewBounds="true"
             android:scaleType="fitCenter"
             android:layout_weight="0.19"
