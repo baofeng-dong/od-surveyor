@@ -1,18 +1,11 @@
 package com.meyersj.mobilesurveyor.app.stops;
 
-import com.mapbox.mapboxsdk.overlay.PathOverlay;
-import com.meyersj.mobilesurveyor.app.util.Cons;
-import com.meyersj.mobilesurveyor.app.util.PathUtils;
-import com.meyersj.mobilesurveyor.app.util.Utils;
-import com.meyersj.mobilesurveyor.app.R;
-
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Paint;
 import android.graphics.drawable.Drawable;
-import android.media.ToneGenerator;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Environment;
@@ -38,10 +31,15 @@ import com.mapbox.mapboxsdk.geometry.BoundingBox;
 import com.mapbox.mapboxsdk.geometry.LatLng;
 import com.mapbox.mapboxsdk.overlay.ItemizedIconOverlay;
 import com.mapbox.mapboxsdk.overlay.Marker;
+import com.mapbox.mapboxsdk.overlay.PathOverlay;
 import com.mapbox.mapboxsdk.tileprovider.tilesource.ITileLayer;
 import com.mapbox.mapboxsdk.tileprovider.tilesource.MBTilesLayer;
 import com.mapbox.mapboxsdk.tileprovider.tilesource.WebSourceTileLayer;
 import com.mapbox.mapboxsdk.views.MapView;
+import com.meyersj.mobilesurveyor.app.R;
+import com.meyersj.mobilesurveyor.app.util.Cons;
+import com.meyersj.mobilesurveyor.app.util.PathUtils;
+import com.meyersj.mobilesurveyor.app.util.Utils;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -573,16 +571,19 @@ public class OnOffMapActivity extends ActionBarActivity {
             Log.d(TAG, "response code: " + response);
             //create small popup message using Toast
             Context context = getApplicationContext();
-            CharSequence text = "Insert Successful!";
+            CharSequence message;
+            CharSequence successtext = "Insert Successful!";
             CharSequence errorText = "Insert unsuccessful!";
             int duration = Toast.LENGTH_SHORT;
-            // success if response code equals 200, else shows error
-            if(response.contentEquals("200")){
-                Toast toast = Toast.makeText(context, text, duration);
-                toast.show();
+            // show success text if response code equals 200, else shows error text
+            if(response.contentEquals("200")) {
+                message = successtext;
             } else {
-                Toast toast = Toast.makeText(context, errorText, duration);
+                message = errorText;
             }
+            //create and show toast message
+            Toast toast = Toast.makeText(context, message, duration);
+            toast.show();
 
         }
     }
