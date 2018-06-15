@@ -30,6 +30,9 @@ local.properties
 build/
 keys/
 
+#log files
+*.log
+
 
 newrelic.properties
 config.properties
